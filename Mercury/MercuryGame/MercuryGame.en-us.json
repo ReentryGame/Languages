@@ -1,0 +1,22 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "COMMANDERS SEAT"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "LEFT PANELS"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "RIGHT PANELS"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "UPPER PANELS"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "WINDOW"
+  }
+]

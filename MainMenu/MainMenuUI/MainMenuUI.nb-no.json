@@ -1,0 +1,698 @@
+[
+  {
+    "Identifier": "ContextMenu_MainMenu",
+    "Text": "MENY"
+  },
+  {
+    "Identifier": "ContextMenu_Academy",
+    "Text": "UNIVERSITET"
+  },
+  {
+    "Identifier": "ContextMenu_MissionControl",
+    "Text": "MISSION CONTROL"
+  },
+  {
+    "Identifier": "ContextMenu_Profile",
+    "Text": "PROFIL"
+  },
+  {
+    "Identifier": "ContextMenu_LoadState",
+    "Text": "HENTE"
+  },
+  {
+    "Identifier": "ContextMenu_Settings",
+    "Text": "INNSTILLINGER"
+  },
+  {
+    "Identifier": "ContextMenu_Missions",
+    "Text": "OPPDRAG"
+  },
+  {
+    "Identifier": "ContextMenu_Campaigns",
+    "Text": "KAMPANJER"
+  },
+  {
+    "Identifier": "ContextMenu_Mercury",
+    "Text": "PROSJEKT MERCURY"
+  },
+  {
+    "Identifier": "ContextMenu_Gemini",
+    "Text": "PROSJEKT GEMINI"
+  },
+  {
+    "Identifier": "ContextMenu_Apollo",
+    "Text": "PROSJEKT APOLLO"
+  },
+  {
+    "Identifier": "ContextMenu_Credits",
+    "Text": "LAGET AV"
+  },
+  {
+    "Identifier": "ContextMenu_WorkshopMission",
+    "Text": "VERKSTEDS OPPDRAG"
+  },
+  {
+    "Identifier": "MainMenuItem_Academy",
+    "Text": "SKOLE"
+  },
+  {
+    "Identifier": "MainMenuItem_Missions",
+    "Text": "OPPDRAG"
+  },
+  {
+    "Identifier": "MainMenuItem_Campaigns",
+    "Text": "KAMPANJER"
+  },
+  {
+    "Identifier": "MainMenuItem_LoadState",
+    "Text": "HENTE SPILL"
+  },
+  {
+    "Identifier": "MainMenuItem_MissionControl",
+    "Text": "MISSION CONTROL"
+  },
+  {
+    "Identifier": "MainMenuItem_Profile",
+    "Text": "PROFIL"
+  },
+  {
+    "Identifier": "MainMenuItem_Settings",
+    "Text": "INNSTILLINGER"
+  },
+  {
+    "Identifier": "MainMenuItem_Credits",
+    "Text": "LAGET AV"
+  },
+  {
+    "Identifier": "MainMenuItem_Workshop",
+    "Text": "VERKSTED"
+  },
+  {
+    "Identifier": "MainMenuItem_DevJournal",
+    "Text": "NYHETER"
+  },
+  {
+    "Identifier": "MainMenuItem_UpdateNotes",
+    "Text": "ENDRINGSLOGG"
+  },
+  {
+    "Identifier": "MainMenuItem_Exit",
+    "Text": "AVSLUTT"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonManuals",
+    "Text": "MANUALER (WWW)"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonBasicTheory",
+    "Text": "BASISKUNNSKAPER"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonMercuryTutorials",
+    "Text": "MERCURY KAPSELEN"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonGeminiTutorials",
+    "Text": "GEMINI KAPSELEN"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonApolloTutorials",
+    "Text": "APOLLO KOMMANDOMODULEN"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonLunarModuleTutorials",
+    "Text": "APOLLO MÅNELANDEREN"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonDiscord",
+    "Text": "FINN OSS PÅ DISCORD"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonMercury",
+    "Text": "PROSJEKT MERCURY"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonGemini",
+    "Text": "PROSJEKT GEMINI"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonApollo",
+    "Text": "PROSJEKT APOLLO"
+  },
+  {
+    "Identifier": "MissionsMenu_FreePlay",
+    "Text": "OPPDRAGSLØST"
+  },
+  {
+    "Identifier": "MissionsMenu_Scenarios",
+    "Text": "SCENARIOER"
+  },
+  {
+    "Identifier": "MissionsMenu_Historic",
+    "Text": "HISTORISKE OPPDRAG"
+  },
+  {
+    "Identifier": "MissionsMenu_MissionControlLive",
+    "Text": "MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "MissionsMenu_Custom",
+    "Text": "SELVLAGDE OPPDRAG"
+  },
+  {
+    "Identifier": "MissionsMenu_Create",
+    "Text": "LAG ET NYTT OPPDRAG"
+  },
+  {
+    "Identifier": "ProgramInfo_Mercury",
+    "Text": "Prosjekt Mercury var det første amerikanske romfratsprogrammet. Det hadde som mål å trygt sende et menneske i bane rundt jorden."
+  },
+  {
+    "Identifier": "ProgramInfo_Gemini",
+    "Text": "Prosjekt Gemini det andre amerikanske romfartsprogrammet. Det fortsatte der Mercury slapp og ble ofte referert som Broen til Månen."
+  },
+  {
+    "Identifier": "ProgramInfo_Apollo",
+    "Text": "Prosjekt Apollo er programmet som landet mennesker på månen."
+  },
+  {
+    "Identifier": "ProgramInfo_MCC",
+    "Text": "Mercury Control Center Live er en flerspiller modul der flere kontrollører kan støtte et Mercury-oppdrag."
+  },
+  {
+    "Identifier": "ProgramInfo_MOCR",
+    "Text": "Mission Operations Control Center Live  er en flerspiller modul der flere kontrollører kan støtte et Apollo-oppdrag."
+  },
+  {
+    "Identifier": "Profile_PlayerName",
+    "Text": "KALLENAVN"
+  },
+  {
+    "Identifier": "Profile_CapsuleName",
+    "Text": "NAVN PÅ ROMSKIP"
+  },
+  {
+    "Identifier": "Profile_CharacterEditor",
+    "Text": "TILPASS KARAKTER"
+  },
+  {
+    "Identifier": "Profile_FlightTime",
+    "Text": "FLYTID"
+  },
+  {
+    "Identifier": "GeneralBackButton",
+    "Text": "TILBAKE"
+  },
+  {
+    "Identifier": "Settings_Effects",
+    "Text": "EFFEKTER"
+  },
+  {
+    "Identifier": "Settings_Language",
+    "Text": "SPRÅK"
+  },
+  {
+    "Identifier": "Settings_RealismSettings",
+    "Text": "REALISME"
+  },
+  {
+    "Identifier": "Settings_Checklists",
+    "Text": "SJEKKLISTER"
+  },
+  {
+    "Identifier": "Settings_ChecklistsDesc",
+    "Text": "ADVARSEL: Dette vil tilbakestille alle innebygde sjekklister til fabrikk-innstillinger. Ta en sikkerhetskopi hvis du har endret de innebygde sjekklistene.\nDine egene sjekklister vil ikke bli påvirket."
+  },
+  {
+    "Identifier": "Settings_ResetDefaultChecklists",
+    "Text": "OPPDATER INNEBYGDE SJEKKLISTER"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoChecklistReset",
+    "Text": "Automatisk oppdatering av sjekklister."
+  },
+  {
+    "Identifier": "Settings_PanelStates",
+    "Text": "PANEL FILER"
+  },
+  {
+    "Identifier": "Settings_PanelStatesDesc",
+    "Text": "ADVARSEL: Dette vil tilbakestille alle standard panel-filer til fabrikk innstillinger. Ta en sikkerhetskopi hvis du har endret de innebygde panel-filene.\nDine egene panelfiler vil ikke bli påvirket."
+  },
+  {
+    "Identifier": "Settings_PanelStatesReset",
+    "Text": "TILBAKESTILL STANDARD PANELER"
+  },
+  {
+    "Identifier": "Settings_InputControls",
+    "Text": "KONTROLL (keyboard, mus, joystick)"
+  },
+  {
+    "Identifier": "Settings_EarthTextures",
+    "Text": "KVALITET PÅ JORDEN"
+  },
+  {
+    "Identifier": "Settings_Audio",
+    "Text": "LYD"
+  },
+  {
+    "Identifier": "Settings_AudioMusic",
+    "Text": "Musikk"
+  },
+  {
+    "Identifier": "Settings_AudioSFX",
+    "Text": "SFX"
+  },
+  {
+    "Identifier": "Settings_AudioCabinNoise",
+    "Text": "Kabin støy"
+  },
+  {
+    "Identifier": "Settings_TrackIR",
+    "Text": "TRACKIR"
+  },
+  {
+    "Identifier": "Settings_ToggleTrackIR",
+    "Text": "Bruk NaturalPoint TrackIR"
+  },
+  {
+    "Identifier": "Settings_VirtualReality",
+    "Text": "VIRTUAL REALITY (eksperimentell)"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityDesc",
+    "Text": "Dette er begynnelsen på VR støtte i Reentry. Den fungerer i Mercury og Gemini oppdrag."
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVirtualReality",
+    "Text": "Skru på VR (Mercury/Gemini)"
+  },
+  {
+    "Identifier": "Settings_Data",
+    "Text": "DATA"
+  },
+  {
+    "Identifier": "Settings_DataDesc",
+    "Text": "ADVARSEL: Dette vil slette brukerdata som innstillinger, progresjon, flytid osv. Det vil være umulig å gjennopprette dette."
+  },
+  {
+    "Identifier": "Settings_ClearData",
+    "Text": "SLETT ALL DATA"
+  },
+  {
+    "Identifier": "Settings_OutputLive",
+    "Text": "LIVE FEED"
+  },
+  {
+    "Identifier": "Settings_OutputLiveDesc",
+    "Text": "Eksporterer OBC, AGC og LGC panel data i sanntid til dedikserte filer i Export-mappen (AppData mappen til Reentry). Dette kan brukes til å vise data på eksterne enheter (som f.eks. IoT)."
+  },
+  {
+    "Identifier": "Settings_ToggleOutputLive",
+    "Text": "Skru på Live Feed"
+  },
+  {
+    "Identifier": "Settings_Configure",
+    "Text": "KONFIGURER"
+  },
+  {
+    "Identifier": "MissionControlLive_MCC",
+    "Text": "MERCURY CONTROL CENTER"
+  },
+  {
+    "Identifier": "MissionControlLive_MOCR",
+    "Text": "APOLLO MISSION CONTROL"
+  },
+  {
+    "Identifier": "MissionControlLive_LFG",
+    "Text": "FINN SPILLERE VIA DISCORD"
+  },
+  {
+    "Identifier": "GraphicsSettings_Title",
+    "Text": "GRAFIKK"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityTitle",
+    "Text": "Kvalitet på refleksjoner"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityDesc",
+    "Text": "Refleksjonsprober er brukt til å kalkulere og tegne refleksjoner. Disse syns på flater, i cockpit og andre steder. Disse krever endel for å tegne.\nDisse er også brukt til å skape gjennskinn i vinduer."
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityInfo",
+    "Text": "OFF: Alle prober vil være skrudd av\nLOW: Kritiske prober oppdateres over fjorten frames med oppløsning: 256\nMEDIUM: Kritiske prober blir oppdatert over ni frames, maks oppløsning: 512\nHIGH: Kritiske prober blir oppdatert hver frame.\nULTIMATE: Alle prober oppdateres hver frame."
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingTitle",
+    "Text": "Etterbehandling"
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingDesc",
+    "Text": "Etterbehandling brukes til å skape en bedre visuell opplevelse. Disse krever endel tegnetid, så om du ser etter bedre ytelse, skru dem av."
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAOTitle",
+    "Text": "Screen Space Ambient Occlusion Pro"
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAODesc",
+    "Text": "Gjør skygger i små sprekker og rom tydligere."
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareTitle",
+    "Text": "Gjennskinn på vinduer i cockpit"
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareDesc",
+    "Text": "Denne tegner gjennskinn i vinduer. \n"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelTitle",
+    "Text": "Vis astronaut modeller"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelDesc",
+    "Text": "Viser 3D modeller av astronauter ombord."
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksTitle",
+    "Text": "Vis månesteiner"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksDesc",
+    "Text": "Viser månesteiner under månelanding."
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesTitle",
+    "Text": "LRV hjul skaper støv"
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesDesc",
+    "Text": "Skaper støv fra hjul da du kjører rundt på månen i LRV."
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorTitle",
+    "Text": "Command Module Interiør"
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorDesc",
+    "Text": "Bedre interiør."
+  },
+  {
+    "Identifier": "RealismSettings_Title",
+    "Text": "REALISME & HJELP"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterTitle",
+    "Text": "nb-no: Switch Hover Highlighter"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterDesc",
+    "Text": "nb-no: Enabeling this will draw a cube around the instrument or switch your mouse cursor is hovering."
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorTitle",
+    "Text": "nb-no: Offscreen Switch Indicator"
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorDesc",
+    "Text": "nb-no: Enabeling this will draw an indicator in the direction of a highlighted switch, if this switch is located outside the player view."
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistTitle",
+    "Text": "nb-no: Auto Proceed Checklist"
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistDesc",
+    "Text": "nb-no: If you use the RUN feature in checklists, the guide will automatically proceed until you reach a step that requires your attention. If this is disabled, you need to press PRO to move to the next step."
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingTitle",
+    "Text": "nb-no: Simplified Rendezvous"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingDesc",
+    "Text": "nb-no: Enabeling this will make docking or near docking maneuvering simpler, such as when docking with Agena, or flying in closer proximity with a target vehicle."
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeTitle",
+    "Text": "nb-no: Reduce Apollo Launch Camera Shake"
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeDesc",
+    "Text": "nb-no: Enabeling this will reduce the amount shaking on the camera during an Apollo Saturn V ascent (SIC and SII)."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleTitle",
+    "Text": "nb-no: Render Lunar Landing point flag"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleDesc",
+    "Text": "nb-no: Enabling this will render a flag pole at the selected landing site when transitioned into the lunar landing area."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionTitle",
+    "Text": "nb-no: Automatically face the Lunar Landing Site"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionDesc",
+    "Text": "nb-no: Enabling this will automatically orient the Lunar Module to face the direction of the landing site when transitioned into the lunar landing area."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresTitle",
+    "Text": "nb-no: Random Failures: Mercury"
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
+    "Text": "nb-no: This will enable random failures in missions that allows for this (Free Play or custom missions). The random failures system will roll a dice once every 2 - 5 minutes (cycle), where a random failure have a chance of happening. Below you can configure the chance a random failure can happen for each cycle, and what failures you wish to exclude from the list. Please note you can manually trigger a failure in-game using the failure console command."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresPercentage",
+    "Text": "nb-no: % change of a failure to happen on each cycle."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresToggleFailures",
+    "Text": "nb-no: TOGGLE FAILURES"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresTitle",
+    "Text": "nb-no: Random Failures: Gemini"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresDesc",
+    "Text": "nb-no: This will enable random failures in missions that allows for this (Free Play or custom missions). The random failures system will roll a dice once every 2 - 5 minutes (cycle), where a random failure have a chance of happening. Below you can configure the chance a random failure can happen for each cycle, and what failures you wish to exclude from the list. Please note you can manually trigger a failure in-game using the failure console command."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresPercentage",
+    "Text": "nb-no: % change of a failure to happen on each cycle."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresToggleFailures",
+    "Text": "nb-no: TOGGLE FAILURES"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresTitle",
+    "Text": "nb-no: Random Failures: Apollo"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresDesc",
+    "Text": "nb-no: This will enable random failures in missions that allows for this (Free Play or custom missions). The random failures system will roll a dice once every 2 - 5 minutes (cycle), where a random failure have a chance of happening. Below you can configure the chance a random failure can happen for each cycle, and what failures you wish to exclude from the list. Please note you can manually trigger a failure in-game using the failure console command."
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresPercentage",
+    "Text": "nb-no: % change of a failure to happen on each cycle."
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresToggleFailures",
+    "Text": "nb-no: TOGGLE FAILURES"
+  },
+  {
+    "Identifier": "MainMenuButton_Launch",
+    "Text": "START"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson1",
+    "Text": "LEKSJON 1 - PRE-LAUNCH"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson2",
+    "Text": "LEKSJON 2 - LAUNCH & ASCENT"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson3",
+    "Text": "LEKSJON 3 - CHECKLISTS & ATLAS"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson4",
+    "Text": "LEKSJON 4 - ELECTRICITY"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson5",
+    "Text": "LEKSJON 5 - ATTITUDE CONTROL"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson6",
+    "Text": "LEKSJON 6 - STAYING ALIVE"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson7",
+    "Text": "LEKSJON 7 - SEQUENCER"
+  },
+  {
+    "Identifier": "Academy_Mercury_Exam",
+    "Text": "EKSAMEN - FULL MISSION"
+  },
+  {
+    "Identifier": "Academy_Mercury_VR",
+    "Text": "VIRTUAL REALITY"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson1",
+    "Text": "LEKSJON 1 - PRE-LAUNCH"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson2",
+    "Text": "LEKSJON 2 - ASCENT"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson3",
+    "Text": "LEKSJON 3 - ELECTRICITY!"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson4",
+    "Text": "LEKSJON 4 - NAVIGATION!"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson5",
+    "Text": "LEKSJON 5 - THE COMPUTER"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson6",
+    "Text": "LEKSJON 6 - LIFE SUPPORT"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson7",
+    "Text": "LEKSJON 7 - SEQUENCER"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson8",
+    "Text": "LEKSJON 8 - DEORBIT & ENTRY"
+  },
+  {
+    "Identifier": "Academy_Gemini_Exam",
+    "Text": "EKSAMEN - FULL MISSION"
+  },
+  {
+    "Identifier": "Academy_CSM_TheBasics",
+    "Text": "KOM I GANG"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson1",
+    "Text": "LEKSJON 1 - PRE-LAUNCH"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson2",
+    "Text": "LEKSJON 2 - BOOST"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson3",
+    "Text": "LEKSJON 3 - ELECTRICITY"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson4",
+    "Text": "LEKSJON 4 - RCS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson5",
+    "Text": "LEKSJON 5 - COMPUTER"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson6",
+    "Text": "LEKSJON 6 - SERVICE PROPULSION"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson7",
+    "Text": "LEKSJON 7 - AGC & AUTOMANEUVERING"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson8",
+    "Text": "LEKSJON 8 - SPS BURN PLANNING"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9",
+    "Text": "LEKSJON 9 - ATMOSPHERIC ENTRY"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson10",
+    "Text": "LEKSJON 10 - TRNSP. & DOCKING"
+  },
+  {
+    "Identifier": "Academy_CSM_Exam",
+    "Text": "EKSAMEN: FULL EARTH MISSION"
+  },
+  {
+    "Identifier": "Academy_CSM_AdvancedTopics",
+    "Text": "AVANSERT"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson11",
+    "Text": "LEKSJON 11 - TRANS-LUNAR INJECTION"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson12",
+    "Text": "LEKSJON 12 - OPTICS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson13",
+    "Text": "LEKSJON 13 - TRANS-EARTH INJECTION"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson1",
+    "Text": "LEKSJON 1 - INGRESS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson2",
+    "Text": "LEKSJON 2 - ACTIVATION"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson3",
+    "Text": "LEKSJON 3 - ELECTRICITY"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson4",
+    "Text": "LEKSJON 4 - REACTION CONTROL"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson5",
+    "Text": "LEKSJON 5 - GUIDANCE COMPUTER"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson6",
+    "Text": "LEKSJON 6 - FLIGHT MODES"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson7",
+    "Text": "LEKSJON 7 - THE DESCENT ENGINE"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson8",
+    "Text": "LEKSJON 8 - RADARS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson9",
+    "Text": "LEKSJON 9 - UNDOCK"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson10",
+    "Text": "LEKSJON 10 - DESCENT"
+  },
+  {
+    "Identifier": "Academy_LM_Exam",
+    "Text": "EKSAMEN: LUNAR LANDING"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson11",
+    "Text": "LEKSJON 11 - ASCENT & DOCKING"
+  }
+]

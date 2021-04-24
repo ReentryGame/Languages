@@ -1,0 +1,78 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ROGER"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "DENY"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "CURRENT OBJECTIVE"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ PREPARING COCKPIT STATE ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] I E W   S E L E C T O R"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "EXTERNAL"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ORBITAL"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "MISSION PAD"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENU"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "RESUME SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "FAILURES"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "INPUT CONTROLS"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "SAVE STATE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "CONSOLE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "MISSION EDITOR"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "END SESSION"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] O M M U N I C A T I O N"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "RADIO CHECK"
+  }
+]

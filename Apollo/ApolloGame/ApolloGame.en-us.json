@@ -1,0 +1,18 @@
+[
+  {
+    "Identifier": "CrewMember_CurrentOrbit",
+    "Text": "Current orbit: {0} nmi x {1} nmi"
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnRequested",
+    "Text": "Roger, {0}. Setting up a circularization burn at {1} nmi."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCancelled",
+    "Text": "Roger, {0}. Circularization burn cancelled."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCompleted",
+    "Text": "Roger, {0}. Circularization burn complete."
+  }
+]
