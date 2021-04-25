@@ -1,0 +1,17 @@
+[{
+        "Identifier": "CrewMember_CurrentOrbit",
+        "Text": "Nåværende bane: {0} nmi x {1} nmi"
+    },
+    {
+        "Identifier": "CrewMember_CircularizationBurnRequested",
+        "Text": "Roger, {0}. Setter opp en sirkalariseringstenning ved {1} nmi."
+    },
+    {
+        "Identifier": "CrewMember_CircularizationBurnCancelled",
+        "Text": "Roger, {0}. sirkalariseringstenning avbrutt."
+    },
+    {
+        "Identifier": "CrewMember_CircularizationBurnCompleted",
+        "Text": "Roger, {0}. sirkalariseringstenning fullført."
+    }
+]
