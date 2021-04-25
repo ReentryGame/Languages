@@ -1,0 +1,77 @@
+[{
+        "Identifier": "Button_Roger",
+        "Text": "BEKREFT"
+    },
+    {
+        "Identifier": "Button_Deny",
+        "Text": "AVKREFT"
+    },
+    {
+        "Identifier": "MissionObjectives_Title",
+        "Text": "NÅVÆRENDE MÅL"
+    },
+    {
+        "Identifier": "Loading_PrepareCockpitState",
+        "Text": "[ FORBEREDER COCKPITTILSTAND ]"
+    },
+    {
+        "Identifier": "ViewSelector_Title",
+        "Text": "[V] I S N I N G S V E L G E R"
+    },
+    {
+        "Identifier": "ViewSelector_External",
+        "Text": "EKSTERN"
+    },
+    {
+        "Identifier": "ViewSelector_Orbital",
+        "Text": "ORBITAL"
+    },
+    {
+        "Identifier": "ViewSelector_MissionPad",
+        "Text": "OPPDRAGSBLOKK"
+    },
+    {
+        "Identifier": "InGameMenu_Title",
+        "Text": "MENY"
+    },
+    {
+        "Identifier": "InGameMenu_ResumeSession",
+        "Text": "GJENOPPTA SESJON"
+    },
+    {
+        "Identifier": "InGameMenu_Failures",
+        "Text": "FEIL"
+    },
+    {
+        "Identifier": "InGameMenu_InputControls",
+        "Text": "KONTROLLER"
+    },
+    {
+        "Identifier": "InGameMenu_SaveState",
+        "Text": "LAGRE TILSTAND"
+    },
+    {
+        "Identifier": "InGameMenu_MissionControlLive",
+        "Text": "MISSION CONTROL LIVE"
+    },
+    {
+        "Identifier": "InGameMenu_Console",
+        "Text": "KONSOLL"
+    },
+    {
+        "Identifier": "InGameMenu_MissionEditor",
+        "Text": "OPPDRAGSREDIGERER"
+    },
+    {
+        "Identifier": "InGameMenu_EndSession",
+        "Text": "AVSLUTT SESJON"
+    },
+    {
+        "Identifier": "CommTools_Title",
+        "Text": "[C] K O M M U N I K A S J O N"
+    },
+    {
+        "Identifier": "CommTools_RequestRadioCheck",
+        "Text": "RADIOSJEKK"
+    }
+]
