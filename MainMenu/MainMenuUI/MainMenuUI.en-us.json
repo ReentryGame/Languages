@@ -440,7 +440,7 @@
     },
     {
         "Identifier": "RealismSettings_ReduceApolloLaunchShakeDesc",
-        "Text": "Enabling this will reduce the amount shaking on the camera during an Apollo Saturn V ascent (SIC and SII)."
+        "Text": "Enabling this will reduce the amount of shaking on the camera during an Apollo Saturn V ascent (SIC and SII)."
     },
     {
         "Identifier": "RealismSettings_LunarLandingPoleTitle",
