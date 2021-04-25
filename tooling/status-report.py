@@ -20,4 +20,4 @@ og_lang_ids = lang_stats['en-us']
 for lang in lang_stats.keys():
     if lang == 'en-us':
         continue
-    print(lang, 100.0 * lang_stats[lang] / og_lang_ids)
+    print(lang, lang_stats[lang], og_lang_ids, 100.0 * lang_stats[lang] / og_lang_ids)
