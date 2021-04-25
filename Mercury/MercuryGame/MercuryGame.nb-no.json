@@ -1,0 +1,21 @@
+[{
+        "Identifier": "ViewSelector_CommandersSeat",
+        "Text": "KOMMANDØRSETE"
+    },
+    {
+        "Identifier": "ViewSelector_LeftPanels",
+        "Text": "VENSTRE PANELS"
+    },
+    {
+        "Identifier": "ViewSelector_RightPanels",
+        "Text": "HØYRE PANELS"
+    },
+    {
+        "Identifier": "ViewSelector_UpperPanels",
+        "Text": "ØVRE PANELER"
+    },
+    {
+        "Identifier": "ViewSelector_Window",
+        "Text": "VINDU"
+    }
+]
