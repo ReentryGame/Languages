@@ -4,14 +4,14 @@
     },
     {
         "Identifier": "CrewMember_CircularizationBurnRequested",
-        "Text": "Roger, {0}. Setter opp en sirkalariseringstenning ved {1} nmi."
+        "Text": "Roger, {0}. Setter opp en sirkalariseringsbrenning ved {1} nmi."
     },
     {
         "Identifier": "CrewMember_CircularizationBurnCancelled",
-        "Text": "Roger, {0}. sirkalariseringstenning avbrutt."
+        "Text": "Roger, {0}. sirkalariseringsbrenning avbrutt."
     },
     {
         "Identifier": "CrewMember_CircularizationBurnCompleted",
-        "Text": "Roger, {0}. sirkalariseringstenning fullført."
+        "Text": "Roger, {0}. sirkalariseringsbrenning fullført."
     }
 ]
