@@ -42,6 +42,9 @@
   {
     "Identifier": "InGameMenu_Failures",
     "Text": "FAILURES"
+  },{
+    "Identifier": "InGameMenu_Audio",
+    "Text": "AUDIO"
   },
   {
     "Identifier": "InGameMenu_InputControls",
@@ -66,6 +69,10 @@
   {
     "Identifier": "InGameMenu_EndSession",
     "Text": "END SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRAPHICS"
   },
   {
     "Identifier": "CommTools_Title",
