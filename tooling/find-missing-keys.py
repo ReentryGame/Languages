@@ -13,7 +13,7 @@ def handle_element(prefix, element):
             r.append(prefix + ':' + element['Identifier'])
         else:
             for k in element.keys():
-                r += handle_element(prefix, element[k])
+                r += handle_element(prefix + ':' + k, element[k])
     elif type(element) is list:
         for i in range(len(element)):
             r += handle_element(prefix, element[i])
