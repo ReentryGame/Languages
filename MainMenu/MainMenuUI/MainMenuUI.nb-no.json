@@ -693,5 +693,93 @@
     {
         "Identifier": "Academy_LM_Lesson11",
         "Text": "LEKSJON 11 - ASCENT & DOCKING"
+    },
+    {
+        "Identifier": "MainMenuItem_Challenges",
+        "Text": "UTFORDRINGER"
+    },
+    {
+        "Identifier": "Profile_Online",
+        "Text": "FLERSPILLERRANGERINGER"
+    },
+    {
+        "Identifier": "Profile_SkillMercuryAstonaut",
+        "Text": "MERCURY-ASTRONAUT"
+    },
+    {
+        "Identifier": "Profile_SkillCSMAstonaut",
+        "Text": "KOMMANDOMODULASTRONAUT"
+    },
+    {
+        "Identifier": "Profile_SkillLMAstonaut",
+        "Text": "MÅNELANDER"
+    },
+    {
+        "Identifier": "Profile_SkillMercuryController",
+        "Text": "MERCURY-KONTROLLØR"
+    },
+    {
+        "Identifier": "Profile_SkillApolloController",
+        "Text": "APOLLO-KONTROLLØR"
+    },
+    {
+        "Identifier": "Settings_Autosave",
+        "Text": "AUTOLAGRING"
+    },
+    {
+        "Identifier": "Settings_AutosaveDesc",
+        "Text": "Dette lagrer spillet automatisk ved kritiske hendelser som når du går inn i bane, månens påvirkningssfære, begynner månelandingsprosessen, etc."
+    },
+    {
+        "Identifier": "Settings_ToggleAutosave",
+        "Text": "Skru på autolagring"
+    },
+    {
+        "Identifier": "Settings_ToggleEnableVRBurnHaptics",
+        "Text": "Skru på VR-kontroller vibrasjon ved motorbruk"
+    },
+    {
+        "Identifier": "Settings_ToggleEnableVRGazeCursor",
+        "Text": "Bruk siktpeker i stedet for bevegelseskontrollere (tidlig utviklertesting)"
+    },
+    {
+        "Identifier": "Settings_FunctionalCursor",
+        "Text": "Cockpit-peker"
+    },
+    {
+        "Identifier": "Settings_Toggle3DClouds",
+        "Text": "Skru på eksperimentelle 3D-skyer"
+    },
+    {
+        "Identifier": "Settings_FunctionalCursorDesc",
+        "Text": "Cockpit-pekere vil erstatte musepekeren, og tilby spillfunksjoner som fargebytte når en peker på brytere. Ulempen er at dette blir rendret i den vanlige rendreløkka."
+    },
+    {
+        "Identifier": "Settings_ToggleFunctionalCursor",
+        "Text": "Skru på cockpit-peker"
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellationTitle",
+        "Text": "Månetessellasjon"
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellationDesc",
+        "Text": "Når du er i bane rundt månen, brukes tessellasjon til å generere månedetaljer. Dette blir gjord på GPUen og kan være ganske dyrt å rendre. Tre parametere lar deg kontrollere tessellasjon: Faktor, minstedistanse og maksimumdistanse.\nFaktor definerer hvor mye tessellasjon. Vanlige verdier er 1, 8, 16, 32 etc. minstedistansen og maksimumsdistansen definerer vinduet for tessellasjon. Tingene nærmere deg enn minstedistansen vil bli 100% tessellert. Tingen lengre vekk fra deg enn maksumumdistansen vil bli 0% tessellert. Hvis noe er lengre vekk en minstedistansen men nærmere enn maksimumdistansen vil det ble tesselert basert på interpolasjon."
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellation_Factor",
+        "Text": "Faktor:"
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellation_MinDist",
+        "Text": "Minstedistanse:"
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellation_MaxDist",
+        "Text": "Maksdistanse:"
+    },
+    {
+        "Identifier": "ChallengeAccepted",
+        "Text": "Utfordring mottatt"
     }
 ]

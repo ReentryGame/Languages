@@ -73,5 +73,13 @@
     {
         "Identifier": "CommTools_RequestRadioCheck",
         "Text": "RADIOSJEKK"
+    },
+    {
+        "Identifier": "InGameMenu_Audio",
+        "Text": "Lyd"
+    },
+    {
+        "Identifier": "InGameMenu_Graphics",
+        "Text": "Grafikk"
     }
 ]
