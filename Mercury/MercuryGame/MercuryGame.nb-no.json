@@ -1,21 +1,22 @@
-[{
-        "Identifier": "ViewSelector_CommandersSeat",
-        "Text": "KOMMANDØRSETE"
-    },
-    {
-        "Identifier": "ViewSelector_LeftPanels",
-        "Text": "VENSTRE PANELER"
-    },
-    {
-        "Identifier": "ViewSelector_RightPanels",
-        "Text": "HØYRE PANELER"
-    },
-    {
-        "Identifier": "ViewSelector_UpperPanels",
-        "Text": "ØVRE PANELER"
-    },
-    {
-        "Identifier": "ViewSelector_Window",
-        "Text": "VINDU"
-    }
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "KOMMANDØRSETE"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "VENSTRE PANELER"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "HØYRE PANELER"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "ØVRE PANELER"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "VINDU"
+  }
 ]

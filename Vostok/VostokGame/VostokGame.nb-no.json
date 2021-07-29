@@ -1,17 +1,18 @@
-[{
-        "Identifier": "ViewSelector_CommandersSeat",
-        "Text": "KOMMANDØRSETE"
-    },
-    {
-        "Identifier": "ViewSelector_MainPanel",
-        "Text": "HOVEDPANEL"
-    },
-    {
-        "Identifier": "ViewSelector_ControlPanel",
-        "Text": "KONTROLLPANEL"
-    },
-    {
-        "Identifier": "ViewSelector_VZOR",
-        "Text": "VZOR-SKOP"
-    }
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "KOMMANDØRSETE"
+  },
+  {
+    "Identifier": "ViewSelector_MainPanel",
+    "Text": "HOVEDPANEL"
+  },
+  {
+    "Identifier": "ViewSelector_ControlPanel",
+    "Text": "KONTROLLPANEL"
+  },
+  {
+    "Identifier": "ViewSelector_VZOR",
+    "Text": "VZOR-SKOP"
+  }
 ]
