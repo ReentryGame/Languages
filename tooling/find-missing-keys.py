@@ -22,6 +22,13 @@ def handle_element(prefix, element):
 
     return r
 
+for fn in glob.glob('**', recursive=True):
+    if not fn.endswith('.{}.json'.format(base_lang)):
+        continue
+    with open(fn) as f:
+        j = json.load(f)
+        known_keys += handle_element(fn.replace('.{}.'.format(base_lang), '.'), j)
+
 target_keys = []
 for fn in glob.glob('**', recursive=True):
     if not fn.endswith('.{}.json'.format(target_lang)):
@@ -29,6 +36,8 @@ for fn in glob.glob('**', recursive=True):
     with open(fn) as f:
         j = json.load(f)
         target_keys += handle_element(fn.replace('.{}.'.format(target_lang), '.'), j)
+
+print(len(target_keys), len(known_keys))
 for kk in known_keys:
     if kk in target_keys:
         continue
