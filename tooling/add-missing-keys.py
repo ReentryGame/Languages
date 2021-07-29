@@ -43,7 +43,8 @@ for fn in glob.glob('**', recursive=True):
                     return i
                 i += 1
 
-        with open(target_fn, 'r+') as target_f:
+        target_j = {}
+        with open(target_fn, 'r') as target_f:
             print(target_fn)
             target_j = json.load(target_f)
             for kk in known_keys:
@@ -57,5 +58,5 @@ for fn in glob.glob('**', recursive=True):
                         'Text': '{}: {}'.format(target_lang, base_j[get_index(kk[1:])]['Text'])
                     }
                 )
-            target_f.seek(0)
+        with open(target_fn, 'w') as target_f:
             json.dump(target_j, target_f, indent=2, ensure_ascii=False)
