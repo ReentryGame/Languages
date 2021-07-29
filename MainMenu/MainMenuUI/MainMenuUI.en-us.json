@@ -72,6 +72,10 @@
     "Text": "MISSION CONTROL"
   },
   {
+    "Identifier": "MainMenuItem_Challenges",
+    "Text": "CHALLENGES"
+  },
+  {
     "Identifier": "MainMenuItem_Profile",
     "Text": "PROFILE"
   },
@@ -200,12 +204,40 @@
     "Text": "FLIGHT TIME"
   },
   {
+    "Identifier": "Profile_Online",
+    "Text": "MULTIPLAYER RANKINGS"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryAstonaut",
+    "Text": "MERCURY ASTRONAUT"
+  },
+  {
+    "Identifier": "Profile_SkillCSMAstonaut",
+    "Text": "COMMAND MODULE ASTRONAUT"
+  },
+  {
+    "Identifier": "Profile_SkillLMAstonaut",
+    "Text": "LUNAR MODULE ASTRONAUT"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryController",
+    "Text": "MERCURY CONTROLLER"
+  },
+  {
+    "Identifier": "Profile_SkillApolloController",
+    "Text": "APOLLO CONTROLLER"
+  },
+  {
+    "Identifier": " ",
+    "Text": "APOLLO CONTROLLER"
+  },
+  {
     "Identifier": "GeneralBackButton",
     "Text": "BACK"
   },
   {
     "Identifier": "Settings_Effects",
-    "Text": "EFFECTS"
+    "Text": "GRAPHICS"
   },
   {
     "Identifier": "Settings_Language",
@@ -272,6 +304,18 @@
     "Text": "TRACKIR"
   },
   {
+    "Identifier": "Settings_Autosave",
+    "Text": "AUTOSAVE"
+  },
+  {
+    "Identifier": "Settings_AutosaveDesc",
+    "Text": "This will create autosave states during some critical points such as at Insertion, Lunar SOI, PDI, etc."
+  },
+  {
+    "Identifier": "Settings_ToggleAutosave",
+    "Text": "Enable Autosave"
+  },
+  {
     "Identifier": "Settings_ToggleTrackIR",
     "Text": "Use NaturalPoint TrackIR"
   },
@@ -281,11 +325,19 @@
   },
   {
     "Identifier": "Settings_VirtualRealityDesc",
-    "Text": "The current VR support is just an experimental playground while I work on the implementation. Mercury & Gemini are currently supported, but as the development progress, I hope to solve the technical difficylties on adding this to Apollo."
+    "Text": "The current VR support is just an experimental playground while I work on the implementation. Apollo is still a struggle when it comes to performance and hardware requirements."
   },
   {
     "Identifier": "Settings_ToggleEnableVirtualReality",
-    "Text": "Enable VR (Mercury/Gemini Only)"
+    "Text": "Enable VR"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRBurnHaptics",
+    "Text": "Enable VR Controller vibrations during burns"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRGazeCursor",
+    "Text": "Use a Gaze Cursor instead of Motion Controllers (early dev testing)"
   },
   {
     "Identifier": "Settings_Data",
@@ -310,6 +362,22 @@
   {
     "Identifier": "Settings_ToggleOutputLive",
     "Text": "Enable Live Feed"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursor",
+    "Text": "COCKPIT CURSOR"
+  },
+  {
+    "Identifier": "Settings_Toggle3DClouds",
+    "Text": "Enable Experimental 3D clouds"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursorDesc",
+    "Text": "The cockpit cursor will replace the mouse cursor and provide in-game features such as color change while hovering switches. The downside is that it will be rendered in the normal render loop."
+  },
+  {
+    "Identifier": "Settings_ToggleFunctionalCursor",
+    "Text": "Enable Cockpit Cursor"
   },
   {
     "Identifier": "Settings_Configure",
@@ -398,6 +466,26 @@
   {
     "Identifier": "GraphicsSettings_CMInteriorDesc",
     "Text": "The Command Module Interior upgrade will replace the existing low poly interior. The panels will remain the same, but the interior will be more realistic, but also very expensive to render."
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationTitle",
+    "Text": "Moon Tessellation"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationDesc",
+    "Text": "When in orbit around the Moon, a method names Tessellation generates the lunar details. This is done on the GPU and can be quite expensive to render. Three parameters lets you control the tessellation: Factor, Minimum Distance and Maximum Distance.\nFactor defines how much to tesselate. Common values are 1, 8, 16, 32 etc. The Minimum and Maximum distance defines the window of what to Tessellate. The things closer to you than Minimum Distance will be 100% Tessellated. The things further away from Maximum Distance will be 0% Tessellated. If something is further away than minimum but closer than maximum, it will be tessellated based on interpolation."
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_Factor",
+    "Text": "Factor:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MinDist",
+    "Text": "Minimum Distance:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MaxDist",
+    "Text": "Maximum Distance:"
   },
   {
     "Identifier": "RealismSettings_Title",
@@ -694,5 +782,9 @@
   {
     "Identifier": "Academy_LM_Lesson11",
     "Text": "LESSON 11 - ASCENT & DOCKING"
+  },
+  {
+    "Identifier": "ChallengeAccepted",
+    "Text": "CHALLENGE ACCEPTED"
   }
 ]
