@@ -18,5 +18,9 @@
   {
     "Identifier": "ViewSelector_Window",
     "Text": "WINDOW"
+  },
+  {
+    "Identifier": "MissionObjective_None,
+    "Text": "NONE"
   }
 ]
