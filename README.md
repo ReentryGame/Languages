@@ -54,3 +54,5 @@ When done, press SAVE.
 
 ### 4. Contributing your changes
 The last step is to submit your changes to us. This is done through a pull request.
+
+For language-codes, see [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) and [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) alpha-2. For example, for English as written in the United States, first lookup the ISO 3166-1 alpha 2 code for the United States (**us**), then the ISO 639-1 language-code for English (**en**). For constructed languages, see ISO-639-2. For languages that do not belong to a specific country (ex latin), use the language-code as previously specified without a country-code.
