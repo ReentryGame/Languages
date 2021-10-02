@@ -35,17 +35,17 @@ These files can be opened by the Reentry Language UI tool  (Main Menu->Contribut
 ### 2. Structure
 The data is stored in different language files. The Main Menu has one file, and each of the supported modules have their own language file(s), and a common that is shared between all of them.
 The default language is en-us. This can be seen in the file name:
-MainMenuUI.en-us.json
+MainMenuUI.**en-us**.json
 
-If the game would support another language such as de-de (German (Germany)), the english file would need to be translated to German, and saved as:
-MainMenuUI.de-de.json
+For the game to would support another language such as de-de (German (Germany)), the english file would need to be translated to German, and saved as:
+MainMenuUI.**de-de**.json
 
 ### 3. Translate
-Copy the abosule path and the file name if the file you want to translate (english base file). For example:
+Copy the absolute path and the file name of the file you want to translate (english base file). For example:
 C:\repos\Reentry\languages\MainMenuUI.en-us.json
 
 Start Reentry, and press CONTRIBUTE on the Main Menu, then launch the TRANSLATE GAME UI tool.
-Paste the ansolute path to the file you wish to translate and press LOAD.
+Paste the absolute path to the file you wish to translate and press LOAD.
 
 When loaded, you can either start a new translation by inserting the language code (see table above) that you wish to translate to, or load an existing translation by pressing Continue and pasting in the absolute path to the target language file such as:
 C:\repos\Reentry\languages\MainMenuUI.de-de.json
