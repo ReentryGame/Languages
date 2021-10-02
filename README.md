@@ -5,19 +5,19 @@ This repo contains the current language support of the game UI/mechanics of Reen
 The following section will contain the status of the translation of the UI.
 
 MainMenuUI
-- en-us (English/US)
+en-us (English/US)
 
 CommonUI
-- en-us (English/US)
+en-us (English/US)
 
 MercuryGame
-- en-us (English/US)
+en-us (English/US)
 
 GeminiGame
-- en-us (English/US)
+en-us (English/US)
 
 ApolloGame
-- en-us (English/US)
+en-us (English/US)
 
 The following list shows the languages we currently want to support. More will be added as the core of the game gets translated. If you have suggestions please reach out.
 
@@ -37,11 +37,11 @@ The data is stored in different language files. The Main Menu has one file, and 
 The default language is en-us. This can be seen in the file name:
 MainMenuUI.en-us.json
 
-If the game would support another language such as de-de (German (Germany)), the english file would need to be translated to German, and saved as:
+For the game to support another language such as de-de (German (Germany)), the english file would need to be translated to German, and saved as:
 MainMenuUI.de-de.json
 
 ### 3. Translate
-Copy the abosule path and the file name if the file you want to translate (english base file). For example:
+Copy the abosule path and the file name of the file you want to translate (english base file). For example:
 C:\repos\Reentry\languages\MainMenuUI.en-us.json
 
 Start Reentry, and press CONTRIBUTE on the Main Menu, then launch the TRANSLATE GAME UI tool.
