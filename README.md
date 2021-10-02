@@ -5,19 +5,19 @@ This repo contains the current language support of the game UI/mechanics of Reen
 The following section will contain the status of the translation of the UI.
 
 MainMenuUI
-en-us (English/US)
+- en-us (English/US)
 
 CommonUI
-en-us (English/US)
+- en-us (English/US)
 
 MercuryGame
-en-us (English/US)
+- en-us (English/US)
 
 GeminiGame
-en-us (English/US)
+- en-us (English/US)
 
 ApolloGame
-en-us (English/US)
+- en-us (English/US)
 
 The following list shows the languages we currently want to support. More will be added as the core of the game gets translated. If you have suggestions please reach out.
 
