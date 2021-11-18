@@ -81,5 +81,89 @@
   {
     "Identifier": "CommTools_RequestRadioCheck",
     "Text": "RADIO CHECK"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "MISSION"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "BRIEFING"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "MAP"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "CHECKLISTS"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "TRANSCRIPT"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "NOTES"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "AUDIO SETTINGS"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Master"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Cockpit"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "External"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Music"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Misc SFX"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Astronaut\nComm"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Mission Control Comm"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "SAVE STATE"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "I recently started to implement the save and load state routines. They are currently very basic and will mostly save the state vectors of the spacecraft and physical items, and the cockpit panel state.\n\nI will try to keep the save files backward compatible, but please expect breaking changes to save states due to the early state the current save/load system is in."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Warninig: It's not possible to save right now. Save State is disabled during powered maneuvers or critical mission phases."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "SAVE"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "CLOSE"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Save State Name:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Overwrite?"
   }
 ]

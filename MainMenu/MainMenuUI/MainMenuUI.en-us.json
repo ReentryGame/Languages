@@ -92,6 +92,10 @@
     "Text": "WORKSHOP"
   },
   {
+    "Identifier": "MainMenuItem_Contribute",
+    "Text": "CONTRIBUTE"
+  },
+  {
     "Identifier": "MainMenuItem_DevJournal",
     "Text": "DEV JOURNAL"
   },
@@ -228,10 +232,6 @@
     "Text": "APOLLO CONTROLLER"
   },
   {
-    "Identifier": " ",
-    "Text": "APOLLO CONTROLLER"
-  },
-  {
     "Identifier": "GeneralBackButton",
     "Text": "BACK"
   },
@@ -300,6 +300,10 @@
     "Text": "Cabin Ambience Noise"
   },
   {
+    "Identifier": "Settings_ToggleEnableSFXDSKYRelayClicking",
+    "Text": "DSKY Relay Clicking"
+  },
+  {
     "Identifier": "Settings_TrackIR",
     "Text": "TRACKIR"
   },
@@ -338,6 +342,10 @@
   {
     "Identifier": "Settings_ToggleEnableVRGazeCursor",
     "Text": "Use a Gaze Cursor instead of Motion Controllers (early dev testing)"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRSubtitles",
+    "Text": "Enable mission dialogue as subtitles."
   },
   {
     "Identifier": "Settings_Data",
@@ -596,6 +604,22 @@
     "Text": "TOGGLE FAILURES"
   },
   {
+    "Identifier": "RealismSettings_GyroDriftTitle",
+    "Text": "Gyro Drift"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftDesc",
+    "Text": "If enabled, the gyros will accumulate errors over time and will need to be corrected (Not affecting the LM as P52 has not been developed for it yet)"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Title",
+    "Text": "CO2 Canister Replacement"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Desc",
+    "Text": "If enabled, you will need to replace the CO2 canisters manually according to procedures. Manual replacement is supported in the CSM and soon the LM."
+  },
+  {
     "Identifier": "MainMenuButton_Launch",
     "Text": "LAUNCH"
   },
@@ -734,6 +758,22 @@
   {
     "Identifier": "Academy_CSM_Lesson13",
     "Text": "LESSON 13 - TRANS-EARTH INJECTION"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson14",
+    "Text": "LESSON 14 - ECS: O2"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson15",
+    "Text": "LESSON 15 - ECS: PSC"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson16",
+    "Text": "LESSON 16 - ECS: H2O"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson17",
+    "Text": "LESSON 17 - ECS: GLYCOL"
   },
   {
     "Identifier": "Academy_LM_Lesson1",

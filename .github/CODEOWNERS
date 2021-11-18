@@ -1,3 +1,5 @@
-*.nb-no.*        @sundhaug92 @petriw
+/.github/CODEOWNERS    @sundhaug92
+/tooling               @sundhaug92
 
-tooling/         @sundhaug92
+*.nb-no.*        @sundhaug92 @petriw
+*.en-us.*        @petriw
