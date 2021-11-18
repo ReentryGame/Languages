@@ -71,6 +71,10 @@
         "Text": "MISSION CONTROL"
     },
     {
+        "Identifier": "MainMenuItem_Challenges",
+        "Text": "CHALLENGES"
+    },
+    {
         "Identifier": "MainMenuItem_Profile",
         "Text": "PROFILE"
     },
@@ -85,6 +89,10 @@
     {
         "Identifier": "MainMenuItem_Workshop",
         "Text": "WORKSHOP"
+    },
+    {
+        "Identifier": "MainMenuItem_Contribute",
+        "Text": "CONTRIBUTE"
     },
     {
         "Identifier": "MainMenuItem_DevJournal",
@@ -199,12 +207,36 @@
         "Text": "FLIGHT TIME"
     },
     {
+        "Identifier": "Profile_Online",
+        "Text": "MULTIPLAYER RANKINGS"
+    },
+    {
+        "Identifier": "Profile_SkillMercuryAstonaut",
+        "Text": "MERCURY ASTRONAUT"
+    },
+    {
+        "Identifier": "Profile_SkillCSMAstonaut",
+        "Text": "COMMAND MODULE ASTRONAUT"
+    },
+    {
+        "Identifier": "Profile_SkillLMAstonaut",
+        "Text": "LUNAR MODULE ASTRONAUT"
+    },
+    {
+        "Identifier": "Profile_SkillMercuryController",
+        "Text": "MERCURY CONTROLLER"
+    },
+    {
+        "Identifier": "Profile_SkillApolloController",
+        "Text": "APOLLO CONTROLLER"
+    },
+    {
         "Identifier": "GeneralBackButton",
         "Text": "BACK"
     },
     {
         "Identifier": "Settings_Effects",
-        "Text": "EFFECTS"
+        "Text": "GRAPHICS"
     },
     {
         "Identifier": "Settings_Language",
@@ -267,8 +299,24 @@
         "Text": "Cabin Ambience Noise"
     },
     {
+        "Identifier": "Settings_ToggleEnableSFXDSKYRelayClicking",
+        "Text": "DSKY Relay Clicking"
+    },
+    {
         "Identifier": "Settings_TrackIR",
         "Text": "TRACKIR"
+    },
+    {
+        "Identifier": "Settings_Autosave",
+        "Text": "AUTOSAVE"
+    },
+    {
+        "Identifier": "Settings_AutosaveDesc",
+        "Text": "This will create autosave states during some critical points such as at Insertion, Lunar SOI, PDI, etc."
+    },
+    {
+        "Identifier": "Settings_ToggleAutosave",
+        "Text": "Enable Autosave"
     },
     {
         "Identifier": "Settings_ToggleTrackIR",
@@ -280,11 +328,23 @@
     },
     {
         "Identifier": "Settings_VirtualRealityDesc",
-        "Text": "The current VR support is just an experimental playground while I work on the implementation. Mercury & Gemini are currently supported, but as the development progress, I hope to solve the technical difficylties on adding this to Apollo."
+        "Text": "The current VR support is just an experimental playground while I work on the implementation. Apollo is still a struggle when it comes to performance and hardware requirements."
     },
     {
         "Identifier": "Settings_ToggleEnableVirtualReality",
-        "Text": "Enable VR (Mercury/Gemini Only)"
+        "Text": "Enable VR"
+    },
+    {
+        "Identifier": "Settings_ToggleEnableVRBurnHaptics",
+        "Text": "Enable VR Controller vibrations during burns"
+    },
+    {
+        "Identifier": "Settings_ToggleEnableVRGazeCursor",
+        "Text": "Use a Gaze Cursor instead of Motion Controllers (early dev testing)"
+    },
+    {
+        "Identifier": "Settings_ToggleEnableVRSubtitles",
+        "Text": "Enable mission dialogue as subtitles."
     },
     {
         "Identifier": "Settings_Data",
@@ -309,6 +369,22 @@
     {
         "Identifier": "Settings_ToggleOutputLive",
         "Text": "Enable Live Feed"
+    },
+    {
+        "Identifier": "Settings_FunctionalCursor",
+        "Text": "COCKPIT CURSOR"
+    },
+    {
+        "Identifier": "Settings_Toggle3DClouds",
+        "Text": "Enable Experimental 3D clouds"
+    },
+    {
+        "Identifier": "Settings_FunctionalCursorDesc",
+        "Text": "The cockpit cursor will replace the mouse cursor and provide in-game features such as color change while hovering switches. The downside is that it will be rendered in the normal render loop."
+    },
+    {
+        "Identifier": "Settings_ToggleFunctionalCursor",
+        "Text": "Enable Cockpit Cursor"
     },
     {
         "Identifier": "Settings_Configure",
@@ -336,7 +412,7 @@
     },
     {
         "Identifier": "GraphicsSettings_ProbeQualityDesc",
-        "Text": "Reflection probes are used to render all types of relfection. From the reflection lights planets cast while you are in orbit (general probes), to internal cockpit reflections seen in gauges, windows and reflective materials (critical probes). They are very taxing on your system.\nIf you use a slower update frequency, I also suggest to turn off WINDOW GLARE."
+        "Text": "Reflection probes are used to render all types of reflection. From the reflection lights planets cast while you are in orbit (general probes), to internal cockpit reflections seen in gauges, windows and reflective materials (critical probes). They are very taxing on your system.\nIf you use a slower update frequency, I also suggest to turn off WINDOW GLARE."
     },
     {
         "Identifier": "GraphicsSettings_ProbeQualityInfo",
@@ -397,6 +473,26 @@
     {
         "Identifier": "GraphicsSettings_CMInteriorDesc",
         "Text": "The Command Module Interior upgrade will replace the existing low poly interior. The panels will remain the same, but the interior will be more realistic, but also very expensive to render."
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellationTitle",
+        "Text": "Moon Tessellation"
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellationDesc",
+        "Text": "When in orbit around the Moon, a method names Tessellation generates the lunar details. This is done on the GPU and can be quite expensive to render. Three parameters lets you control the tessellation: Factor, Minimum Distance and Maximum Distance.\nFactor defines how much to tesselate. Common values are 1, 8, 16, 32 etc. The Minimum and Maximum distance defines the window of what to Tessellate. The things closer to you than Minimum Distance will be 100% Tessellated. The things further away from Maximum Distance will be 0% Tessellated. If something is further away than minimum but closer than maximum, it will be tessellated based on interpolation."
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellation_Factor",
+        "Text": "Factor:"
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellation_MinDist",
+        "Text": "Minimum Distance:"
+    },
+    {
+        "Identifier": "GraphicsSettings_MoonTessellation_MaxDist",
+        "Text": "Maximum Distance:"
     },
     {
         "Identifier": "RealismSettings_Title",
@@ -505,6 +601,22 @@
     {
         "Identifier": "RealismSettings_ApolloRandomFailuresToggleFailures",
         "Text": "TOGGLE FAILURES"
+    },
+    {
+        "Identifier": "RealismSettings_GyroDriftTitle",
+        "Text": "Gyro Drift"
+    },
+    {
+        "Identifier": "RealismSettings_GyroDriftDesc",
+        "Text": "If enabled, the gyros will accumulate errors over time and will need to be corrected (Not affecting the LM as P52 has not been developed for it yet)"
+    },
+    {
+        "Identifier": "RealismSettings_CO2Title",
+        "Text": "CO2 Canister Replacement"
+    },
+    {
+        "Identifier": "RealismSettings_CO2Desc",
+        "Text": "If enabled, you will need to replace the CO2 canisters manually according to procedures. Manual replacement is supported in the CSM and soon the LM."
     },
     {
         "Identifier": "MainMenuButton_Launch",
@@ -647,6 +759,22 @@
         "Text": "LESSON 13 - TRANS-EARTH INJECTION"
     },
     {
+        "Identifier": "Academy_CSM_Lesson14",
+        "Text": "LESSON 14 - ECS: O2"
+    },
+    {
+        "Identifier": "Academy_CSM_Lesson15",
+        "Text": "LESSON 15 - ECS: PSC"
+    },
+    {
+        "Identifier": "Academy_CSM_Lesson16",
+        "Text": "LESSON 16 - ECS: H2O"
+    },
+    {
+        "Identifier": "Academy_CSM_Lesson17",
+        "Text": "LESSON 17 - ECS: GLYCOL"
+    },
+    {
         "Identifier": "Academy_LM_Lesson1",
         "Text": "LESSON 1 - INGRESS"
     },
@@ -693,5 +821,9 @@
     {
         "Identifier": "Academy_LM_Lesson11",
         "Text": "LESSON 11 - ASCENT & DOCKING"
+    },
+    {
+        "Identifier": "ChallengeAccepted",
+        "Text": "CHALLENGE ACCEPTED"
     }
 ]
