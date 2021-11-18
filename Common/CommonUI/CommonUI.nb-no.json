@@ -1,85 +1,170 @@
-[{
-        "Identifier": "Button_Roger",
-        "Text": "BEKREFT"
-    },
-    {
-        "Identifier": "Button_Deny",
-        "Text": "AVKREFT"
-    },
-    {
-        "Identifier": "MissionObjectives_Title",
-        "Text": "NÅVÆRENDE MÅL"
-    },
-    {
-        "Identifier": "Loading_PrepareCockpitState",
-        "Text": "[ FORBEREDER COCKPITTILSTAND ]"
-    },
-    {
-        "Identifier": "ViewSelector_Title",
-        "Text": "[V] I S N I N G S V E L G E R"
-    },
-    {
-        "Identifier": "ViewSelector_External",
-        "Text": "EKSTERN"
-    },
-    {
-        "Identifier": "ViewSelector_Orbital",
-        "Text": "ORBITAL"
-    },
-    {
-        "Identifier": "ViewSelector_MissionPad",
-        "Text": "OPPDRAGSBLOKK"
-    },
-    {
-        "Identifier": "InGameMenu_Title",
-        "Text": "MENY"
-    },
-    {
-        "Identifier": "InGameMenu_ResumeSession",
-        "Text": "GJENOPPTA SESJON"
-    },
-    {
-        "Identifier": "InGameMenu_Failures",
-        "Text": "FEIL"
-    },
-    {
-        "Identifier": "InGameMenu_InputControls",
-        "Text": "KONTROLLER"
-    },
-    {
-        "Identifier": "InGameMenu_SaveState",
-        "Text": "LAGRE TILSTAND"
-    },
-    {
-        "Identifier": "InGameMenu_MissionControlLive",
-        "Text": "MISSION CONTROL LIVE"
-    },
-    {
-        "Identifier": "InGameMenu_Console",
-        "Text": "KONSOLL"
-    },
-    {
-        "Identifier": "InGameMenu_MissionEditor",
-        "Text": "OPPDRAGSREDIGERER"
-    },
-    {
-        "Identifier": "InGameMenu_EndSession",
-        "Text": "AVSLUTT SESJON"
-    },
-    {
-        "Identifier": "CommTools_Title",
-        "Text": "[C] K O M M U N I K A S J O N"
-    },
-    {
-        "Identifier": "CommTools_RequestRadioCheck",
-        "Text": "RADIOSJEKK"
-    },
-    {
-        "Identifier": "InGameMenu_Audio",
-        "Text": "Lyd"
-    },
-    {
-        "Identifier": "InGameMenu_Graphics",
-        "Text": "Grafikk"
-    }
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "BEKREFT"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "AVKREFT"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "NÅVÆRENDE MÅL"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ FORBEREDER COCKPITTILSTAND ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] I S N I N G S V E L G E R"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "EKSTERN"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ORBITAL"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "OPPDRAGSBLOKK"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENY"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "GJENOPPTA SESJON"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "FEIL"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "KONTROLLER"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "LAGRE TILSTAND"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "KONSOLL"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "OPPDRAGSREDIGERER"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "AVSLUTT SESJON"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] K O M M U N I K A S J O N"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "RADIOSJEKK"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "Lyd"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "Grafikk"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "nb-no: MISSION"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "nb-no: BRIEFING"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "nb-no: MAP"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "nb-no: CHECKLISTS"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "nb-no: TRANSCRIPT"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "nb-no: NOTES"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "nb-no: AUDIO SETTINGS"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "nb-no: Master"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "nb-no: Cockpit"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "nb-no: External"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "nb-no: Music"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "nb-no: Misc SFX"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "nb-no: Astronaut\nComm"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "nb-no: Mission Control Comm"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "nb-no: SAVE STATE"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "nb-no: I recently started to implement the save and load state routines. They are currently very basic and will mostly save the state vectors of the spacecraft and physical items, and the cockpit panel state.\n\nI will try to keep the save files backward compatible, but please expect breaking changes to save states due to the early state the current save/load system is in."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "nb-no: Warninig: It's not possible to save right now. Save State is disabled during powered maneuvers or critical mission phases."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "nb-no: SAVE"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "nb-no: CLOSE"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "nb-no: Save State Name:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "nb-no: Overwrite?"
+  }
 ]

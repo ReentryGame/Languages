@@ -18,5 +18,213 @@
   {
     "Identifier": "ViewSelector_Window",
     "Text": "VINDU"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "nb-no: RADIO CHECK"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "nb-no: ALTITUDE CHECK"
+  },
+  {
+    "Identifier": "CommReq_ClockReport",
+    "Text": "nb-no: CLOCK STARTED"
+  },
+  {
+    "Identifier": "CommReq_BatteryCheck",
+    "Text": "nb-no: BATTERY CHECK"
+  },
+  {
+    "Identifier": "CommReq_TempCheck",
+    "Text": "nb-no: TEMP CHECK"
+  },
+  {
+    "Identifier": "CommReq_SetRETROtoNextAP",
+    "Text": "nb-no: RETRO AT NEXT AP"
+  },
+  {
+    "Identifier": "CommReq_MessageCapCom",
+    "Text": "nb-no: MESSAGE CAPCOM"
+  },
+  {
+    "Identifier": "CommReq_PadSwitchToInternalPower",
+    "Text": "nb-no: SWITCH TO INTERNAL POWER"
+  },
+  {
+    "Identifier": "CommReq_RequestAbortCapability",
+    "Text": "nb-no: REQUEST ABORT CAPABILITY TEST"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "nb-no: TOGGLE JUKEBOX"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "nb-no: MANUAL ASCENT DATA"
+  },
+  {
+    "Identifier": "CommReq_AttitudeInfo",
+    "Text": "nb-no: ATTITUDE DATA"
+  },
+  {
+    "Identifier": "Radio_NegativeClockCheck",
+    "Text": "nb-no: Negative! Umbilical  still connected."
+  },
+  {
+    "Identifier": "RadioCheck_HF",
+    "Text": "nb-no: {0}, we read you {1}/5 on HF."
+  },
+  {
+    "Identifier": "RadioCheck_UHF",
+    "Text": "nb-no: {0}, we read you {1}/5 on UHF."
+  },
+  {
+    "Identifier": "Radio_RetroTimeUpdated",
+    "Text": "nb-no: {0}, Time to Retro has been updated. Please double check and make adjustments."
+  },
+  {
+    "Identifier": "Radio_TempCheck",
+    "Text": "nb-no: {0}, your temperatures are fine."
+  },
+  {
+    "Identifier": "Radio_AltCheck_OnPad",
+    "Text": "nb-no: the launch pad"
+  },
+  {
+    "Identifier": "Radio_AltCheck_WeSeeYouAt",
+    "Text": "nb-no: We see you at {0}."
+  },
+  {
+    "Identifier": "Radio_AltCheck_NoTLM",
+    "Text": "nb-no: We are unable to see your telemetry."
+  },
+  {
+    "Identifier": "Radio_ClockOperational",
+    "Text": "nb-no: Acknowledged, clock is operational."
+  },
+  {
+    "Identifier": "Radio_Staging",
+    "Text": "nb-no: We confirm staging on {0}."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "nb-no: None."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "nb-no: Press ROGER when ready to proceed with the mission."
+  },
+  {
+    "Identifier": "MissionObjective_UmbillicalDisconnect",
+    "Text": "nb-no: Waiting for liftoff."
+  },
+  {
+    "Identifier": "MissionObjective_Seperation_Tower",
+    "Text": "nb-no: Awaiting tower separation."
+  },
+  {
+    "Identifier": "MissionObjective_Seperation_LV",
+    "Text": "nb-no: Awaiting launch vehicle separation."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "nb-no: Complete panel configuration."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "nb-no: Complete checklist with ID {0}."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "nb-no: Reach an altitude greater than {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "nb-no: Reach an altitude less than {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "nb-no: Move Ap altitude to {0} or greater."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "nb-no: Adjust orbit to {0} Ap x {1} Pe altitude (km) or greater."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "nb-no: Get in-range of radio station {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "nb-no: Get in longitudal range of radio station {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "nb-no: Reach a Longitude between {0} and {1} degrees."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "nb-no: Reach a Latitude between {0} and {1} degrees."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "nb-no: Wait for retrosequence start."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "nb-no: Reach an orbital plane of {0} with a threshold of +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Seperation_Booster",
+    "Text": "nb-no: Waiting for Booster seperation."
+  },
+  {
+    "Identifier": "MissionObjective_Seperation_Retro",
+    "Text": "nb-no: Waiting for Retrograde section seperation."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "nb-no: Awaiting initial atmospheric drag (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "nb-no: Awaiting drogue deploy."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "nb-no: Awaiting main deploy."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "nb-no: Waiting for atmospheric entry to start."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "nb-no: Get through the atmosphere."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "nb-no: Awaiting ignition of the retrograde engines."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "nb-no: Get to an altitude less than {0} feet."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "nb-no: Splashdown."
+  },
+  {
+    "Identifier": "MissionObjective_PerformBloodCheck",
+    "Text": "nb-no: Perform a blood pressure check."
+  },
+  {
+    "Identifier": "RadioMessage_UmbilicalDisconnect",
+    "Text": "nb-no: Umbilical disconnect!"
+  },
+  {
+    "Identifier": "RadioMessage_SetSpacecraftToReady",
+    "Text": "nb-no: {0}, we can't see you are ready. Switch LAUNCH CONTROL switch to READY. Countdown is complete!"
   }
 ]
