@@ -161,7 +161,7 @@
   },
   {
     "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
-    "Text": "Get in longitudal range of radio station {0}."
+    "Text": "Get in longitudinal range of radio station {0}."
   },
   {
     "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
@@ -181,11 +181,11 @@
   },
   {
     "Identifier": "MissionObjective_Seperation_Booster",
-    "Text": "Waiting for Booster seperation."
+    "Text": "Waiting for Booster separation."
   },
   {
     "Identifier": "MissionObjective_Seperation_Retro",
-    "Text": "Waiting for Retrograde section seperation."
+    "Text": "Waiting for Retrograde section separation."
   },
   {
     "Identifier": "MissionObjective_State_Dot05GDetected",

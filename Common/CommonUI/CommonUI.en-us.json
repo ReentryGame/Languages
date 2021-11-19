@@ -148,7 +148,7 @@
   },
   {
     "Identifier": "SaveState_Error",
-    "Text": "Warninig: It's not possible to save right now. Save State is disabled during powered maneuvers or critical mission phases."
+    "Text": "Warning: It's not possible to save right now. Save State is disabled during powered maneuvers or critical mission phases."
   },
   {
     "Identifier": "SaveState_ButtonSave",
