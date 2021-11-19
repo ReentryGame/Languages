@@ -1,0 +1,170 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "nl-nl: ROGER"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "nl-nl: DENY"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "nl-nl: CURRENT OBJECTIVE"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "nl-nl: [ PREPARING COCKPIT STATE ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "nl-nl: [V] I E W   S E L E C T O R"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "nl-nl: EXTERNAL"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "nl-nl: ORBITAL"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "nl-nl: MISSION PAD"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "nl-nl: MENU"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "nl-nl: RESUME SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "nl-nl: FAILURES"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "nl-nl: AUDIO"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "nl-nl: INPUT CONTROLS"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "nl-nl: SAVE STATE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "nl-nl: MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "nl-nl: CONSOLE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "nl-nl: MISSION EDITOR"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "nl-nl: END SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "nl-nl: GRAPHICS"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "nl-nl: [C] O M M U N I C A T I O N"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "nl-nl: RADIO CHECK"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "nl-nl: MISSION"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "nl-nl: BRIEFING"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "nl-nl: MAP"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "nl-nl: CHECKLISTS"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "nl-nl: TRANSCRIPT"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "nl-nl: NOTES"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "nl-nl: AUDIO SETTINGS"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "nl-nl: Master"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "nl-nl: Cockpit"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "nl-nl: External"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "nl-nl: Music"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "nl-nl: Misc SFX"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "nl-nl: Astronaut\nComm"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "nl-nl: Mission Control Comm"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "nl-nl: SAVE STATE"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "nl-nl: I recently started to implement the save and load state routines. They are currently very basic and will mostly save the state vectors of the spacecraft and physical items, and the cockpit panel state.\n\nI will try to keep the save files backward compatible, but please expect breaking changes to save states due to the early state the current save/load system is in."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "nl-nl: Warninig: It's not possible to save right now. Save State is disabled during powered maneuvers or critical mission phases."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "nl-nl: SAVE"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "nl-nl: CLOSE"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "nl-nl: Save State Name:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "nl-nl: Overwrite?"
+  }
+]

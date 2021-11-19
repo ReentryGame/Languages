@@ -1,0 +1,18 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "nl-nl: COMMANDERS SEAT"
+  },
+  {
+    "Identifier": "ViewSelector_MainPanel",
+    "Text": "nl-nl: MAIN PANEL"
+  },
+  {
+    "Identifier": "ViewSelector_ControlPanel",
+    "Text": "nl-nl: CONTROL PANEL"
+  },
+  {
+    "Identifier": "ViewSelector_VZOR",
+    "Text": "nl-nl: VZOR SCOPE"
+  }
+]
