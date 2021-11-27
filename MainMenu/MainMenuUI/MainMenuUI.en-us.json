@@ -253,7 +253,7 @@
   },
   {
     "Identifier": "Settings_ChecklistsDesc",
-    "Text": "WARNING: This will reset all default checklits to factory settings. Please create a backup if you have made any modifications to the default checklits.\nYour own checklists will not be affected."
+    "Text": "WARNING: This will reset all default checklists to factory settings. Please create a backup if you have made any modifications to the default checklists.\nYour own checklists will not be affected."
   },
   {
     "Identifier": "Settings_ResetDefaultChecklists",
