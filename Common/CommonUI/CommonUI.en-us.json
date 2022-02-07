@@ -8,6 +8,10 @@
     "Text": "DENY"
   },
   {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
     "Identifier": "MissionObjectives_Title",
     "Text": "CURRENT OBJECTIVE"
   },
@@ -165,5 +169,9 @@
   {
     "Identifier": "SaveState_SaveStateWarning",
     "Text": "Overwrite?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "CLEAR ALL"
   }
 ]

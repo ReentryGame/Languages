@@ -113,18 +113,26 @@
   },
   {
     "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Press {0} when ready to proceed with the mission."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
     "Text": "Press ROGER when ready to proceed with the mission."
   },
   {
-    "Identifier": "MissionObjective_UmbillicalDisconnect",
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
     "Text": "Waiting for liftoff."
   },
   {
-    "Identifier": "MissionObjective_Seperation_Tower",
+    "Identifier": "MissionObjective_State_SECO",
+    "Text": "Awaiting SECO."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Tower",
     "Text": "Awaiting tower separation."
   },
   {
-    "Identifier": "MissionObjective_Seperation_LV",
+    "Identifier": "MissionObjective_Separation_LV",
     "Text": "Awaiting launch vehicle separation."
   },
   {
@@ -148,8 +156,8 @@
     "Text": "Move Ap altitude to {0} or greater."
   },
   {
-    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
-    "Text": "Move Ap altitude to {0} or greater."
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Move Pe altitude to {0} or greater."
   },
   {
     "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
@@ -180,11 +188,11 @@
     "Text": "Reach an orbital plane of {0} with a threshold of +/- {1}"
   },
   {
-    "Identifier": "MissionObjective_Seperation_Booster",
+    "Identifier": "MissionObjective_Separation_Booster",
     "Text": "Waiting for Booster separation."
   },
   {
-    "Identifier": "MissionObjective_Seperation_Retro",
+    "Identifier": "MissionObjective_Separation_Retro",
     "Text": "Waiting for Retrograde section separation."
   },
   {
@@ -204,12 +212,8 @@
     "Text": "Waiting for atmospheric entry to start."
   },
   {
-    "Identifier": "MissionObjective_State_InHiDragZone",
-    "Text": "Waiting for atmospheric entry to start."
-  },
-  {
-    "Identifier": "MissionObjective_State_OutsideHighDragZone",
-    "Text": "Get through the atmosphere."
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Complete the checklist."
   },
   {
     "Identifier": "MissionObjective_State_OutsideHighDragZone",
