@@ -20,7 +20,13 @@ ApolloGame
 - en-us (English/US)
 
 The following list shows the languages we currently want to support. More will be added as the core of the game gets translated. If you have suggestions please reach out.
-
+| Language | code |
+|----------|------|
+| Spanish  | es   |
+| Russian  | ru   |
+| French   | fr   |
+| German   | de   |
+|          |      |
 
 ## How to contribute
 To contribute, you will need to get the language files stored on your harddrive, pick a language to translate to for a given file that is missing in the status above, use the in-game tool to translate (or a text editor), then commit and push the change as a pull request. We will then test and verify, and potentially merge the change into the game.
