@@ -79,6 +79,10 @@
     "Text": "GRAPHICS"
   },
   {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "CREATE CHECKLIST"
+  },
+  {
     "Identifier": "CommTools_Title",
     "Text": "[C] O M M U N I C A T I O N"
   },
@@ -173,5 +177,9 @@
   {
     "Identifier": "Button_ClearAll",
     "Text": "CLEAR ALL"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "CLEAR"
   }
 ]

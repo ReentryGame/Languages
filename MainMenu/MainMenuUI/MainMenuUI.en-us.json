@@ -913,19 +913,27 @@
   },
   {
     "Identifier": "MissionsMenu_Apollo_FreePlay_T2h",
-    "Text": "FREE PLAY - APOLLO SATURN V (T-2h)"
+    "Text": "SATURN V - COLD & DARK - GROUND CREW (T-4h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_BackupCrewIngress",
+    "Text": "SATURN V - BACKUP CREW INGRESS (T-2h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_PrimeCrewIngress",
+    "Text": "SATURN V - PRIME CREW INGRESS (T-1h)"
   },
   {
     "Identifier": "MissionsMenu_Apollo_FreePlay_T25m",
-    "Text": "FREE PLAY - APOLLO SATURN V (T-25m)"
+    "Text": "SATURN V - LAUNCH (T-25m)"
   },
   {
     "Identifier": "MissionsMenu_Apollo_FreePlay_EarthOrbit",
-    "Text": "FREE PLAY - CSM IN EARTH ORBIT"
+    "Text": "CSM/SIVB IN EARTH ORBIT"
   },
   {
     "Identifier": "MissionsMenu_Apollo_FreePlay_LMOrbit",
-    "Text": "FREE PLAY - LUNAR MODULE (C&D)"
+    "Text": "LUNAR MODULE (C&D) IN EARTH ORBIT"
   },
   {
     "Identifier": "MissionsMenu_Apollo_Scenario1",
