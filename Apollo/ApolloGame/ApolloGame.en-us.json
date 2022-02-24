@@ -548,6 +548,10 @@
     "Text": "EI flight path angle: {0}°"
   },
   {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "Time to EI: {0}"
+  },
+  {
     "Identifier": "BurnPlanner_VelAtEI",
     "Text": "Velocity at EI: {0} fps"
   },
