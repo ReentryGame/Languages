@@ -621,7 +621,7 @@
   },
   {
     "Identifier": "TEIPlanner_Calc",
-    "Text": "Periapsis: {0:0.00}\nTime to EI={1}\nΔV={2} ft/s\nTime to burn={3}"
+    "Text": "Periapsis: {0:0.00} nmi alt\nTime to EI={1}\nΔV={2} ft/s\nTime to burn={3}"
   },
   {
     "Identifier": "TEIPlanner_Warning2",
