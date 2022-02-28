@@ -20,13 +20,13 @@ ApolloGame
 - en-us (English/US)
 
 The following list shows the languages we currently want to support. More will be added as the core of the game gets translated. If you have suggestions please reach out.
-| Language | code |
-|----------|------|
-| Spanish  | es   |
-| Russian  | ru   |
-| French   | fr   |
-| German   | de   |
-|          |      |
+|        Language        | code  |
+|------------------------|-------|
+| Spanish                | es-es |
+| Russian                | ru-ru |
+| French                 | fr-fr |
+| German                 | de-de |
+| Chinese (Simplified)   | zh-cn |
 
 ## How to contribute
 To contribute, you will need to get the language files stored on your harddrive, pick a language to translate to for a given file that is missing in the status above, use the in-game tool to translate (or a text editor), then commit and push the change as a pull request. We will then test and verify, and potentially merge the change into the game.
@@ -61,4 +61,4 @@ When done, press SAVE.
 ### 4. Contributing your changes
 The last step is to submit your changes to us. This is done through a pull request.
 
-For language-codes, see [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) and [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) alpha-2. For example, for English as written in the United States, first lookup the ISO 3166-1 alpha 2 code for the United States (**us**), then the ISO 639-1 language-code for English (**en**). For constructed languages, see ISO-639-2. For languages that do not belong to a specific country (ex latin), use the language-code as previously specified without a country-code.
+For language-codes, see [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) and [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) alpha-2. For example, for English as written in the United States, first lookup the ISO 3166-1 alpha 2 code for the United States (**us**), then the ISO 639-1 language-code for English (**en**). For constructed languages, see [ISO-639-2](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes). For languages that do not belong to a specific country (ex latin), use the language-code as previously specified without a country-code.
