@@ -153,11 +153,11 @@
   },
   {
     "Identifier": "PhysViewUICM",
-    "Text": "COMMAND MODULE"
+    "Text": "CM"
   },
   {
     "Identifier": "PhysViewUILM",
-    "Text": "LUNAR MODULE"
+    "Text": "LM"
   },
   {
     "Identifier": "ViewOutOfBounds",
@@ -994,5 +994,69 @@
   {
     "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
     "Text": "Waiting to reach Pe T-{0} seconds. Time left: {1} seconds."
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "RADIO CHECK"
+  },
+  {
+    "Identifier": "RadioCommMenu_TLI",
+    "Text": "S-IVB BURN PLANNER"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "BURN PLANNER"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestPDI",
+    "Text": "REQUEST PDI"
+  },
+  {
+    "Identifier": "RadioCommMenu_Request",
+    "Text": "REQUEST"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestTEI",
+    "Text": "REQUEST TEI"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestCSI2",
+    "Text": "REQUEST CSI-2"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewMembers",
+    "Text": "CREW MEMBERS"
+  },
+  {
+    "Identifier": "RadioCommMenu_CAPCOM",
+    "Text": "CAPCOM"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseAscent",
+    "Text": "ASCENT"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCDH",
+    "Text": "CDH"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCSI",
+    "Text": "CSI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhasePC",
+    "Text": "PC"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPF",
+    "Text": "TPF"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPI",
+    "Text": "TPI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPM",
+    "Text": "TPM"
   }
 ]
