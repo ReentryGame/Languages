@@ -1,0 +1,270 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "COMMANDERS SEAT"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "LEFT PANELS"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "RIGHT PANELS"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "UPPER PANELS"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "WINDOW"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "RADIO CHECK"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "ALTITUDE CHECK"
+  },
+  {
+    "Identifier": "CommReq_ClockReport",
+    "Text": "CLOCK STARTED"
+  },
+  {
+    "Identifier": "CommReq_BatteryCheck",
+    "Text": "BATTERY CHECK"
+  },
+  {
+    "Identifier": "CommReq_TempCheck",
+    "Text": "TEMP CHECK"
+  },
+  {
+    "Identifier": "CommReq_SetRETROtoNextAP",
+    "Text": "RETRO AT NEXT AP"
+  },
+  {
+    "Identifier": "CommReq_MessageCapCom",
+    "Text": "MESSAGE CAPCOM"
+  },
+  {
+    "Identifier": "CommReq_PadSwitchToInternalPower",
+    "Text": "SWITCH TO INTERNAL POWER"
+  },
+  {
+    "Identifier": "CommReq_RequestAbortCapability",
+    "Text": "REQUEST ABORT CAPABILITY TEST"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "TOGGLE JUKEBOX"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "MANUAL ASCENT DATA"
+  },
+  {
+    "Identifier": "CommReq_AttitudeInfo",
+    "Text": "ATTITUDE DATA"
+  },
+  {
+    "Identifier": "Radio_NegativeClockCheck",
+    "Text": "Negative! Umbilical  still connected."
+  },
+  {
+    "Identifier": "RadioCheck_HF",
+    "Text": "{0}, we read you {1}/5 on HF."
+  },
+  {
+    "Identifier": "RadioCheck_UHF",
+    "Text": "{0}, we read you {1}/5 on UHF."
+  },
+  {
+    "Identifier": "Radio_RetroTimeUpdated",
+    "Text": "{0}, Time to Retro has been updated. Please double check and make adjustments."
+  },
+  {
+    "Identifier": "Radio_TempCheck",
+    "Text": "{0}, your temperatures are fine."
+  },
+  {
+    "Identifier": "Radio_AltCheck_OnPad",
+    "Text": "the launch pad"
+  },
+  {
+    "Identifier": "Radio_AltCheck_WeSeeYouAt",
+    "Text": "We see you at {0}."
+  },
+  {
+    "Identifier": "Radio_AltCheck_NoTLM",
+    "Text": "We are unable to see your telemetry."
+  },
+  {
+    "Identifier": "Radio_ClockOperational",
+    "Text": "Acknowledged, clock is operational."
+  },
+  {
+    "Identifier": "Radio_Staging",
+    "Text": "We confirm staging on {0}."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "None."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Press {0} when ready to proceed with the mission."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Press ROGER when ready to proceed with the mission."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Waiting for liftoff."
+  },
+  {
+    "Identifier": "MissionObjective_State_SECO",
+    "Text": "Awaiting SECO."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Tower",
+    "Text": "Awaiting tower separation."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_LV",
+    "Text": "Awaiting launch vehicle separation."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Complete panel configuration."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Complete checklist with ID {0}."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Reach an altitude greater than {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Reach an altitude less than {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Move Ap altitude to {0} or greater."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Move Pe altitude to {0} or greater."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Adjust orbit to {0} Ap x {1} Pe altitude (km) or greater."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Get in-range of radio station {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "Get in longitudinal range of radio station {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Reach a Longitude between {0} and {1} degrees."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Reach a Latitude between {0} and {1} degrees."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "Wait for retrosequence start."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Reach an orbital plane of {0} with a threshold of +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "Waiting for Booster separation."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "Waiting for Retrograde section separation."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Awaiting initial atmospheric drag (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "Awaiting drogue deploy."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "Awaiting main deploy."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Waiting for atmospheric entry to start."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Complete the checklist."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Get through the atmosphere."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "Awaiting ignition of the retrograde engines."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Get to an altitude less than {0} feet."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "Splashdown."
+  },
+  {
+    "Identifier": "MissionObjective_PerformBloodCheck",
+    "Text": "Perform a blood pressure check."
+  },
+  {
+    "Identifier": "RadioMessage_UmbilicalDisconnect",
+    "Text": "Umbilical disconnect!"
+  },
+  {
+    "Identifier": "RadioMessage_SetSpacecraftToReady",
+    "Text": "{0}, we can't see you are ready. Switch LAUNCH CONTROL switch to READY. Countdown is complete!"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, requesting countdown hold."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, please resume the countdown."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, holding countdown."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, countdown resumed."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "RESUME COUNTDOWN"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "HOLD COUNTDOWN"
+  }
+]
