@@ -38,15 +38,15 @@
     },
     {
       "Identifier": "ContextMenu_Mercury",
-      "Text": "PROJECTO MERCURY\r\n"
+      "Text": "PROJECTO MERCURY"
     },
     {
       "Identifier": "ContextMenu_Gemini",
-      "Text": "PROJECTO GEMINI\r\n"
+      "Text": "PROJECTO GEMINI"
     },
     {
       "Identifier": "ContextMenu_Apollo",
-      "Text": "PROJECTO APOLLO\r\n"
+      "Text": "PROJECTO APOLLO"
     },
     {
       "Identifier": "ContextMenu_Credits",
@@ -98,7 +98,7 @@
     },
     {
       "Identifier": "MainMenuItem_Workshop",
-      "Text": "WORKSHOP\r\n"
+      "Text": "WORKSHOP"
     },
     {
       "Identifier": "MainMenuItem_Contribute",
@@ -126,11 +126,11 @@
     },
     {
       "Identifier": "AcademyMenu_ButtonMercuryTutorials",
-      "Text": "CLASES DEL PROYECTO MERCURY\r\n"
+      "Text": "CLASES DEL PROYECTO MERCURY"
     },
     {
       "Identifier": "AcademyMenu_ButtonGeminiTutorials",
-      "Text": "CLASES DEL PROYECTO GEMINI\r\n"
+      "Text": "CLASES DEL PROYECTO GEMINI"
     },
     {
       "Identifier": "AcademyMenu_ButtonApolloTutorials",
@@ -150,11 +150,11 @@
     },
     {
       "Identifier": "MissionsMenu_ButtonGemini",
-      "Text": "PROJECTO GEMINI\r\n"
+      "Text": "PROJECTO GEMINI"
     },
     {
       "Identifier": "MissionsMenu_ButtonApollo",
-      "Text": "PROJECTO APOLLO\r\n"
+      "Text": "PROJECTO APOLLO"
     },
     {
       "Identifier": "MissionsMenu_FreePlay",
@@ -182,23 +182,23 @@
     },
     {
       "Identifier": "ProgramInfo_Mercury",
-      "Text": "El Proyecto Mercury fue el primer proyecto del programa espacial estadounidense, con el objetivo de lanzar de forma segura a un astronauta a la orbita terrestre y traerlo de vuelta sano y salvo.\r\n"
+      "Text": "El Proyecto Mercury fue el primer proyecto del programa espacial estadounidense, con el objetivo de lanzar de forma segura a un astronauta a la orbita terrestre y traerlo de vuelta sano y salvo."
     },
     {
       "Identifier": "ProgramInfo_Gemini",
-      "Text": "El proyecto Gemini fue el segundo en el programa espacial estadounidense, fue conocido como el Puente hacia la Luna.\r\n"
+      "Text": "El proyecto Gemini fue el segundo en el programa espacial estadounidense, fue conocido como el Puente hacia la Luna."
     },
     {
       "Identifier": "ProgramInfo_Apollo",
-      "Text": "El proyecto Apollo es el programa que eventualmente hizo aterrizar hombres en la Luna.\r\r\n\r\n"
+      "Text": "El proyecto Apollo es el programa que eventualmente hizo aterrizar hombres en la Luna."
     },
     {
       "Identifier": "ProgramInfo_MCC",
-      "Text": "El Centro de Control del Mercury, es un modo multijugador donde multiples controladores de misión deben apoyar una misión Mercury.\r\r\n\r\n"
+      "Text": "El Centro de Control del Mercury, es un modo multijugador donde multiples controladores de misión deben apoyar una misión Mercury."
     },
     {
       "Identifier": "ProgramInfo_MOCR",
-      "Text": "El Centro \rde Control de Misiones en Vivo, permite que multiples controladores apoyen una misión Apollo a traves del MOCR.\n"
+      "Text": "El Centro \rde Control de Misiones en Vivo, permite que multiples controladores apoyen una misión Apollo a traves del MOCR."
     },
     {
       "Identifier": "Profile_PlayerName",
@@ -262,23 +262,23 @@
     },
     {
       "Identifier": "Settings_ChecklistsDesc",
-      "Text": "AVISO: Esto va a restablecer todas las listas de tareas a la configuración por defecto. Porfavor crea una cópia de seguridad si has hecho alguna modificación a las listas de tareas por defecto.\r\nTus propia listas no serán afectadas.\r\n"
+      "Text": "AVISO: Esto va a restablecer todas las listas de tareas a la configuración por defecto. Porfavor crea una cópia de seguridad si has hecho alguna modificación a las listas de tareas por defecto.Tus propia listas no serán afectadas."
     },
     {
       "Identifier": "Settings_ResetDefaultChecklists",
-      "Text": "RESTURAR LISTAS DE TAREAS POR DEFECTO\r\r\n\r\n"
+      "Text": "RESTURAR LISTAS DE TAREAS POR DEFECTO"
     },
     {
       "Identifier": "Settings_ToggleAutoChecklistReset",
-      "Text": "Buscar automaticamente cambios a las listas de tareas por defecto.\r\r\r\n\r\r\n\r\n"
+      "Text": "Buscar automaticamente cambios a las listas de tareas por defecto."
     },
     {
       "Identifier": "Settings_PanelStates",
-      "Text": "PANEL DE ESTADOS\r\r\r\r\n\r\r\r\n\r\r\n\r\n"
+      "Text": "PANEL DE ESTADOS"
     },
     {
       "Identifier": "Settings_PanelStatesDesc",
-      "Text": "AVISO: Esto va a restablecer todos los paneles de estado por defecto a la configuración por defecto. Porfavor crea una cópia de seguridad si has hecho alguna modificación a los paneles de estado por defecto.\r\r\r\nTus propio panel de estado no será afectado.\r\r\r\n\r\r\n\r\r\r\n\r\r\n\r\n"
+      "Text": "AVISO: Esto va a restablecer todos los paneles de estado por defecto a la configuración por defecto. Porfavor crea una cópia de seguridad si has hecho alguna modificación a los paneles de estado por defecto.\r\r\r\nTus propio panel de estado no será afectado."
     },
     {
       "Identifier": "Settings_PanelStatesReset",
@@ -294,7 +294,7 @@
     },
     {
       "Identifier": "Settings_Audio",
-      "Text": "AUDIO\r\r\r\n\r\r\n\r\n"
+      "Text": "AUDIO"
     },
     {
       "Identifier": "Settings_AudioMusic",
@@ -302,7 +302,7 @@
     },
     {
       "Identifier": "Settings_AudioSFX",
-      "Text": "SFX\r\r\r\n\r\r\n\r\n"
+      "Text": "SFX"
     },
     {
       "Identifier": "Settings_AudioCabinNoise",
@@ -310,19 +310,19 @@
     },
     {
       "Identifier": "Settings_ToggleEnableSFXDSKYRelayClicking",
-      "Text": "Click Rele DSKY\r\r\r\n\r\r\n\r\n"
+      "Text": "Click Rele DSKY"
     },
     {
       "Identifier": "Settings_TrackIR",
-      "Text": "TRACKIR\r\r\r\n\r\r\n\r\n"
+      "Text": "TRACKIR"
     },
     {
       "Identifier": "Settings_Autosave",
-      "Text": "AUTOGUARDADO\n"
+      "Text": "AUTOGUARDADO"
     },
     {
       "Identifier": "Settings_AutosaveDesc",
-      "Text": "Esto va a crear un autoguardado durante\r puntos criticos como la Inserción, SOI Lunar, PDI, etc.\n"
+      "Text": "Esto va a crear un autoguardado durante\r puntos criticos como la Inserción, SOI Lunar, PDI, etc."
     },
     {
       "Identifier": "Settings_ToggleAutosave",
@@ -374,7 +374,7 @@
     },
     {
       "Identifier": "Settings_OutputLiveDesc",
-      "Text": "Esto exportara\r\r\r datos del OBC, AGC y el panel LGC en tiempo real a los archivos dedicados in las carpetas de Exportación (en la carpeta AppData en Reentry). Esto puede usarse para mostrar los datos en un dispositivo externo (como loT).\n\r\r\n\r\n"
+      "Text": "Esto exportara datos del OBC, AGC y el panel LGC en tiempo real a los archivos dedicados in las carpetas de Exportación (en la carpeta AppData en Reentry). Esto puede usarse para mostrar los datos en un dispositivo externo (como loT)."
     },
     {
       "Identifier": "Settings_ToggleOutputLive",
@@ -406,23 +406,23 @@
     },
     {
       "Identifier": "MissionControlLive_MCC",
-      "Text": "CENTRO DE CONTROL DEL MERCURY\r\n"
+      "Text": "CENTRO DE CONTROL DEL MERCURY"
     },
     {
       "Identifier": "MissionControlLive_MOCR",
-      "Text": "CONTROL DE MISIÓN DEL APOLLO\r\n"
+      "Text": "CONTROL DE MISIÓN DEL APOLLO"
     },
     {
       "Identifier": "MissionControlLive_LFG",
-      "Text": "LFG EN DISCORD\r\n"
+      "Text": "LFG EN DISCORD"
     },
     {
       "Identifier": "GraphicsSettings_Title",
-      "Text": "CONFIGURACIONES GRÁFICAS\r\r\n\r\n"
+      "Text": "CONFIGURACIONES GRÁFICAS"
     },
     {
       "Identifier": "GraphicsSettings_ProbeQualityTitle",
-      "Text": "Calidad de reflejo de la Sonda\r\r\n\r\n"
+      "Text": "Calidad de reflejo de la Sonda"
     },
     {
       "Identifier": "GraphicsSettings_ProbeQualityDesc",
@@ -430,11 +430,11 @@
     },
     {
       "Identifier": "GraphicsSettings_ProbeQualityInfo",
-      "Text": "APAGADO: Todas las sondas de reflexión se apagarán\r\r\r\nBAJO: Las sondas críticas se actualizarán en catorce fotogramas, Resolución máxima: 256\r\r\r\nMEDIA: Las sondas críticas se actualizarán en nueve fotogramas, Máx. resolución: 512\r\r\r\nALTA: Las sondas críticas se actualizarán dentro de un marco.\r\r\r\nULTIMATE: Todas las sondas se actualizarán dentro de un marco.\r\r\r\n\r\ r\n\r\n"
+      "Text": "APAGADO: Todas las sondas de reflexión se apagarán BAJO: Las sondas críticas se actualizarán en catorce fotogramas, Resolución máxima: 256 MEDIA: Las sondas críticas se actualizarán en nueve fotogramas, Máx. resolución: 512 ALTA: Las sondas críticas se actualizarán dentro de un marco.ULTIMATE: Todas las sondas se actualizarán dentro de un marco."
     },
     {
       "Identifier": "GraphicsSettings_PostProcessingTitle",
-      "Text": "Post Procesado\r\r\n\r\n"
+      "Text": "Post Procesado"
     },
     {
       "Identifier": "GraphicsSettings_PostProcessingDesc",
@@ -442,59 +442,59 @@
     },
     {
       "Identifier": "GraphicsSettings_SSAOTitle",
-      "Text": "Oclusion Ambiente Espacio\r\r\n\r\n"
+      "Text": "Oclusion Ambiente Espacio"
     },
     {
       "Identifier": "GraphicsSettings_SSAODesc",
-      "Text": "SSAO mejorado es una forma de generar sombras y áreas oscuras en puntos geométricos estrechos, como esquinas, agujeros, etc. Si necesita ciclos adicionales en otro lugar, considere desactivarlo.\r\r\n\r\n"
+      "Text": "SSAO mejorado es una forma de generar sombras y áreas oscuras en puntos geométricos estrechos, como esquinas, agujeros, etc. Si necesita ciclos adicionales en otro lugar, considere desactivarlo."
     },
     {
       "Identifier": "GraphicsSettings_WindowGlareTitle",
-      "Text": "Deslumbramiento de la ventana principal de procesamiento\r\r\n\r\n"
+      "Text": "Deslumbramiento de la ventana principal de procesamiento"
     },
     {
       "Identifier": "GraphicsSettings_WindowGlareDesc",
-      "Text": "Esto generará un reflejo interno en las ventanas principales de la cabina. Cuanto más oscura sea la cabina, menos reflejo verá. Por lo tanto, se recomienda apagar las luces si va a realizar tareas en las que es fundamental mirar por las ventanas.\r\r\nSi la configuración de la sonda de reflexión anterior está configurada en una de las configuraciones más bajas (excepto apagada), recomiendo apagarla como los reflejos tendran un retraso en las actualizaciones\r\r\n\r\n"
+      "Text": "Esto generará un reflejo interno en las ventanas principales de la cabina. Cuanto más oscura sea la cabina, menos reflejo verá. Por lo tanto, se recomienda apagar las luces si va a realizar tareas en las que es fundamental mirar por las ventanas.\r\r\nSi la configuración de la sonda de reflexión anterior está configurada en una de las configuraciones más bajas (excepto apagada), recomiendo apagarla como los reflejos tendran un retraso en las actualizaciones"
     },
     {
       "Identifier": "GraphicsSettings_RenderCrewModelTitle",
-      "Text": "Modelos de Renderizado de la Tripulación\r\r\n\r\n"
+      "Text": "Modelos de Renderizado de la Tripulación"
     },
     {
       "Identifier": "GraphicsSettings_RenderCrewModelDesc",
-      "Text": "Habilitar esto generará modelos 3D de la tripulación dentro del CSM y ML. Se están desarrollando los modelos Mercury y\r\r\nGéminis, así como un generador adecuado de cara/avatar.\r\r\n\r\n"
+      "Text": "Habilitar esto generará modelos 3D de la tripulación dentro del CSM y ML. Se están desarrollando los modelos Mercury y Géminis, así como un generador adecuado de cara/avatar."
     },
     {
       "Identifier": "GraphicsSettings_RenderLunarRocksTitle",
-      "Text": "Renderizar Rocas Lunares\r\r\n\r\n"
+      "Text": "Renderizar Rocas Lunares"
     },
     {
       "Identifier": "GraphicsSettings_RenderLunarRocksDesc",
-      "Text": "Rocas Lunares es parte de la fase final del descenso y se representa en la superficie lunar. Estas son bastante exigentes para algunos sistemas, por lo que si las cosas son lentas, intente desactivar esto.\r\r\n\r\n"
+      "Text": "Rocas Lunares es parte de la fase final del descenso y se representa en la superficie lunar. Estas son bastante exigentes para algunos sistemas, por lo que si las cosas son lentas, intente desactivar esto."
     },
     {
       "Identifier": "GraphicsSettings_LRVWheelParticlesTitle",
-      "Text": "Renderizar Particulas de la Rueda VRL\r\r\n\r\n"
+      "Text": "Renderizar Particulas de la Rueda VRL"
     },
     {
       "Identifier": "GraphicsSettings_LRVWheelParticlesDesc",
-      "Text": "Mientras conduce el VRL, las ruedas recogen arena. Estos son simulados por partículas. Esto puede ser agotador, por lo que si las cosas son lentas mientras conduce, intente desactivar esto.\r\r\n\r\n"
+      "Text": "Mientras conduce el VRL, las ruedas recogen arena. Estos son simulados por partículas. Esto puede ser agotador, por lo que si las cosas son lentas mientras conduce, intente desactivar esto."
     },
     {
       "Identifier": "GraphicsSettings_CMInteriorTitle",
-      "Text": "Interior Modulo Comando\r\r\n\r\n"
+      "Text": "Interior Modulo Comando"
     },
     {
       "Identifier": "GraphicsSettings_CMInteriorDesc",
-      "Text": "La actualización del interior del módulo de comando reemplazará el interior de baja poli existente. Los paneles seguirán siendo los mismos, pero el interior será más realista, pero también muy costoso de renderizar.\r\r\n\r\n"
+      "Text": "La actualización del interior del módulo de comando reemplazará el interior de baja poli existente. Los paneles seguirán siendo los mismos, pero el interior será más realista, pero también muy costoso de renderizar."
     },
     {
       "Identifier": "GraphicsSettings_MoonTessellationTitle",
-      "Text": "Teselación Luna\r\r\n\r\n"
+      "Text": "Teselación Luna"
     },
     {
       "Identifier": "GraphicsSettings_MoonTessellationDesc",
-      "Text": "Cuando está en órbita alrededor de la Luna, un método llamado Tessellation genera los detalles lunares. Esto se hace en la GPU y puede ser bastante costoso de renderizar. Tres parámetros le permiten controlar el teselado: Factor, Distancia mínima y Distancia máxima.\r\nEl factor define cuánto teselar. Los valores comunes son 1, 8, 16, 32, etc. La distancia mínima y máxima define la ventana de qué teselar. Las cosas más cercanas a usted que la distancia mínima estarán 100% teseladas. Las cosas más alejadas de la Distancia Máxima serán 0% Teseladas. Si algo está más lejos que el mínimo pero más cerca que el máximo, se teselará según la interpolación.\r\n"
+      "Text": "Cuando está en órbita alrededor de la Luna, un método llamado Tessellation genera los detalles lunares. Esto se hace en la GPU y puede ser bastante costoso de renderizar. Tres parámetros le permiten controlar el teselado: Factor, Distancia mínima y Distancia máxima.\r\nEl factor define cuánto teselar. Los valores comunes son 1, 8, 16, 32, etc. La distancia mínima y máxima define la ventana de qué teselar. Las cosas más cercanas a usted que la distancia mínima estarán 100% teseladas. Las cosas más alejadas de la Distancia Máxima serán 0% Teseladas. Si algo está más lejos que el mínimo pero más cerca que el máximo, se teselará según la interpolación."
     },
     {
       "Identifier": "GraphicsSettings_MoonTessellation_Factor",
