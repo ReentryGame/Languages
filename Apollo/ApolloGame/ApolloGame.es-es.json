@@ -24,10 +24,6 @@
     "Text": "CAMBIAR A MC"
   },
   {
-    "Identifier": "ViewSelector_SwitchSpacecraftLM",
-    "Text": "CAMBIAR A MC"
-  },
-  {
     "Identifier": "ViewSelector_CM_LeftSeat",
     "Text": "ASIENTO IZQ"
   },
@@ -89,7 +85,7 @@
   },
   {
     "Identifier": "CommTools_ToggleCOAS",
-    "Text": "PALANCA\nCOAS"
+    "Text": "PALANCA\r\nCOAS"
   },
   {
     "Identifier": "CommTools_ToggleHatch",
@@ -161,7 +157,7 @@
   },
   {
     "Identifier": "ViewOutOfBounds",
-    "Text": "\n\n\n\n\n\n\nFUERA DE LOS LÍMITES, REGRESAR A LA CABINA.\n(CAMBIAR VISTA PARA RESTABLECER)"
+    "Text": "\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\nFUERA DE LOS LÍMITES, REGRESAR A LA CABINA.\r\r\r\n(CAMBIAR VISTA PARA RESTABLECER)"
   },
   {
     "Identifier": "BurnPlanner_Title",
@@ -277,7 +273,7 @@
   },
   {
     "Identifier": "TLIPlanner_Params_Time_Desc",
-    "Text": "Tiempo de transferencia expresado como fracción del tiempo de transferencia de Hohmann.\nRango de 0,1 a 1,5"
+    "Text": "Tiempo de transferencia expresado como fracción del tiempo de transferencia de Hohmann.\r\nRango de 0,1 a 1,5"
   },
   {
     "Identifier": "TLIPlanner_Params_SOI_Title",
@@ -441,7 +437,7 @@
   },
   {
     "Identifier": "LunarAscent_BurnCalcData",
-    "Text": "Combustion TPI Hohmann programada a las {0} TME con un dV de {1} fps. LGC está actualizado. Ejecute P30 para configurar y P41 para ejecutar".
+    "Text": "Combustion TPI Hohmann programada a las {0} TME con un dV de {1} fps. LGC está actualizado. Ejecute P30 para configurar y P41 para ejecutar"
   },
   {
     "Identifier": "LunarAscent_CSIError",
@@ -589,7 +585,7 @@
   },
   {
     "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
-    "Text": "Tiempo hasta Ignicion"
+    "Text": "Tiempo a Ignicion"
   },
   {
     "Identifier": "BurnPlanner_BurnData_EstBurnT",
@@ -621,7 +617,7 @@
   },
   {
     "Identifier": "TEIPlanner_Calc",
-    "Text": "Periapsis: {0:0.00} nmi alt\nTiempo hasta EI={1}\nΔV={2} ft/s\nTiempo hasta combustion={3}"
+    "Text": "Periapsis: {0:0.00} nmi alt\r\r ({4} nmi)\nTiempo hasta EI={1}\r\r\nΔV={2} ft/s\r\r\nTiempo hasta combustion={3}"
   },
   {
     "Identifier": "TEIPlanner_Warning2",
@@ -629,19 +625,19 @@
   },
   {
     "Identifier": "TEIPlanner_Warning3",
-    "Text":"Verifique la puntuación de entrada de la fracción de velocidad de escape."
+    "Text": "Verifique la puntuación de entrada de la fracción de velocidad de escape."
   },
   {
     "Identifier": "TEIPlanner_Warning4",
-    "Text":"Compruebe la excentricidad de la órbita. Órbita circular requerida para la maniobra TEI."
+    "Text": "Compruebe la excentricidad de la órbita. Órbita circular requerida para la maniobra TEI."
   },
   {
     "Identifier": "MissionObjective_None",
-    "Text":"Nada."
+    "Text": "Nada."
   },
   {
     "Identifier": "MissionObjective_RogerToProceed",
-    "Text": "Presiona {0} cuando estés listo para continuar con la misión.."
+    "Text": "Presiona {0} cuando estés listo para continuar con la misión."
   },
   {
     "Identifier": "MissionObjective_RogerToProceedDefault",
@@ -777,15 +773,15 @@
   },
   {
     "Identifier": "MissionObjective_CM_Separation_StageSM",
-    "Text": "Esperar a la separación de MS."
+    "Text": "Esperar a la separación de SM."
   },
   {
     "Identifier": "MissionObjective_CM_GravityInfluencer_Earth",
-    "Text": "Alcanza la influencia de la gravedad de la Tierra.."
+    "Text": "Alcanza la influencia de la gravedad de la Tierra."
   },
   {
     "Identifier": "MissionObjective_CM_GravityInfluencer_Moon",
-    "Text": "Alcanza la influencia de la gravedad de la Luna.."
+    "Text": "Alcanza la influencia de la gravedad de la Luna."
   },
   {
     "Identifier": "MissionObjective_CM_State_DrogueDeploy",
@@ -994,5 +990,69 @@
   {
     "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
     "Text": "Esperando a llegar a Pe T-{0} segundos. Tiempo restante: {1} segundos."
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "RADIO CHECK"
+  },
+  {
+    "Identifier": "RadioCommMenu_TLI",
+    "Text": "S-IVB BURN PLANNER"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "BURN PLANNER"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestPDI",
+    "Text": "REQUEST PDI"
+  },
+  {
+    "Identifier": "RadioCommMenu_Request",
+    "Text": "REQUEST"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestTEI",
+    "Text": "REQUEST TEI"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestCSI2",
+    "Text": "REQUEST CSI-2"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewMembers",
+    "Text": "CREW MEMBERS"
+  },
+  {
+    "Identifier": "RadioCommMenu_CAPCOM",
+    "Text": "CAPCOM"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseAscent",
+    "Text": "ASCENT"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCDH",
+    "Text": "CDH"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCSI",
+    "Text": "CSI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhasePC",
+    "Text": "PC"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPF",
+    "Text": "TPF"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPI",
+    "Text": "TPI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPM",
+    "Text": "TPM"
   }
 ]

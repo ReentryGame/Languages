@@ -478,5 +478,29 @@
   {
     "Identifier": "MissionObjective_Orbit_TimeToRetro_Value1Seconds",
     "Text": "Reach T -{0} seconds to retrograde burn. Time left: {1}"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, requesting countdown hold."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, please resume the countdown."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, holding countdown."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, countdown resumed."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "RESUME COUNTDOWN"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "HOLD COUNTDOWN"
   }
 ]

@@ -24,10 +24,6 @@
     "Text": "SWITCH TO CM"
   },
   {
-    "Identifier": "ViewSelector_SwitchSpacecraftLM",
-    "Text": "SWITCH TO CM"
-  },
-  {
     "Identifier": "ViewSelector_CM_LeftSeat",
     "Text": "LH SEAT"
   },

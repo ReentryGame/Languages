@@ -181,7 +181,7 @@
   },
   {
     "Identifier": "ProgramInfo_MOCR",
-    "Text": "Mission Operations Control Center Live er en flerspiller modul der flere kontrollører kan støtte et Apollo-oppdrag."
+    "Text": "Mission Operations Control Center Live  er en flerspiller modul der flere kontrollører kan støtte et Apollo-oppdrag."
   },
   {
     "Identifier": "Profile_PlayerName",
@@ -409,7 +409,7 @@
   },
   {
     "Identifier": "RealismSettings_SwitchHighlighterDesc",
-    "Text": "nb-no: Enabling this will draw a cube around the instrument or switch your mouse cursor is hovering."
+    "Text": "nb-no: Enabeling this will draw a cube around the instrument or switch your mouse cursor is hovering."
   },
   {
     "Identifier": "RealismSettings_OffscreenSwitchIndicatorTitle",
@@ -417,7 +417,7 @@
   },
   {
     "Identifier": "RealismSettings_OffscreenSwitchIndicatorDesc",
-    "Text": "nb-no: Enabling this will draw an indicator in the direction of a highlighted switch, if this switch is located outside the player view."
+    "Text": "nb-no: Enabeling this will draw an indicator in the direction of a highlighted switch, if this switch is located outside the player view."
   },
   {
     "Identifier": "RealismSettings_AutoProceedChecklistTitle",
@@ -433,7 +433,7 @@
   },
   {
     "Identifier": "RealismSettings_SimplifiedDockingDesc",
-    "Text": "nb-no: Enabling this will make docking or near docking maneuvering simpler, such as when docking with Agena, or flying in closer proximity with a target vehicle."
+    "Text": "nb-no: Enabeling this will make docking or near docking maneuvering simpler, such as when docking with Agena, or flying in closer proximity with a target vehicle."
   },
   {
     "Identifier": "RealismSettings_ReduceApolloLaunchShakeTitle",
@@ -441,7 +441,7 @@
   },
   {
     "Identifier": "RealismSettings_ReduceApolloLaunchShakeDesc",
-    "Text": "nb-no: Enabling this will reduce the amount shaking on the camera during an Apollo Saturn V ascent (SIC and SII)."
+    "Text": "nb-no: Enabeling this will reduce the amount shaking on the camera during an Apollo Saturn V ascent (SIC and SII)."
   },
   {
     "Identifier": "RealismSettings_LunarLandingPoleTitle",
