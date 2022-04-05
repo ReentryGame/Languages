@@ -1,0 +1,270 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "ASIENTO COMANDANTE"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "PANELES IZQUIERDOS"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "PANELES DERECHOS"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "PANELES SUPERIORES"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "VENTANA"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "COMPROBACION DE RADIO"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "COMPROBACION DE ALTITUD"
+  },
+  {
+    "Identifier": "CommReq_ClockReport",
+    "Text": "RELOJ INICIADO"
+  },
+  {
+    "Identifier": "CommReq_BatteryCheck",
+    "Text": "COMPROBACION DE BATERIA"
+  },
+  {
+    "Identifier": "CommReq_TempCheck",
+    "Text": "COMPROBACION DE TEMPERATURA"
+  },
+  {
+    "Identifier": "CommReq_SetRETROtoNextAP",
+    "Text": "RETRO EN EL PRÓXIMO AP"
+  },
+  {
+    "Identifier": "CommReq_MessageCapCom",
+    "Text": "MENSAJE A CAPCOM"
+  },
+  {
+    "Identifier": "CommReq_PadSwitchToInternalPower",
+    "Text": "CAMBIAR A ENERGIA INTERIOR"
+  },
+  {
+    "Identifier": "CommReq_RequestAbortCapability",
+    "Text": "SOLICITAR PRUEBA DE CAPACIDAD DE ABORTAR"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "PALANCA MUSICA"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "DATOS ASCENSO MANUAL"
+  },
+  {
+    "Identifier": "CommReq_AttitudeInfo",
+    "Text": "DATOS ALTITUD"
+  },
+  {
+    "Identifier": "Radio_NegativeClockCheck",
+    "Text": "Negativo! Umbilical  sigue conectado."
+  },
+  {
+    "Identifier": "RadioCheck_HF",
+    "Text": "{0}, te hemos leido {1}/5 en HF."
+  },
+  {
+    "Identifier": "RadioCheck_UHF",
+    "Text": "{0}, te hemos leido {1}/5 en UHF."
+  },
+  {
+    "Identifier": "Radio_RetroTimeUpdated",
+    "Text": "{0}, Time to Retro ha sido actualizado. Por favor verifique dos veces y haga ajustes."
+  },
+  {
+    "Identifier": "Radio_TempCheck",
+    "Text": "{0}, tus temperaturas estan bien."
+  },
+  {
+    "Identifier": "Radio_AltCheck_OnPad",
+    "Text": "Plataforma de Lanzamiento"
+  },
+  {
+    "Identifier": "Radio_AltCheck_WeSeeYouAt",
+    "Text": "te vemos en {0}."
+  },
+  {
+    "Identifier": "Radio_AltCheck_NoTLM",
+    "Text": "No podemos ver su telemetría."
+  },
+  {
+    "Identifier": "Radio_ClockOperational",
+    "Text": "Confirmado, el reloj está operativo."
+  },
+  {
+    "Identifier": "Radio_Staging",
+    "Text": "Confirmamos puesta en escena en {0}."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Nada."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Presiona {0} cuando estés listo para continuar con la misión.."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Presiona ROGER cuando estés listo para continuar con la misión.."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Esperando el despegue."
+  },
+  {
+    "Identifier": "MissionObjective_State_SECO",
+    "Text": "En espera de SECO."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Tower",
+    "Text": "En espera de Separacion de Torre."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_LV",
+    "Text": "A la espera de la separación del vehículo de lanzamiento."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Configuración completa de paneles."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Lista de verificación completa con identificación {0}."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Alcanzar una altitud superior a {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Alcanzar una altitud inferior a {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Mover la altitud Ap a {0} o más."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Mover la altitud Pe a {0} o más."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Ajuste la órbita a {0} Ap x {1} Pe altitud (km) o mayor."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Entrar en el rango de la estación de radio {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "Entrar en el rango longitudinal de la estación de radio {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Alcanza una longitud entre {0} y {1} grados."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Alcanza una latitud entre {0} y {1} grados."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "Esperar inicio de retrosecuencia."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Alcanzar un plano orbital de {0} con un umbral de +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "Esperando separación Cohetes."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "Esperando la separación de la sección retrógrada."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "En espera de arrastre atmosférico inicial (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "En espera de despliegue de el drogue."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "En espera de despliegue principal."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Esperando a que comience la entrada atmosférica."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Completa la lista de verificación."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Atraviesa la atmósfera."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "En espera de encendido de los motores retrógrados."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Llegar a una altitud inferior a {0} pies."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "Amerizaje."
+  },
+  {
+    "Identifier": "MissionObjective_PerformBloodCheck",
+    "Text": "Realice un control de la presión arterial."
+  },
+  {
+    "Identifier": "RadioMessage_UmbilicalDisconnect",
+    "Text": "Umbilical desconectado!"
+  },
+  {
+    "Identifier": "RadioMessage_SetSpacecraftToReady",
+    "Text": "{0}, no podemos ver que esté listo. Cambie el interruptor de CONTROL DE LANZAMIENTO a LISTO. cuenta regresiva completa!"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, solicitando retención de cuenta atras."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, por favor reanude la cuenta atras."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, parando cuenta atras."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, cuenta atras continuada."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "CONTINUAR CUENTA ATRAS"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "PARAR CUENTA ATRAS"
+  }
+]
