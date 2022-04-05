@@ -1,270 +1,270 @@
 [
   {
     "Identifier": "ViewSelector_CommandersSeat",
-    "Text": "COMMANDERS SEAT"
+    "Text": "ASIENTO COMANDANTE"
   },
   {
     "Identifier": "ViewSelector_LeftPanels",
-    "Text": "LEFT PANELS"
+    "Text": "PANELES IZQUIERDOS"
   },
   {
     "Identifier": "ViewSelector_RightPanels",
-    "Text": "RIGHT PANELS"
+    "Text": "PANELES DERECHOS"
   },
   {
     "Identifier": "ViewSelector_UpperPanels",
-    "Text": "UPPER PANELS"
+    "Text": "PANELES SUPERIORES"
   },
   {
     "Identifier": "ViewSelector_Window",
-    "Text": "WINDOW"
+    "Text": "VENTANA"
   },
   {
     "Identifier": "CommReq_RadioCheck",
-    "Text": "RADIO CHECK"
+    "Text": "COMPROBACION DE RADIO"
   },
   {
     "Identifier": "CommReq_AltitudeCheck",
-    "Text": "ALTITUDE CHECK"
+    "Text": "COMPROBACION DE ALTITUD"
   },
   {
     "Identifier": "CommReq_ClockReport",
-    "Text": "CLOCK STARTED"
+    "Text": "RELOJ INICIADO"
   },
   {
     "Identifier": "CommReq_BatteryCheck",
-    "Text": "BATTERY CHECK"
+    "Text": "COMPROBACION DE BATERIA"
   },
   {
     "Identifier": "CommReq_TempCheck",
-    "Text": "TEMP CHECK"
+    "Text": "COMPROBACION DE TEMPERATURA"
   },
   {
     "Identifier": "CommReq_SetRETROtoNextAP",
-    "Text": "RETRO AT NEXT AP"
+    "Text": "RETRO EN EL PRÓXIMO AP"
   },
   {
     "Identifier": "CommReq_MessageCapCom",
-    "Text": "MESSAGE CAPCOM"
+    "Text": "MENSAJE A CAPCOM"
   },
   {
     "Identifier": "CommReq_PadSwitchToInternalPower",
-    "Text": "SWITCH TO INTERNAL POWER"
+    "Text": "CAMBIAR A ENERGIA INTERIOR"
   },
   {
     "Identifier": "CommReq_RequestAbortCapability",
-    "Text": "REQUEST ABORT CAPABILITY TEST"
+    "Text": "SOLICITAR PRUEBA DE CAPACIDAD DE ABORTAR"
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
-    "Text": "TOGGLE JUKEBOX"
+    "Text": "PALANCA MUSICA"
   },
   {
     "Identifier": "CommReq_ManualAscentData",
-    "Text": "MANUAL ASCENT DATA"
+    "Text": "DATOS ASCENSO MANUAL"
   },
   {
     "Identifier": "CommReq_AttitudeInfo",
-    "Text": "ATTITUDE DATA"
+    "Text": "DATOS ALTITUD"
   },
   {
     "Identifier": "Radio_NegativeClockCheck",
-    "Text": "Negative! Umbilical  still connected."
+    "Text": "Negativo! Umbilical  sigue conectado."
   },
   {
     "Identifier": "RadioCheck_HF",
-    "Text": "{0}, we read you {1}/5 on HF."
+    "Text": "{0}, te hemos leido {1}/5 en HF."
   },
   {
     "Identifier": "RadioCheck_UHF",
-    "Text": "{0}, we read you {1}/5 on UHF."
+    "Text": "{0}, te hemos leido {1}/5 en UHF."
   },
   {
     "Identifier": "Radio_RetroTimeUpdated",
-    "Text": "{0}, Time to Retro has been updated. Please double check and make adjustments."
+    "Text": "{0}, Time to Retro ha sido actualizado. Por favor verifique dos veces y haga ajustes."
   },
   {
     "Identifier": "Radio_TempCheck",
-    "Text": "{0}, your temperatures are fine."
+    "Text": "{0}, tus temperaturas estan bien."
   },
   {
     "Identifier": "Radio_AltCheck_OnPad",
-    "Text": "the launch pad"
+    "Text": "Plataforma de Lanzamiento"
   },
   {
     "Identifier": "Radio_AltCheck_WeSeeYouAt",
-    "Text": "We see you at {0}."
+    "Text": "te vemos en {0}."
   },
   {
     "Identifier": "Radio_AltCheck_NoTLM",
-    "Text": "We are unable to see your telemetry."
+    "Text": "No podemos ver su telemetría."
   },
   {
     "Identifier": "Radio_ClockOperational",
-    "Text": "Acknowledged, clock is operational."
+    "Text": "Confirmado, el reloj está operativo."
   },
   {
     "Identifier": "Radio_Staging",
-    "Text": "We confirm staging on {0}."
+    "Text": "Confirmamos puesta en escena en {0}."
   },
   {
     "Identifier": "MissionObjective_None",
-    "Text": "None."
+    "Text": "Nada."
   },
   {
     "Identifier": "MissionObjective_RogerToProceed",
-    "Text": "Press {0} when ready to proceed with the mission."
+    "Text": "Presiona {0} cuando estés listo para continuar con la misión.."
   },
   {
     "Identifier": "MissionObjective_RogerToProceedDefault",
-    "Text": "Press ROGER when ready to proceed with the mission."
+    "Text": "Presiona ROGER cuando estés listo para continuar con la misión.."
   },
   {
     "Identifier": "MissionObjective_UmbilicalDisconnect",
-    "Text": "Waiting for liftoff."
+    "Text": "Esperando el despegue."
   },
   {
     "Identifier": "MissionObjective_State_SECO",
-    "Text": "Awaiting SECO."
+    "Text": "En espera de SECO."
   },
   {
     "Identifier": "MissionObjective_Separation_Tower",
-    "Text": "Awaiting tower separation."
+    "Text": "En espera de Separacion de Torre."
   },
   {
     "Identifier": "MissionObjective_Separation_LV",
-    "Text": "Awaiting launch vehicle separation."
+    "Text": "A la espera de la separación del vehículo de lanzamiento."
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration",
-    "Text": "Complete panel configuration."
+    "Text": "Configuración completa de paneles."
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "Complete checklist with ID {0}."
+    "Text": "Lista de verificación completa con identificación {0}."
   },
   {
     "Identifier": "MissionObjective_AltitudeGreater_Value1",
-    "Text": "Reach an altitude greater than {0} km."
+    "Text": "Alcanzar una altitud superior a {0} km."
   },
   {
     "Identifier": "MissionObjective_AltitudeLess_Value1",
-    "Text": "Reach an altitude less than {0} km."
+    "Text": "Alcanzar una altitud inferior a {0} km."
   },
   {
     "Identifier": "MissionObjective_IsApGreaterThan_Value1",
-    "Text": "Move Ap altitude to {0} or greater."
+    "Text": "Mover la altitud Ap a {0} o más."
   },
   {
     "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
-    "Text": "Move Pe altitude to {0} or greater."
+    "Text": "Mover la altitud Pe a {0} o más."
   },
   {
     "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
-    "Text": "Adjust orbit to {0} Ap x {1} Pe altitude (km) or greater."
+    "Text": "Ajuste la órbita a {0} Ap x {1} Pe altitud (km) o mayor."
   },
   {
     "Identifier": "MissionObjective_IsAtRadioStation_String1",
-    "Text": "Get in-range of radio station {0}."
+    "Text": "Entrar en el rango de la estación de radio {0}."
   },
   {
     "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
-    "Text": "Get in longitudinal range of radio station {0}."
+    "Text": "Entrar en el rango longitudinal de la estación de radio {0}."
   },
   {
     "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
-    "Text": "Reach a Longitude between {0} and {1} degrees."
+    "Text": "Alcanza una longitud entre {0} y {1} grados."
   },
   {
     "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
-    "Text": "Reach a Latitude between {0} and {1} degrees."
+    "Text": "Alcanza una latitud entre {0} y {1} grados."
   },
   {
     "Identifier": "MissionObjective_State_RetroSequenceStarting",
-    "Text": "Wait for retrosequence start."
+    "Text": "Esperar inicio de retrosecuencia."
   },
   {
     "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
-    "Text": "Reach an orbital plane of {0} with a threshold of +/- {1}"
+    "Text": "Alcanzar un plano orbital de {0} con un umbral de +/- {1}"
   },
   {
     "Identifier": "MissionObjective_Separation_Booster",
-    "Text": "Waiting for Booster separation."
+    "Text": "Esperando separación Cohetes."
   },
   {
     "Identifier": "MissionObjective_Separation_Retro",
-    "Text": "Waiting for Retrograde section separation."
+    "Text": "Esperando la separación de la sección retrógrada."
   },
   {
     "Identifier": "MissionObjective_State_Dot05GDetected",
-    "Text": "Awaiting initial atmospheric drag (0.05G)."
+    "Text": "En espera de arrastre atmosférico inicial (0.05G)."
   },
   {
     "Identifier": "MissionObjective_State_DrogueDeploy",
-    "Text": "Awaiting drogue deploy."
+    "Text": "En espera de despliegue de el drogue."
   },
   {
     "Identifier": "MissionObjective_State_MainDeploy",
-    "Text": "Awaiting main deploy."
+    "Text": "En espera de despliegue principal."
   },
   {
     "Identifier": "MissionObjective_State_InHiDragZone",
-    "Text": "Waiting for atmospheric entry to start."
+    "Text": "Esperando a que comience la entrada atmosférica."
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistComplete",
-    "Text": "Complete the checklist."
+    "Text": "Completa la lista de verificación."
   },
   {
     "Identifier": "MissionObjective_State_OutsideHighDragZone",
-    "Text": "Get through the atmosphere."
+    "Text": "Atraviesa la atmósfera."
   },
   {
     "Identifier": "MissionObjective_State_RetroBurning",
-    "Text": "Awaiting ignition of the retrograde engines."
+    "Text": "En espera de encendido de los motores retrógrados."
   },
   {
     "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
-    "Text": "Get to an altitude less than {0} feet."
+    "Text": "Llegar a una altitud inferior a {0} pies."
   },
   {
     "Identifier": "MissionObjective_State_Splashdown",
-    "Text": "Splashdown."
+    "Text": "Amerizaje."
   },
   {
     "Identifier": "MissionObjective_PerformBloodCheck",
-    "Text": "Perform a blood pressure check."
+    "Text": "Realice un control de la presión arterial."
   },
   {
     "Identifier": "RadioMessage_UmbilicalDisconnect",
-    "Text": "Umbilical disconnect!"
+    "Text": "Umbilical desconectado!"
   },
   {
     "Identifier": "RadioMessage_SetSpacecraftToReady",
-    "Text": "{0}, we can't see you are ready. Switch LAUNCH CONTROL switch to READY. Countdown is complete!"
+    "Text": "{0}, no podemos ver que esté listo. Cambie el interruptor de CONTROL DE LANZAMIENTO a LISTO. cuenta regresiva completa!"
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown",
-    "Text": "MCC, requesting countdown hold."
+    "Text": "MCC, solicitando retención de cuenta atras."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown",
-    "Text": "MCC, please resume the countdown."
+    "Text": "MCC, por favor reanude la cuenta atras."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown2",
-    "Text": "{0}, holding countdown."
+    "Text": "{0}, parando cuenta atras."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown2",
-    "Text": "{0}, countdown resumed."
+    "Text": "{0}, cuenta atras continuada."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
-    "Text": "RESUME COUNTDOWN"
+    "Text": "CONTINUAR CUENTA ATRAS"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
-    "Text": "HOLD COUNTDOWN"
+    "Text": "PARAR CUENTA ATRAS"
   }
 ]
