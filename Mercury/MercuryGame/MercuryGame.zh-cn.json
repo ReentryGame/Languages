@@ -1,0 +1,246 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "指令长座位视角"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "左面板视角"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "右面板视角"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "顶部面板视角"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "舷窗视角"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "通讯检查"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "高度检查"
+  },
+  {
+    "Identifier": "CommReq_ClockReport",
+    "Text": "开始计时"
+  },
+  {
+    "Identifier": "CommReq_BatteryCheck",
+    "Text": "电池检查"
+  },
+  {
+    "Identifier": "CommReq_TempCheck",
+    "Text": "温度检查"
+  },
+  {
+    "Identifier": "CommReq_SetRETROtoNextAP",
+    "Text": "在下一个原地点反推"
+  },
+  {
+    "Identifier": "CommReq_MessageCapCom",
+    "Text": "航天控制中心消息"
+  },
+  {
+    "Identifier": "CommReq_PadSwitchToInternalPower",
+    "Text": "切换至内部动力"
+  },
+  {
+    "Identifier": "CommReq_RequestAbortCapability",
+    "Text": "进行中断能力测试"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "开关点唱机"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "手动上升数据"
+  },
+  {
+    "Identifier": "CommReq_AttitudeInfo",
+    "Text": "高度数据"
+  },
+  {
+    "Identifier": "Radio_NegativeClockCheck",
+    "Text": "停! 线路仍然连接."
+  },
+  {
+    "Identifier": "RadioCheck_HF",
+    "Text": "{0}, 我们收到 {1}/很清晰的HF信号."
+  },
+  {
+    "Identifier": "RadioCheck_UHF",
+    "Text": "{0}, 我们收到 {1}/很清晰的UHF信号."
+  },
+  {
+    "Identifier": "Radio_RetroTimeUpdated",
+    "Text": "{0}, 反推时间已经更新. 请交叉检查并进行调整."
+  },
+  {
+    "Identifier": "Radio_TempCheck",
+    "Text": "{0}, 当前温度良好."
+  },
+  {
+    "Identifier": "Radio_AltCheck_OnPad",
+    "Text": "发射面板"
+  },
+  {
+    "Identifier": "Radio_AltCheck_WeSeeYouAt",
+    "Text": "观测到你的高度为 {0}."
+  },
+  {
+    "Identifier": "Radio_AltCheck_NoTLM",
+    "Text": "我们暂时无法看到你."
+  },
+  {
+    "Identifier": "Radio_ClockOperational",
+    "Text": "收到, 计时运行正常."
+  },
+  {
+    "Identifier": "Radio_Staging",
+    "Text": "确认收到 {0}."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "无."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "当准备完成时按下 {0} 继续任务."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "按下 ROGER 并继续任务."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "等待点火升空."
+  },
+  {
+    "Identifier": "MissionObjective_State_SECO",
+    "Text": "等待 SECO."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Tower",
+    "Text": "等待逃逸塔分离."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_LV",
+    "Text": "等待火箭分离."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "完成面板设置."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "完成检查单ID {0}."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "到达超过 {0} 公里高度."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "到达低于 {0} 公里高度."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "调整远地点高度至 {0} 或以上."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "调整近地点高度至 {0}或以上."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "调整轨道为远地点 {0} x  近地点{1} 高度(公里) 或以上."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "进入无线电通讯站 {0} 范围内."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "进入电台 {0} 经度范围内."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "进入电台 {0} 和 {1} 度经度范围内."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "进入电台 {0} 和 {1} 度纬度范围内."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "等待反推序列器启动."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "达到轨道面 {0} 保持推力 +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "等待推进分离."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "等待反推器组件分离."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "等待初始大气阻力 (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "等待药物部署."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "等待主要部署."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "等待大气层再入阶段开始."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "检查单完成."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "通过大气层."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "等待反推器点火."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "达到低于 {0} 英尺的高度."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "落水."
+  },
+  {
+    "Identifier": "MissionObjective_PerformBloodCheck",
+    "Text": "执行血压检测."
+  },
+  {
+    "Identifier": "RadioMessage_UmbilicalDisconnect",
+    "Text": "线缆断开!"
+  },
+  {
+    "Identifier": "RadioMessage_SetSpacecraftToReady",
+    "Text": "{0}, 我们不知道你是否准备完毕. 将 LAUNCH CONTROL 开关调至 READY. 倒计时完成!"
+  }
+]
