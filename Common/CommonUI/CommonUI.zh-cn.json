@@ -1,0 +1,185 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "收到"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "拒绝"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "确认"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "当前目标"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ 正在准备座舱...]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V]视角选择"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "外部视角"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "轨道视角"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "任务面板"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "菜单"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "回到任务"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "失效"
+  },{
+    "Identifier": "InGameMenu_Audio",
+    "Text": "音频"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "输入控制"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "保存任务"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "联机任务控制"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "控制台"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "任务编辑器"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "结束任务"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "图像"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "创建 检查单"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C]通讯"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "无线电检查"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "任务"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "简报"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "地图"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "检查单"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "报告单"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "日志"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "音频设置"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "主音量"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "座舱音量"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "外部音量"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "音乐音量"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "音效音量"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "宇航员\n通讯"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "任务控制通讯"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "保存"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "我最近开始实现保存和加载状态进程。 它们目前非常基础，主要保存航天器和物理项目的状态向量，以及驾驶舱面板状态。\n\n我会尽量保持保存文件向后兼容，但请注意保存状态的重大更改，因为当前保存/加载系统处于的早期状态。"
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "警告：现在无法保存。 在动力机动或关键任务阶段禁用保存状态。"
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "保存"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "关闭"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "保存文件名:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "是否覆盖?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "全部清除"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "清除"
+  }
+]
