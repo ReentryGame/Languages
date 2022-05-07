@@ -1,0 +1,18 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "指令长座位"
+  },
+  {
+    "Identifier": "ViewSelector_MainPanel",
+    "Text": "主面板"
+  },
+  {
+    "Identifier": "ViewSelector_ControlPanel",
+    "Text": "控制面板"
+  },
+  {
+    "Identifier": "ViewSelector_VZOR",
+    "Text": "VZOR 范围"
+  }
+]
