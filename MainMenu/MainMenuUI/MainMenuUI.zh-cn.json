@@ -962,5 +962,17 @@
     {
       "Identifier": "MissionsMenu_Apollo_Scenario7",
       "Text": "VII - 回家"
-    }
-  ]
+    },
+    {
+    "Identifier": "RealismSettings_HideChecklistHighlighter",
+    "Text": "隐藏 打开高亮提示"
+    },
+    {
+    "Identifier": "RealismSettings_HideChecklistHighlighterDesc",
+    "Text": "选择此项目将会在检查单或者任务指挥时关闭高亮提示."
+    },
+    {
+    "Identifier": "Settings_TTS",
+    "Text": "朗读文本"
+    },
+]
