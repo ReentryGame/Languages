@@ -45,7 +45,7 @@
   },
   {
     "Identifier": "ContextMenu_Credits",
-    "Text": "CRÉDITS\r DU PROJET"
+    "Text": "CRÉDITS DU PROJET"
   },
   {
     "Identifier": "ContextMenu_WorkshopMission",
@@ -69,7 +69,7 @@
   },
   {
     "Identifier": "MainMenuItem_MissionControl",
-    "Text": "CONTRÔL\rE DE MISSION"
+    "Text": "CONTRÔLE DE MISSION"
   },
   {
     "Identifier": "MainMenuItem_Challenges",
@@ -101,7 +101,7 @@
   },
   {
     "Identifier": "MainMenuItem_DevJournal",
-    "Text": "JOURNAL\r DU DEV"
+    "Text": "JOURNAL DU DEV"
   },
   {
     "Identifier": "MainMenuItem_UpdateNotes",
@@ -161,7 +161,7 @@
   },
   {
     "Identifier": "MissionsMenu_Historic",
-    "Text": "MISSION\r HISTORIQUE"
+    "Text": "MISSION HISTORIQUE"
   },
   {
     "Identifier": "MissionsMenu_MissionControlLive",
@@ -217,15 +217,15 @@
   },
   {
     "Identifier": "Profile_SkillMercuryAstonaut",
-    "Text": "ASTRONAUT\rE MERCURY"
+    "Text": "ASTRONAUTE MERCURY"
   },
   {
     "Identifier": "Profile_SkillCSMAstonaut",
-    "Text": "ASTRONAUT\rE DU MODULE DE COMMANDE "
+    "Text": "ASTRONAUTE DU MODULE DE COMMANDE "
   },
   {
     "Identifier": "Profile_SkillLMAstonaut",
-    "Text": "ASTRONAUT\rE DU MODULE LUNAIRE"
+    "Text": "ASTRONAUTE DU MODULE LUNAIRE"
   },
   {
     "Identifier": "Profile_SkillMercuryController",
@@ -257,7 +257,7 @@
   },
   {
     "Identifier": "Settings_ChecklistsDesc",
-    "Text": "AVERTISSEMENT : Cela réinitialisera toutes les checklists par défaut aux paramètres d'origine. Veuillez créer une sauvegarde si vous avez apporté des modifications aux checklists par défaut.\r\r\r\r\r\r\r\n\r\rVos propres checklists ne seront pas affectées."
+    "Text": "AVERTISSEMENT : Cela réinitialisera toutes les checklists par défaut aux paramètres d'origine. Veuillez créer une sauvegarde si vous avez apporté des modifications aux checklists par défaut.\r\nVos propres checklists ne seront pas affectées."
   },
   {
     "Identifier": "Settings_ResetDefaultChecklists",
@@ -273,7 +273,7 @@
   },
   {
     "Identifier": "Settings_PanelStatesDesc",
-    "Text": "AVERTISSEMENT : Cela réinitialisera toutes les sauvegardes de cockpit par défaut aux paramètres d'origine. Veuillez créer une sauvegarde si vous avez apporté des modifications aux sauvegardes de cockpit par défaut.\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nVos propres sauvegardes de cockpit ne seront pas affectées."
+    "Text": "AVERTISSEMENT : Cela réinitialisera toutes les sauvegardes de cockpit par défaut aux paramètres d'origine. Veuillez créer une sauvegarde si vous avez apporté des modifications aux sauvegardes de cockpit par défaut.\r\n\r\nVos propres sauvegardes de cockpit ne seront pas affectées."
   },
   {
     "Identifier": "Settings_PanelStatesReset",
@@ -285,7 +285,7 @@
   },
   {
     "Identifier": "Settings_EarthTextures",
-    "Text": "TEXTURES\r DE LA TERRE"
+    "Text": "TEXTURES DE LA TERRE"
   },
   {
     "Identifier": "Settings_Audio",
@@ -377,7 +377,7 @@
   },
   {
     "Identifier": "Settings_FunctionalCursor",
-    "Text": "CURSEUR \rCOCKPIT"
+    "Text": "CURSEUR COCKPIT"
   },
   {
     "Identifier": "Settings_Toggle3DClouds",
@@ -385,7 +385,7 @@
   },
   {
     "Identifier": "Settings_FunctionalCursorDesc",
-    "Text": "Le curseur cockpit remplacera le curseur de la souris et fournira des fonctionnalités de jeu telles que le changement de couleur lors du survol des commutateurs. \r\r\nL'inconvénient est qu'il sera rendu dans la boucle de rendu normale."
+    "Text": "Le curseur cockpit remplacera le curseur de la souris et fournira des fonctionnalités de jeu telles que le changement de couleur lors du survol des commutateurs. \r\nL'inconvénient est qu'il sera rendu dans la boucle de rendu normale."
   },
   {
     "Identifier": "Settings_ToggleFunctionalCursor",
@@ -393,7 +393,7 @@
   },
   {
     "Identifier": "Settings_Configure",
-    "Text": "CONFIGURE\rR"
+    "Text": "CONFIGURER"
   },
   {
     "Identifier": "Settings_ResetControls",
@@ -541,7 +541,7 @@
   },
   {
     "Identifier": "RealismSettings_SimplifiedDockingTitle",
-    "Text": "Combustions & Rendezvous\r simplifiés"
+    "Text": "Combustions & Rendezvous simplifiés"
   },
   {
     "Identifier": "RealismSettings_SimplifiedDockingDesc",
