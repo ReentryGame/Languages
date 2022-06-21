@@ -13,15 +13,11 @@
   },
   {
     "Identifier": "CrewMember_CircularizationBurnCompleted",
-    "Text": "收到r, {0}. 圆化燃烧完成."
+    "Text": "收到, {0}. 圆化燃烧完成."
   },
   {
     "Identifier": "ViewSelector_SwitchSpacecraftCSM",
     "Text": "切换至登月舱"
-  },
-  {
-    "Identifier": "ViewSelector_SwitchSpacecraftLM",
-    "Text": "切换至指令舱"
   },
   {
     "Identifier": "ViewSelector_SwitchSpacecraftLM",
@@ -301,7 +297,7 @@
   },
   {
     "Identifier": "TLIPlanner_Data_Title",
-    "Text": "BURN DATA"
+    "Text": "燃烧数据"
   },
   {
     "Identifier": "TLIPlanner_Data_Countdown",
@@ -994,5 +990,69 @@
   {
     "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
     "Text": "等待倒计时 近地点 T-{0} 秒. 剩余时间: {1} 秒."
+   },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "通讯检查"
+  },
+  {
+    "Identifier": "RadioCommMenu_TLI",
+    "Text": "S-IVB 燃烧计划器"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "燃烧计划器"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestPDI",
+    "Text": "请求 PDI"
+  },
+  {
+    "Identifier": "RadioCommMenu_Request",
+    "Text": "请求"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestTEI",
+    "Text": "请求 TEI"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestCSI2",
+    "Text": "请求 CSI-2"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewMembers",
+    "Text": "机组成员"
+  },
+  {
+    "Identifier": "RadioCommMenu_CAPCOM",
+    "Text": "CAPCOM"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseAscent",
+    "Text": "上升"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCDH",
+    "Text": "CDH"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCSI",
+    "Text": "CSI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhasePC",
+    "Text": "PC"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPF",
+    "Text": "TPF"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPI",
+    "Text": "TPI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPM",
+    "Text": "TPM"
   }
 ]
