@@ -1,0 +1,186 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ROGER"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "DENY"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "OBJECTIF ACTUEL"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ PRERATION DE LA CONFIGURATION DU COCKPIT ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "SÉLECTEUR DE [V]UE"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "EXTERNE"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ORBITALE"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "PAS DE TIR"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENU"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "REPRENDRE LA SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "INCIDENT"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "AUDIO"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "INPUT CONTROLS"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "SAUVEGARDER\r\r\r L'ÉTAT ACTUEL"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "CONSOLE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "ÉDITEUR DE MISSION"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "FINIR LA SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRAPHIQUE"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "CRÉER UNE CHECKLIST"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] O M M U N I C A T I O N"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "VERIFICATION RADIO"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "MISSION"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "BRIEFING"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "CARTE"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "CHECKLISTS"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "TRANSCRIPT\rION"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "NOTES"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "PARAMÈTRES AUDIO"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Principale"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Cockpit"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "Externe"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Musique"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Autres SFX"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Astronaut\re\r\r\nComm"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Mission Control Comm"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "SAUVEGARDER\r\r\r L'ÉTAT ACTUEL"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "J'ai commencé à implémenter récemment le système de sauvegarde de l'état d'une mission. Il est encore assez basique et sauvegardera les vecteurs de l'appareil (vitesse, accélération) et ces objets physique ainsi que la configuration du cockpit.\n\nJ'essaierai de garder les fichiers de sauvegarde compatible avec les anciennes versions, mais gardez à l'esprit que des changements rendant ces fichiers inopérant peuvent arriver due à l'état encore peu développé dans lequel se trouve le système de sauvegarde"
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Attention: Il n'est pas possible de sauvegarder maintenant. Les sauvegardes sont désactivées"
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "SAVE"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "CLOSE"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Save State Name:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Overwrite?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "CLEAR ALL"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "CLEAR"
+  }
+]
