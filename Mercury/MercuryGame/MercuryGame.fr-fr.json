@@ -1,0 +1,454 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ROGER"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "DENY"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "OBJECTIF ACTUEL"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ PRERATION DE LA CONFIGURATION DU COCKPIT ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "SÉLECTEUR DE [V]UE"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "EXTERNE"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ORBITALE"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "PAS DE TIR"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENU"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "REPRENDRE LA SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "INCIDENT"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "AUDIO"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "INPUT CONTROLS"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "SAUVEGARDER\r\r\r L'ÉTAT ACTUEL"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "CONSOLE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "ÉDITEUR DE MISSION"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "FINIR LA SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRAPHIQUE"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "CRÉER UNE CHECKLIST"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] O M M U N I C A T I O N"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "VERIFICATION RADIO"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "MISSION"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "BRIEFING"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "CARTE"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "CHECKLISTS"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "TRANSCRIPT\rION"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "NOTES"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "PARAMÈTRES AUDIO"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Principale"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Cockpit"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "Externe"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Musique"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Autres SFX"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Astronaut\re\r\r\r\nComm"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Mission Control Comm"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "SAUVEGARDER\r\r\r L'ÉTAT ACTUEL"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "J'ai commencé à implémenter récemment le système de sauvegarde de l'état d'une mission. Il est encore assez basique et sauvegardera les vecteurs de l'appareil (vitesse, accélération) et ces objets physique ainsi que la configuration du cockpit.\r\n\r\nJ'essaierai de garder les fichiers de sauvegarde compatible avec les anciennes versions, mais gardez à l'esprit que des changements rendant ces fichiers inopérant peuvent arriver due à l'état encore peu développé dans lequel se trouve le système de sauvegarde"
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Attention: Il n'est pas possible de sauvegarder maintenant. Les sauvegardes sont désactivées"
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "SAVE"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "CLOSE"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Save State Name:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Overwrite?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "CLEAR ALL"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "CLEAR"
+  },
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "SIÈGE DU COMMANDANT"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "PANNEAUX DE GAUCHE"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "PANNEAUX DE DROITE"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "PANNEAUX SUPÉRIEUR"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "FENÊTRE"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "ESSAI RADIO"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "CONFIRMATION ALTITUDE"
+  },
+  {
+    "Identifier": "CommReq_ClockReport",
+    "Text": "HORLOGE DÉMARRÉE"
+  },
+  {
+    "Identifier": "CommReq_BatteryCheck",
+    "Text": "ÉTAT DES BATTERIES"
+  },
+  {
+    "Identifier": "CommReq_TempCheck",
+    "Text": "CONFIRMATION DE LA TEMPÉRATURE"
+  },
+  {
+    "Identifier": "CommReq_SetRETROtoNextAP",
+    "Text": "RETRO AU PROCHAIN AP"
+  },
+  {
+    "Identifier": "CommReq_MessageCapCom",
+    "Text": "MESSAGE CAPCOM"
+  },
+  {
+    "Identifier": "CommReq_PadSwitchToInternalPower",
+    "Text": "PASSER À L'ALIMENTATION INTERNE"
+  },
+  {
+    "Identifier": "CommReq_RequestAbortCapability",
+    "Text": "TEST DU SYSTÈME D'ANNULATION"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "AFFICHER/CACHER JUKEBOX"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "DONNÉE D'ASCENCION MANUELLE"
+  },
+  {
+    "Identifier": "CommReq_AttitudeInfo",
+    "Text": "DONNÉE D'ATTITUDE"
+  },
+  {
+    "Identifier": "Radio_NegativeClockCheck",
+    "Text": "Négatif! Cordon ombilical encore connecté."
+  },
+  {
+    "Identifier": "RadioCheck_HF",
+    "Text": "{0}, reçu {1}/5 sur HF."
+  },
+  {
+    "Identifier": "RadioCheck_UHF",
+    "Text": "{0}, reçu {1}/5 sur UHF."
+  },
+  {
+    "Identifier": "Radio_RetroTimeUpdated",
+    "Text": "{0}, Temps avant Retro mis à jour. Vérifiez et faîtes les corrections nécessaire."
+  },
+  {
+    "Identifier": "Radio_TempCheck",
+    "Text": "{0}, les températures sont OK."
+  },
+  {
+    "Identifier": "Radio_AltCheck_OnPad",
+    "Text": "le pas de tir"
+  },
+  {
+    "Identifier": "Radio_AltCheck_WeSeeYouAt",
+    "Text": "On vous a à {0}."
+  },
+  {
+    "Identifier": "Radio_AltCheck_NoTLM",
+    "Text": "On ne capte pas vos instruments télémétrique."
+  },
+  {
+    "Identifier": "Radio_ClockOperational",
+    "Text": "Compris, l'horloge est opérationnelle"
+  },
+  {
+    "Identifier": "Radio_Staging",
+    "Text": "We confirm staging on {0}."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Aucun."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Cliquer sur {0} lorsque vous êtes prêt à continuer la mission."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Cliquer sur ROGER lorsque vous êtes prêt à continuer la mission."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Attendre le lancement."
+  },
+  {
+    "Identifier": "MissionObjective_State_SECO",
+    "Text": "Attendre SECO."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Tower",
+    "Text": "Attendre l'éjection de la tour."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_LV",
+    "Text": "Attendre la séparation du lanceur."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Compléter la configuration des panneaux."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Remplir la checkist dont l'ID est {0}."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Atteindre une altitude de plus de {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Atteindre une altitude de moins de {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Avoir un apogée de plus de {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Avoir un périgée de plus de {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Avoir un orbite dont l'apogée et le périgée sont respectivement plus grand que {0} et {1} (km)."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Être à portée radio de {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "Être à portée radio longitudinal de {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Être à une longitude comprise entre {0} et {1} degrés."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Être à une latitude comprise entre {0} et {1} degrés."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "Attendre le début de la séquence RETRO."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Être dans un plan orbital de {0} avec une marge de +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "Attendre la séparation des boosters."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "Attendre la séparation des moteurs RETRO."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Attendre la trainée atmosphérique initiale (0,05 g)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "Attendre le déploiement du parachute de freinage."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "Attendre le déploiement du parachute principal."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Attendre le début de la rentrée atmosphérique."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Remplir la checklist."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Traverser l'atmosphère."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "Attendre la mise à feu des moteurs RETRO."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Atteindre une altitude de mois de {0} pieds."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "Amerissage."
+  },
+  {
+    "Identifier": "MissionObjective_PerformBloodCheck",
+    "Text": "Faire un test de pression sanguine."
+  },
+  {
+    "Identifier": "RadioMessage_UmbilicalDisconnect",
+    "Text": "Deconnexion du cordon ombilical!"
+  },
+  {
+    "Identifier": "RadioMessage_SetSpacecraftToReady",
+    "Text": "{0}, on ne vous vois pas prêt. Mettez l'interrupteur LAUNCH CONTROL sur READY. Le compte à rebours est terminé!"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, demande de mise en pause du compte à rebours."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, demande de reprise du compte à rebours."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, mise en pause du compte à rebours."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, compte à rebours relancé."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "REPRENDRE COMPTE À REBOURS"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "MISE EN PAUSE COMPTE À REBOURS"
+  }
+]
