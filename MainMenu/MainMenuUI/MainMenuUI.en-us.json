@@ -712,6 +712,10 @@
     "Text": "EXAM - FULL MISSION"
   },
   {
+    "Identifier": "Academy_Gemini_Lesson10",
+    "Text": "LESSON 10 - MANEUVERING & BURNS"
+  },
+  {
     "Identifier": "Academy_CSM_TheBasics",
     "Text": "THE BASICS"
   },
@@ -964,6 +968,10 @@
     "Text": "VII - COASTING HOME"
   },
   {
+    "Identifier": "MissionsMenu_Apollo_Scenario8",
+    "Text": "VIII - ENTRY"
+  },
+  {
     "Identifier": "RealismSettings_HideChecklistHighlighter",
     "Text": "Hide Switch Highlighter Box"
   },
@@ -974,5 +982,13 @@
   {
     "Identifier": "Settings_TTS",
     "Text": "Text-to-Speech"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoad",
+    "Text": "Disable G-Load"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoadDesc",
+    "Text": "Toggling this will disable structural damage and game over due to heavy G-Loads during entry and ascent."
   }
 ]
