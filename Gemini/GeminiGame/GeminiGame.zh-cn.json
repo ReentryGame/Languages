@@ -425,7 +425,7 @@
   },
   {
     "Identifier": "MissionObjective_State_RetroBurning",
-    "Text": 等待减速引擎点火."
+    "Text": "等待减速引擎点火."
   },
   {
     "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
