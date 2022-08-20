@@ -242,5 +242,29 @@
   {
     "Identifier": "RadioMessage_SetSpacecraftToReady",
     "Text": "{0}, 我们不知道你是否准备完毕. 将 LAUNCH CONTROL 开关调至 READY. 倒计时完成!"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "指令中心, 请求暂停倒计时."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "指令中心, 请求继续倒计时n."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, 暂停倒计时."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, 继续倒计时."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "继续倒计时"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "暂停倒计时"
   }
 ]
