@@ -478,5 +478,29 @@
   {
     "Identifier": "MissionObjective_Orbit_TimeToRetro_Value1Seconds",
     "Text": "反推燃烧倒计时 T -{0} 秒. 剩余时间: {1}"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "指令中心, 请求暂停倒计时."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "指令中心, 请求继续倒计时."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, 暂停倒计时."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, 继续倒计时."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "继续倒计时"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "暂停倒计时"
   }
 ]
