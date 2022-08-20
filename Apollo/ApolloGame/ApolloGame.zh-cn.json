@@ -1054,5 +1054,29 @@
   {
     "Identifier": "RadioCommMenu_PhaseTPM",
     "Text": "TPM"
+  },
+  {
+    "Identifier": "RadioCommMessage_TooHighGLoads",
+    "Text": "重力过载超出限制."
+  },
+  {
+    "Identifier": "GameOverReason_TooHighGLoads",
+    "Text": "由于过高的重力过载, 造成飞船和船员损伤."
+  },
+  {
+    "Identifier": "GameOverReason_Crashed",
+    "Text": "着陆过程中坠毁."
+  },
+  {
+    "Identifier": "GameOverReason_NonCMEntry",
+    "Text": "在到达对应阶段时执行大气层再入. 只有指令舱能够再入."
+  },
+  {
+    "Identifier": "GameOverReason_LMEntry",
+    "Text": "登月舱和指令舱连接状态下执行大气层再入."
+  },
+  {
+    "Identifier": "GameOverReason_LMEntry",
+    "Text": "登月舱和指令舱连接状态下执行大气层再入."
   }
 ]
