@@ -1,0 +1,185 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ENTENDIDO"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "NEGAR"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "OBJETIVO ATUAL"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ PREPARANDO ESTADO DA CABINE ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] S E L E T O R  D E  C Â M E R A"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "EXTERNA"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ORBITAL"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "PLATAFORMA DE LANÇAMENTO"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENU"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "RESUMIR SESSÃO"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "FALHAS"
+  },{
+    "Identifier": "InGameMenu_Audio",
+    "Text": "ÁUDIO"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "CONTROLES DE ENTRADA"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "SALVAR"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "CONTROLE DE MISSÃO"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "CONSOLE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "EDITOR DE MISSÃO"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "FIM DA SESSÃO"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRÁFICOS"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "CRIAR LISTA DE CHEGACEM"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] O M U N I C A Ç Ã O"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "CHEQUE DE RÁDIO"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "MISSÃO"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "RESUMO DA MISSÃO"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "MAPA"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "LISTA DE CHECAGEM"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "TRANSCRIÇÃO"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "NOTAS"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "CONFIGURAÇÕES DE ÁUDIO"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Geral"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Cabine"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "Externo"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Música"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Vários SFX"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Astronauta\nComm"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Controle de Missão Comm"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "SALVAR ESTADO"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "Eu recentemente comecei a implantar as rotinas de salvamento e carregamento de estado. Actualmente são muito básicos em sua maioria salvará os vetores de estado da espaçonave e os elementos físicos, e o estado do painel da cabine.\n\nTentarei manter os arquivos salvos compatíveis com versões anteriores, mas por favor esperar mudanças quebrando para salvar estados devido ao estado inicial o atual salvar/carregar."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Cuidado: Não é possível salvar agora. Salvar Estado é desabilitado durante manobras motorizadas ou fases críticas da missão."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "SALVAR"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "FECHAR"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Salvar Como:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Sobrescrever?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "TUDO LIMPO"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "LIMPO"
+  }
+]
