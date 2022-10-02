@@ -1,11 +1,11 @@
-[
+
   {
     "Identifier": "Button_Roger",
-    "Text": "ROGER"
+    "Text": "ENTENDIDO"
   },
   {
     "Identifier": "Button_Deny",
-    "Text": "DENY"
+    "Text": "NEGAR"
   },
   {
     "Identifier": "Button_OK",
@@ -13,19 +13,19 @@
   },
   {
     "Identifier": "MissionObjectives_Title",
-    "Text": "CURRENT OBJECTIVE"
+    "Text": "OBJETIVO ATUAL"
   },
   {
     "Identifier": "Loading_PrepareCockpitState",
-    "Text": "[ PREPARING COCKPIT STATE ]"
+    "Text": "[ PREPARANDO ESTADO DA CABINE ]"
   },
   {
     "Identifier": "ViewSelector_Title",
-    "Text": "[V] I E W   S E L E C T O R"
+    "Text": "[V] S E L E T O R  D E  C Â M E R A"
   },
   {
     "Identifier": "ViewSelector_External",
-    "Text": "EXTERNAL"
+    "Text": "EXTERNA"
   },
   {
     "Identifier": "ViewSelector_Orbital",
@@ -33,7 +33,7 @@
   },
   {
     "Identifier": "ViewSelector_MissionPad",
-    "Text": "MISSION PAD"
+    "Text": "PLATAFORMA DE LANÇAMENTO"
   },
   {
     "Identifier": "InGameMenu_Title",
@@ -41,26 +41,26 @@
   },
   {
     "Identifier": "InGameMenu_ResumeSession",
-    "Text": "RESUME SESSION"
+    "Text": "RESUMIR SESSÃO"
   },
   {
     "Identifier": "InGameMenu_Failures",
-    "Text": "FAILURES"
+    "Text": "FALHAS"
   },{
     "Identifier": "InGameMenu_Audio",
-    "Text": "AUDIO"
+    "Text": "ÁUDIO"
   },
   {
     "Identifier": "InGameMenu_InputControls",
-    "Text": "INPUT CONTROLS"
+    "Text": "CONTROLES DE ENTRADA"
   },
   {
     "Identifier": "InGameMenu_SaveState",
-    "Text": "SAVE STATE"
+    "Text": "SALVAR"
   },
   {
     "Identifier": "InGameMenu_MissionControlLive",
-    "Text": "MISSION CONTROL LIVE"
+    "Text": "CONTROLE DE MISSÃO"
   },
   {
     "Identifier": "InGameMenu_Console",
@@ -68,118 +68,118 @@
   },
   {
     "Identifier": "InGameMenu_MissionEditor",
-    "Text": "MISSION EDITOR"
+    "Text": "EDITOR DE MISSÃO"
   },
   {
     "Identifier": "InGameMenu_EndSession",
-    "Text": "END SESSION"
+    "Text": "FIM DA SESSÃO"
   },
   {
     "Identifier": "InGameMenu_Graphics",
-    "Text": "GRAPHICS"
+    "Text": "GRÁFICOS"
   },
   {
     "Identifier": "InGameMenu_CreateChecklist",
-    "Text": "CREATE CHECKLIST"
+    "Text": "CRIAR LISTA DE CHEGACEM"
   },
   {
     "Identifier": "CommTools_Title",
-    "Text": "[C] O M M U N I C A T I O N"
+    "Text": "[C] O M U N I C A Ç Ã O"
   },
   {
     "Identifier": "CommTools_RequestRadioCheck",
-    "Text": "RADIO CHECK"
+    "Text": "CHEQUE DE RÁDIO"
   },
   {
     "Identifier": "MissionPad_Mission",
-    "Text": "MISSION"
+    "Text": "MISSÃO"
   },
   {
     "Identifier": "MissionPad_Briefing",
-    "Text": "BRIEFING"
+    "Text": "RESUMO DA MISSÃO"
   },
   {
     "Identifier": "MissionPad_Map",
-    "Text": "MAP"
+    "Text": "MAPA"
   },
   {
     "Identifier": "MissionPad_Checklists",
-    "Text": "CHECKLISTS"
+    "Text": "LISTA DE CHECAGEM"
   },
   {
     "Identifier": "MissionPad_Transcript",
-    "Text": "TRANSCRIPT"
+    "Text": "TRANSCRIÇÃO"
   },
   {
     "Identifier": "MissionPad_Notes",
-    "Text": "NOTES"
+    "Text": "NOTAS"
   },
   {
     "Identifier": "AudioMenu_Title",
-    "Text": "AUDIO SETTINGS"
+    "Text": "CONFIGURAÇÕES DE ÁUDIO"
   },
   {
     "Identifier": "AudioMenu_Track_Master",
-    "Text": "Master"
+    "Text": "Geral"
   },
   {
     "Identifier": "AudioMenu_Track_Cockpit",
-    "Text": "Cockpit"
+    "Text": "Cabine"
   },
   {
     "Identifier": "AudioMenu_Track_External",
-    "Text": "External"
+    "Text": "Externo"
   },
   {
     "Identifier": "AudioMenu_Track_Music",
-    "Text": "Music"
+    "Text": "Música"
   },
   {
     "Identifier": "AudioMenu_Track_Misc",
-    "Text": "Misc SFX"
+    "Text": "Vários SFX"
   },
   {
     "Identifier": "AudioMenu_Track_AstroComm",
-    "Text": "Astronaut\nComm"
+    "Text": "Astronauta\nComm"
   },
   {
     "Identifier": "AudioMenu_Track_MCC",
-    "Text": "Mission Control Comm"
+    "Text": "Controle de Missão Comm"
   },
   {
     "Identifier": "SaveState_Title",
-    "Text": "SAVE STATE"
+    "Text": "SALVAR ESTADO"
   },
   {
     "Identifier": "SaveState_Body",
-    "Text": "I recently started to implement the save and load state routines. They are currently very basic and will mostly save the state vectors of the spacecraft and physical items, and the cockpit panel state.\n\nI will try to keep the save files backward compatible, but please expect breaking changes to save states due to the early state the current save/load system is in."
+    "Text": "Eu recentemente comecei a implantar as rotinas de salvamento e carregamento de estado. Actualmente são muito básicos em sua maioria salvará os vetores de estado da espaçonave e os elementos físicos, e o estado do painel da cabine.\n\nTentarei manter os arquivos salvos compatíveis com versões anteriores, mas por favor esperar mudanças quebrando para salvar estados devido ao estado inicial o atual salvar/carregar."
   },
   {
     "Identifier": "SaveState_Error",
-    "Text": "Warning: It's not possible to save right now. Save State is disabled during powered maneuvers or critical mission phases."
+    "Text": "Cuidado: Não é possível salvar agora. Salvar Estado é desabilitado durante manobras motorizadas ou fases críticas da missão."
   },
   {
     "Identifier": "SaveState_ButtonSave",
-    "Text": "SAVE"
+    "Text": "SALVAR"
   },
   {
     "Identifier": "Button_Close",
-    "Text": "CLOSE"
+    "Text": "FECHAR"
   },
   {
     "Identifier": "SaveState_SaveStateName",
-    "Text": "Save State Name:"
+    "Text": "Salvar Como:"
   },
   {
     "Identifier": "SaveState_SaveStateWarning",
-    "Text": "Overwrite?"
+    "Text": "Sobrescrever?"
   },
   {
     "Identifier": "Button_ClearAll",
-    "Text": "CLEAR ALL"
+    "Text": "TUDO LIMPO"
   },
   {
     "Identifier": "Button_Clear",
-    "Text": "CLEAR"
+    "Text": "LIMPO"
   }
 ]
