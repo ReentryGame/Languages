@@ -409,7 +409,7 @@
   },
   {
     "Identifier": "RadioCommReq_RadioCheck",
-    "Text": "{0}, we read you {1}/5."
+    "Text": "{0}, we read you {1} by 5."
   },
   {
     "Identifier": "RadioCommReq_InternalPower",

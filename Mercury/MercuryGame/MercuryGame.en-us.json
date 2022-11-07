@@ -73,11 +73,11 @@
   },
   {
     "Identifier": "RadioCheck_HF",
-    "Text": "{0}, we read you {1}/5 on HF."
+    "Text": "{0}, we read you {1} by 5 on HF."
   },
   {
     "Identifier": "RadioCheck_UHF",
-    "Text": "{0}, we read you {1}/5 on UHF."
+    "Text": "{0}, we read you {1} by 5 on UHF."
   },
   {
     "Identifier": "Radio_RetroTimeUpdated",
