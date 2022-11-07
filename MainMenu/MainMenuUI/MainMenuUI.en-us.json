@@ -1026,5 +1026,9 @@
   {
     "Identifier": "RealismSettings_EnableOrbitalDecayDesc",
     "Text": "This will enable Orbital Decay (Testing only, Mercury Only), meaning your orbit will decay relative to how much drag the atmosphere produces."
+  },
+  {
+    "Identifier": "Settings_LanguageContribute",
+    "Text": "All translations are contributed by the community, and is mostly partial. If you wish to contribute with language translations, please see the Contribute page on the Main Menu."
   }
 ]
