@@ -133,7 +133,7 @@
   },
   {
     "Identifier": "CommReq_RadioVoiceCheck",
-    "Text": "{0}, we read you 5/5."
+    "Text": "{0}, we read you 5 by 5."
   },
   {
     "Identifier": "CommReq_UpdatedRetroTime",
