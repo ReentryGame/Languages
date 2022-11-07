@@ -990,5 +990,41 @@
   {
     "Identifier": "RealismSettings_DisableGLoadDesc",
     "Text": "Toggling this will disable structural damage and game over due to heavy G-Loads during entry and ascent."
+  },
+  {
+    "Identifier": "Academy_LM_FlightSchool",
+    "Text": "VIDEOS: SPACE FLIGHT ACADEMY: Lunar Module (YT)"
+  },
+  {
+    "Identifier": "Academy_CM_FlightSchool",
+    "Text": "VIDEOS: SPACE FLIGHT ACADEMY: Command Module (YT)"
+  },
+  {
+    "Identifier": "Academy_Gemini_FlightSchool",
+    "Text": "VIDEOS: SPACE FLIGHT ACADEMY: Gemini (YT)"
+  },
+  {
+    "Identifier": "Academy_Mercury_FlightSchool",
+    "Text": "VIDEOS: SPACE FLIGHT ACADEMY: Mercury (YT)"
+  },
+  {
+    "Identifier": "Academy_Theory_FlightSchool",
+    "Text": "SPACE FLIGHT ACADEMY (VIDEOS, YT)"
+  },
+  {
+    "Identifier": "Academy_Videos",
+    "Text": "VIDEOS"
+  },
+  {
+    "Identifier": "Academy_Lessons",
+    "Text": "LESSONS"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecay",
+    "Text": "Enable Orbital Decay"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecayDesc",
+    "Text": "This will enable Orbital Decay (Testing only, Mercury Only), meaning your orbit will decay relative to how much drag the atmosphere produces."
   }
 ]
