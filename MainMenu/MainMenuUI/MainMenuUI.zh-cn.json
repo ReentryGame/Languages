@@ -77,7 +77,7 @@
     },
     {
       "Identifier": "MainMenuItem_Exhibitions",
-      "Text": "任务展示"
+      "Text": "航天器展馆"
     },
     {
       "Identifier": "MainMenuItem_Profile",
@@ -712,6 +712,10 @@
       "Text": "考试 - 完整任务"
     },
     {
+    "Identifier": "Academy_Gemini_Lesson10",
+    "Text": "教程 10 - 机动和燃烧"
+    },
+    {
       "Identifier": "Academy_CSM_TheBasics",
       "Text": "基础"
     },
@@ -964,6 +968,10 @@
       "Text": "VII - 回家"
     },
     {
+    "Identifier": "MissionsMenu_Apollo_Scenario8",
+    "Text": "VIII - 再入"
+    },
+    {
     "Identifier": "RealismSettings_HideChecklistHighlighter",
     "Text": "隐藏 打开高亮提示"
     },
@@ -975,4 +983,12 @@
     "Identifier": "Settings_TTS",
     "Text": "朗读文本"
     },
+    {
+    "Identifier": "RealismSettings_DisableGLoad",
+    "Text": "禁用 重力过载"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoadDesc",
+    "Text": "开/关 再入和上升过程中由于重力过载对于飞船结构的损伤甚至任务失败."
+  }
 ]
