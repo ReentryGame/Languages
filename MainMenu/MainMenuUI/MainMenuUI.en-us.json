@@ -421,7 +421,7 @@
   },
   {
     "Identifier": "GraphicsSettings_ProbeQualityDesc",
-    "Text": "Reflection probes are used to render all types of relfection. From the reflection lights planets cast while you are in orbit (general probes), to internal cockpit reflections seen in gauges, windows and reflective materials (critical probes). They are very taxing on your system.\nIf you use a slower update frequency, I also suggest to turn off WINDOW GLARE."
+    "Text": "Reflection probes are used to render all types of reflection. From the reflection lights planets cast while you are in orbit (general probes), to internal cockpit reflections seen in gauges, windows and reflective materials (critical probes). They are very taxing on your system.\nIf you use a slower update frequency, I also suggest to turn off WINDOW GLARE."
   },
   {
     "Identifier": "GraphicsSettings_ProbeQualityInfo",

@@ -1086,5 +1086,13 @@
   {
     "Identifier": "BurnPlanner_CommsPreferredSet",
     "Text": "Preferred burn direction set, use P52 option 1 to torque the gyros before requesting the burn. Set ORDEAL to INRTL and Key V37E 52E V22E +1E PRO PRO to do this."
+  },
+  {
+    "Identifier": "RadioCommReq_MissionTimeSync",
+    "Text": "Mission Timers has been synced with Ground Mission Time."
+  },
+  {
+    "Identifier": "CommTools_SyncMetTimers",
+    "Text": "SYNC MET TIMERS"
   }
 ]
