@@ -1017,7 +1017,7 @@
   },
   {
     "Identifier": "RadioCommMenu_RequestCSI2",
-    "Text": "REQUEST CSI-2"
+    "Text": "REQUEST TPF"
   },
   {
     "Identifier": "RadioCommMenu_CrewMembers",
