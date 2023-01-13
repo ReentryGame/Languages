@@ -33,15 +33,15 @@
   },
   {
     "Identifier": "ContextMenu_Mercury",
-    "Text": "PROJECTO MERCURY"
+    "Text": "PROYECTO MERCURY"
   },
   {
     "Identifier": "ContextMenu_Gemini",
-    "Text": "PROJECTO GEMINI"
+    "Text": "PROYECTO GEMINI"
   },
   {
     "Identifier": "ContextMenu_Apollo",
-    "Text": "PROJECTO APOLLO"
+    "Text": "PROYECTO APOLLO"
   },
   {
     "Identifier": "ContextMenu_Credits",
@@ -105,7 +105,7 @@
   },
   {
     "Identifier": "MainMenuItem_UpdateNotes",
-    "Text": "ACTUALIZAR LAS NOTAS"
+    "Text": "NOTAS DE ACTUALIZACIÓN"
   },
   {
     "Identifier": "MainMenuItem_Exit",
@@ -141,15 +141,15 @@
   },
   {
     "Identifier": "MissionsMenu_ButtonMercury",
-    "Text": "PROJECTO MERCURY"
+    "Text": "PROYECTO MERCURY"
   },
   {
     "Identifier": "MissionsMenu_ButtonGemini",
-    "Text": "PROJECTO GEMINI"
+    "Text": "PROYECTO GEMINI"
   },
   {
     "Identifier": "MissionsMenu_ButtonApollo",
-    "Text": "PROJECTO APOLLO"
+    "Text": "PROYECTO APOLLO"
   },
   {
     "Identifier": "MissionsMenu_FreePlay",
