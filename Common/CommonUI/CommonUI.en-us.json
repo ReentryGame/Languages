@@ -181,5 +181,13 @@
   {
     "Identifier": "Button_Clear",
     "Text": "CLEAR"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "UI Scale"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "The scale factor of the User Interface."
   }
 ]

@@ -1030,5 +1030,9 @@
   {
     "Identifier": "Settings_LanguageContribute",
     "Text": "All translations are contributed by the community, and is mostly partial. If you wish to contribute with language translations, please see the Contribute page on the Main Menu."
+  },
+  {
+    "Identifier": "Settings_VirtualRealityMoved",
+    "Text": "Note: VR has moved - a new VR implementation is in development! The existing preliminary VR support has moved into a dedicated branch named Virtual Reality. The development of a new VR implementation leveraging what I learned in the preliminary phase will replace the old implementation. The old implementation will be scrapped."
   }
 ]

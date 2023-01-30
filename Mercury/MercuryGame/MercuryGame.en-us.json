@@ -88,6 +88,10 @@
     "Text": "{0}, your temperatures are fine."
   },
   {
+    "Identifier": "Radio_TempCheckIssues",
+    "Text": "{0}, seems there are some off-scale temperatures.{1}"
+  },
+  {
     "Identifier": "Radio_AltCheck_OnPad",
     "Text": "the launch pad"
   },
@@ -266,5 +270,45 @@
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
     "Text": "HOLD COUNTDOWN"
+  },
+  {
+    "Identifier": "RadioMessage_StartingAbortCapability",
+    "Text": "Abort Capability Check started. Abort light should illuminate and amps should spike."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityNotStarted",
+    "Text": "Unable to start abort capability check. Ensure squibs are armed."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityComplete",
+    "Text": "Abort Capability check completed."
+  },
+  {
+    "Identifier": "RadioMessage_SwitchToInternalPower",
+    "Text": "Disconnected the Launch Vehicle from the umbilical power, you are now on internal power."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_EvapH2OLow",
+    "Text": "Evaporator H2O level is low."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitLow",
+    "Text": "Suit temperature is low."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitHigh",
+    "Text": "Suit temperature is high."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinLow",
+    "Text": "Cabin temperature is low."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinHigh",
+    "Text": "Cabin temperature is high."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinFanOff",
+    "Text": "Cabin fan is off. Turn it on to force air into the heat exchanger."
   }
 ]
