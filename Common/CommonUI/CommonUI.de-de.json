@@ -13,11 +13,11 @@
   },
   {
     "Identifier": "MissionObjectives_Title",
-    "Text": "DERZEITIGES OBJECTIVE"
+    "Text": "DERZEITIGES ZIEL"
   },
   {
     "Identifier": "Loading_PrepareCockpitState",
-    "Text": "[ VORBEREITUNG DES COCKPIT STATE ]"
+    "Text": "[VORBEREITUNG DES COCKPIT STATE]"
   },
   {
     "Identifier": "ViewSelector_Title",
@@ -53,7 +53,7 @@
   },
   {
     "Identifier": "InGameMenu_InputControls",
-    "Text": "EINGABEGERÄTE"
+    "Text": "EINGABEGERÄTE UND STEUERUNG"
   },
   {
     "Identifier": "InGameMenu_SaveState",
@@ -109,7 +109,7 @@
   },
   {
     "Identifier": "MissionPad_Transcript",
-    "Text": "TRANSCRIPT"
+    "Text": "TRANSKRIPT"
   },
   {
     "Identifier": "MissionPad_Notes",
