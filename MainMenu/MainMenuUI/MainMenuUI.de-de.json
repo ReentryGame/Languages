@@ -49,7 +49,7 @@
   },
   {
     "Identifier": "ContextMenu_WorkshopMission",
-    "Text": "WORKSHOP MISSION"
+    "Text": "WORKSHOPMISSION"
   },
   {
     "Identifier": "MainMenuItem_Academy",
@@ -145,11 +145,11 @@
   },
   {
     "Identifier": "MissionsMenu_ButtonGemini",
-    "Text": "PROJECT GEMINI"
+    "Text": "PROJEKT GEMINI"
   },
   {
     "Identifier": "MissionsMenu_ButtonApollo",
-    "Text": "PROJECT APOLLO"
+    "Text": "PROJEKT APOLLO"
   },
   {
     "Identifier": "MissionsMenu_FreePlay",
@@ -177,7 +177,7 @@
   },
   {
     "Identifier": "ProgramInfo_Mercury",
-    "Text": "Project Mercury war das erste U.S. Raumfahrtprogramm, mit dem Ziel, einen Astronaut sicher in den Orbit und wieder auf die Erde zu bringen."
+    "Text": "Project Mercury war das erste U.S. Raumfahrtprogramm, mit dem Ziel, einen Astronauten sicher in den Orbit und wieder auf die Erde zu bringen."
   },
   {
     "Identifier": "ProgramInfo_Gemini",
@@ -185,7 +185,7 @@
   },
   {
     "Identifier": "ProgramInfo_Apollo",
-    "Text": "Projekt Apollo ist das erste Raumfahrtprogramm, welches schließlich Menschen auf den Mond brachte."
+    "Text": "Projekt Apollo ist das erste Raumfahrtprogramm, welches Menschen auf den Mond brachte."
   },
   {
     "Identifier": "ProgramInfo_MCC",
@@ -201,7 +201,7 @@
   },
   {
     "Identifier": "Profile_CapsuleName",
-    "Text": "KAPSELNAME"
+    "Text": "RAUMKAPSELNAME"
   },
   {
     "Identifier": "Profile_CharacterEditor",
@@ -281,7 +281,7 @@
   },
   {
     "Identifier": "Settings_InputControls",
-    "Text": "EINGABEGERÄTE (Tastatur, Maus, Joystick)"
+    "Text": "EINGABEGERÄTE UND STEUERUNG (Tastatur, Maus, Joystick)"
   },
   {
     "Identifier": "Settings_EarthTextures",
@@ -365,7 +365,7 @@
   },
   {
     "Identifier": "Settings_OutputLive",
-    "Text": "COMPUTER OUTPUT LIVEFEED"
+    "Text": "COMPUTEROUTPUT LIVEFEED"
   },
   {
     "Identifier": "Settings_OutputLiveDesc",
@@ -485,7 +485,7 @@
   },
   {
     "Identifier": "GraphicsSettings_MoonTessellationTitle",
-    "Text": "Mond Tesselierung"
+    "Text": "Mondtesselierung"
   },
   {
     "Identifier": "GraphicsSettings_MoonTessellationDesc",
@@ -585,7 +585,7 @@
   },
   {
     "Identifier": "RealismSettings_MercuryRandomFailuresToggleFailures",
-    "Text": "TOGGLE DEFEKTE"
+    "Text": "SCHALTE DEFEKTE AN/AUS"
   },
   {
     "Identifier": "RealismSettings_GeminiRandomFailuresTitle",
@@ -601,7 +601,7 @@
   },
   {
     "Identifier": "RealismSettings_GeminiRandomFailuresToggleFailures",
-    "Text": "TOGGLE DEFEKTE"
+    "Text": "SCHALTE DEFEKTE AN/AUS"
   },
   {
     "Identifier": "RealismSettings_ApolloRandomFailuresTitle",
@@ -617,7 +617,7 @@
   },
   {
     "Identifier": "RealismSettings_ApolloRandomFailuresToggleFailures",
-    "Text": "TOGGLE DEFEKTE"
+    "Text": "SCHALTE DEFEKTE AN/AUS"
   },
   {
     "Identifier": "RealismSettings_GyroDriftTitle",
@@ -645,31 +645,31 @@
   },
   {
     "Identifier": "Academy_Mercury_Lesson2",
-    "Text": "LEKTION 2 - START & AUFSTIEG"
+    "Text": "LEKTION 2 - DER START & AUFSTIEG"
   },
   {
     "Identifier": "Academy_Mercury_Lesson3",
-    "Text": "LEKTION 3 - CHECKLISTEN & ATLAS"
+    "Text": "LEKTION 3 - DIE CHECKLISTEN & DER ATLAS"
   },
   {
     "Identifier": "Academy_Mercury_Lesson4",
-    "Text": "LEKTION 4 - ELEKTRONIK"
+    "Text": "LEKTION 4 - DIE ELEKTRONIK"
   },
   {
     "Identifier": "Academy_Mercury_Lesson5",
-    "Text": "LEKTION 5 - HÖHENKONTROLLE"
+    "Text": "LEKTION 5 - DIE HÖHENKONTROLLE"
   },
   {
     "Identifier": "Academy_Mercury_Lesson6",
-    "Text": "LEKTION 6 - AM LEBEN BLEIBEN"
+    "Text": "LEKTION 6 - DIE LEBENSERHALTUNGSSYSTEME"
   },
   {
     "Identifier": "Academy_Mercury_Lesson7",
-    "Text": "LEKTION 7 - SEQUENCER"
+    "Text": "LEKTION 7 - DER SEQUENCER"
   },
   {
     "Identifier": "Academy_Mercury_Exam",
-    "Text": "PRÜFUNG - GANZE MISSION"
+    "Text": "PRÜFUNG - DIE GANZE MISSION"
   },
   {
     "Identifier": "Academy_Mercury_VR",
@@ -681,15 +681,15 @@
   },
   {
     "Identifier": "Academy_Gemini_Lesson2",
-    "Text": "LEKTION 2 - AUFSTIEG"
+    "Text": "LEKTION 2 - DER AUFSTIEG"
   },
   {
     "Identifier": "Academy_Gemini_Lesson3",
-    "Text": "LEKTION 3 - ELEKTRONIK!"
+    "Text": "LEKTION 3 - DIE ELEKTRONIK!"
   },
   {
     "Identifier": "Academy_Gemini_Lesson4",
-    "Text": "LEKTION 4 - NAVIGATION!"
+    "Text": "LEKTION 4 - DIE NAVIGATION!"
   },
   {
     "Identifier": "Academy_Gemini_Lesson5",
@@ -697,11 +697,11 @@
   },
   {
     "Identifier": "Academy_Gemini_Lesson6",
-    "Text": "LEKTION 6 - LEBENSERHALTUNG"
+    "Text": "LEKTION 6 - DIE LEBENSERHALTUNGSSYSTEME"
   },
   {
     "Identifier": "Academy_Gemini_Lesson7",
-    "Text": "LEKTION 7 - SEQUENCER"
+    "Text": "LEKTION 7 - DER SEQUENCER"
   },
   {
     "Identifier": "Academy_Gemini_Lesson8",
@@ -709,11 +709,11 @@
   },
   {
     "Identifier": "Academy_Gemini_Exam",
-    "Text": "PRÜFUNG - GANZE MISSION"
+    "Text": "PRÜFUNG - DIE GANZE MISSION"
   },
   {
     "Identifier": "Academy_Gemini_Lesson10",
-    "Text": "LEKTION 10 - MANÖVRIEREN & ZÜNDUNGEN"
+    "Text": "LEKTION 10 - DAS MANÖVRIEREN & DIE ZÜNDUNGEN"
   },
   {
     "Identifier": "Academy_CSM_TheBasics",
@@ -725,11 +725,11 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson2",
-    "Text": "LEKTION 2 - BOOST"
+    "Text": "LEKTION 2 - DER BOOST"
   },
   {
     "Identifier": "Academy_CSM_Lesson3",
-    "Text": "LEKTION 3 - ELEKTRONIK"
+    "Text": "LEKTION 3 - DIE ELEKTRONIK"
   },
   {
     "Identifier": "Academy_CSM_Lesson4",
@@ -737,11 +737,11 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson5",
-    "Text": "LEKTION 5 - COMPUTER"
+    "Text": "LEKTION 5 - DER COMPUTER"
   },
   {
     "Identifier": "Academy_CSM_Lesson6",
-    "Text": "LEKTION 6 - SERVICEANTRIEB"
+    "Text": "LEKTION 6 - DER SERVICEANTRIEB"
   },
   {
     "Identifier": "Academy_CSM_Lesson7",
@@ -749,11 +749,11 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson8",
-    "Text": "LEKTION 8 - SPS ZÜNDUNGSPLANUNG"
+    "Text": "LEKTION 8 - DIE SPS ZÜNDUNGSPLANUNG"
   },
   {
     "Identifier": "Academy_CSM_Lesson9",
-    "Text": "LEKTION 9 - ATMOSPHÄRISCHES EINDRINGEN"
+    "Text": "LEKTION 9 - DAS ATMOSPHÄRISCHE EINDRINGEN"
   },
   {
     "Identifier": "Academy_CSM_Lesson10",
@@ -761,7 +761,7 @@
   },
   {
     "Identifier": "Academy_CSM_Exam",
-    "Text": "PRÜFUNG: GANZE ERDMISSION"
+    "Text": "PRÜFUNG: DIE GANZE ERDMISSION"
   },
   {
     "Identifier": "Academy_CSM_AdvancedTopics",
@@ -769,7 +769,7 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson11",
-    "Text": "LEKTION  11 - TRANS-LUNAR INJECTION"
+    "Text": "LEKTION  11 - DIE TRANS-LUNAR INJECTION"
   },
   {
     "Identifier": "Academy_CSM_Lesson12",
@@ -777,7 +777,7 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson13",
-    "Text": "LEKTION 13 - TRANS-ERD INJECTION"
+    "Text": "LEKTION 13 - DIE TRANS-ERD INJECTION"
   },
   {
     "Identifier": "Academy_CSM_Lesson14",
@@ -801,23 +801,23 @@
   },
   {
     "Identifier": "Academy_LM_Lesson2",
-    "Text": "LEKTION 2 - AKTIVIERUNG"
+    "Text": "LEKTION 2 - DIE AKTIVIERUNG"
   },
   {
     "Identifier": "Academy_LM_Lesson3",
-    "Text": "LEKTION 3 - ELEKTRONIK"
+    "Text": "LEKTION 3 - DIE ELEKTRONIK"
   },
   {
     "Identifier": "Academy_LM_Lesson4",
-    "Text": "LEKTION 4 - REAKTIONSKONTROLLE"
+    "Text": "LEKTION 4 - DIE REAKTIONSKONTROLLE"
   },
   {
     "Identifier": "Academy_LM_Lesson5",
-    "Text": "LEKTION 5 - STEUERUNGSCOMPUTER"
+    "Text": "LEKTION 5 - DER STEUERUNGSCOMPUTER"
   },
   {
     "Identifier": "Academy_LM_Lesson6",
-    "Text": "LEKTION 6 - FLUGMODI"
+    "Text": "LEKTION 6 - DIE FLUGMODI"
   },
   {
     "Identifier": "Academy_LM_Lesson7",
@@ -825,19 +825,19 @@
   },
   {
     "Identifier": "Academy_LM_Lesson8",
-    "Text": "LEKTION 8 - RADARSYSTEME"
+    "Text": "LEKTION 8 - DIE RADARSYSTEME"
   },
   {
     "Identifier": "Academy_LM_Lesson9",
-    "Text": "LEKTION 9 - ABDOCKEN"
+    "Text": "LEKTION 9 - DAS ABDOCKEN"
   },
   {
     "Identifier": "Academy_LM_Lesson10",
-    "Text": "LEKTION 10 - ABSTEIGEN"
+    "Text": "LEKTION 10 - DAS ABSTEIGEN"
   },
   {
     "Identifier": "Academy_LM_Exam",
-    "Text": "PRÜFUNG: LUNARLANDUNG"
+    "Text": "PRÜFUNG: DIE LUNARLANDUNG"
   },
   {
     "Identifier": "Academy_LM_Lesson11",
@@ -845,7 +845,7 @@
   },
   {
     "Identifier": "Academy_LM_Lesson12",
-    "Text": "LEKTION 12 - AUFSTEIGEN & ANDOCKEN"
+    "Text": "LEKTION 12 - DAS AUFSTEIGEN & ANDOCKEN"
   },
   {
     "Identifier": "Academy_LM_Lesson13",
@@ -853,7 +853,7 @@
   },
   {
     "Identifier": "ChallengeAccepted",
-    "Text": "CHALLENGE ACCEPTED"
+    "Text": "CHALLENGE ANGENOMMEN"
   },
   {
     "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone",
@@ -909,7 +909,7 @@
   },
   {
     "Identifier": "MissionsMenu_Gemini_Scenario4",
-    "Text": "IV - ANDOCKTRAINING"
+    "Text": "IV - DAS ANDOCKTRAINING"
   },
   {
     "Identifier": "MissionsMenu_Gemini_HistoricGT3",
@@ -929,7 +929,7 @@
   },
   {
     "Identifier": "MissionsMenu_Apollo_FreePlay_T25m",
-    "Text": "SATURN V - START (T-25m)"
+    "Text": "SATURN V - DER START (T-25m)"
   },
   {
     "Identifier": "MissionsMenu_Apollo_FreePlay_EarthOrbit",
@@ -941,23 +941,23 @@
   },
   {
     "Identifier": "MissionsMenu_Apollo_Scenario1",
-    "Text": "I - TRANS-LUNAR INJECTION"
+    "Text": "I - DIE TRANS-LUNAR INJECTION"
   },
   {
     "Identifier": "MissionsMenu_Apollo_Scenario2",
-    "Text": "II - LUNAR ORBIT INJECTION"
+    "Text": "II - DIE LUNAR ORBIT INJECTION"
   },
   {
     "Identifier": "MissionsMenu_Apollo_Scenario3",
-    "Text": "III - TRANS-ERD INJECTION"
+    "Text": "III - DIE TRANS-ERD INJECTION"
   },
   {
     "Identifier": "MissionsMenu_Apollo_Scenario4",
-    "Text": "IV - LUNAR MODUL ABDOCKEN"
+    "Text": "IV - DAS LUNAR MODUL ABDOCKEN"
   },
   {
     "Identifier": "MissionsMenu_Apollo_Scenario5",
-    "Text": "V - ANGETRIEBENER ABSTIEG & LUNARLANDUNG"
+    "Text": "V - DER ANGETRIEBENE ABSTIEG & DIE LUNARLANDUNG"
   },
   {
     "Identifier": "MissionsMenu_Apollo_Scenario6",
@@ -969,27 +969,27 @@
   },
   {
     "Identifier": "MissionsMenu_Apollo_Scenario8",
-    "Text": "VIII - EINDRINGEN"
+    "Text": "VIII - DAS EINDRINGEN"
   },
   {
     "Identifier": "RealismSettings_HideChecklistHighlighter",
-    "Text": "Verstecke Schalter-Highlighterbox"
+    "Text": "Verstecke die Schalter-Highlighterboxen"
   },
   {
     "Identifier": "RealismSettings_HideChecklistHighlighterDesc",
-    "Text": "Die Aktivierung dieser Einstellung, wird die Schalterhighlighterbox (der Würfel um einen Schalter herum, der von einer Checkliste oder einem Missionskommando gehighlightet wird) verbergen."
+    "Text": "Die Aktivierung dieser Einstellung, wird die Schalterhighlighterboxen (der Würfel um einen Schalter herum, der von einer Checkliste oder einem Missionskommando gehighlightet wird) verbergen."
   },
   {
     "Identifier": "Settings_TTS",
-    "Text": "Text-to-Speech"
+    "Text": "Text-zu-Sprache"
   },
   {
     "Identifier": "RealismSettings_DisableGLoad",
-    "Text": "Deaktiviere G-Kräfte"
+    "Text": "Deaktiviere die G-Kräfte"
   },
   {
     "Identifier": "RealismSettings_DisableGLoadDesc",
-    "Text": "Ein Umschalten dieser Einstellung, wird Strukturschäden und Gameover, erzeugt durch zu hohe G-Kräfte beim Aufstieg und Eindringen, deaktivieren. "
+    "Text": "Ein Ändern dieser Einstellung, wird Strukturschäden und Gameover, erzeugt durch zu hohe G-Kräfte beim Aufstieg und Eindringen, deaktivieren. "
   },
   {
     "Identifier": "Academy_LM_FlightSchool",
@@ -1029,7 +1029,7 @@
   },
   {
     "Identifier": "Settings_LanguageContribute",
-    "Text": "Alle Übersetzungen stammen von der Community und sind hauptsächlich nur teilweise vorhanden. Falls du Übersetzungen beisteuern möchtest, schaue dir bitte die Beitragsseite im Hauptmenü an."
+    "Text": "Alle Übersetzungen stammen von der Community und sind meist nur teilweise vorhanden. Falls du Übersetzungen beisteuern möchtest, schaue dir bitte die Beitragsseite im Hauptmenü an."
   },
   {
     "Identifier": "Settings_VirtualRealityMoved",
