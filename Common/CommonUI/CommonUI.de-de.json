@@ -153,7 +153,7 @@
   },
   {
     "Identifier": "SaveState_Body",
-    "Text": "Ich habe kürzlich damit angefangen, Speicher- und Ladestandroutinen zu implementieren. Sie sind zum jetzigen Zeitpunkt relativ einfach konfiguriert und werden hauptsächlich die Lage von: Vektoren des Raumschiffes, physischen Items, und des Cockpitpanelstates speichern.\n\nIch werde versuchen, diese Dateien rückwärtskompatibel zu lassen. Dennoch sollte man davon ausgehen, dass es immerwieder Probleme im Zusammenhang mit diesen Speicherständen geben wird, da dieses System einfach noch zu neu ist."
+    "Text": "Ich habe kürzlich damit angefangen, Speicher- und Ladestandroutinen zu implementieren. Sie sind zum jetzigen Zeitpunkt relativ einfach konfiguriert und werden hauptsächlich die Lage von: Vektoren des Raumschiffes, physischen Items, und der Bedienfelder bzw. Schalterstellungen des Cockpits speichern.\n\nIch werde versuchen, diese Dateien rückwärtskompatibel zu lassen. Dennoch sollte man davon ausgehen, dass es immerwieder Probleme im Zusammenhang mit diesen Speicherständen geben wird, da dieses System einfach noch zu neu ist."
   },
   {
     "Identifier": "SaveState_Error",
