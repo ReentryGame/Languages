@@ -269,15 +269,15 @@
   },
   {
     "Identifier": "Settings_PanelStates",
-    "Text": "PANEL STATES"
+    "Text": "BEDIENFELD/SCHALTERSTELLUNGEN"
   },
   {
     "Identifier": "Settings_PanelStatesDesc",
-    "Text": "Warnung: Dies wird alle Standardpanelstates auf die Werkseinstellungen zurücksetzen. Bitte erstelle ein Backup, falls du irgendwelche Modifikationen an den Standardpanelstates durchgeführt hast.\nDeine eigenen Panel States bleiben hiervon unberührt."
+    "Text": "Warnung: Dies wird alle Standardbedienfeldeinstellungen auf die Werkseinstellungen zurücksetzen. Bitte erstelle ein Backup, falls du irgendwelche Modifikationen an den Standardpanelstates durchgeführt hast.\nDeine eigenen Panel States bleiben hiervon unberührt."
   },
   {
     "Identifier": "Settings_PanelStatesReset",
-    "Text": "ZURÜCKSETZEN DER STANDARDPANELSTATES"
+    "Text": "ZURÜCKSETZEN DER STANDARD BEDIENFELD/SCHALTEREINSTELLUNGEN"
   },
   {
     "Identifier": "Settings_InputControls",
@@ -369,7 +369,7 @@
   },
   {
     "Identifier": "Settings_OutputLiveDesc",
-    "Text": "Dies wird OBC, AGC und LGC Paneldaten in Echtzeit exportieren und als eigene Dateien im Exports Ordner (im AppData Ordner von Reentry) speichern. Das kann dazu genutzt werden, die genannte Daten auf externen Geräten anzuzeigen. Dazu gehört zum Beispiel ein IoT."
+    "Text": "Dies wird OBC, AGC und LGC Bedienfelddaten in Echtzeit exportieren und als eigene Dateien im Exports Ordner (im AppData Ordner von Reentry) speichern. Das kann dazu genutzt werden, die genannte Daten auf externen Geräten anzuzeigen. Dazu gehört zum Beispiel ein IoT."
   },
   {
     "Identifier": "Settings_ToggleOutputLive",
@@ -481,7 +481,7 @@
   },
   {
     "Identifier": "GraphicsSettings_CMInteriorDesc",
-    "Text": "Das Kommandomodulinterieurupgrade ersetzt das existierende Low Poly Interieur. Die Panele bleiben gleich, allerdings wird das restliche Innere realistischer. Diese Einstellung hat eine hohe Auswirkung auf die Renderleistung deines Systems."
+    "Text": "Das Kommandomodulinterieurupgrade ersetzt das existierende Low Poly Interieur. Die Bedienfelder bleiben gleich, allerdings wird das restliche Innere realistischer. Diese Einstellung hat eine hohe Auswirkung auf die Renderleistung deines Systems."
   },
   {
     "Identifier": "GraphicsSettings_MoonTessellationTitle",
