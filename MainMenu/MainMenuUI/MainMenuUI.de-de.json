@@ -1,0 +1,1038 @@
+[
+  {
+    "Identifier": "ContextMenu_MainMenu",
+    "Text": "HAUPTMENÜ"
+  },
+  {
+    "Identifier": "ContextMenu_Academy",
+    "Text": "AKADEMIE"
+  },
+  {
+    "Identifier": "ContextMenu_MissionControl",
+    "Text": "MISSION CONTROL"
+  },
+  {
+    "Identifier": "ContextMenu_Profile",
+    "Text": "PROFIL"
+  },
+  {
+    "Identifier": "ContextMenu_LoadState",
+    "Text": "LADE SPIELSTAND"
+  },
+  {
+    "Identifier": "ContextMenu_Settings",
+    "Text": "EINSTELLUNGEN"
+  },
+  {
+    "Identifier": "ContextMenu_Missions",
+    "Text": "MISSIONEN"
+  },
+  {
+    "Identifier": "ContextMenu_Campaigns",
+    "Text": "KAMPAGNEN"
+  },
+  {
+    "Identifier": "ContextMenu_Mercury",
+    "Text": "PROJEKT MERCURY"
+  },
+  {
+    "Identifier": "ContextMenu_Gemini",
+    "Text": "PROJEKT GEMINI"
+  },
+  {
+    "Identifier": "ContextMenu_Apollo",
+    "Text": "PROJEKT APOLLO"
+  },
+  {
+    "Identifier": "ContextMenu_Credits",
+    "Text": "PROJEKT CREDITS"
+  },
+  {
+    "Identifier": "ContextMenu_WorkshopMission",
+    "Text": "WORKSHOPMISSION"
+  },
+  {
+    "Identifier": "MainMenuItem_Academy",
+    "Text": "AKADEMIE"
+  },
+  {
+    "Identifier": "MainMenuItem_Missions",
+    "Text": "MISSIONEN"
+  },
+  {
+    "Identifier": "MainMenuItem_Campaigns",
+    "Text": "KAMPAGNEN"
+  },
+  {
+    "Identifier": "MainMenuItem_LoadState",
+    "Text": "LADE SPIELSTAND"
+  },
+  {
+    "Identifier": "MainMenuItem_MissionControl",
+    "Text": "MISSION CONTROL"
+  },
+  {
+    "Identifier": "MainMenuItem_Challenges",
+    "Text": "HERAUSFORDERUNGEN"
+  },
+  {
+    "Identifier": "MainMenuItem_Exhibitions",
+    "Text": "AUSSTELLUNGEN"
+  },
+  {
+    "Identifier": "MainMenuItem_Profile",
+    "Text": "PROFIL"
+  },
+  {
+    "Identifier": "MainMenuItem_Settings",
+    "Text": "EINSTELLUNGEN"
+  },
+  {
+    "Identifier": "MainMenuItem_Credits",
+    "Text": "CREDITS"
+  },
+  {
+    "Identifier": "MainMenuItem_Workshop",
+    "Text": "WORKSHOP"
+  },
+  {
+    "Identifier": "MainMenuItem_Contribute",
+    "Text": "BEITRAGEN"
+  },
+  {
+    "Identifier": "MainMenuItem_DevJournal",
+    "Text": "ENTWICKLERJOURNAL"
+  },
+  {
+    "Identifier": "MainMenuItem_UpdateNotes",
+    "Text": "UPDATEHINWEISE"
+  },
+  {
+    "Identifier": "MainMenuItem_Exit",
+    "Text": "VERLASSEN"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonManuals",
+    "Text": "ANLEITUNGEN (WEB)"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonBasicTheory",
+    "Text": "GRUNDLEGENDE HINWEISE"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonMercuryTutorials",
+    "Text": "PROJEKT MERCURY UNTERRICHTSEINHEITEN"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonGeminiTutorials",
+    "Text": "PROJEKT GEMINI UNTERRICHTSEINHEITEN"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonApolloTutorials",
+    "Text": "PROJEKT APOLLO UNTERRICHTSEINHEITEN"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonLunarModuleTutorials",
+    "Text": "LUNARMODUL UNTERRICHTSEINHEITEN"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonDiscord",
+    "Text": "KOMM ZU UNS AUF DEN DISCORD"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonMercury",
+    "Text": "PROJEKT MERCURY"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonGemini",
+    "Text": "PROJEKT GEMINI"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonApollo",
+    "Text": "PROJEKT APOLLO"
+  },
+  {
+    "Identifier": "MissionsMenu_FreePlay",
+    "Text": "FREIES SPIEL"
+  },
+  {
+    "Identifier": "MissionsMenu_Scenarios",
+    "Text": "SZENARIOS"
+  },
+  {
+    "Identifier": "MissionsMenu_Historic",
+    "Text": "HISTORISCHE MISSION"
+  },
+  {
+    "Identifier": "MissionsMenu_MissionControlLive",
+    "Text": "MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "MissionsMenu_Custom",
+    "Text": "BENUTZERDEFINIERTE MISSION"
+  },
+  {
+    "Identifier": "MissionsMenu_Create",
+    "Text": "STARTE EINE NEUE MISSION"
+  },
+  {
+    "Identifier": "ProgramInfo_Mercury",
+    "Text": "Project Mercury war das erste U.S. Raumfahrtprogramm, mit dem Ziel, einen Astronauten sicher in den Orbit und wieder auf die Erde zu bringen."
+  },
+  {
+    "Identifier": "ProgramInfo_Gemini",
+    "Text": "Projekt Gemini war das zweite Raumfahrtprogramm. Es ist als \"Bridge to the Moon\", also \"Brücke zum Mond\" bekannt."
+  },
+  {
+    "Identifier": "ProgramInfo_Apollo",
+    "Text": "Projekt Apollo ist das erste Raumfahrtprogramm, welches Menschen auf den Mond brachte."
+  },
+  {
+    "Identifier": "ProgramInfo_MCC",
+    "Text": "Mercury Control Center Live ist ein Multiplayermodul, bei dem viele sogenannte Mission Controllers eine Mercurymission unterstützen können."
+  },
+  {
+    "Identifier": "ProgramInfo_MOCR",
+    "Text": "Mission Operations Control Center Live erlaubt vielen sogenannten Mission Controllers, eine Apollomission im MOCR (Mission Operations Control Room) zu unterstützen."
+  },
+  {
+    "Identifier": "Profile_PlayerName",
+    "Text": "SPIELERNAME"
+  },
+  {
+    "Identifier": "Profile_CapsuleName",
+    "Text": "RAUMKAPSELNAME"
+  },
+  {
+    "Identifier": "Profile_CharacterEditor",
+    "Text": "CHARAKTERANPASSUNG"
+  },
+  {
+    "Identifier": "Profile_FlightTime",
+    "Text": "FLUGZEIT"
+  },
+  {
+    "Identifier": "Profile_Online",
+    "Text": "MULTIPLAYER RANKINGS"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryAstonaut",
+    "Text": "MERCURY ASTRONAUT"
+  },
+  {
+    "Identifier": "Profile_SkillCSMAstonaut",
+    "Text": "KOMMANDOMODUL ASTRONAUT"
+  },
+  {
+    "Identifier": "Profile_SkillLMAstonaut",
+    "Text": "LUNARMODUL ASTRONAUT"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryController",
+    "Text": "MERCURY CONTROLLER"
+  },
+  {
+    "Identifier": "Profile_SkillApolloController",
+    "Text": "APOLLO CONTROLLER"
+  },
+  {
+    "Identifier": "GeneralBackButton",
+    "Text": "ZURÜCK"
+  },
+  {
+    "Identifier": "Settings_Effects",
+    "Text": "GRAFIK"
+  },
+  {
+    "Identifier": "Settings_Language",
+    "Text": "SPRACHE"
+  },
+  {
+    "Identifier": "Settings_RealismSettings",
+    "Text": "REALISMUSEINSTELLUNGEN"
+  },
+  {
+    "Identifier": "Settings_Checklists",
+    "Text": "CHECKLISTEN"
+  },
+  {
+    "Identifier": "Settings_ChecklistsDesc",
+    "Text": "WARNUNG: Dies wird alle Standardchecklisten auf die Werkseinstellungen zurücksetzen. Bitte erstelle ein Backup, falls du irgendwelche Veränderungen an den Standardchecklisten durchgeführt hast.\nDeine eigenen Checklisten bleiben unberührt."
+  },
+  {
+    "Identifier": "Settings_ResetDefaultChecklists",
+    "Text": "ZURÜCKSETZEN DER STANDARDCHECKLISTEN"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoChecklistReset",
+    "Text": "Automatisches Überprüfen von Veränderungen an den Standardchecklisten."
+  },
+  {
+    "Identifier": "Settings_PanelStates",
+    "Text": "BEDIENFELD/SCHALTERSTELLUNGEN"
+  },
+  {
+    "Identifier": "Settings_PanelStatesDesc",
+    "Text": "Warnung: Dies wird alle Standardbedienfeldeinstellungen auf die Werkseinstellungen zurücksetzen. Bitte erstelle ein Backup, falls du irgendwelche Modifikationen an den Standardpanelstates durchgeführt hast.\nDeine eigenen Panel States bleiben hiervon unberührt."
+  },
+  {
+    "Identifier": "Settings_PanelStatesReset",
+    "Text": "ZURÜCKSETZEN DER STANDARD BEDIENFELD/SCHALTEREINSTELLUNGEN"
+  },
+  {
+    "Identifier": "Settings_InputControls",
+    "Text": "EINGABEGERÄTE UND STEUERUNG (Tastatur, Maus, Joystick)"
+  },
+  {
+    "Identifier": "Settings_EarthTextures",
+    "Text": "ERDTEXTUREN"
+  },
+  {
+    "Identifier": "Settings_Audio",
+    "Text": "AUDIO"
+  },
+  {
+    "Identifier": "Settings_AudioMusic",
+    "Text": "Musik"
+  },
+  {
+    "Identifier": "Settings_AudioSFX",
+    "Text": "SFX"
+  },
+  {
+    "Identifier": "Settings_AudioCabinNoise",
+    "Text": "Ambiencegeräusche der Kabine"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableSFXDSKYRelayClicking",
+    "Text": "DSKY Relay Klicken"
+  },
+  {
+    "Identifier": "Settings_TrackIR",
+    "Text": "TRACKIR"
+  },
+  {
+    "Identifier": "Settings_Autosave",
+    "Text": "AUTOSAVE"
+  },
+  {
+    "Identifier": "Settings_AutosaveDesc",
+    "Text": "Dies erstellt Autosaves während wichtigen Punkten im Spiel. Zum Beispiel bei der Insertion, Lunar SOI, PDI etc."
+  },
+  {
+    "Identifier": "Settings_ToggleAutosave",
+    "Text": "Aktiviere Autosave"
+  },
+  {
+    "Identifier": "Settings_ToggleTrackIR",
+    "Text": "Nutze NaturalPoint TrackIR"
+  },
+  {
+    "Identifier": "Settings_VirtualReality",
+    "Text": "VIRTUAL REALITY (experimentell)"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityDesc",
+    "Text": "Die jetzige VR-Unterstützung ist nur ein experimenteller Spielplatz während ich an einer Implementierung arbeite. Apollo ist immernoch sehr instabil, wenn es um Performance und Hardwareanforderungen geht."
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVirtualReality",
+    "Text": "Aktiviere VR"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRBurnHaptics",
+    "Text": "Aktiviere VR Controllervibrationen während Zündungen."
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRGazeCursor",
+    "Text": "Nutze ein Gazecursor anstelle von Motioncontrollers (early dev test)"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRSubtitles",
+    "Text": "Aktiviere Missionsdialoge als Untertitel."
+  },
+  {
+    "Identifier": "Settings_Data",
+    "Text": "DATEN"
+  },
+  {
+    "Identifier": "Settings_DataDesc",
+    "Text": "WARNUNG: Dies wird alle Benutzerdaten löschen. Dazu gehören Einstellungen, Fortschritt, Zeit im All etc. Dies ist nicht wiederherstellbar. "
+  },
+  {
+    "Identifier": "Settings_ClearData",
+    "Text": "LÖSCHE ALLE NUTZERDATEN"
+  },
+  {
+    "Identifier": "Settings_OutputLive",
+    "Text": "COMPUTEROUTPUT LIVEFEED"
+  },
+  {
+    "Identifier": "Settings_OutputLiveDesc",
+    "Text": "Dies wird OBC, AGC und LGC Bedienfelddaten in Echtzeit exportieren und als eigene Dateien im Exports Ordner (im AppData Ordner von Reentry) speichern. Das kann dazu genutzt werden, die genannte Daten auf externen Geräten anzuzeigen. Dazu gehört zum Beispiel ein IoT."
+  },
+  {
+    "Identifier": "Settings_ToggleOutputLive",
+    "Text": "Aktiviere Live Feed"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursor",
+    "Text": "COCKPITCURSOR"
+  },
+  {
+    "Identifier": "Settings_Toggle3DClouds",
+    "Text": "Aktiviere experimentelle 3D-Wolken"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursorDesc",
+    "Text": "Der Cockpitcursor wird den Mauscursor ersetzen und Ingamefeatures, wie zum Beispiel Farbveränderungen beim überfahren von Schaltern anzeigen. Der Nachteil hierbei ist, dass diese Funktion in der normalen Renderschleife gerendert wird."
+  },
+  {
+    "Identifier": "Settings_ToggleFunctionalCursor",
+    "Text": "Aktiviere Cockpitcursor"
+  },
+  {
+    "Identifier": "Settings_Configure",
+    "Text": "KONFIGURIEREN"
+  },
+  {
+    "Identifier": "Settings_ResetControls",
+    "Text": "AUF STANDARDEINSTELLUNGEN ZURÜCKSETZEN"
+  },
+  {
+    "Identifier": "MissionControlLive_MCC",
+    "Text": "MERCURY CONTROL CENTER"
+  },
+  {
+    "Identifier": "MissionControlLive_MOCR",
+    "Text": "APOLLO MISSION CONTROL"
+  },
+  {
+    "Identifier": "MissionControlLive_LFG",
+    "Text": "SPIELERSUCHE AUF DISCORD"
+  },
+  {
+    "Identifier": "GraphicsSettings_Title",
+    "Text": "GRAFIKEINSTELLUNGEN"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityTitle",
+    "Text": "Reflexionsstichprobenqualität"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityDesc",
+    "Text": "Reflexionsstichproben werden dazu genutzt, alle Arten von Reflexionen zu rendern. Dazu gehören Reflexionen von Planeten durch Lichter im Orbit (generelle Stichproben) bis hin zu internen Cockpitreflexionen durch Fenster und Materialien (kritische wichtige Stichproben). Sie haben eine sehr hohe Performanceauswirkung auf dein System. Falls du eine langsamere Updatefrequenz nutzt, empfehle ich Fensterblendungen auszuschalten. "
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityInfo",
+    "Text": "AUS: Alle Reflexionsstichproben werden deaktiviert.\nNIEDRIG: Wichtige Stichproben werden über 14 Frames geupdatet, Maximale Auflösung: 256\nMEDIUM: Wichtige Stichproben werden über 9 Frames geupdatet, Maximale Auflösung 512\nHOCH: Wichtige Stichproben werden innerhalb eines Frames geupdatet.\nULTIMATIV: Alle Stichproben werden innerhalb eines Frames geupdatet."
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingTitle",
+    "Text": "Nachbearbeitung (Post Processing)"
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingDesc",
+    "Text": "Mehrere Post Processing Effekte werden genutzt, um die visuelle Erfahrung zu verbessern. Sie benötigen ein paar GPU und CPU Zyklen; denke also daran diese abszuschalten, um deine FPS zu erhöhen (oder auch, wenn du diese Effekte einfach nicht magst).\nDie genauen Effekte sind: Bloom, Color Grading, Ambient Occlusion, etc."
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAOTitle",
+    "Text": "Screen Space Ambient Occlusion Pro"
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAODesc",
+    "Text": "Erweitertes SSAO ist ein Weg, um Schatten und dunkle Flächen an kleinen engen geometrischen Stellen (Ecken und Löcher etc) zu rendern. Falls du die Extrazyklen an einer anderen Stelle benötigst, denke darüber nach, diese Einstellung zu deaktivieren."
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareTitle",
+    "Text": "Rendern der Blendungen an Hauptfenster\rn"
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareDesc",
+    "Text": "Dies wird interne Reflexionen an allen Hauptfenstern im Cockpit rendern. Je dunkler das Cockpit, desto weniger Reflexionen wirst du sehen. Deshalb wird empfohlen, jegliche Lichter auszuschalten, wenn Aufgaben durchgeführt werden, wo man aus dem Fenster schauen muss.\nFalls die Reflexionsstichprobeneinstellung auf einer niedrigen Einstellung (außer AUS) gesetzt wurde, empfehle ich diese Einstellung zu deaktivieren, da es sonst zur Zeitversetzung bzw. einem Delay kommt. "
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelTitle",
+    "Text": "Rendere Crew Modelle"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelDesc",
+    "Text": "Eine Aktivierung dieser Einstellung wird 3D-Modelle der Crew innerhalb des CSM und LM rendern. Mercury und Gemini Modelle genauso wie ein detailierter Gesichts- und Avatargenerator ist in der Entwicklung."
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksTitle",
+    "Text": "Rendere Lunarfelsen"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksDesc",
+    "Text": "Lunarfelsen sind Teil der finalen Phase der Landung. Sie werden auf der Lunaroberfläche gerendert. Sie haben eine relativ große Auswirkung auf manche Computersysteme. Falls alles langsam erscheint, probiere diese Einstellung zu deaktivieren."
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesTitle",
+    "Text": "Rendere LRV Radpartikel"
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesDesc",
+    "Text": "Während du das LRV fährst, wird Sand von den Rädern aufgenommen. Das wird durch Partikel simuliert, die eine hohe Auswirkung auf die Performance haben. Deaktiviere diese Einstellung, falls du beim Fahren des LRV Performanceeinbrüche erleidest."
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorTitle",
+    "Text": "Kommandomodulinterieur"
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorDesc",
+    "Text": "Das Kommandomodulinterieurupgrade ersetzt das existierende Low Poly Interieur. Die Bedienfelder bleiben gleich, allerdings wird das restliche Innere realistischer. Diese Einstellung hat eine hohe Auswirkung auf die Renderleistung deines Systems."
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationTitle",
+    "Text": "Mondtesselierung"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationDesc",
+    "Text": "Wenn du dich im Orbit um den Mond herum befindest, existiert eine Methode namens Tesselierung\r, welche die Lunardetails generiert. Diese wird durch die GPU erzeugt und ist relativ schwer zu rendern. Drei Parameter lassen dich diese Einstellung kontrollieren: Faktor, Minimale Distanz und Maximale Distanz.\r\r\nDer Faktor definiert, wieviel tesseliert wird. Häufige Werte hierbei sind: 1, 8, 16, 32 etc.\r\r\nDie Minimale und Maximale Distanz definiert den Rahmen des zu tesselierenden. Die Dinge, die näher als die Minimale Distanz liegen, werden zu 100% tesseliert. Die Dinge die weiter weg, als die Maximale Distanz liegen, werden zi 0% tesseliert. Falls sich etwas weiter weg als die Minimale Distanz, jedoch näher als die Maximale Distanz befindet, wird dies aufgrund von Interpolation tesseliert. "
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_Factor",
+    "Text": "Faktor:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MinDist",
+    "Text": "Minimale Distanz:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MaxDist",
+    "Text": "Maximale Distanz:"
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BTitle",
+    "Text": "Apollo: Rendere High End Startkomplex 39A"
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BDesc",
+    "Text": "Diese Einstellung wird den Apollo Startkomplex 39A mit ultrahohen Detaillevelmodellen rendern."
+  },
+  {
+    "Identifier": "RealismSettings_Title",
+    "Text": "REALISMUS & HILFSEINSTELLUNGEN"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterTitle",
+    "Text": "Schalter Hover Highlighter"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterDesc",
+    "Text": "Eine Aktivierung dieser Einstellung wird einen Würfel um das Instrument oder den Schalter erzeugen, über dem dein Cursor schwebt."
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorTitle",
+    "Text": "Offscreen Schalter Indikator"
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorDesc",
+    "Text": "Eine Aktivierung dieser Einstellung wird\r einen Indikator in Richtung eines gehighlighteten Schalters erzeugen, falls der Schalter außerhalb des Sichtfeldes des Spielers liegt."
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistTitle",
+    "Text": "Automatisch abschließende Checkliste"
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistDesc",
+    "Text": "Falls du das AUSFÜHREN Feature in den Checklisten nutzt, wird der Guide dich automatisch durch die Checkliste führen. Das geht so lange so weiter, bis du einen Punkt erreichst, der deine Aufmerksamkeit benötigt. Falls dies deaktiviert ist, musst du WEITER drücken, um zum nächsten Schritt der Checkliste zu gelangen.\t"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingTitle",
+    "Text": "Erleichterte Zündungen & Rendezvous"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingDesc",
+    "Text": "Eine Aktivierung dieser Einstellung wird Rendezvous und das Manövrieren im Orbit ein wenig erleichtern, da es dann automatische Flugbahnkorrektionen geben wird, wenn die Gamelogik angehäufte Errors und Zielabweichungen erkennt. Ich empfehle diese Einstellung aktiviert zu lassen (gerade deshalb, weil sich die Steuerungscomputer hier in ihrer frühen Entwicklung befinden). Gamelogik kann diese Einstellung in wichtigen Momenten überschreiben."
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeTitle",
+    "Text": "Reduziere Apollostart-Kamerawackeln"
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeDesc",
+    "Text": "Eine Aktivierung dieser Einstellung wird das Kamerawackeln während einem Apollo Saturn V Aufstiegs (SIC und SII) reduzieren."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleTitle",
+    "Text": "Rendere Lunarlandung Punktflagge"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleDesc",
+    "Text": "Eine Aktivierung dieser Option wird, beim Eintreten in die Lunarlandezone, einen Flaggenmast am gewählten Landepunkt rendern."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionTitle",
+    "Text": "Automatische Ausrichtung zur Lunarlandezone"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionDesc",
+    "Text": "Eine Aktivierung dieser Einstellung, wird das Lunarmodul automatisch in Richtung der Landezone der Lunarlandezone ausrichten."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresTitle",
+    "Text": "Zufällige Defekte: Mercury"
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
+    "Text": "Dies wird zufällige Defekte in hierfür zugelassenen Missionen (Freies Spiel oder benutzerdefinierte Missionen) aktivieren.\r\r\r\r\r\r\r\r\nDas zufällige Defektsystem wird alle 2 bis 5 Minuten einen Würfel rollen (Zyklus), der einen zufälligen Defekt auslösen kann.\r\r\r\r\r\r\r\r\nWeiter unten kannst du konfigurieren, mit welcher Chance im Zyklus ein solcher Defekt passieren kann und welche Defekt du von der Zufallsliste ausschließen möchtest.\r\r\r\r\r\r\r\r\nBedenke, dass du auch Defekte über den Defektkonsolencommand Ingame manuell auslösen kannst."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresPercentage",
+    "Text": "% Chance eines Defekts, der pro Zyklus passieren könnte."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresToggleFailures",
+    "Text": "SCHALTE DEFEKTE AN/AUS"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresTitle",
+    "Text": "Zufällige Defekte: Gemini"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresDesc",
+    "Text": "Dies wird zufällige Defekte in hierfür zugelassenen Missionen (Freies Spiel oder benutzerdefinierte Missionen) aktivieren.\r\r\r\r\r\r\r\r\nDas zufällige Defektsystem wird alle 2 bis 5 Minuten einen Würfel rollen (Zyklus), der einen zufälligen Defekt auslösen kann.\r\r\r\r\r\r\r\r\nWeiter unten kannst du konfigurieren, mit welcher Chance im Zyklus ein solcher Defekt passieren kann und welche Defekt du von der Zufallsliste ausschließen möchtest.\r\r\r\r\r\r\r\r\nBedenke, dass du auch Defekte über den Defektkonsolencommand Ingame manuell auslösen kannst."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresPercentage",
+    "Text": "% Chance eines Defekts, der pro Zyklus passieren könnte."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresToggleFailures",
+    "Text": "SCHALTE DEFEKTE AN/AUS"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresTitle",
+    "Text": "Zufällige Defekte: Apollo"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresDesc",
+    "Text": "Dies wird zufällige Defekte in hierfür zugelassenen Missionen (Freies Spiel oder benutzerdefinierte Missionen) aktivieren.\r\r\r\r\r\r\r\r\r\r\nDas zufällige Defektsystem wird alle 2 bis 5 Minuten einen Würfel rollen (Zyklus), der einen zufälligen Defekt auslösen kann.\r\r\r\r\r\r\r\r\r\r\nWeiter unten kannst du konfigurieren, mit welcher Chance im Zyklus ein solcher Defekt passieren kann und welche Defekt du von der Zufallsliste ausschließen möchtest.\r\r\r\r\r\r\r\r\r\r\nBedenke, dass du auch Defekte über den Defektkonsolencommand Ingame manuell auslösen kannst."
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresPercentage",
+    "Text": "% Chance eines Defekts, der pro Zyklus passieren könnte."
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresToggleFailures",
+    "Text": "SCHALTE DEFEKTE AN/AUS"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftTitle",
+    "Text": "Gyro Drift"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftDesc",
+    "Text": "Falls aktiviert, werden die Gyros Errors über Zeit anhäufen\r. Diese müssen dann korrigiert werden. (Nicht betroffen sind das LM, da P52 dafür noch nicht entwickelt wurde)"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Title",
+    "Text": "CO2 Kanisteraustausch"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Desc",
+    "Text": "Falls aktiviert, musst du die CO2 Kanister manuell\r austauschen, so wie es die Vorgaben vorschreiben. Dieser Austausch ist im CSM vorhanden und bald auch im LM."
+  },
+  {
+    "Identifier": "MainMenuButton_Launch",
+    "Text": "START"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson1",
+    "Text": "LEKTION 1 - VOR DEM START"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson2",
+    "Text": "LEKTION 2 - DER START & AUFSTIEG"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson3",
+    "Text": "LEKTION 3 - DIE CHECKLISTEN & DER ATLAS"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson4",
+    "Text": "LEKTION 4 - DIE ELEKTRONIK"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson5",
+    "Text": "LEKTION 5 - DIE HÖHENKONTROLLE"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson6",
+    "Text": "LEKTION 6 - DIE LEBENSERHALTUNGSSYSTEME"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson7",
+    "Text": "LEKTION 7 - DER SEQUENCER"
+  },
+  {
+    "Identifier": "Academy_Mercury_Exam",
+    "Text": "PRÜFUNG - DIE GANZE MISSION"
+  },
+  {
+    "Identifier": "Academy_Mercury_VR",
+    "Text": "VIRTUAL REALITY"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson1",
+    "Text": "LEKTION 1 - VOR DEM START"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson2",
+    "Text": "LEKTION 2 - DER AUFSTIEG"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson3",
+    "Text": "LEKTION 3 - DIE ELEKTRONIK!"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson4",
+    "Text": "LEKTION 4 - DIE NAVIGATION!"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson5",
+    "Text": "LEKTION 5 - DER COMPUTER"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson6",
+    "Text": "LEKTION 6 - DIE LEBENSERHALTUNGSSYSTEME"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson7",
+    "Text": "LEKTION 7 - DER SEQUENCER"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson8",
+    "Text": "LEKTION 8 - DEORBIT & EINDRINGEN"
+  },
+  {
+    "Identifier": "Academy_Gemini_Exam",
+    "Text": "PRÜFUNG - DIE GANZE MISSION"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson10",
+    "Text": "LEKTION 10 - DAS MANÖVRIEREN & DIE ZÜNDUNGEN"
+  },
+  {
+    "Identifier": "Academy_CSM_TheBasics",
+    "Text": "DIE BASICS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson1",
+    "Text": "LEKTION 1 - VOR DEM START"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson2",
+    "Text": "LEKTION 2 - DER BOOST"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson3",
+    "Text": "LEKTION 3 - DIE ELEKTRONIK"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson4",
+    "Text": "LEKTION 4 - RCS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson5",
+    "Text": "LEKTION 5 - DER COMPUTER"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson6",
+    "Text": "LEKTION 6 - DER SERVICEANTRIEB"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson7",
+    "Text": "LEKTION 7 - AGC & AUTOMANÖVRIEREN"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson8",
+    "Text": "LEKTION 8 - DIE SPS ZÜNDUNGSPLANUNG"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9",
+    "Text": "LEKTION 9 - DAS ATMOSPHÄRISCHE EINDRINGEN"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson10",
+    "Text": "LEKTION 10 - TRNSP. & ANDOCKEN"
+  },
+  {
+    "Identifier": "Academy_CSM_Exam",
+    "Text": "PRÜFUNG: DIE GANZE ERDMISSION"
+  },
+  {
+    "Identifier": "Academy_CSM_AdvancedTopics",
+    "Text": "FORTGESCHRITTENE THEMEN"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson11",
+    "Text": "LEKTION  11 - DIE TRANS-LUNAR INJECTION"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson12",
+    "Text": "LEKTION 12 - OPTIKEN"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson13",
+    "Text": "LEKTION 13 - DIE TRANS-ERD INJECTION"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson14",
+    "Text": "LEKTION 14 - ECS: O2"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson15",
+    "Text": "LEKTION 15 - ECS: PCS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson16",
+    "Text": "LEKTION 16 - ECS: H2O"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson17",
+    "Text": "LEKTION 17 - ECS: GLYKOL"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson1",
+    "Text": "LEKTION 1 - EINSTRAHLUNG"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson2",
+    "Text": "LEKTION 2 - DIE AKTIVIERUNG"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson3",
+    "Text": "LEKTION 3 - DIE ELEKTRONIK"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson4",
+    "Text": "LEKTION 4 - DIE REAKTIONSKONTROLLE"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson5",
+    "Text": "LEKTION 5 - DER STEUERUNGSCOMPUTER"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson6",
+    "Text": "LEKTION 6 - DIE FLUGMODI"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson7",
+    "Text": "LEKTION 7 - DER ABSTIEGSMOTOR"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson8",
+    "Text": "LEKTION 8 - DIE RADARSYSTEME"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson9",
+    "Text": "LEKTION 9 - DAS ABDOCKEN"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson10",
+    "Text": "LEKTION 10 - DAS ABSTEIGEN"
+  },
+  {
+    "Identifier": "Academy_LM_Exam",
+    "Text": "PRÜFUNG: DIE LUNARLANDUNG"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson11",
+    "Text": "LEKTION 11 - ECS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson12",
+    "Text": "LEKTION 12 - DAS AUFSTEIGEN & ANDOCKEN"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson13",
+    "Text": "LEKTION 13 - LUNARSTAY & EVA"
+  },
+  {
+    "Identifier": "ChallengeAccepted",
+    "Text": "CHALLENGE ANGENOMMEN"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone",
+    "Text": "MERCURY-REDSTONE"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas",
+    "Text": "MERCURY-ATLAS"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone_CnD",
+    "Text": "MERCURY-REDSTONE - T-90 (C & D)"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas_CnD",
+    "Text": "MERCURY-ATLAS - T-90 (C & D)"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR3",
+    "Text": "MERCURY-REDSTONE 3"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR4",
+    "Text": "MERCURY-REDSTONE 4"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MA6",
+    "Text": "MERCURY-ATLAS 6"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_IngressPad",
+    "Text": "GEMINI TITAN - VOR DEM FLUG (T-10)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_Orbit",
+    "Text": "GEMINI TITAN (IM ORBIT)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_CnD",
+    "Text": "GEMINI TITAN - C&D (T-90)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario1",
+    "Text": "I - GEMINI RENDEZVOUS"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario2",
+    "Text": "II - AGENA ANDOCKEN"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario3",
+    "Text": "III - RENDEZVOUS ZÜNDUNGSTRAINING"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario4",
+    "Text": "IV - DAS ANDOCKTRAINING"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_HistoricGT3",
+    "Text": "GT-3: THE MOLLY BROWN"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T2h",
+    "Text": "SATURN V - COLD & DARK - GROUND CREW (T-4h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_BackupCrewIngress",
+    "Text": "SATURN V - BACKUP CREW EINSTRAHLUNG (T-2h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_PrimeCrewIngress",
+    "Text": "SATURN V - PRIME CREW EINSTRAHLUNG (T-1h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T25m",
+    "Text": "SATURN V - DER START (T-25m)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_EarthOrbit",
+    "Text": "CSM/SIVB IM ERDORBIT"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_LMOrbit",
+    "Text": "LUNAR MODULE (C&D) IM ERDORBIT"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario1",
+    "Text": "I - DIE TRANS-LUNAR INJECTION"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario2",
+    "Text": "II - DIE LUNAR ORBIT INJECTION"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario3",
+    "Text": "III - DIE TRANS-ERD INJECTION"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario4",
+    "Text": "IV - DAS LUNAR MODUL ABDOCKEN"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario5",
+    "Text": "V - DER ANGETRIEBENE ABSTIEG & DIE LUNARLANDUNG"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario6",
+    "Text": "VI - LUNARSTAY & AUFSTIEG"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario7",
+    "Text": "VII - NACH HAUSE TREIBEN"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario8",
+    "Text": "VIII - DAS EINDRINGEN"
+  },
+  {
+    "Identifier": "RealismSettings_HideChecklistHighlighter",
+    "Text": "Verstecke die Schalter-Highlighterboxen"
+  },
+  {
+    "Identifier": "RealismSettings_HideChecklistHighlighterDesc",
+    "Text": "Die Aktivierung dieser Einstellung, wird die Schalterhighlighterboxen (der Würfel um einen Schalter herum, der von einer Checkliste oder einem Missionskommando gehighlightet wird) verbergen."
+  },
+  {
+    "Identifier": "Settings_TTS",
+    "Text": "Text-zu-Sprache"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoad",
+    "Text": "Deaktiviere die G-Kräfte"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoadDesc",
+    "Text": "Ein Ändern dieser Einstellung, wird Strukturschäden und Gameover, erzeugt durch zu hohe G-Kräfte beim Aufstieg und Eindringen, deaktivieren. "
+  },
+  {
+    "Identifier": "Academy_LM_FlightSchool",
+    "Text": "VIDEOS: SPACE FLIGHT ACADEMIE: Lunarmodul (YT)"
+  },
+  {
+    "Identifier": "Academy_CM_FlightSchool",
+    "Text": "VIDEOS: SPACE FLIGHT ACADEMY: Kommandomodul (YT)"
+  },
+  {
+    "Identifier": "Academy_Gemini_FlightSchool",
+    "Text": "VIDEOS: SPACE FLIGHT ACADEMY: Gemini (YT)"
+  },
+  {
+    "Identifier": "Academy_Mercury_FlightSchool",
+    "Text": "VIDEOS: SPACE FLIGHT ACADEMY: Mercury (YT)"
+  },
+  {
+    "Identifier": "Academy_Theory_FlightSchool",
+    "Text": "SPACE FLIGHT ACADEMY (VIDEOS, YT)"
+  },
+  {
+    "Identifier": "Academy_Videos",
+    "Text": "VIDEOS"
+  },
+  {
+    "Identifier": "Academy_Lessons",
+    "Text": "LEKTIONEN"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecay",
+    "Text": "Aktiviere Orbitalzerfall"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecayDesc",
+    "Text": "Dies wird Orbitalzerfall aktivieren, welcher dafür sorgt, dass dein Orbit in relativer Abhängigkeit vom Drag der Atmosphäre \rzerfällt.\r\r\n(Testing only, Mercury Only)"
+  },
+  {
+    "Identifier": "Settings_LanguageContribute",
+    "Text": "Alle Übersetzungen stammen von der Community und sind meist nur teilweise vorhanden. Falls du Übersetzungen beisteuern möchtest, schaue dir bitte die Beitragsseite im Hauptmenü an."
+  },
+  {
+    "Identifier": "Settings_VirtualRealityMoved",
+    "Text": "Hinweis: VR wurde verschoben - eine neue VR Implementierung befindet sich in der Entwicklung! Die existierende vorläufige VR Unterstützung wurde in eine dediziierte Branch mit dem Namen \"Virtual Reality\" verschoben. Die Entwicklung einer neuen VR Implementierung auf Grundlage des Wissens der alten vorläufigen Implementierung, wird die alte Implementierung ersetzen. Die alte Implementierung wird verworfen."
+  }
+]

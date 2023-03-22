@@ -1,0 +1,314 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "KOMMANDANTENSITZ"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "LINKES BEDIENFELD"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "RECHTES BEDIENFELD"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "OBERES BEDIENFELD"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "FENSTER"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "RADIOCHECK"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "HÖHENCHECK"
+  },
+  {
+    "Identifier": "CommReq_ClockReport",
+    "Text": "UHR WURDE GESTARTET"
+  },
+  {
+    "Identifier": "CommReq_BatteryCheck",
+    "Text": "BATTERIECHECK"
+  },
+  {
+    "Identifier": "CommReq_TempCheck",
+    "Text": "TEMPERATURCHECK"
+  },
+  {
+    "Identifier": "CommReq_SetRETROtoNextAP",
+    "Text": "RETRO BEI NÄCHSTER AP"
+  },
+  {
+    "Identifier": "CommReq_MessageCapCom",
+    "Text": "BENACHRICHTIGE CAPCOM"
+  },
+  {
+    "Identifier": "CommReq_PadSwitchToInternalPower",
+    "Text": "SCHALTE UM AUF INTERNE ENERGIEVERSORGUNG"
+  },
+  {
+    "Identifier": "CommReq_RequestAbortCapability",
+    "Text": "MÖGLICHKEIT ZUM ABBRUCHTEST ANFRAGEN"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "SCHALTE JUKEBOX AN/AUS"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "MANUELLE AUFSTIEGSDATEN"
+  },
+  {
+    "Identifier": "CommReq_AttitudeInfo",
+    "Text": "HÖHENDATEN"
+  },
+  {
+    "Identifier": "Radio_NegativeClockCheck",
+    "Text": "Negativ! Versorgungsschnur immernoch angeschlossen."
+  },
+  {
+    "Identifier": "RadioCheck_HF",
+    "Text": "{0}, wir hören euch {1} um 5 auf HF."
+  },
+  {
+    "Identifier": "RadioCheck_UHF",
+    "Text": "{0}, wir hören euch {1} by 5 on UHF."
+  },
+  {
+    "Identifier": "Radio_RetroTimeUpdated",
+    "Text": "{0}, Zeit für Retro wurde aktualisiert. Bitte überprüfen und anpassen."
+  },
+  {
+    "Identifier": "Radio_TempCheck",
+    "Text": "{0}, eure Temperaturen sind im grünen Bereich."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssues",
+    "Text": "{0}, einige Temperaturen liegen außerhalb des grünen Bereiches.{1}"
+  },
+  {
+    "Identifier": "Radio_AltCheck_OnPad",
+    "Text": "die Startrampe"
+  },
+  {
+    "Identifier": "Radio_AltCheck_WeSeeYouAt",
+    "Text": "Wir sehen euch auf {0}."
+  },
+  {
+    "Identifier": "Radio_AltCheck_NoTLM",
+    "Text": "Wir können eure Telemetrie nicht sehen."
+  },
+  {
+    "Identifier": "Radio_ClockOperational",
+    "Text": "Verstanden, die Uhr ist funktionstüchtig."
+  },
+  {
+    "Identifier": "Radio_Staging",
+    "Text": "Wir bestätigen das Staging auf {0}."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Keins."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Drücke {0} , wenn du bereit bist mit der Mission fortzufahren."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Drücke ROGER, wenn du bereit bist mit der Mission fortzufahren."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Warte auf Start."
+  },
+  {
+    "Identifier": "MissionObjective_State_SECO",
+    "Text": "Warte auf SECO."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Tower",
+    "Text": "Warte auf Towertrennung."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_LV",
+    "Text": "Warte auf Trennung des Flugkörpers."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Vervollständige die Schalterkonfigurationen."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Vervollständige die Checkliste mit der ID {0}."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Erreiche eine Höhe von mehr als {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Erreiche eine Höhe von weniger als {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Erreiche eine Ap-Höhe von {0} oder mehr."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Erreiche eine Pe-Höhe von {0} oder mehr."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Passe den Orbit an {0} Ap x {1} Pe-Höhe (km) oder mehr an."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Erreiche den Sendekreis von Radiostation {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "Erreiche den Längengrad von Radiostation {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Erreiche einen Längengrad von {0} und {1} Grad."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Erreiche einen Breitengrad von {0} und {1} Grad."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "Warte auf den Retrosequenzstart."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Erreiche eine Orbitalebene von {0} mit einer Abweichung von +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "Warte auf Boosterabtrennung."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "Warte auf Abtrennung der Retrogradesektion."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Warte auf atmosphärischen Drag (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "Warte auf Bremsschirmöffnung."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "Warte auf Hauptöffnung."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Warte auf Beginn des Atmosphäreneintritts."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Beende die Checkliste."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Stoße durch die Atmosphäre."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "Warte auf Zündung der Retrogradezünder."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Erreiche eine Höhe von weniger als {0} Fuß."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "Splashdown."
+  },
+  {
+    "Identifier": "MissionObjective_PerformBloodCheck",
+    "Text": "Führe einen Blutdrucktest durch."
+  },
+  {
+    "Identifier": "RadioMessage_UmbilicalDisconnect",
+    "Text": "Abtrennung der Versorgungsschnur!"
+  },
+  {
+    "Identifier": "RadioMessage_SetSpacecraftToReady",
+    "Text": "{0}, wir können nicht erkennen, ob ihr bereit seid. Schaltet LAUNCH CONTROL auf READY um. Der Countdown ist abgelaufen!"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, erbittet Anhalten des Countdowns."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, bitte fahrt mit dem Countdown fort."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, Countdown angehalten."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, Countdown fährt fort."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "FAHRE MIT DEM COUNTDOWN FORT"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "COUNTDOWN ANHALTEN"
+  },
+  {
+    "Identifier": "RadioMessage_StartingAbortCapability",
+    "Text": "Test zur Möglichkeit eines Abbruchs gestartet. Abbruchlicht sollte leuchten und Stromkontrollanzeigen sollten ausschlagen. "
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityNotStarted",
+    "Text": "Es ist nicht möglich, den Test zur Möglichkeit eines Abbruchs zu starten. Vergewissere dich, ob die Squibs scharfgestellt sind."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityComplete",
+    "Text": "Test zur Möglichkeit eines Abbruchs abgeschlossen."
+  },
+  {
+    "Identifier": "RadioMessage_SwitchToInternalPower",
+    "Text": "Flugkörper von der Versorgungsschnur getrennt. Ihr lauft jetzt auf interner Energieversorgung."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_EvapH2OLow",
+    "Text": "H2O-Level des Verdampfers zu niedrig."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitLow",
+    "Text": "Anzugtemperatur zu niedrig."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitHigh",
+    "Text": "Anzugtemperatur zu hoch."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinLow",
+    "Text": "Kabinentemperatur zu niedrig."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinHigh",
+    "Text": "Kabinentemperatur zu hoch."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinFanOff",
+    "Text": "Kabinenlüftung ist ausgeschaltet. Schaltet die Lüftung an, um Luft in den Wärmetauscher zu pumpen."
+  }
+]

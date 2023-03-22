@@ -1,0 +1,194 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ROGER"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "ABLEHNEN"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "DERZEITIGES ZIEL"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[VORBEREITUNG DES COCKPIT STATE]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] I E W   S E L E C T O R"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "EXTERN"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ORBITAL"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "MISSIONSPAD"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENÜ"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "WEITER MIT DER SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "DEFEKTE"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "AUDIO"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "EINGABEGERÄTE UND STEUERUNG"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "SPEICHERSTAND"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "KONSOLE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "MISSIONSEDITOR"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "BEENDE SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRAFIK"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "ERSTELLE CHECKLISTE"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] O M M U N I C A T I O N"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "RADIO CHECK"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "MISSION"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "BRIEFING"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "KARTE"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "CHECKLISTEN"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "TRANSKRIPT"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "NOTIZEN"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "AUDIOEINSTELLUNGEN"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Master"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Cockpit"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "Extern"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Musik"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Misc SFX"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Astronaut\r\r\nComm"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Mission Control Comm"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "SPEICHERSTAND"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "Ich habe kürzlich damit angefangen, Speicher- und Ladestandroutinen zu implementieren. Sie sind zum jetzigen Zeitpunkt relativ einfach konfiguriert und werden hauptsächlich die Lage von: Vektoren des Raumschiffes, physischen Items, und der Bedienfelder bzw. Schalterstellungen des Cockpits speichern.\n\nIch werde versuchen, diese Dateien rückwärtskompatibel zu lassen. Dennoch sollte man davon ausgehen, dass es immerwieder Probleme im Zusammenhang mit diesen Speicherständen geben wird, da dieses System einfach noch zu neu ist."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Warnung: Es ist gerade nicht möglich, zu speichern.\nSpeichern ist bei bestimmten Manövern oder wichtigen Missionsphasen nicht möglich."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "SPEICHERN"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "SCHLIESSEN"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "NAME DES SPEICHERSTANDES:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Überschreiben?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "ALLES LÖSCHEN"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "LÖSCHEN"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "UI Skalierung"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "Der Skalierungsfaktor des User Interfaces."
+  }
+]
