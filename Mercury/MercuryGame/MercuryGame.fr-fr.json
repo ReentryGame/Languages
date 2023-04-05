@@ -17,7 +17,7 @@
   },
   {
     "Identifier": "Loading_PrepareCockpitState",
-    "Text": "[ PRERATION DE LA CONFIGURATION DU COCKPIT ]"
+    "Text": "[ PREPARATION DE LA CONFIGURATION DU COCKPIT ]"
   },
   {
     "Identifier": "ViewSelector_Title",
@@ -265,7 +265,7 @@
   },
   {
     "Identifier": "Radio_RetroTimeUpdated",
-    "Text": "{0}, Temps avant Retro mis à jour. Vérifiez et faîtes les corrections nécessaire."
+    "Text": "{0}, Temps avant Retro mis à jour. Vérifiez et faîtes les corrections nécessaires."
   },
   {
     "Identifier": "Radio_TempCheck",

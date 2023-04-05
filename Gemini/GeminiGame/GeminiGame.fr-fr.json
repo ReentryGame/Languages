@@ -1,0 +1,506 @@
+[
+  {
+    "Identifier": "CommReq_ReadyToLaunch",
+    "Text": "PRET AU LANCEMENT"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "RADIO CHECK"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "ALTITUDE CHECK"
+  },
+  {
+    "Identifier": "CommReq_RadiatorTemperature",
+    "Text": "RADIATEUR TEMP"
+  },
+  {
+    "Identifier": "CommReq_OrbitInfo",
+    "Text": "ORBITE INFO"
+  },
+  {
+    "Identifier": "CommReq_FCTempCheck",
+    "Text": "Température des piles à combustible"
+  },
+  {
+    "Identifier": "CommReq_RequestTargetManeuver",
+    "Text": "Demande target burn"
+  },
+  {
+    "Identifier": "CommReq_RetroAtNextApogee",
+    "Text": "RETRO A PROCHAINE APOGEE"
+  },
+  {
+    "Identifier": "CommReq_EVAButton",
+    "Text": "EVA"
+  },
+  {
+    "Identifier": "CommReq_RequestRetroTime",
+    "Text": "HEURE DE LA VÉRIFICATION RETRO"
+  },
+  {
+    "Identifier": "CommReq_OpenHatchButtonCdr",
+    "Text": "BASCULE\r\r\nTRAPPE"
+  },
+  {
+    "Identifier": "CommReq_OpenHatchButtonPilot",
+    "Text": "BASCULE\r\nTRAPPE"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "SELECTION JUKEBOX"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "DONNÉES D'ASCENSION MANUELLE"
+  },
+  {
+    "Identifier": "CommReq_AttitudeData",
+    "Text": "ATTITUDE DATA"
+  },
+  {
+    "Identifier": "CommReq_ToggleDRing",
+    "Text": "SELECTION D-RING"
+  },
+  {
+    "Identifier": "CommReq_SwitchToInternalPower",
+    "Text": "PASSER SUR ALIMENTATION INTERNE"
+  },
+  {
+    "Identifier": "CommReq_AbortCapabilityTest",
+    "Text": "ABANDONNER\r\n&CHECK\r PROPULSEURS"
+  },
+  {
+    "Identifier": "CommReq_RetroAtTargetCursor",
+    "Text": "RÉTRO AU CURSEUR ORBITAL"
+  },
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "SIEGE COMMANDANTS"
+  },
+  {
+    "Identifier": "ViewSelector_CommanderPanel",
+    "Text": "PANNEAU COMMANDANT"
+  },
+  {
+    "Identifier": "ViewSelector_CenterPanel",
+    "Text": "PANNEAU COMMANDANT"
+  },
+  {
+    "Identifier": "ViewSelector_CenterPedestal",
+    "Text": "PANNEAU CENTRAL"
+  },
+  {
+    "Identifier": "ViewSelector_CoPilotSeat",
+    "Text": "SIEGE PILOTE"
+  },
+  {
+    "Identifier": "ViewSelector_CoPilotPanel",
+    "Text": "PANNEAU PILOTE"
+  },
+  {
+    "Identifier": "ViewSelector_RoofPanel",
+    "Text": "PANNEAU DE TOIT"
+  },
+  {
+    "Identifier": "OrbitalCursor_Title",
+    "Text": "CURSEUR ORBITAL"
+  },
+  {
+    "Identifier": "OrbitalCursor_Move",
+    "Text": "DÉPLACER LE POINTEUR ORBITAL"
+  },
+  {
+    "Identifier": "OrbitalCursor_Time",
+    "Text": "TEMPS DE PASSAGE :"
+  },
+  {
+    "Identifier": "EVA_RemainingFuel",
+    "Text": "FUEL\r RESTANT"
+  },
+  {
+    "Identifier": "EVA_Enter",
+    "Text": "ENTREE"
+  },
+  {
+    "Identifier": "EVA_GetBackpack",
+    "Text": "OBTENIR"
+  },
+  {
+    "Identifier": "CommReq_AstroReadyToLaunch",
+    "Text": "{0} {1} est prêt à décoller !"
+  },
+  {
+    "Identifier": "CommReq_RadioVoiceCheck",
+    "Text": "{0}, nous vous lisons 5 sur 5."
+  },
+  {
+    "Identifier": "CommReq_UpdatedRetroTime",
+    "Text": "{0}, time to Retro a été mis à jour en {{timeToRetro}}. Veuillez vérifier Core 19 et faire des ajustements si nécessaire."
+  },
+  {
+    "Identifier": "CommReq_CheckRetroTime",
+    "Text": "{0}, Le temps de rétro est dans {{timeToRetro}}. Ajustez avec le Core 19."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus1",
+    "Text": "La température de sortie de votre radiateur est bonne, l'entrée est à {0}. Réglez RADIATOR sur FLOW."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus2",
+    "Text": "La température de sortie de votre radiateur est correcte, l'entrée est à {0}. Vous pouvez régler RADIATOR sur FLOW."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus3",
+    "Text": "La température de sortie de votre radiateur est un peu élevée, entrée à {0}. Assurez-vous que le RADIATOR est réglé sur BY-PASS."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus4",
+    "Text": "La température de sortie de votre radiateur est élevée, l'entrée est à {0}. Assurez-vous que le RADIATOR est réglé sur BY-PASS."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus5",
+    "Text": "La température de sortie de votre radiateur est élevée, l'entrée est à {0}. Assurez-vous que le RADIATOR est réglé sur BY-PASS."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus6",
+    "Text": "Adaptateur séparé, pas de radiateurs disponibles."
+  },
+  {
+    "Identifier": "CommReq_FCStatus1",
+    "Text": "Fuel Cell 1 Température OK."
+  },
+  {
+    "Identifier": "CommReq_FCStatus2",
+    "Text": "Fuel Cell 1 Température Basse, réglez sur WARMUP."
+  },
+  {
+    "Identifier": "CommReq_FCStatus3",
+    "Text": "Fuel Cell 2 Température OK."
+  },
+  {
+    "Identifier": "CommReq_FCStatus4",
+    "Text": "Fuel Cell 2 Température Basse, réglez sur WARMUP."
+  },
+  {
+    "Identifier": "CommReq_FCStatus5",
+    "Text": "Adaptateur séparé, pas de radiateurs disponibles."
+  },
+  {
+    "Identifier": "CommReq_AltStatus1",
+    "Text": "niveau de la mer."
+  },
+  {
+    "Identifier": "CommReq_AltStatus2",
+    "Text": "moins de 9 nmi d'altitude."
+  },
+  {
+    "Identifier": "CommReq_AltStatus3",
+    "Text": "On vous voit à l'altitude {0} nmi.."
+  },
+  {
+    "Identifier": "CommReq_NoTelemetry",
+    "Text": "Nous ne pouvons pas voir votre télémétrie."
+  },
+  {
+    "Identifier": "CommReq_Acknowledged",
+    "Text": "Approuvé !"
+  },
+  {
+    "Identifier": "CommReq_StageSep",
+    "Text": "{0} séparés."
+  },
+  {
+    "Identifier": "ReqBurn_Response",
+    "Text": "{0}, combustion prévue à {1} avec delta-V {2}"
+  },
+  {
+    "Identifier": "ReqBurnResponse_NotCircular",
+    "Text": "{0}, impossible de calculer la combustion. Vous n'êtes pas sur une orbite circulaire. Circularisez l'orbite avant de demander une combustion de rendez-vous."
+  },
+  {
+    "Identifier": "ReqBurnResponse_NotIncl",
+    "Text": "{0}, impossible de calculer la combustion. Vous n'êtes pas en plan avec la cible, vous devez l'aligner avant de demander une combustion de rendez-vous."
+  },
+  {
+    "Identifier": "Cockpit_AbortCapabilityTest",
+    "Text": "{0},démarrage du test de capacité d'annulation et de poussée."
+  },
+  {
+    "Identifier": "Cockpit_SquibTestFailed",
+    "Text": "{0}, Le test de poussée a échoué. Vérifiez l'alimentation du bus de poussée et que les batteries de poussée sont dans l'UMB."
+  },
+  {
+    "Identifier": "Cockpit_SquibTestComplete",
+    "Text": "{0}, Test de poussée terminé. Vérifiez que les lumières d'abandon sont allumées."
+  },
+  {
+    "Identifier": "Cockpit_SquibTestComplete",
+    "Text": "{0}, Test de poussée terminé. Vérifiez que les lumières d'abandon sont allumées."
+  },
+  {
+    "Identifier": "Cockpit_AbortSquibTestFailed",
+    "Text": "{0}, Test d'abandon et de poussée terminé avec succès."
+  },
+  {
+    "Identifier": "Cockpit_AbortSquibTestComplete",
+    "Text": "{0}, Echec de l'abandon et du test de capacité de poussée"
+  },
+  {
+    "Identifier": "Cockpit_AbortSquibTestInProgress",
+    "Text": "{0}, test et Abandon de capacité de poussée déjà en cours"
+  },
+  {
+    "Identifier": "Cockpit_InternalPower",
+    "Text": "{0}, commutation sur alimentation interne.."
+  },
+  {
+    "Identifier": "Cockpit_EVA",
+    "Text": "{0}, il n'est pas possible d'effectuer une sortie EVA pour le moment."
+  },
+  {
+    "Identifier": "Cockpit_UpdateTTRetro",
+    "Text": "{0}, Time to Retro a été mis à jour en {{timeToRetro}}. Veuillez vérifier Core 19 et faire des ajustements si nécessaire."
+  },
+  {
+    "Identifier": "Cockpit_UnableToUpdateTTRetro",
+    "Text": "{0}, Impossible de régler l'heure de rétro. Vérifiez que l'ordinateur fonctionne et que le DCS est alimenté."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Rien."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Appuyez sur {0} lorsque vous êtes prêt à poursuivre la mission."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Appuyez sur ROGER lorsque vous êtes prêt à poursuivre la mission."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteActivity",
+    "Text": "Complétez l'activité."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "En attente de décollage"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_StageI",
+    "Text": "Attente de séparation de l'étage I"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_StageII",
+    "Text": "Attente de séparation de l'étage II."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Adapter",
+    "Text": "Séparer la section de l'adaptateur."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "En attente de séparation de la section rétrograde"
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Configuration complète du panneau."
+  },
+  {
+    "Identifier": "MissionObjective_Rendezvous_DistanceToTarget_LessThanValue1Feet",
+    "Text": "Se placer à moins de {0} pieds de la cible"
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Compléter la checklist avec l'ID {0}."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Compléter la checklist."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Atteignez une altitude supérieure à {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Atteignez une altitude inférieure à {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1_ft",
+    "Text": "Atteignez une altitude supérieure à {0} ft."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1_ft",
+    "Text": "Atteignez une altitude inférieure à {0} ft."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Déplacez l'altitude Ap à {0} ou plus."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Déplacez l'altitude de Pe vers {0} ou plus."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Ajustez l'orbite à {0} Ap x {1} Pe altitude (km) ou plus."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Se mettre à portée de la station radio {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "Se mettre à portée longitudinale de la station radio {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Atteindre une longitude entre {0} et {1} degrés."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Atteindre une latitude entre {0} et {1} degrés."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "Attendre le début de la rétroséquence."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Atteindre un plan orbital de {0} avec un seuil de +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "En attente de la séparation du Booster."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "En attente de séparation de la section rétrograde"
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "En attente de la traînée atmosphérique initiale (0,05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "En attente du déploiement des parachutes."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "En attente du déploiement principal."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "En attente de l'entrée atmosphérique pour commencer."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "En attente de l'entrée atmosphérique pour commencer."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Passage de l'atmosphère."
+  },
+  {
+    "Identifier": "MissionObjective_State_SSECO",
+    "Text": "Attente  SSECO."
+  },
+  {
+    "Identifier": "State_InCockpit",
+    "Text": "Entrez dans le cockpit."
+  },
+  {
+    "Identifier": "State_RCSEnabled",
+    "Text": "Activer RCS."
+  },
+  {
+    "Identifier": "State_InEVA",
+    "Text": "Executez une  EVA."
+  },
+  {
+    "Identifier": "MissionObjective_CheckComputerProgramRunning_ComputerMode",
+    "Text": "Exécutez le programme OBC {0}."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "En attente de l'allumage des moteurs rétrogrades."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Atteignez une altitude inférieure à {0} pieds."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "Amerrissage."
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToAp_Value1",
+    "Text": "Attente pour atteindre Ap - {0} secondes. Temps restant : {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToPe_Value1",
+    "Text": "Attente pour atteindre Pe - {0} secondes. Temps restant : {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToTargetBurn_Value1Seconds",
+    "Text": "En attente de rejoindre T - {0} secondes pour rendez-vous combustion. Temps restant : {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "Rejoindre une orbite circulaire avec une altitude de {0} km +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_IsCircular_ThresholdValue1",
+    "Text": "Rejoindre une orbite circulaire avec une différence d'altitude entre Ap et Pe < {0} km"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_IsOnTarget_ThresholdValue1",
+    "Text": "Rejoignez une orbite cible avec Ap {0} x Pe {1} km d'altitude."
+  },
+  {
+    "Identifier": "MissionObjective_Radio_SuccessRequestTargetBurn",
+    "Text": "Requête réussie pour une combustion de rendez-vous."
+  },
+  {
+    "Identifier": "MissionObjective_Radio_TimeToTargetBurn_Value1",
+    "Text": "En attente de rejoindre T - {0} secondes pour rendez-vous combustion. Temps restant : {1}"
+  },
+  {
+    "Identifier": "MissionObjective_State_Docked",
+    "Text": "Arrimage avec la cible."
+  },
+  {
+    "Identifier": "MissionObjective_State_Undocked",
+    "Text": "Désarrimage avec la cible."
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToRetro_Value1Seconds",
+    "Text": "Rejoindre T -{0} secondes pour la combustion rétrograde. Temps restant : {1}"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, demande de mise en attente du compte à rebours."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, veuillez reprendre le compte à rebours."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, maintien du compte à rebours."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, le compte à rebours reprend."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "REPRISE DU COMPTE A REBOURS"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "MAINTIEN DU COMPTE À REBOURS"
+  }
+]
