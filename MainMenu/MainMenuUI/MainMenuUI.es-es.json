@@ -577,7 +577,7 @@
   },
   {
     "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
-    "Text": "Esto habilitará fallos o averias aleatorios en misiones que lo permitan (Modo Libre o misiones personalizadas). El sistema de fallos aleatorios lanzará un dado de probabilidades una vez cada 2 a 5 minutos donde un fallo aleatorio tiene la posibilidad de ocurrir. A continuación, puede configurar la posibilidad de que ocurra un fallo aleatorio para cada ciclo y qué fallos desea excluir de la lista. Tenga en cuenta que puede activar manualmente un fallo/averia en el juego usando el comando de consola de fallos"
+    "Text": "Esto habilitará fallos o averias aleatorias en misiones que lo permitan (Modo Libre o misiones personalizadas). El sistema de fallos aleatorios lanzará un dado de probabilidades una vez cada 2 a 5 minutos donde un fallo aleatorio tiene la posibilidad de ocurrir. A continuación, puede configurar la posibilidad de que ocurra un fallo aleatorio para cada ciclo y qué fallos desea excluir de la lista. Tenga en cuenta que puede activar manualmente un fallo/averia en el juego usando el comando de consola de fallos"
   },
   {
     "Identifier": "RealismSettings_MercuryRandomFailuresPercentage",
@@ -593,7 +593,7 @@
   },
   {
     "Identifier": "RealismSettings_GeminiRandomFailuresDesc",
-    "Text": "Esto habilitará fallos o averias aleatorios en misiones que lo permitan (Modo Libre o misiones personalizadas). El sistema de fallos aleatorios lanzará un dado de probabilidades una vez cada 2 a 5 minutos donde un fallo aleatorio tiene la posibilidad de ocurrir. A continuación, puede configurar la posibilidad de que ocurra un fallo aleatorio para cada ciclo y qué fallos desea excluir de la lista. Tenga en cuenta que puede activar manualmente un fallo/averia en el juego usando el comando de consola de fallos"
+    "Text": "Esto habilitará fallos o averias aleatorias en misiones que lo permitan (Modo Libre o misiones personalizadas). El sistema de fallos aleatorios lanzará un dado de probabilidades una vez cada 2 a 5 minutos donde un fallo aleatorio tiene la posibilidad de ocurrir. A continuación, puede configurar la posibilidad de que ocurra un fallo aleatorio para cada ciclo y qué fallos desea excluir de la lista. Tenga en cuenta que puede activar manualmente un fallo/averia en el juego usando el comando de consola de fallos"
   },
   {
     "Identifier": "RealismSettings_GeminiRandomFailuresPercentage",
@@ -609,7 +609,7 @@
   },
   {
     "Identifier": "RealismSettings_ApolloRandomFailuresDesc",
-    "Text": "Esto habilitará fallos o averias aleatorios en misiones que lo permitan (Modo Libre o misiones personalizadas). El sistema de fallos aleatorios lanzará un dado de probabilidades una vez cada 2 a 5 minutos donde un fallo aleatorio tiene la posibilidad de ocurrir. A continuación, puede configurar la posibilidad de que ocurra un fallo aleatorio para cada ciclo y qué fallos desea excluir de la lista. Tenga en cuenta que puede activar manualmente un fallo/averia en el juego usando el comando de consola de fallos"
+    "Text": "Esto habilitará fallos o averias aleatorias en misiones que lo permitan (Modo Libre o misiones personalizadas). El sistema de fallos aleatorios lanzará un dado de probabilidades una vez cada 2 a 5 minutos donde un fallo aleatorio tiene la posibilidad de ocurrir. A continuación, puede configurar la posibilidad de que ocurra un fallo aleatorio para cada ciclo y qué fallos desea excluir de la lista. Tenga en cuenta que puede activar manualmente un fallo/averia en el juego usando el comando de consola de fallos"
   },
   {
     "Identifier": "RealismSettings_ApolloRandomFailuresPercentage",
