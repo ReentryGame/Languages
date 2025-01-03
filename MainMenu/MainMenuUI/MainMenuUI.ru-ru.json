@@ -1,0 +1,1258 @@
+[
+  {
+    "Identifier": "ContextMenu_MainMenu",
+    "Text": "ГЛАВНОЕ МЕНЮ"
+  },
+  {
+    "Identifier": "ContextMenu_Academy",
+    "Text": "АКАДЕМИЯ"
+  },
+  {
+    "Identifier": "ContextMenu_MissionControl",
+    "Text": "ЦЕНТР УПРАВЛЕНИЯ"
+  },
+  {
+    "Identifier": "ContextMenu_Profile",
+    "Text": "ПРОФИЛЬ"
+  },
+  {
+    "Identifier": "ContextMenu_LoadState",
+    "Text": "ЗАГРУЗИТЬ СИМУЛЯЦИЮ"
+  },
+  {
+    "Identifier": "ContextMenu_Settings",
+    "Text": "НАСТРОЙКИ"
+  },
+  {
+    "Identifier": "ContextMenu_Missions",
+    "Text": "МИССИИ"
+  },
+  {
+    "Identifier": "ContextMenu_Campaigns",
+    "Text": "КАМПАНИИ"
+  },
+  {
+    "Identifier": "ContextMenu_Mercury",
+    "Text": "ПРОГРАММА МЕРКУРИЙ"
+  },
+  {
+    "Identifier": "ContextMenu_Gemini",
+    "Text": "ПРОГРАММА ДЖЕМИНИ"
+  },
+  {
+    "Identifier": "ContextMenu_Apollo",
+    "Text": "ПРОГРАММА АПОЛЛОН"
+  },
+  {
+    "Identifier": "ContextMenu_Credits",
+    "Text": "АВТОРЫ ПРОЕКТОВ"
+  },
+  {
+    "Identifier": "ContextMenu_WorkshopMission",
+    "Text": "МИССИИ ИЗ МАСТЕРСКОЙ"
+  },
+  {
+    "Identifier": "MainMenuItem_Academy",
+    "Text": "АКАДЕМИЯ"
+  },
+  {
+    "Identifier": "MainMenuItem_Missions",
+    "Text": "МИССИИ"
+  },
+  {
+    "Identifier": "MainMenuItem_Campaigns",
+    "Text": "КАМПАНИИ"
+  },
+  {
+    "Identifier": "MainMenuItem_LoadState",
+    "Text": "ЗАГРУЗИТЬ СОСТОЯНИЕ"
+  },
+  {
+    "Identifier": "MainMenuItem_MissionControl",
+    "Text": "ЦЕНТР УПРАВЛЕНИЯ"
+  },
+  {
+    "Identifier": "MainMenuItem_Challenges",
+    "Text": "ИСПЫТАНИЯ"
+  },
+  {
+    "Identifier": "MainMenuItem_Exhibitions",
+    "Text": "ВЫСТАВКИ"
+  },
+  {
+    "Identifier": "MainMenuItem_Profile",
+    "Text": "ПРОФИЛЬ"
+  },
+  {
+    "Identifier": "MainMenuItem_Settings",
+    "Text": "НАСТРОЙКИ"
+  },
+  {
+    "Identifier": "MainMenuItem_Credits",
+    "Text": "АВТОРЫ"
+  },
+  {
+    "Identifier": "MainMenuItem_Workshop",
+    "Text": "МАСТЕРСКАЯ"
+  },
+  {
+    "Identifier": "MainMenuItem_Contribute",
+    "Text": "ИНСТРУМЕНТ ЛОКАЛИЗАЦИИ"
+  },
+  {
+    "Identifier": "MainMenuItem_DevJournal",
+    "Text": "ЖУРНАЛ РАЗРАБОТКИ"
+  },
+  {
+    "Identifier": "MainMenuItem_UpdateNotes",
+    "Text": "ПАТЧНОУТЫ"
+  },
+  {
+    "Identifier": "MainMenuItem_Exit",
+    "Text": "ВЫЙТИ"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonManuals",
+    "Text": "РУКОВОДСТВА (БРАУЗЕР)"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonBasicTheory",
+    "Text": "БАЗОВАЯ ТЕОРИЯ"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonMercuryTutorials",
+    "Text": "КУРС ПРОГРАММЫ МЕРКУРИЙ"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonGeminiTutorials",
+    "Text": "КУРС ПРОГРАММЫ ДЖЕМИНИ"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonApolloTutorials",
+    "Text": "КУРС ПРОГРАММЫ АПОЛЛОН"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonLunarModuleTutorials",
+    "Text": "КУРС ПО ЛУННОМУ МОДУЛЮ"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonDiscord",
+    "Text": "ПРИСОЕДИНИТЬСЯ К НАМ В ДИСКОРДЕ"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonMercury",
+    "Text": "ПРОГРАММА МЕРКУРИЙ"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonGemini",
+    "Text": "ПРОГРАММА ДЖЕМИНИ"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonApollo",
+    "Text": "ПРОГРАММА АПОЛЛОН"
+  },
+  {
+    "Identifier": "MissionsMenu_FreePlay",
+    "Text": "СВОБОДНАЯ ИГРА"
+  },
+  {
+    "Identifier": "MissionsMenu_Scenarios",
+    "Text": "СЦЕНАРИИ"
+  },
+  {
+    "Identifier": "MissionsMenu_Historic",
+    "Text": "ИСТОРИЧЕСКИЕ МИССИИ"
+  },
+  {
+    "Identifier": "MissionsMenu_MissionControlLive",
+    "Text": "СЕТЕВОЙ ЦЕНТР УПРАВЛЕНИЯ"
+  },
+  {
+    "Identifier": "MissionsMenu_Custom",
+    "Text": "СВОЯ МИССИЯ"
+  },
+  {
+    "Identifier": "MissionsMenu_Create",
+    "Text": "СОЗДАТЬ НОВУЮ МИССИЮ"
+  },
+  {
+    "Identifier": "ProgramInfo_Mercury",
+    "Text": "Программа Меркурий - первая космическая программа США, целью которой ставилось безопасно доставить человека на орбиту и осуществить его возврат на Землю."
+  },
+  {
+    "Identifier": "ProgramInfo_Gemini",
+    "Text": "Программа Джемини была второй космической программой США. Часто её называют \"Мостом к Луне\"."
+  },
+  {
+    "Identifier": "ProgramInfo_Apollo",
+    "Text": "Программа Аполлон - космическая программа, результатом которой стала высадка человека на Луну."
+  },
+  {
+    "Identifier": "ProgramInfo_MCC",
+    "Text": "Сетевой Центр Управления Программы Меркурий - мультиплеерный модуль, который позволяет диспетчерам осуществлять контроль за миссиями программы Меркурий."
+  },
+  {
+    "Identifier": "ProgramInfo_MOCR",
+    "Text": "Мультиплеерная Комната Управления Полётами позволяет нескольким диспетчерам осуществлять обеспечение работы миссий Аполлон через MOCR."
+  },
+  {
+    "Identifier": "Profile_PlayerName",
+    "Text": "ИМЯ ИГРОКА"
+  },
+  {
+    "Identifier": "Profile_CapsuleName",
+    "Text": "ИМЯ КАПСУЛЫ"
+  },
+  {
+    "Identifier": "Profile_CharacterEditor",
+    "Text": "РЕДАКТОР ПЕРСОНАЖА"
+  },
+  {
+    "Identifier": "Profile_FlightTime",
+    "Text": "ВРЕМЯ В КОСМОСЕ"
+  },
+  {
+    "Identifier": "Profile_Online",
+    "Text": "ИГРОВЫЕ ДОСТИЖЕНИЯ"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryAstonaut",
+    "Text": "АСТРОНАВТ ПРОГРАММЫ МЕРКУРИЙ"
+  },
+  {
+    "Identifier": "Profile_SkillCSMAstonaut",
+    "Text": "АСТРОНАВТ В КОМАНДНОМ МОДУЛЕ"
+  },
+  {
+    "Identifier": "Profile_SkillLMAstonaut",
+    "Text": "АСТРОНАВТ В ЛУННОМ МОДУЛЕ"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryController",
+    "Text": "ДИСПЕТЧЕР ПРОГРАММЫ МЕРКУРИЙ"
+  },
+  {
+    "Identifier": "Profile_SkillApolloController",
+    "Text": "ДИСПЕТЧЕР ПРОГРАММЫ АПОЛЛОН"
+  },
+  {
+    "Identifier": "GeneralBackButton",
+    "Text": "НАЗАД"
+  },
+  {
+    "Identifier": "Settings_Effects",
+    "Text": "ГРАФИКА"
+  },
+  {
+    "Identifier": "Settings_Language",
+    "Text": "ЯЗЫК"
+  },
+  {
+    "Identifier": "Settings_RealismSettings",
+    "Text": "НАСТРОЙКИ РЕАЛИЗМА"
+  },
+  {
+    "Identifier": "Settings_Checklists",
+    "Text": "ЧЕК-ЛИСТЫ"
+  },
+  {
+    "Identifier": "Settings_ChecklistsDesc",
+    "Text": "ВНИМАНИЕ: Эта опция сбросит все стандартные чек-листы до изначального состояния. Если вы вносили изменения в стандартные чек-листы, то пожалуйста создайте их резервную копию.\r\r\r\r\r\r\r\r\r\r\r\nВаши вручную созданные чек-листы сброшены не будут."
+  },
+  {
+    "Identifier": "Settings_ResetDefaultChecklists",
+    "Text": "СБРОСИТЬ ВСТРОЕННЫЕ ЧЕК-ЛИСТЫ"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoChecklistReset",
+    "Text": "Автоматически проверить стандартные чек-листы на предмет изменений."
+  },
+  {
+    "Identifier": "Settings_PanelStates",
+    "Text": "СОСТОЯНИЯ ПАНЕЛЕЙ"
+  },
+  {
+    "Identifier": "Settings_PanelStatesDesc",
+    "Text": "ВНИМАНИЕ: Эта опция сбросит все состояния панелей в кабинах кораблей до \rизначального состояния.\r Если вы вносили изменения в стандартные состояния панелей, то пожалуйста создайте их резервную копию.\r\r\r\r\r\r\r\r\r\r\r\r\r\nВаши вручную созданные состояния панелей кораблей сброшены не будут."
+  },
+  {
+    "Identifier": "Settings_PanelStatesReset",
+    "Text": "СБРОСИТЬ СТАНДАРТНЫЕ СОСТОЯНИЯ ПАНЕЛЕЙ"
+  },
+  {
+    "Identifier": "Settings_InputControls",
+    "Text": "НАСТРОЙКИ ВВОДА (клавиатура, мышь, джойстик)"
+  },
+  {
+    "Identifier": "Settings_EarthTextures",
+    "Text": "ТЕКСТУРЫ ЗЕМЛИ"
+  },
+  {
+    "Identifier": "Settings_Audio",
+    "Text": "ЗВУК"
+  },
+  {
+    "Identifier": "Settings_AudioMusic",
+    "Text": "Музыка"
+  },
+  {
+    "Identifier": "Settings_AudioSFX",
+    "Text": "Звуковые эффекты"
+  },
+  {
+    "Identifier": "Settings_AudioCabinNoise",
+    "Text": "Шумы в кокпите"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableSFXDSKYRelayClicking",
+    "Text": "Щелчки реле DSKY"
+  },
+  {
+    "Identifier": "Settings_TrackIR",
+    "Text": "TRACKIR"
+  },
+  {
+    "Identifier": "Settings_Autosave",
+    "Text": "АВТОСОХРАНЕНИЕ"
+  },
+  {
+    "Identifier": "Settings_AutosaveDesc",
+    "Text": "Эта опция позволяет сохранять состояние симуляции в критические моменты полета, таких как смена орбиты, приближение к Луне, старт процедуры снижения и т.д."
+  },
+  {
+    "Identifier": "Settings_ToggleAutosave",
+    "Text": "Включить автосохранение"
+  },
+  {
+    "Identifier": "Settings_ToggleTrackIR",
+    "Text": "Использовать NaturalPoint TrackIR"
+  },
+  {
+    "Identifier": "Settings_VirtualReality",
+    "Text": "РЕЖИМ VR (Экспериментально)"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityDesc",
+    "Text": "Режим VR на данный момент представляет собой экспериментальную песочницу, пока я работаю над его полноценной реализацией. Программа Аполлон всё еще имеет проблемы с производительностью и для игры требуется мощная система."
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVirtualReality",
+    "Text": "Включить VR"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRBurnHaptics",
+    "Text": "Включить вибрацию контроллеров во время работы двигателей"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRGazeCursor",
+    "Text": "Использовать взгляд вместо контроллеров для управления курсором (ранний тест функции)"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRSubtitles",
+    "Text": "Включить диалоги в качестве субтитров."
+  },
+  {
+    "Identifier": "Settings_Data",
+    "Text": "ДАННЫЕ"
+  },
+  {
+    "Identifier": "Settings_DataDesc",
+    "Text": "ВНИМАНИЕ: Эта опция удалит все пользовательские данные, включая настройки, прогресс миссий, часы налёта. Восстановление данных будет невозможно."
+  },
+  {
+    "Identifier": "Settings_ClearData",
+    "Text": "ОЧИСТИТЬ ВСЕ ПОЛЬЗОВАТЕЛЬСКИЕ ДАННЫЕ"
+  },
+  {
+    "Identifier": "Settings_OutputLive",
+    "Text": "ВЫВОД КОМПЬЮТЕРНЫХ ДАННЫХ"
+  },
+  {
+    "Identifier": "Settings_OutputLiveDesc",
+    "Text": "Эта опция будет выводить данные с OBC (компьютер Джемини), AGC (компьютер Аполлона) и LGC (компьютер лунного модуля) в реальном времени в папку \"Exports\" (можно найти в папке Reentry в AppData). Эти данные можно использовать для вывода на внешние устройства."
+  },
+  {
+    "Identifier": "Settings_ToggleOutputLive",
+    "Text": "Включить вывод данных"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursor",
+    "Text": "КУРСОР В КОКПИТЕ"
+  },
+  {
+    "Identifier": "Settings_Toggle3DClouds",
+    "Text": "Включить экспериментальную систему 3D облаков"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursorDesc",
+    "Text": "Эта опция заменит обычный курсор мышки на специальный внутреигровой курсор, который меняет цвет при наведении на переключатели. Курсор обрабатывается движком игры и зависит от кадровой частоты."
+  },
+  {
+    "Identifier": "Settings_ToggleFunctionalCursor",
+    "Text": "Включить внутреигровой курсор"
+  },
+  {
+    "Identifier": "Settings_Configure",
+    "Text": "КОНФИГУРАЦИЯ"
+  },
+  {
+    "Identifier": "Settings_ResetControls",
+    "Text": "СБРОСИТЬ НАСТРОЙКИ"
+  },
+  {
+    "Identifier": "MissionControlLive_MCC",
+    "Text": "ЦУП ПРОГРАММЫ МЕРКУРИЙ"
+  },
+  {
+    "Identifier": "MissionControlLive_MOCR",
+    "Text": "ЦУП ПРОГРАММЫ АПОЛЛОН"
+  },
+  {
+    "Identifier": "MissionControlLive_LFG",
+    "Text": "ПОИСК ИГРОКОВ В ДИСКОРДЕ"
+  },
+  {
+    "Identifier": "GraphicsSettings_Title",
+    "Text": "НАСТРОЙКИ ГРАФИКИ"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityTitle",
+    "Text": "Качество отражений"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityDesc",
+    "Text": "Данная опция определяет качество всех видов отражений. От отраженного света планеты, когда вы находитесь на орбите, до отражений на измерительных приборах, окнах и отражающих поверхностях внутри самого корабля. Эта опция сильно влияет на производительность.\r\r\r\r\r\r\r\nЕсли вы используете низкую частоту обновления, я также рекомендую отключить БЛИКИ НА ИЛЛЮМИНАТОРАХ."
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityInfo",
+    "Text": "OFF: Все отражения будут выключены.\r\r\r\r\r\r\r\nLOW: Обновление прямых отражений на зеркальных поверхностях происходит раз в 14 кадров, разрешение - 256\r\r\r\r\r\nMEDIUM: Обновление прямых отражений раз в 9 кадров, разрешение - 512\r\r\r\r\r\nHIGH: Прямые отражения обновляются каждый кадр.\r\r\r\r\r\nULTIMATE: Все виды отражений обновляются каждый кадр."
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingTitle",
+    "Text": "Постобработка"
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingDesc",
+    "Text": "Для улучшения впечатлений от картинки используется несколько эффектов постобработки. Для их рендера требуется использование GPU и CPU, потому для улучшения частоты кадров (или если они вам не нравятся) то вы можете их выключить.\r\r\r\r\r\nВ список эффектов входят свечение объектов, цветокоррекция, окружающее затенение и т.д."
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAOTitle",
+    "Text": "Улучшенный SSAO"
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAODesc",
+    "Text": "Улучшенный SSAO - способ обработки теней и затененных областей \r\rна геометрически сложных поверхностях, таких как углы, щели и т.д. В случае снижения производительности эту опцию можно выключить."
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareTitle",
+    "Text": "Отрисовка отбликов на иллюминаторах"
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareDesc",
+    "Text": "Эта опция включит отрисовку внутренних отражений на основных иллюминаторах кокпита. Чем темнее внутри кокпита, тем менее заметны будут отражения. Рекомендуется отключать свет внутри кабины в тех случаях, когда для выполнения задания требуется выглядывать из иллюминаторов. Если настройка отражений стоит на  значении LOW или MEDIUM (не считая настройки \"OFF\"), рекомендуется отключить эту опцию, так как отражения будут обновляться с сильной задержкой."
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelTitle",
+    "Text": "Включить модели экипажа"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelDesc",
+    "Text": "Эта опция включить отрисовку 3D-моделей экипажа в сервисном и лунном модуле программы Аполлон. Модели экипажа программ Меркурий и Джемини и полноценная генерация лиц и аватаров всё еще находятся в разработке."
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksTitle",
+    "Text": "Отрисовка лунных камней"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksDesc",
+    "Text": "Лунные камни становятся видны на заключительном этапе снижения на лунную поверхность. На некоторых системах эта опция может сильно повлиять на производительность, поэтому при снижении кадровой частоты её можно отключить."
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesTitle",
+    "Text": "Включить рендеринг частиц на лунном ровере"
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesDesc",
+    "Text": "При использовании ровера на колёсах будет постепенно оседать лунная пыль. В симуляторе для отрисовки этого используется симуляция частиц. Эта опция может сильно влиять на производительность, если при вождении ровера снижается кадровая частота, то можно попробовать её отключить."
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorTitle",
+    "Text": "Улучшенный интерьер командного модуля"
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorDesc",
+    "Text": "Улучшенная Модель заменит использующуюся по умолчанию низкополигональную модель корабля программы Аполлон. Панели управления останутся такими же, но остальные элементы интерьера будут выглядеть более реалистично. Значительно влияет на производительность."
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationTitle",
+    "Text": "Тесселяция лунной поверхности"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationDesc",
+    "Text": "В ходе полёта на окололунной орбите, для генерации деталей лунного ландшафта используется метод Тесселяции, сильно нагружающий графический процессор. Регулировать работу тесселяции можно посредством трёх параметров: Фактор, Минимальная дистанция и Максимальная дистанция. Фактор определяет значение тесселяции. Обычно выставляются значения 1, 8, 16, 32 и т.д. Минимальная и максимальная дистанции определяют окно, в котором производится тесселяция. Объекты, которые ближе указанной минимальной дистанции будут обрабатываться целиком. На объектах находящихся за пределами максимальной дистанции тесселяция применяться не будет. Для объектов между минимальной и максимальной дистанции степень тесселяции вычисляется пропорционально."
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_Factor",
+    "Text": "Фактор:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MinDist",
+    "Text": "Минимальная дистанция:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MaxDist",
+    "Text": "Максимальная дистанция:"
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BTitle",
+    "Text": "Аполлон: спользовать высокодетализированный Пусковой Комплекс 39А"
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BDesc",
+    "Text": "Эта опция включит использования высокодетализированной модели Стартового Комплекса 39А для программы Аполлон."
+  },
+  {
+    "Identifier": "RealismSettings_Title",
+    "Text": "НАСТРОЙКИ РЕАЛИЗМА И ПОМОЩИ"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterTitle",
+    "Text": "Включить подсветку при наведении курсора"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterDesc",
+    "Text": "При включении этой опции вокруг переключателя, на который наведена мышь, будет отрисовываться обводка."
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorTitle",
+    "Text": "Индикация местоположения переключателей"
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorDesc",
+    "Text": "Эта опция включит отрисовку индикатора направления, который укажет на местоположение переключателя за пределами поля зрения игрока."
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistTitle",
+    "Text": "Автоматическое подтверждение чек-листов"
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistDesc",
+    "Text": "При использовании опции \"ЗАПУСК\" чек-листа, гид будет автоматически пропускать уже выполненные шаги до того момента, как потребуется ввод от игрока. Если эта опция выключена, то вам придется вручную подтверждать выполнение шага."
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingTitle",
+    "Text": "Упрощённое зажигание двигателей и сближение на орбите"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingDesc",
+    "Text": "Включение этой опции сделает \rсближение с другими кораблями и маневры на орбите несколько проще благодаря включению небольших навигационных поправок, когда система обнаруживает накопление ошибок и смещений от заданных траекторий. Эту опцию рекомендуется оставить включенной, учитывая особенности работы ранних навигационных компьютеров. "
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeTitle",
+    "Text": "Снизить тряску камеры при старте Аполлона"
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeDesc",
+    "Text": "Включение этой опции снизить тряску камеры во время выхода на орбиту с использованием ракеты Сатурн V (SIC и SII)."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleTitle",
+    "Text": "Отрисовывать флаг на месте посадки на Луне"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleDesc",
+    "Text": "Эта опция включит отрисовку флага на поверхности Луны в заданной точке посадки при переходе на этот этап миссии."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionTitle",
+    "Text": "Перенаправить модуль в сторону места посадки"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionDesc",
+    "Text": "Эта опция автоматически переориентирует Лунный Модуль в сторону места посадки при переходе на соответствующий этап миссии."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresTitle",
+    "Text": "Случайные неисправности: Меркурий"
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
+    "Text": "Эта опция включит случайные отказы оборудования в миссиях, которые это позволяют (Свободная Игра или свои миссии). Система случайных отказов выбирает случайное число каждый цикл, который занимает от 2 до 5 минут. От числа зависит, произойдет ли неисправность и какой эта неисправность будет. Ниже можно настроить шанс неисправности и исключить некоторые неисправности из списка возможных. Учтите, что вы можете в любой момент вызвать неисправность вручную посредством консольной команды."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresPercentage",
+    "Text": "% на который каждый цикл увеличивается шанс, что произойдет неисправность."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresToggleFailures",
+    "Text": "ВКЛЮЧИТЬ НЕИСПРАВНОСТИ"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresTitle",
+    "Text": "Случайные неисправности: Джемини"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresDesc",
+    "Text": "Эта опция включит случайные отказы оборудования в миссиях, которые это позволяют (Свободная Игра или свои миссии). Система случайных отказов выбирает случайное число каждый цикл, который занимает от 2 до 5 минут. От числа зависит, произойдет ли неисправность и какой эта неисправность будет. Ниже можно настроить шанс неисправности и исключить некоторые неисправности из списка возможных. Учтите, что вы можете в любой момент вызвать неисправность вручную посредством консольной команды."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresPercentage",
+    "Text": "% на который каждый цикл увеличивается шанс, что произойдет неисправность."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresToggleFailures",
+    "Text": "ВКЛЮЧИТЬ НЕИСПРАВНОСТИ"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresTitle",
+    "Text": "Случайные неисправности: Аполлон"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresDesc",
+    "Text": "Эта опция включит случайные отказы оборудования в миссиях, которые это позволяют (Свободная Игра или свои миссии). Система случайных отказов выбирает случайное число каждый цикл, который занимает от 2 до 5 минут. От числа зависит, произойдет ли неисправность и какой эта неисправность будет. Ниже можно настроить шанс неисправности и исключить некоторые неисправности из списка возможных. Учтите, что вы можете в любой момент вызвать неисправность вручную посредством консольной команды."
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresPercentage",
+    "Text": "% на который каждый цикл увеличивается шанс, что произойдет неисправность."
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresToggleFailures",
+    "Text": "ВКЛЮЧИТЬ НЕИСПРАВНОСТИ"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftTitle",
+    "Text": "Уход гироскопов"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftDesc",
+    "Text": "При включении этой опции, в работе гироскопов будут постепенно накапливаться ошибки и необходимо будет проводить их коррекцию. (Пока не влияет на Лунный Модуль, так как P52 еще не был для него разработан)"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Title",
+    "Text": "Замена Канистр с СО2"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Desc",
+    "Text": "Если включить эту опцию, то замену канистр с CO2 придется производить вручную в соответствие с прописанными процедурами. Эту опцию поддерживают Командный Модуль корабля Аполлон. Позднее эту опцию будет поддерживать также и Лунный Модуль."
+  },
+  {
+    "Identifier": "MainMenuButton_Launch",
+    "Text": "ЗАПУСК"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson1",
+    "Text": "УРОК 1 - ПРЕДСТАРТОВАЯ ПОДГОТОВКА"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson2",
+    "Text": "УРОК 2 - ЗАПУСК И ВЫХОД НА ОРБИТУ"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson3",
+    "Text": "УРОК 3 - ЧЕК-ЛИСТЫ И АТЛАС"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson4",
+    "Text": "УРОК 4 - ЭЛЕКТРОСИСТЕМА"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson5",
+    "Text": "УРОК 5 - УПРАВЛЕНИЕ КОРАБЛЕМ"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson6",
+    "Text": "УРОК 6 - ВЫЖИВАНИЕ НА ОРБИТЕ"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson7",
+    "Text": "УРОК 7 - СЕКВЕНСЕР"
+  },
+  {
+    "Identifier": "Academy_Mercury_Exam",
+    "Text": "ЭКЗАМЕН - ПОЛНАЯ МИССИЯ"
+  },
+  {
+    "Identifier": "Academy_Mercury_VR",
+    "Text": "ВИРТУАЛЬНАЯ РЕАЛЬНОСТЬ"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson1",
+    "Text": "УРОК 1 - ПРЕДСТАРТОВАЯ ПОДГОТОВКА"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson2",
+    "Text": "УРОК 2 - ВЫХОД НА ОРБИТУ"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson3",
+    "Text": "УРОК 3 - ЭЛЕКТРОСИСТЕМА"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson4",
+    "Text": "УРОК 4 - НАВИГАЦИЯ"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson5",
+    "Text": "УРОК 5 - КОМПЬЮТЕР КОРАБЛЯ"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson6",
+    "Text": "УРОК 6 - ЖИЗНЕОБЕСПЕЧЕНИЕ"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson7",
+    "Text": "УРОК 7 - СЕКВЕНСЕР"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson8",
+    "Text": "УРОК 8 - ТОРМОЖЕНИЕ И ВХОД В АТМОСФЕРУ"
+  },
+  {
+    "Identifier": "Academy_Gemini_Exam",
+    "Text": "ЭКЗАМЕН - ПОЛНАЯ МИССИЯ"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson10",
+    "Text": "УРОК 10 - МАНЕВРИРОВАНИЕ И ИМПУЛЬСЫ"
+  },
+  {
+    "Identifier": "Academy_CSM_TheBasics",
+    "Text": "ОСНОВЫ"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson1",
+    "Text": "УРОК 1 - ПРЕДСТАРТОВАЯ ПОДГОТОВКА"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson2",
+    "Text": "УРОК 2 -\r \rВЗЛЁТ"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson3",
+    "Text": "УРОК 3 - ЭЛЕКТРОСИСТЕМА"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson4",
+    "Text": "УРОК 4 - RCS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson5",
+    "Text": "УРОК 5 - КОМПЬЮТЕР"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson6",
+    "Text": "УРОК 6 - МАРШЕВЫЙ ДВИГАТЕЛЬ"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson7",
+    "Text": "УРОК 7 - AGC И АВТОМАНЕВРИРОВАНИЕ"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson8",
+    "Text": "УРОК 8 - ПЛАНИРОВАНИЕ ЗАЖИГАНИЯ ДВИГАТЕЛЯ"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9",
+    "Text": "УРОК 9 - ВХОД В АТМОСФЕРУ"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson10",
+    "Text": "УРОК 10 - ПЕРЕСТРОЕНИЕ И СТЫКОВКА"
+  },
+  {
+    "Identifier": "Academy_CSM_Exam",
+    "Text": "ЭКЗАМЕН: ПОЛНАЯ МИССИЯ НА ОРБИТЕ ЗЕМЛИ"
+  },
+  {
+    "Identifier": "Academy_CSM_AdvancedTopics",
+    "Text": "ПРОДВИНУТЫЕ УРОКИ"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson11",
+    "Text": "УРОК 11 - МАНЕВР ТРАНСЛУННОЙ ИНЖЕКЦИИ"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson12",
+    "Text": "УРОК 12 - ОПТИЧЕСКАЯ СИСТЕМА"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson13",
+    "Text": "УРОК 13 - МАНЕВР ТРАНСЗЕМНОЙ ИНЖЕКЦИИ"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson14",
+    "Text": "УРОК 14 - ЖИЗНЕОБЕСПЕЧЕНИЕ: О2"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson15",
+    "Text": "УРОК 15 - ЖИЗНЕОБЕСПЕЧЕНИЕ: PSC"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson16",
+    "Text": "УРОК 16 - ЖИЗНЕОБЕСПЕЧЕНИЕ: H2O"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson17",
+    "Text": "УРОК 17 - ЖИЗНЕОБЕСПЕЧЕНИЕ: ГЛИКОЛЬ"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson1",
+    "Text": "УРОК 1 - ПОДКЛЮЧЕНИЕ МОДУЛЯ"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson2",
+    "Text": "УРОК 2 - ЗАПУСК МОДУЛЯ"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson3",
+    "Text": "УРОК 3 - ЭЛЕКТРОСИСТЕМА"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson4",
+    "Text": "УРОК 4 - МАНЕВРОВАЯ СИСТЕМА"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson5",
+    "Text": "УРОК 5 - НАВИГАЦИОННЫЙ КОМПЬЮТЕР"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson6",
+    "Text": "УРОК 6 - РЕЖИМЫ УПРАВЛЕНИЯ"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson7",
+    "Text": "УРОК 7 - СПУСКОВОЙ ДВИГАТЕЛЬ"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson8",
+    "Text": "УРОК 8 - РАДАРЫ"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson9",
+    "Text": "УРОК 9 - ОТСТЫКОВКА"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson10",
+    "Text": "УРОК 10 - СНИЖЕНИЕ"
+  },
+  {
+    "Identifier": "Academy_LM_Exam",
+    "Text": "ЭКЗАМЕН: ПОСАДКА НА ЛУНУ"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson11",
+    "Text": "УРОК 11 - ЖИЗНЕОБЕСПЕЧЕНИЕ"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson12",
+    "Text": "УРОК 12 - ВЗЛЁТ С ЛУНЫ И СТЫКОВКА"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson13",
+    "Text": "УРОК 13 - ПРЕБЫВАНИЕ НА ЛУНЕ И ВНЕКОРАБЕЛЬНАЯ ДЕЯТЕЛЬНОСТЬ"
+  },
+  {
+    "Identifier": "ChallengeAccepted",
+    "Text": "ВЫЗОВ ПРИНЯТ"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone",
+    "Text": "МЕРКУРИЙ-РЕДСТОУН"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas",
+    "Text": "МЕРКУРИЙ-АТЛАС"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone_CnD",
+    "Text": "МЕРКУРИЙ-РЕДСТОУН - T-90 (ЗАПУСК С НУЛЯ)"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas_CnD",
+    "Text": "МЕРКУРИЙ-АТЛАС - T-90 (ЗАПУСК С НУЛЯ)"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR3",
+    "Text": "МЕРКУРИЙ-РЕДСТОУН 3"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR4",
+    "Text": "МЕРКУРИЙ-РЕДСТОУН 4"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MA6",
+    "Text": "МЕРКУРИЙ-АТЛАС 6"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_IngressPad",
+    "Text": "ДЖЕМИНИ ТИТАН - ПРЕДПОЛЁТНАЯ ПОДГОТОВКА (T-10)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_Orbit",
+    "Text": "ДЖЕМИНИ ТИТАН (НА ОРБИТЕ)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_CnD",
+    "Text": "ДЖЕМИНИ ТИТАН - ЗАПУСК С НУЛЯ (T-90)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario1",
+    "Text": "I - СБЛИЖЕНИЕ КОРАБЛЕЙ ДЖЕМИНИ"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario2",
+    "Text": "II - СТЫКОВКА С АДЖЕНОЙ"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario3",
+    "Text": "III - ОТРАБОТКА СБЛИЖЕНИЯ НА ОРБИТЕ"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario4",
+    "Text": "IV - ОТРАБОТКА СТЫКОВКИ"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_HistoricGT3",
+    "Text": "GT-3: МОЛЛИ БРАУН"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T2h",
+    "Text": "САТУРН V - ЗАПУСК С НУЛЯ (T-4h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_BackupCrewIngress",
+    "Text": "САТУРН V - ЗАПАСНОЙ ЭКИПАЖ (T-2h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_PrimeCrewIngress",
+    "Text": "САТУРН V - ОСНОВНОЙ ЭКИПАЖ (T-1h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T25m",
+    "Text": "САТУРН V - ЗАПУСК (T-25m)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_EarthOrbit",
+    "Text": "CSM/SIVB НА ОРБИТЕ ЗЕМЛИ"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_LMOrbit",
+    "Text": "ЛУННЫЙ МОДУЛЬ (C&D) НА ОРБИТЕ ЗЕМЛИ"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario1",
+    "Text": "I - ТРАНСЛУННАЯ ИНЖЕКЦИЯ"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario2",
+    "Text": "II - СТАБИЛИЗАЦИЯ ЛУННОЙ ОРБИТЫ"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario3",
+    "Text": "III - ВОЗВРАЩЕНИЕ НА ЗЕМНУЮ ОРБИТУ"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario4",
+    "Text": "IV - ОТСТЫКОВКА ЛУННОГО МОДУЛЯ"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario5",
+    "Text": "V - СНИЖЕНИЕ И ПОСАДКА НА ЛУНУ"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario6",
+    "Text": "VI - ПРЕБЫВАНИЕ НА ЛУНЕ И ВЗЛЕТ С ЛУНЫ"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario7",
+    "Text": "VII - ДОРОГА ДОМОЙ"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario8",
+    "Text": "VIII - ВХОД В АТМОСФЕРУ"
+  },
+  {
+    "Identifier": "RealismSettings_HideChecklistHighlighter",
+    "Text": "Отключить подсветку переключателей"
+  },
+  {
+    "Identifier": "RealismSettings_HideChecklistHighlighterDesc",
+    "Text": "Включение этой опции скроет подсветку переключателя, которая появляется при использовании чек-листов и запросах из ЦУП."
+  },
+  {
+    "Identifier": "Settings_TTS",
+    "Text": "Text-to-Speech"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoad",
+    "Text": "Отключить перегрузку"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoadDesc",
+    "Text": "Включение этой опции отключит структурные повреждения и окончание игры, вызываемые перегрузкой при наборе высоты на старте и при входе в атмосферу в конце миссии."
+  },
+  {
+    "Identifier": "Academy_LM_FlightSchool",
+    "Text": "АКАДЕМИЯ АСТРОНАВТА: Лунный Модуль\r\r (YouTube)"
+  },
+  {
+    "Identifier": "Academy_CM_FlightSchool",
+    "Text": "АКАДЕМИЯ АСТРОНАВТА: Командный Модуль\r (YouTube)"
+  },
+  {
+    "Identifier": "Academy_Gemini_FlightSchool",
+    "Text": "АКАДЕМИЯ АСТРОНАВТА: Джемини (YouTube)"
+  },
+  {
+    "Identifier": "Academy_Mercury_FlightSchool",
+    "Text": "АКАДЕМИЯ АСТРОНАВТА: Меркурий (YouTube)"
+  },
+  {
+    "Identifier": "Academy_Theory_FlightSchool",
+    "Text": "АКАДЕМИЯ АСТРОНАВТА (Видео, YouTube)"
+  },
+  {
+    "Identifier": "Academy_Videos",
+    "Text": "ВИДЕО"
+  },
+  {
+    "Identifier": "Academy_Lessons",
+    "Text": "УРОКИ"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecay",
+    "Text": "Включить снижение орбиты"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecayDesc",
+    "Text": "Эта функция включит \rснижение орбиты (тестовая функция, только для корабля Меркурий). Параметры орбиты будут постепенно меняться под воздействием трения атмосферы."
+  },
+  {
+    "Identifier": "Settings_LanguageContribute",
+    "Text": "Все переводы игры созданы сообществом и в большинстве своём являются частичными. Если вы хотите помочь с переводом, пожалуйста зайдите в раздел\r\r \"Инструмент Локализации\" в Главном Меню. "
+  },
+  {
+    "Identifier": "Settings_VirtualRealityMoved",
+    "Text": "Заметка: в разработке находится новая версия VR-опыта для игры! Существующая предварительная версия VR-режима перенесена в отдельную бета-ветку под названием \"Виртуальная Реальность\". Для разработки новой версии VR я использую весь опыт разработки предварительной версии. В итоге новая версия должна целиком заменить старую, которая будет полностью удалена."
+  },
+  {
+    "Identifier": "Settings_AlphaFeatures",
+    "Text": "ЭКСПЕРИМЕНТАЛЬНЫЕ ФУНКЦИИ"
+  },
+  {
+    "Identifier": "Settings_AlphaFeaturesDesc",
+    "Text": "Экспериментальные функции - разнообразные улучшения и игровые режимы, которые на данный момент находятся в стадии разработки. Вы можете использовать данный раздел, чтобы свободно включать и отключать их. Совершенствование этих элементов не планируется в рамках ОСНОВНОЙ ИГРЫ, релиз которой намечен на версию 1.0. Подробнее ознакомится с информацией об этих функциях можно в разделе ДОРОЖНАЯ КАРТА в Главном Меню. Все эти функции автоматически включаются, если вы играете на АЛЬФА-ВЕТКЕ игры, доступной для выбора в клиенте Steam. \r\r\n\r\r\r\r\nОбратите внимание: Любые изменения в данном списке требуют перезапуска игры."
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MCC",
+    "Text": "Сетевая Игра: ЦУП Программы Меркурий"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MOCR",
+    "Text": "Сетевая Игра: ЦУП Программы Аполлон"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Challenges",
+    "Text": "Режим Испытаний"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_VR",
+    "Text": "Виртуальная Реальность"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Workshop",
+    "Text": "Мастерская"
+  },
+  {
+    "Identifier": "GeneralCloseButton",
+    "Text": "ЗАКРЫТЬ"
+  },
+  {
+    "Identifier": "MainMenuItem_Roadmap",
+    "Text": "ДОРОЖНАЯ КАРТА"
+  },
+  {
+    "Identifier": "Settings_EnableQuindarNoise",
+    "Text": "Проигрывание киндарных тонов (звук получения сообщений)"
+  },
+  {
+    "Identifier": "MainMenuItem_Career",
+    "Text": "КАРЬЕРА"
+  },
+  {
+    "Identifier": "SwitchCraftButton",
+    "Text": "ВЫБОР КОРАБЛЯ"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryFlightDirector",
+    "Text": "РУКОВОДИТЕЛЬ ПОЛЁТА: МЕРКУРИЙ"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryCapCom",
+    "Text": "ОПЕРАТОР СВЯЗИ: МЕРКУРИЙ"
+  },
+  {
+    "Identifier": "Profile_SkillApolloFlightDirector",
+    "Text": "РУКОВОДИТЕЛЬ ПОЛЁТА: АПОЛЛОН"
+  },
+  {
+    "Identifier": "Profile_SkillApolloCapCom",
+    "Text": "ОПЕРАТОР СВЯЗИ: АПОЛЛОН"
+  },
+  {
+    "Identifier": "Rank_CandidateSpaced",
+    "Text": "К А Н Д И Д А Т"
+  },
+  {
+    "Identifier": "Rank_FlightGraduateSpaced",
+    "Text": "В Ы П У С К Н И К\r\r\r\r\r\nА К А Д Е М И И"
+  },
+  {
+    "Identifier": "Rank_EngineerSpaced",
+    "Text": "И Н Ж Е Н Е Р\r\r\r\nЦ У П"
+  },
+  {
+    "Identifier": "Rank_MissionControllerSpaced",
+    "Text": "С О Т Р У Д Н И К\r\r\r\r\r\r\r\r\nЦ У П"
+  },
+  {
+    "Identifier": "Rank_CapComSpaced",
+    "Text": "О П Е Р А Т О Р\r\r\r\r\r\r\r\r\nС В Я З И"
+  },
+  {
+    "Identifier": "Rank_FlightDirSpaced",
+    "Text": "Р У К О В О Д И Т Е Л Ь\r\r\r\r\r\r\nП О Л Ё Т О В"
+  },
+  {
+    "Identifier": "Rank_CapComGraduateSpaced",
+    "Text": "О Б У Ч Е Н Н Ы Й\r\r\r\r\r\nО П Е Р А Т О Р"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityInput",
+    "Text": "НАСТРОЙКА ВВОДА VR"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonSpaceShuttleTutorials",
+    "Text": "КУРС ПО СПЕЙС ШАТТЛ"
+  },
+  {
+    "Identifier": "Settings_CameraPoints",
+    "Text": "CAMERA POINTS"
+  },
+  {
+    "Identifier": "Settings_CameraPointsDesc",
+    "Text": "Данные о сохраненных положениях камеры сохраняются в папке (Папка Reentry в директории AppData)/Cameras. Этот файл можно менять по желанию, чтобы отредактировать каждое существующее положение камеры. Очень важно обновлять этот файл вместе с остальными файлами игры, так как с новыми обновлениями могут появляться новые или изменяться существующие положения камеры.\n\r\nВНИМАНИЕ: Эта кнопка сбросит все настройки положений камеры. Если вы изменяли данный файл, то сделайте резервную копию и потом внесите изменения из резервной копии в основной файл вручную."
+  },
+  {
+    "Identifier": "Settings_ResetDefaultCameraPoints",
+    "Text": "СБРОС ПОЛОЖЕНИЙ КАМЕРЫ"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoCameraReset",
+    "Text": "Автоматически проверить изменения в файле настроек камеры."
+  },
+  {
+    "Identifier": "Settings_MoonTextures",
+    "Text": "ТЕКСТУРЫ ЛУНЫ"
+  },
+  {
+    "Identifier": "Settings_AnalyticsCollection",
+    "Text": "АНАЛИТИЧЕСКИЕ ДАННЫЕ"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityGaze",
+    "Text": "Курсор Мыши VR - новая функция, над которой я сейчас работаю. Она позволяет выключить родные контроллеры вашей VR-системы и использовать положение камеры и курсор обычной мыши для управления панелями корабля и интерфейсом. На данный момент распознавание курсора мыши и взаимодействие с интерфейсом работают не очень хорошо, я работаю над улучшением этого аспекта системы."
+  },
+  {
+    "Identifier": "RealismSettings_RequireOceanLanding",
+    "Text": "Обязательная посадка на воду"
+  },
+  {
+    "Identifier": "RealismSettings_RequireOceanLandingDesc",
+    "Text": "Если включена эта опция, то миссии будут для успешного завершения требовать обязательной посадки именно на воду (как в реальности), а не на сушу."
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson1",
+    "Text": "УРОК 1 - ПОСАДКА В КОРАБЛЬ"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson2",
+    "Text": "УРОК 2 - ПРЕДСТАРТОВАЯ ПОДГОТОВКА"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson3",
+    "Text": "УРОК 3 - ВЫХОД НА ОРБИТУ"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson4",
+    "Text": "УРОК 4 - ИСПОЛЬЗОВАНИЕ OMS 2"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson5",
+    "Text": "УРОК 5 - ЗАВЕРШЕНИЕ ВЫХОДА НА ОРБИТУ"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson6",
+    "Text": "УРОК 6\r - \rОБЩИЙ УРОК ПО DPS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson7",
+    "Text": "УРОК 7 - РАБОТА MEDS И DPS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson8",
+    "Text": "УРОК 8 - РАБОТА С DPS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson9",
+    "Text": "УРОК 9 - ЭЛЕКТРОСИСТЕМА"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson10",
+    "Text": "УРОК 10 - RCS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson11",
+    "Text": "УРОК 11 - GNC"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson18",
+    "Text": "УРОК 18 - УПРАВЛЕНИЕ КАНДАРМ"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson19",
+    "Text": "УРОК 19 - РАБОТА С ГРУЗАМИ"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson20",
+    "Text": "УРОК 20 - ПОДГОТОВКА К ВОЗВРАЩЕНИЮ"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson21",
+    "Text": "УРОК 21 - ТОРМОЖЕНИЕ"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson22",
+    "Text": "УРОК 22 - ВХОД В АТМОСФЕРУ\r И ПОСАДКА"
+  },
+  {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarm",
+    "Text": "Остановить ускорение времени при сигнализации"
+  },
+  {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarmDesc",
+    "Text": "Данная функция включит остановку времени при срабатывании сигнализации Master Alarm (только для корабля Аполлон)."
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotation",
+    "Text": "Включить \rавтоматический \"Prograde\""
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotationDesc",
+    "Text": "Эта функция включит \rавтоматический переход корабля в положение \"prograde\" (по направлению движения корабля на орбите)."
+  },
+  {
+    "Identifier": "Profile_InsigniaPath",
+    "Text": "CUSTOM INSIGNIA GRAPHICS PATH (.png)"
+  }
+]
