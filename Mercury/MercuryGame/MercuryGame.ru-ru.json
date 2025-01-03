@@ -1,0 +1,330 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "КРЕСЛО КОМАНДИРА"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "ПАНЕЛЬ СЛЕВА"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "ПАНЕЛЬ СПРАВА"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "ВЕРХНЯЯ ПАНЕЛЬ"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "ИЛЛЮМИНАТОР"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "ПРОВЕРКА СВЯЗИ"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "ПРОВЕРКА ВЫСОТЫ"
+  },
+  {
+    "Identifier": "CommReq_ClockReport",
+    "Text": "ОТСЧЁТ ПОШЁЛ"
+  },
+  {
+    "Identifier": "CommReq_BatteryCheck",
+    "Text": "ПРОВЕРКА БАТАРЕЙ"
+  },
+  {
+    "Identifier": "CommReq_TempCheck",
+    "Text": "ПРОВЕРКА ТЕМПЕРАТУРЫ"
+  },
+  {
+    "Identifier": "CommReq_SetRETROtoNextAP",
+    "Text": "ЗАПУСК ТОРМОЗНОГО НА АПОЦЕНТРЕ"
+  },
+  {
+    "Identifier": "CommReq_MessageCapCom",
+    "Text": "СВЯЗЬ С ЦУП"
+  },
+  {
+    "Identifier": "CommReq_PadSwitchToInternalPower",
+    "Text": "ПЕРЕЙТИ НА ВНУТРЕННЕЕ ПИТАНИЕ"
+  },
+  {
+    "Identifier": "CommReq_RequestAbortCapability",
+    "Text": "ЗАПРОСИТЬ ПРОВЕРКУ СИСТЕМЫ СПАСЕНИЯ"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "ВКЛЮЧИТЬ ПЛЕЕР"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "РУЧНОЙ ВВОД ТРАЕКТОРИИ"
+  },
+  {
+    "Identifier": "CommReq_AttitudeInfo",
+    "Text": "ДАННЫЕ О ПОЛОЖЕНИИ КОРАБЛЯ"
+  },
+  {
+    "Identifier": "Radio_NegativeClockCheck",
+    "Text": "Отмена! Трубопроводы всё еще подключены."
+  },
+  {
+    "Identifier": "RadioCheck_HF",
+    "Text": "{0}, слышим вас на {1} из 5 по линии ВЧ."
+  },
+  {
+    "Identifier": "RadioCheck_UHF",
+    "Text": "{0}, слышим вас на {1} из 5 по линии УВЧ."
+  },
+  {
+    "Identifier": "Radio_RetroTimeUpdated",
+    "Text": "{0}, обновлено время до зажигания тормозного двигателя. Пожалуйста, проверьте показания и внесите нужные корректировки."
+  },
+  {
+    "Identifier": "Radio_TempCheck",
+    "Text": "{0}, показатели температуры в норме."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssues",
+    "Text": "{0}, есть отклонения в показаниях температур.{1}"
+  },
+  {
+    "Identifier": "Radio_AltCheck_OnPad",
+    "Text": "пусковой площадке"
+  },
+  {
+    "Identifier": "Radio_AltCheck_WeSeeYouAt",
+    "Text": "Видим вас на {0}."
+  },
+  {
+    "Identifier": "Radio_AltCheck_NoTLM",
+    "Text": "От вас не поступает телеметрических данных."
+  },
+  {
+    "Identifier": "Radio_ClockOperational",
+    "Text": "Принято, отсчёт на бортовых часах пошёл."
+  },
+  {
+    "Identifier": "Radio_Staging",
+    "Text": "Подтверждаем отсоединение ступени {0}."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Отсутствуют."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Нажмите {0} когда будете готовы продолжить миссию."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Нажмите кнопку ПРИНЯТО когда будете готовы продолжить."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Ожидание отрыва от земли."
+  },
+  {
+    "Identifier": "MissionObjective_State_SECO",
+    "Text": "Ожидание SECO."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Tower",
+    "Text": "Ожидание отделения системы аварийного спасения."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_LV",
+    "Text": "Ожидание отделения ракетоносителя."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Завершите настройку панелей."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Пройдите чек-лист обозначенный {0}."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Достигните высоты более {0} километров."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Достигните высоты менее {0} километров."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Доведите высоту апогея до {0} или выше."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Доведите высоту перигея до {0} или выше."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Скорректируйте орбиту до {0} апогея x {1} перигея (высота в километрах) или выше."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Долетите до зоны вещания радиостанции {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "Долетите до зоны вещания радиостанции {0} по долготе."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Достигните Долготы между {0} и {1} градусами."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Достигните Широты между {0} и {1} градусами."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "Ждите начала процедуры торможения."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Достигните орбитальной плоскости {0} с погрешностью в +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "Ожидание отделения ускорителя."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "Ожидание отделения тормозной установки."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Ожидание входа в верхние слои атмосферы (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "Ожидание выпуска тормозного парашюта."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "Ожидание выпуска основного парашюта."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Ожидание входа в атмосферу."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Завершите чек-лист."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Преодолейте атмосферу."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "Ожидание зажигания тормозных двигателей."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Достигните высоты менее {0} футов."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "Приземление."
+  },
+  {
+    "Identifier": "MissionObjective_PerformBloodCheck",
+    "Text": "Проведите проверку артериального давления."
+  },
+  {
+    "Identifier": "RadioMessage_UmbilicalDisconnect",
+    "Text": "Трубопроводы отсоединены!"
+  },
+  {
+    "Identifier": "RadioMessage_SetSpacecraftToReady",
+    "Text": "{0}, мы не видим подтверждения о вашей готовности. Переключите тумблер LAUNCH CONTROL в положение READY. Обратный отсчёт до запуска закончен!"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "ЦУП, запрашиваю остановку обратного отсчёта."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "ЦУП, пожалуйста продолжайте обратный отсчёт."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, обратный отсчёт остановлен."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, продолжаем обратный отсчёт."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "ПРОДОЛЖИТЬ ОТСЧЁТ"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "ОСТАНОВИТЬ ОТСЧЁТ"
+  },
+  {
+    "Identifier": "RadioMessage_StartingAbortCapability",
+    "Text": "Начинаем проверку системы аварийного отстрела капсулы. Должна загореться лампа \"ABORT\" и увеличиться напряжение в системе."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityNotStarted",
+    "Text": "Невозможно начать проверку аварийной системы. Удостоверьтесь, что пиропатроны приведены в рабочее состояние."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityComplete",
+    "Text": "Проверка системы аварийной отмены пуска завершена."
+  },
+  {
+    "Identifier": "RadioMessage_SwitchToInternalPower",
+    "Text": "Питание ракетоносителя от внешних кабелей отключено, корабль переведен на внутреннее питание."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_EvapH2OLow",
+    "Text": "Низкий уровень испарителя H2O."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitLow",
+    "Text": "Низкая температура в скафандре."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitHigh",
+    "Text": "Высокая температура в скафандре."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinLow",
+    "Text": "Низкая температура в кабине."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinHigh",
+    "Text": "Высокая температура в кабине."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinFanOff",
+    "Text": "Вентиляция кабины отключена. Включите вентиляторы, чтобы прогнать воздух через теплообменный агрегат."
+  },
+  {
+    "Identifier": "ViewSelector_NavigationReticle",
+    "Text": "НАВИГАЦИОННЫЙ ПРИЦЕЛ"
+  },
+  {
+    "Identifier": "CommReq_CrewMembers",
+    "Text": "ИНСТРУМЕНТЫ МИССИИ"
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "Нажмите на кнопку ОСТАНОВИТЬ ОТСЧЁТ."
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "Нажмите на кнопку ПРОДОЛЖИТЬ ОТСЧЁТ."
+  }
+]
