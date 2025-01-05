@@ -33,7 +33,7 @@
   },
   {
     "Identifier": "CommReq_BatteryCheck",
-    "Text": "ПРОВЕРКА БАТАРЕЙ"
+    "Text": "ТЕСТ БАТАРЕЙ"
   },
   {
     "Identifier": "CommReq_TempCheck",
@@ -41,7 +41,7 @@
   },
   {
     "Identifier": "CommReq_SetRETROtoNextAP",
-    "Text": "ЗАПУСК ТОРМОЗНОГО НА АПОЦЕНТРЕ"
+    "Text": "ТОРМОЖЕНИЕ НА АПОЦЕНТРЕ"
   },
   {
     "Identifier": "CommReq_MessageCapCom",
@@ -53,7 +53,7 @@
   },
   {
     "Identifier": "CommReq_RequestAbortCapability",
-    "Text": "ЗАПРОСИТЬ ПРОВЕРКУ СИСТЕМЫ СПАСЕНИЯ"
+    "Text": "ТЕСТ СИСТЕМЫ СПАСЕНИЯ"
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
@@ -61,7 +61,7 @@
   },
   {
     "Identifier": "CommReq_ManualAscentData",
-    "Text": "РУЧНОЙ ВВОД ТРАЕКТОРИИ"
+    "Text": "РУЧ-ОЙ ВВОД ТРАЕКТОРИИ"
   },
   {
     "Identifier": "CommReq_AttitudeInfo",
