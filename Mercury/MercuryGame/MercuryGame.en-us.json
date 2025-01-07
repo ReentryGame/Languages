@@ -20,6 +20,10 @@
     "Text": "WINDOW"
   },
   {
+    "Identifier": "ViewSelector_NavigationReticle",
+    "Text": "NAVIGATION RETICLE"
+  },
+  {
     "Identifier": "CommReq_RadioCheck",
     "Text": "RADIO CHECK"
   },
@@ -66,6 +70,10 @@
   {
     "Identifier": "CommReq_AttitudeInfo",
     "Text": "ATTITUDE DATA"
+  },
+  {
+    "Identifier": "CommReq_CrewMembers",
+    "Text": "MISSION TOOLS"
   },
   {
     "Identifier": "Radio_NegativeClockCheck",
@@ -130,6 +138,14 @@
   {
     "Identifier": "MissionObjective_State_SECO",
     "Text": "Awaiting SECO."
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "Press the HOLD COUNTDOWN function bubble."
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "Press the RESUME COUNTDOWN function bubble."
   },
   {
     "Identifier": "MissionObjective_Separation_Tower",
