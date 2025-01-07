@@ -145,7 +145,7 @@
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "Пройдите чек-лист обозначенный {0}."
+    "Text": "Пройдите чеклист обозначенный {0}."
   },
   {
     "Identifier": "MissionObjective_AltitudeGreater_Value1",
@@ -217,7 +217,7 @@
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistComplete",
-    "Text": "Завершите чек-лист."
+    "Text": "Завершите чеклист."
   },
   {
     "Identifier": "MissionObjective_State_OutsideHighDragZone",
