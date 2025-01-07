@@ -953,7 +953,7 @@
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "Завершите чек-лист: "
+    "Text": "Завершите чеклист: "
   },
   {
     "Identifier": "MissionObjective_CM_State_DockedWithLunarModule",
