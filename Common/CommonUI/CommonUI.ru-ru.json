@@ -81,7 +81,7 @@
   },
   {
     "Identifier": "InGameMenu_CreateChecklist",
-    "Text": "СОЗДАТЬ ЧЕК-ЛИСТ"
+    "Text": "СОЗДАТЬ ЧЕКЛИСТ"
   },
   {
     "Identifier": "CommTools_Title",
@@ -105,7 +105,7 @@
   },
   {
     "Identifier": "MissionPad_Checklists",
-    "Text": "ЧЕК-ЛИСТЫ"
+    "Text": "ЧЕКЛИСТЫ"
   },
   {
     "Identifier": "MissionPad_Transcript",
