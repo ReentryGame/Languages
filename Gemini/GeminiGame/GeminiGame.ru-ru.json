@@ -81,7 +81,7 @@
   },
   {
     "Identifier": "InGameMenu_CreateChecklist",
-    "Text": "СОЗДАТЬ ЧЕК-ЛИСТ"
+    "Text": "СОЗДАТЬ ЧЕКЛИСТ"
   },
   {
     "Identifier": "CommTools_Title",
@@ -105,7 +105,7 @@
   },
   {
     "Identifier": "MissionPad_Checklists",
-    "Text": "ЧЕК-ЛИСТЫ"
+    "Text": "ЧЕКЛИСТЫ"
   },
   {
     "Identifier": "MissionPad_Transcript",
@@ -517,11 +517,11 @@
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "Завершите чек-лист с ID {0}."
+    "Text": "Завершите чеклист с ID {0}."
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistComplete",
-    "Text": "Завершите выполнение чек-листа."
+    "Text": "Завершите выполнение чеклиста."
   },
   {
     "Identifier": "MissionObjective_AltitudeGreater_Value1",
