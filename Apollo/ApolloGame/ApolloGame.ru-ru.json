@@ -1,0 +1,1114 @@
+[
+  {
+    "Identifier": "CrewMember_CurrentOrbit",
+    "Text": "Текущая орбита: {0} миль x {1} миль"
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnRequested",
+    "Text": "Принято, {0}. Готовим данные для закругления орбиты на высоте {1} миль."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCancelled",
+    "Text": "Принято, {0}. Закругление орбиты отменено."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCompleted",
+    "Text": "Принято, {0}. Прожиг двигателя для закругления орбиты завершен."
+  },
+  {
+    "Identifier": "ViewSelector_SwitchSpacecraftCSM",
+    "Text": "ПЕРЕЙТИ В ЛМ"
+  },
+  {
+    "Identifier": "ViewSelector_SwitchSpacecraftLM",
+    "Text": "ПЕРЕЙТИ В КМ"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LeftSeat",
+    "Text": "ЛЕВОЕ КРЕСЛО"
+  },
+  {
+    "Identifier": "ViewSelector_CM_CenterSeat",
+    "Text": "ЦЕНТРАЛЬНОЕ КРЕСЛО"
+  },
+  {
+    "Identifier": "ViewSelector_CM_RightSeat",
+    "Text": "ПРАВОЕ КРЕСЛО"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LeftWindow",
+    "Text": "ЛЕВЫЙ ИЛЛЮМИНАТОР"
+  },
+  {
+    "Identifier": "ViewSelector_CM_RightWindow",
+    "Text": "ПРАВЫЙ ИЛЛЮМИНАТОР"
+  },
+  {
+    "Identifier": "ViewSelector_CM_Computer",
+    "Text": "AGC/DSKY"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LEB",
+    "Text": "LEB"
+  },
+  {
+    "Identifier": "ViewSelector_LM_LeftStation",
+    "Text": "ЛЕВАЯ ПАНЕЛЬ"
+  },
+  {
+    "Identifier": "ViewSelector_LM_CenterPanel",
+    "Text": "ЦЕНТРАЛЬНАЯ ПАНЕЛЬ"
+  },
+  {
+    "Identifier": "ViewSelector_LM_RightStation",
+    "Text": "ПРАВАЯ ПАНЕЛЬ"
+  },
+  {
+    "Identifier": "ViewSelector_LM_LeftWindow",
+    "Text": "ЛЕВЫЙ ИЛЛЮМИНАТОР"
+  },
+  {
+    "Identifier": "ViewSelector_LM_RightWindow",
+    "Text": "ПРАВЫЙ ИЛЛЮМИНАТОР"
+  },
+  {
+    "Identifier": "ViewSelector_LM_Computer",
+    "Text": "LGC/DSKY"
+  },
+  {
+    "Identifier": "ViewSelector_LM_ECS",
+    "Text": "ECS"
+  },
+  {
+    "Identifier": "ViewSelector_LM_OVHD",
+    "Text": "ПОТОЛОЧНЫЙ ИЛЛЮМИНАТОР"
+  },
+  {
+    "Identifier": "CommTools_ToggleCOAS",
+    "Text": "УСТАНОВИТЬ\r\r\r\nCOAS"
+  },
+  {
+    "Identifier": "CommTools_ToggleHatch",
+    "Text": "ВЗАИМОДЕЙСТВОВАТЬ\r\r\r\nС ЛЮКОМ"
+  },
+  {
+    "Identifier": "CommTools_ToggleDockingTarget",
+    "Text": "УСТАНОВИТЬ\r\r\r\nМИШЕНЬ ДЛЯ\r\r\r\nСТЫКОВКИ"
+  },
+  {
+    "Identifier": "CommTools_ReqWeightData",
+    "Text": "ЗАПРОСИТЬ МАССУ КОРАБЛЯ"
+  },
+  {
+    "Identifier": "CommTools_ToggleJukebox",
+    "Text": "ВКЛЮЧИТЬ ПЛЕЕР"
+  },
+  {
+    "Identifier": "CommTools_ReqSwitchInternalPwr",
+    "Text": "ПЕРЕЙТИ НА ВНУТРЕННЕЕ ПИТАНИЕ"
+  },
+  {
+    "Identifier": "CommTools_ToggleCountdown",
+    "Text": "ОСТАНОВИТЬ ОТСЧЁТ"
+  },
+  {
+    "Identifier": "CommTools_ToggleSeats",
+    "Text": "ВИДИМОСТЬ КРЕСЕЛ"
+  },
+  {
+    "Identifier": "CommTools_ReqCloseHatchPad",
+    "Text": "ЗАКРЫТЬ ЛЮК"
+  },
+  {
+    "Identifier": "CommTools_ReplaceCanisterA",
+    "Text": "ЗАМЕНИТЬ КАНИСТРУ\r A"
+  },
+  {
+    "Identifier": "CommTools_ReplaceCanisterB",
+    "Text": "ЗАМЕНИТЬ КАНИСТРУ\r B"
+  },
+  {
+    "Identifier": "CommTools_LM_Exit",
+    "Text": "ВЫЙТИ ИЗ ЛМ"
+  },
+  {
+    "Identifier": "CommTools_LM_ReplaceCanister",
+    "Text": "ЗАМЕНИТЬ"
+  },
+  {
+    "Identifier": "PhysViewUITitle",
+    "Text": "ОРБИТАЛЬНЫЙ ОБЗОР"
+  },
+  {
+    "Identifier": "PhysViewUIMoon",
+    "Text": "ЛУНА"
+  },
+  {
+    "Identifier": "PhysViewUIEarth",
+    "Text": "ЗЕМЛЯ"
+  },
+  {
+    "Identifier": "PhysViewUICM",
+    "Text": "CM"
+  },
+  {
+    "Identifier": "PhysViewUILM",
+    "Text": "LM"
+  },
+  {
+    "Identifier": "ViewOutOfBounds",
+    "Text": "\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\nЗА ПРЕДЕЛАМИ КАБИНЫ, ВЕРНИТЕСЬ ВНУТРЬ.\r\r\r\n(ВЫБЕРИТЕ ЛЮБОЙ ОБЗОР ПО УМОЛЧАНИЮ)"
+  },
+  {
+    "Identifier": "BurnPlanner_Title",
+    "Text": "ПЛАНИРОВЩИК МАНЕВРОВ"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Title",
+    "Text": "ПАРАМЕТРЫ ИМПУЛЬСА"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_IgnitionPoint_Title",
+    "Text": "Точка зажигания"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_IgnitionPoint_Desc",
+    "Text": "Установить значение орбитальной фазы, по достижении которого будет осуществляться зажигание. Будет расчитано точное время до зажигания."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Title",
+    "Text": "Delta-V"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Desc",
+    "Text": "Установить значение delta-v прожига в футах/сек. Появится траектория, которая примерно покажет новую орбиту."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Desc",
+    "Text": "Установить значение delta-v прожига в футах/сек. Появится траектория, которая примерно покажет новую орбиту."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Direction_Title",
+    "Text": "Направление импульса"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Direction_Desc",
+    "Text": "Используйте опции в выпадающем меню и выберите направление зажигания."
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Title",
+    "Text": "ВЫБОР ДВИГАТЕЛЯ"
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Set",
+    "Text": "Выберите используемый двигатель"
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Desc",
+    "Text": "Используйте выпадающее меню, чтобы выбрать используемый для маневра двигатель. "
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_Title",
+    "Text": "ДАННЫЕ О ЗАЖИГАНИИ"
+  },
+  {
+    "Identifier": "BurnPlanner_EI_Title",
+    "Text": "ВХОД В АТМОСФЕРУ"
+  },
+  {
+    "Identifier": "BurnPlanner_Exec",
+    "Text": "ЗАПРОСИТЬ"
+  },
+  {
+    "Identifier": "BurnPlanner_AdditionalData_Title",
+    "Text": "ДОПОЛНИТЕЛЬНЫЕ ДАННЫЕ"
+  },
+  {
+    "Identifier": "BurnPlanner_ToggleLines",
+    "Text": "ВКЛЮЧИТЬ ОТРИСОВКУ ТРАЕКТОРИИ"
+  },
+  {
+    "Identifier": "BurnPlanner_Reset",
+    "Text": "СБРОСИТЬ ПЛАНИРОВЩИК"
+  },
+  {
+    "Identifier": "TLIPlanner_Title",
+    "Text": "ПЛАНИРОВЩИК TLI"
+  },
+  {
+    "Identifier": "TLIPlanner_Title",
+    "Text": "ПЛАНИРОВЩИК TLI"
+  },
+  {
+    "Identifier": "TLIPlanner_Exec",
+    "Text": "ВЫПОЛНИТЬ"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Title",
+    "Text": "ПОКАЗАТЬ ОБЪЕКТ В ФОКУСЕ"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Earth",
+    "Text": "ЗЕМЛЯ"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_BurnPoint",
+    "Text": "ТОЧКА ЗАЖИГАНИЯ"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Moon",
+    "Text": "ЛУНА"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_CSM",
+    "Text": "КСМ"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Title",
+    "Text": "ПАРАМЕТРЫ ИМПУЛЬСА"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Time_Title",
+    "Text": "Фактор времени полёта"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Time_Desc",
+    "Text": "Время межорбитального перехода выражающееся во времени Гоманновского перехода.\r\r\nМожет быть в промежутке от 0.1 до 1.5"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Title",
+    "Text": "Угол входа в SOI"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Desc",
+    "Text": "Это значение показывает угол, под которым космический корабль войдет в сферу тяготения Луны."
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Desc",
+    "Text": "Это значение показывает угол, под которым космический корабль войдет в сферу тяготения Луны."
+  },
+  {
+    "Identifier": "TLIPlanner_Params_TLIDept_Title",
+    "Text": "Угол ухода маневра TLI"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_TLIDept_Desc",
+    "Text": "Позволяет установить угол маневра TLI."
+  },
+  {
+    "Identifier": "TLIPlanner_Data_Title",
+    "Text": "ПАРАМЕТРЫ ИМПУЛЬСА"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_Countdown",
+    "Text": "Время до зажигания:"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_TIG",
+    "Text": "Время зажигания"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_dV",
+    "Text": "dV"
+  },
+  {
+    "Identifier": "TLIPlanner_Traj_Data",
+    "Text": "ТРАЕКТОРИЯ"
+  },
+  {
+    "Identifier": "TEIPlanner_Title",
+    "Text": "ТРАНСЗЕМНАЯ ИНЖЕКЦИЯ"
+  },
+  {
+    "Identifier": "TEIPlanner_Exec",
+    "Text": "ЗАПРОСИТЬ"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Title",
+    "Text": "ПАРАМЕТРЫ ИМПУЛЬСА"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Ve_Title",
+    "Text": "Доля Скорости Покидания"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Ve_Desc",
+    "Text": "Установить целевую скорость маневра TEI в долях скорости покидания зоны тяготения Луны."
+  },
+  {
+    "Identifier": "TEIPlanner_BurnData_Title",
+    "Text": "ПАРАМЕТРЫ ИМПУЛЬСА"
+  },
+  {
+    "Identifier": "AdvancedCamera_Title",
+    "Text": "ОПЦИИ КАМЕРЫ"
+  },
+  {
+    "Identifier": "AdvancedCamera_Free_On",
+    "Text": "СВОБОДНАЯ"
+  },
+  {
+    "Identifier": "AdvancedCamera_Free_Off",
+    "Text": "ПЕРЕКЛЮЧИТЬСЯ НА СВОБОДНУЮ"
+  },
+  {
+    "Identifier": "AdvancedCamera_Orbit_On",
+    "Text": "ОРБИТА"
+  },
+  {
+    "Identifier": "AdvancedCamera_Orbit_Off",
+    "Text": "ПЕРЕКЛЮЧИТЬСЯ НА ОРБИТУ"
+  },
+  {
+    "Identifier": "LRV_Handbrake",
+    "Text": "[ЗАДЕЙСТВОВАН РУЧНОЙ ТОРМОЗ - НАЖМИТЕ ПРОБЕЛ ЧТОБЫ ОТПУСТИТЬ]"
+  },
+  {
+    "Identifier": "LRV_Handbrake",
+    "Text": "[ЗАДЕЙСТВОВАН РУЧНОЙ ТОРМОЗ - НАЖМИТЕ ПРОБЕЛ ЧТОБЫ ОТПУСТИТЬ]"
+  },
+  {
+    "Identifier": "LRV_EnterLRV",
+    "Text": "ВОЙТИ В LRV"
+  },
+  {
+    "Identifier": "LM_ReturnInside",
+    "Text": "ВЕРНУТЬСЯ ВНУТРЬ"
+  },
+  {
+    "Identifier": "LM_DeployLRV",
+    "Text": "СОБРАТЬ ЛУННЫЙ РОВЕР"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, запрашиваю остановку обратного отсчёта."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, продолжайте отсчёт."
+  },
+  {
+    "Identifier": "RadioCommReq_LM_WeightData1",
+    "Text": "Принято, {0}. Масса LM +{1} фунтов и масса CSM +{2} фунтов."
+  },
+  {
+    "Identifier": "RadioCommReq_LM_WeightData2",
+    "Text": "Принято, {0}. Масса LM +{1} фунтов."
+  },
+  {
+    "Identifier": "RadioCommReq_CM_WeightData1",
+    "Text": "Принято, {0}. Масса CM +{1} фунтов и масса LM +{2} фунтов."
+  },
+  {
+    "Identifier": "RadioCommReq_CM_WeightData2",
+    "Text": "Принято, {0}. Масса CM +{1} фунтов."
+  },
+  {
+    "Identifier": "RadioCommReq_Mark",
+    "Text": "Есть захват."
+  },
+  {
+    "Identifier": "RadioCommReq_RadioCheck",
+    "Text": "{0}, слышим вас на {1} из 5."
+  },
+  {
+    "Identifier": "RadioCommReq_InternalPower",
+    "Text": "{0}, переход на внутреннее питание."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, останавливаем отсчёт."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, продолжаем отсчёт."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "ПРОДОЛЖИТЬ ОТСЧЁТ"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "ОСТАНОВИТЬ ОТСЧЁТ"
+  },
+  {
+    "Identifier": "RadioCommReq_CO2CanisterReplaced",
+    "Text": "Канистра с CO2 {0} заменена."
+  },
+  {
+    "Identifier": "LunarAscent_BurnCalcData",
+    "Text": "Гомановский переход в фазе TPI на отметке {0} MET с dV {1} футов/сек. Данные загружены в LGC. Запустите P30 для настройки и P41 для выполнения."
+  },
+  {
+    "Identifier": "LunarAscent_CSIError",
+    "Text": "{0}, вы все еще продолжаете набор высоты. Пожалуйста подождите, пока не будет достигнута промежуточная орбита."
+  },
+  {
+    "Identifier": "LunarAscent_CSIBurnCalc",
+    "Text": "Маневр CSI планируется на отметке {0} MET с dV {1} футов/сек. Данные загружены в LGC. Запустите P30 для настройки и P41 для выполнения."
+  },
+  {
+    "Identifier": "LunarAscent_AscentCalc1",
+    "Text": "{0}, зажигание двигателя взлетной ступени установлено на {1}. "
+  },
+  {
+    "Identifier": "LunarAscent_AscentCalc2",
+    "Text": "Время зажигания загружено в LGC. Проверьте правильность данных при помощи V06N33E."
+  },
+  {
+    "Identifier": "BurnPlanner_SPSDeorbitBurn",
+    "Text": "{0}, время зажигания SPS для схода с орбиты - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}"
+  },
+  {
+    "Identifier": "BurnPlanner_SPSBurn",
+    "Text": "{0}, время зажигания SPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}\r\r."
+  },
+  {
+    "Identifier": "BurnPlanner_DPSBurn",
+    "Text": "{0}, время зажигания DPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}\r\r."
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRetrograde",
+    "Text": "retrograde"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirPrograde",
+    "Text": "prograde"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRadialIn",
+    "Text": "radial in"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRadialOut",
+    "Text": "radial out"
+  },
+  {
+    "Identifier": "PDI_Fail",
+    "Text": "Данные лунной орбиты недоступны."
+  },
+  {
+    "Identifier": "PDI_Fail2",
+    "Text": "Ваша орбита не соответствует требования для осуществления маневра PLD. Пожалуйста снизьте высоту  перицентра до значения меньше 50.000 футов [8 миль в высоту, радиус 946 миль]."
+  },
+  {
+    "Identifier": "PDI_Info1",
+    "Text": "{0}, маневр PDI в {1}, ориентация модуля 0, 110, 0."
+  },
+  {
+    "Identifier": "PDI_Info2",
+    "Text": "Данные по зажиганию загружены LGC. Подтвердите правильность данных при помощи V06N33E. "
+  },
+  {
+    "Identifier": "PDI_Info3",
+    "Text": "Пожалуйста обратите внимание на зону посадки."
+  },
+  {
+    "Identifier": "TEI_BurnCalc",
+    "Text": "{0}, время зажигания - {1}ч {2}мин {3}сек, значение dV {4} футов/сек."
+  },
+  {
+    "Identifier": "LM_ContactLight",
+    "Text": "Контактная лампа зажглась!"
+  },
+  {
+    "Identifier": "LM_Docking",
+    "Text": "Есть контакт, фиксируем."
+  },
+  {
+    "Identifier": "Stage_Staging",
+    "Text": "Есть отделение."
+  },
+  {
+    "Identifier": "TLIPlanner_LunarPe",
+    "Text": "Периселений = {0:0.0} миль."
+  },
+  {
+    "Identifier": "TLIPlanner_FreeReturnPe",
+    "Text": "Перицентр возвращения={0:0.0} миль"
+  },
+  {
+    "Identifier": "TLIPlanner_TimeToLOI",
+    "Text": "Время до LOI: {0}"
+  },
+  {
+    "Identifier": "TLIPlanner_Warning1",
+    "Text": "При продолжении полета после выхода из сферы тяготения Луны неизбежен вход в атмосферу Земли. Чтобы избежать, перигей должен быть выше земной атмосферы ({0} миль)"
+  },
+  {
+    "Identifier": "TLIPlanner_Warning2",
+    "Text": "Курс на столкновение с Луной, периселений должен быть выше поверхности Луны ({0} миль)"
+  },
+  {
+    "Identifier": "BurnPlanner_EIFlightPath",
+    "Text": "Угол входа в атмосферу: {0}°"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "Время до входа в атмосферу: {0}"
+  },
+  {
+    "Identifier": "BurnPlanner_VelAtEI",
+    "Text": "Скорость при входе в атмосферу: {0} fps"
+  },
+  {
+    "Identifier": "BurnPlanner_CurrentPhase",
+    "Text": "Текущая орбитальная фаза: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_Date",
+    "Text": "Дата: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_MET",
+    "Text": "MET: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_ET",
+    "Text": "Таймер: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_EarthOrbit",
+    "Text": "Орбита Земли"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_LunarOrbit",
+    "Text": "Орбита Луны"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TIG",
+    "Text": "TIG"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "Время до зажигания"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_EstBurnT",
+    "Text": "Расчетная длительность прожига"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_OrbitData",
+    "Text": "Параметры орбиты"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_ApLabel",
+    "Text": "Апоцентр: "
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_PeLabel",
+    "Text": "Перицентр: "
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_NmiLabel",
+    "Text": "миль"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_NmiAltLabel",
+    "Text": "миль\r\r\r (высота)"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning1",
+    "Text": "Маневр TEI не позволяет достигнуть сферы тяготения луны/планеты"
+  },
+  {
+    "Identifier": "TEIPlanner_Calc",
+    "Text": "Перицентр: {0:0.00} миль высоты ({4} миль)\r\r\r\r\nВремя до входа в атмосферу={1}\r\r\r\r\nΔV={2} фут/с\r\r\r\nВремя до зажигания={3}"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning2",
+    "Text": "Нет"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning3",
+    "Text": "Check escape velocity fraction input punctation."
+  },
+  {
+    "Identifier": "TEIPlanner_Warning4",
+    "Text": "Проверьте эксцентриситет орбиты. Для маневра транслунной инжекции орбита должна быть круговой."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Отсутствует."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Нажмите {0}, когда будете готовы продолжить выполнение миссии."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Нажмите ПРИНЯЛ, когда будете готовы продолжить выполнение миссии."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Ожидание старта."
+  },
+  {
+    "Identifier": "MissionObjective_TowerSep",
+    "Text": "Ожидание отделения САС."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteLaunchAscent",
+    "Text": "Завершите набор высоты и выход на орбиту."
+  },
+  {
+    "Identifier": "MissionObjective_CECO",
+    "Text": "Ожидание отсечки центрального двигателя."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration_CM",
+    "Text": "Завершите настройку панелей Командного Модуля."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration_LM",
+    "Text": "Завершите настройку панелей Лунного Модуля."
+  },
+  {
+    "Identifier": "MissionObjective_LunarContact",
+    "Text": "Совершите посадку на поверхности Луны."
+  },
+  {
+    "Identifier": "MissionObjective_CM_LOS",
+    "Text": "Ждите LOS"
+  },
+  {
+    "Identifier": "MissionObjective_CM_AOS",
+    "Text": "Ждите AOS"
+  },
+  {
+    "Identifier": "MissionObjective_LM_DPSIgnite",
+    "Text": "Осуществите зажигание двигателя посадочной ступени."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DPSShutoff",
+    "Text": "Завершите прожиг двигателя посадочной ступени."
+  },
+  {
+    "Identifier": "MissionObjective_LM_APSIgnite",
+    "Text": "Осуществите зажигание двигателя взлетной \rступени."
+  },
+  {
+    "Identifier": "MissionObjective_LM_APSShutoff",
+    "Text": "Завершите прожиг двигателя взлетной \rступени."
+  },
+  {
+    "Identifier": "MissionObjective_SwitchedToLunarStayArea",
+    "Text": "Приблизьтесь к поверхности Луны."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet1",
+    "Text": "Отстыкуйте Лунный Модуль от Командно-Служебного Модуля."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet2",
+    "Text": "Доберитесь до {0} на дистанцию {1} футов."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_True",
+    "Text": "Увеличьте скорость Лунного Модуля до значения больше {0} футов в секунду."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_False",
+    "Text": "Уменьшите скорость Лунного Модуля до значения менее {0} футов в секунду."
+  },
+  {
+    "Identifier": "MissionObjective_CM_AltitudeGreater_Value1",
+    "Text": "Достигните высоты больше {0} километров"
+  },
+  {
+    "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
+    "Text": "Достигните высоты меньше {0} километров\r\r в Командном Модуле\r\r\r\r\r\n\r "
+  },
+  {
+    "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
+    "Text": "Достигните высоты меньше {0} километров\r\r в Лунном Модуле"
+  },
+  {
+    "Identifier": "MissionObjective_CM_CheckIfAGC_Program_Value1_IsRunning",
+    "Text": "Запустите программу AGC: "
+  },
+  {
+    "Identifier": "MissionObjective_AGCCheck_VerbValue1_NounValue2",
+    "Text": "Сделать так, чтобы на дисплее AGC DSKY отображались Глагол {0}, Существительное {1}."
+  },
+  {
+    "Identifier": "MissionObjective_LGCCheck_VerbValue1_NounValue2",
+    "Text": "Сделать так, чтобы на дисплее LGC DSKY отображались Глагол {0}, Существительное {1}."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1",
+    "Text": "Доведите высоту апоцентра Командного Модуля до {0} или выше."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsPeGreaterThan_Value1",
+    "Text": "Доведите высоту перицентра Командного Модуля до {0} или выше."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Установите параметры орбиты Командно-Служебного Модуля на {0} Апоцентр x {1} Перицентр (в километрах) или выше."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsAtRadioStation_String1",
+    "Text": "Окажитесь в зоне покрытия радиостанции: "
+  },
+  {
+    "Identifier": "MissionObjective_CM_Longitude_Between_Value1_Value2",
+    "Text": "Достигните долготы от {0} до {1} градусов."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Latitude_Between_Value1_Value2",
+    "Text": "Достигните широты от {0} до {1} градусов."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsInclination_Value1_ThresholdValue2",
+    "Text": "Установите наклонение орбиты в {0} с погрешностью +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageIC",
+    "Text": "Ожидайте отделения S-IC."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageII",
+    "Text": "Ожидайте отделения S-II."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageIVB",
+    "Text": "Ожидайте отделения S-IVB."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageSM",
+    "Text": "Ожидайте отделения служебного модуля."
+  },
+  {
+    "Identifier": "MissionObjective_CM_GravityInfluencer_Earth",
+    "Text": "Достигните сферы тяготения Земли."
+  },
+  {
+    "Identifier": "MissionObjective_CM_GravityInfluencer_Moon",
+    "Text": "Достигните сферы тяготения Луны."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DrogueDeploy",
+    "Text": "Ожидание выпуска тормозного парашюта"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_MainDeploy",
+    "Text": "Ожидание выпуска главного парашюта"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_InHiDragZone",
+    "Text": "Ожидание входа в атмосферу."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_OutsideHighDragZone",
+    "Text": "Выживите при прохождении атмосферы."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_SPSBurning",
+    "Text": "Ожидание зажигания двигателя SPS."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_SPSNotBurning",
+    "Text": "Завершите прожиг двигателя SPS."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_AnyEngineBurning",
+    "Text": "Ожидание зажигания двигателя."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_NoEnginesBurning",
+    "Text": "Ожидание отсечки двигателя."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Достигните высоты менее {0} футов."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_Splashdown",
+    "Text": "Приземление."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToAp_Value1",
+    "Text": "Ожидание отметки T-{0} секунд до достижения апоцентра. Времени осталось: {1} секунд."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToPe_Value1",
+    "Text": "Ожидание отметки T-{0} секунд до достижения перицентра. Времени осталось: {1} секунд."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToRetro_Value1Seconds",
+    "Text": "Ожидание отметки T-{0} секунд до торможения. Времени осталось: {1} секунд."
+  },
+  {
+    "Identifier": "MissionObjective_CM_TimeToSPSBurn_Value1Seconds",
+    "Text": "Ожидание отметки T-{0} секунд до зажигания двигателя SPS. Времени осталось: {1} секунд."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Velocity_GreaterThan_Value1_FPS",
+    "Text": "Достигните скорости Командного Модуля более {0} футов в секунду"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Velocity_LessThan_Value1_FPS",
+    "Text": "Достигните скорости Командного Модуля менее {0} футов в секунду"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_AdjustPeriluneTo_Value1km_Value2ThresholdKm",
+    "Text": "Запланируйте TLI так, чтобы достигнуть периселения {0} +/- {1}."
+  },
+  {
+    "Identifier": "MissionObjective_TLI_OpenPlanner",
+    "Text": "Открыть планировщик маневра TLI"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_RequestTB6",
+    "Text": "Запросить маневр TLI"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_BurnComplete",
+    "Text": "Завершить маневр TLI"
+  },
+  {
+    "Identifier": "MissionObjective_CSM_OpenBurnPlanner",
+    "Text": "Откройте планировщик маневров Командно-Сервисного Модуля"
+  },
+  {
+    "Identifier": "MissionObjective_CSM_BurnRequested",
+    "Text": "Запланируйте и запросите маневр Командного-Сервисного Модуля"
+  },
+  {
+    "Identifier": "MissionObjective_TEI_OpenBurnPlanner",
+    "Text": "Откройте планировщик маневра TEI"
+  },
+  {
+    "Identifier": "MissionObjective_TEI_BurnRequested",
+    "Text": "Запланируйте и запросите маневр TEI"
+  },
+  {
+    "Identifier": "MissionObjective_LM_CheckIfLGC_Program_Value1_IsRunning",
+    "Text": "Запустите программу LGC: "
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P12Guidance",
+    "Text": "Завершите навигационную программу LGC P12"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P63Guidance",
+    "Text": "Завершите навигационную программу LGC P63"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P64Guidance",
+    "Text": "Завершите навигационную программу LGC P64"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarDescent",
+    "Text": "Завершите снижение к лунной поверхности."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarAscent",
+    "Text": "Завершите взлёт с лунной поверхности."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CSI",
+    "Text": "Завершите маневр CSI."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_PC",
+    "Text": "Завершите маневр PC."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CDH",
+    "Text": "Завершите маневр CDH."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPI",
+    "Text": "Завершите маневр TPI."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPM",
+    "Text": "Завершите маневр TPM."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPF",
+    "Text": "Завершите маневр TPF."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_DockedWithCSMAfterAscent",
+    "Text": "Состыкуйте Лунный Модуль и Командно-Служебный Модуль."
+  },
+  {
+    "Identifier": "MissionObjective_LM_State_IsComplete_LandingLegsDeployed",
+    "Text": "Завершите активацию Лунного Модуля и выпустите посадочные опоры"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_WalkingOnLunarSurface",
+    "Text": "Пройдитесь по поверхности Луны"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_OutsideLunarModule",
+    "Text": "Осуществите выход на поверхность"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_InsideLunarModule",
+    "Text": "Вернитесь обратно в Лунный Модуль"
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Завершите чек-лист: "
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DockedWithLunarModule",
+    "Text": "Состыкуйтесь с Лунным Модулем."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_UndockedWithTheLunarModule",
+    "Text": "Отстыкуйтесь от Лунного Модуля."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DockedWithLunarModuleInSIVB",
+    "Text": "Пристыкуйтесь к Лунному Модулю присоединенному к S-IVB."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "Достигните на Командно-Служебном Модуле круговой орбиты с параметрами {0} +/- {1} километров."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_IsCircular_ThresholdValue1",
+    "Text": "Достигните на Командно-Служебном Модуле любой круговой орбиты с пределом {0} километров"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "Достигните на Лунном Модуле круговой орбиты с параметрами {0} +/- {1} километров."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_IsCircular_ThresholdValue1",
+    "Text": "Достигните на Лунном Модуле любой круговой орбиты с пределом {0} километров"
+  },
+  {
+    "Identifier": "MissionObjective_LM_TimeToDPSBurn_Value1Seconds",
+    "Text": "Ожидание отметки T-{0} секунд до зажигания двигателя DPS. Времени осталось: {1} секунд."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_TimeToAp_Value1",
+    "Text": "Ожидание отметки T-{0} секунд до достижения апоцентра. Времени осталось: {1} секунд."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
+    "Text": "Ожидание отметки T-{0} секунд до достижения перицентра. Времени осталось: {1} секунд."
+  },
+  {
+    "Identifier": "MissionObjective_CM_DockingAlignmentWithLM_Value1",
+    "Text": "Достигните угла {0}° от стыковочного узла LM. Сейчас угол - {1}°."
+  },
+  {
+    "Identifier": "MCC_SetTLMToAccept",
+    "Text": "Переведите Прием Телеметрии в режим \"Accept\" (Панель 2), AGC - программа P00, и попробуйте снова."
+  },
+  {
+    "Identifier": "MCC_REFSMMATUplinked",
+    "Text": "Ведем передачу REFSMMAT. Используйте P52 вариант 1 для выравнивания когда погаснет лампа \"Uplink Acty\"."
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "ПРОВЕРКА СВЯЗИ"
+  },
+  {
+    "Identifier": "RadioCommMenu_TLI",
+    "Text": "ПЛАНИРОВЩИК ЗАЖИГАНИЯ S-IVB"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "ПЛАНИРОВЩИК МАНЕВРА"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestPDI",
+    "Text": "ЗАПРОСИТЬ PDI"
+  },
+  {
+    "Identifier": "RadioCommMenu_Request",
+    "Text": "ЗАПРОСИТЬ"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestTEI",
+    "Text": "ЗАПРОСИТЬ TEI"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestCSI2",
+    "Text": "ЗАПРОСИТЬ TPF"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewMembers",
+    "Text": "УПРАВЛЕНИЕ ЭКИПАЖЕМ"
+  },
+  {
+    "Identifier": "RadioCommMenu_CAPCOM",
+    "Text": "CAPCOM"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseAscent",
+    "Text": "НАБОР ВЫСОТЫ"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCDH",
+    "Text": "CDH"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCSI",
+    "Text": "CSI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhasePC",
+    "Text": "PC"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPF",
+    "Text": "TPF"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPI",
+    "Text": "TPI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPM",
+    "Text": "TPM"
+  },
+  {
+    "Identifier": "RadioCommMessage_TooHighGLoads",
+    "Text": "Слишком высокая перегрузка."
+  },
+  {
+    "Identifier": "GameOverReason_TooHighGLoads",
+    "Text": "Фиксируем повреждение корабля и травмы экипажа из-за перегрузок."
+  },
+  {
+    "Identifier": "GameOverReason_Crashed",
+    "Text": "Разбился при посадке."
+  },
+  {
+    "Identifier": "GameOverReason_NonCMEntry",
+    "Text": "Вход в атмосферу с \"лишним грузом\". Вернуться на Землю может только Командный Модуль."
+  },
+  {
+    "Identifier": "GameOverReason_LMEntry",
+    "Text": "Вход в атмосферу с пристыкованным Лунным Модулем."
+  },
+  {
+    "Identifier": "GameOverReason_LMEntry",
+    "Text": "Вход в атмосферу с пристыкованным Лунным Модулем."
+  },
+  {
+    "Identifier": "BurnPlanner_UplinkPreferred",
+    "Text": "(OPTIONAL) IMU: SET PREFERRED"
+  },
+  {
+    "Identifier": "BurnPlanner_CommsPreferredSet",
+    "Text": "Установлено желаемое направление зажигания, используйте P52 вариант 1 для выравнивания гироскопов перед запросом маневра. Установите ORDEAL в режим INRTL и введите в компьютер V37E 52E V22E +1E PRO PRO для того, чтобы это сделать."
+  },
+  {
+    "Identifier": "RadioCommReq_MissionTimeSync",
+    "Text": "Таймеры в корабле синхронизированы с таймерами в ЦУП."
+  },
+  {
+    "Identifier": "CommTools_SyncMetTimers",
+    "Text": "СИНХР-ТЬ ВРЕМЯ"
+  }
+]
