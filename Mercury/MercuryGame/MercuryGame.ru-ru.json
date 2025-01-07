@@ -209,7 +209,7 @@
   },
   {
     "Identifier": "MissionObjective_State_MainDeploy",
-    "Text": "Ожидание выпуска основного парашюта."
+    "Text": "Ожидание выпуска главного парашюта."
   },
   {
     "Identifier": "MissionObjective_State_InHiDragZone",
