@@ -449,7 +449,7 @@
   },
   {
     "Identifier": "LunarAscent_AscentCalc1",
-    "Text": "{0},  lunar ascent engine ignition set to {1}"
+    "Text": "{0},  lunar ascent engine ignition set to {1}. "
   },
   {
     "Identifier": "LunarAscent_AscentCalc2",
@@ -578,10 +578,6 @@
   {
     "Identifier": "BurnPlanner_BurnData_TIG",
     "Text": "TIG"
-  },
-  {
-    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
-    "Text": "Time to ignition"
   },
   {
     "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
@@ -730,6 +726,14 @@
   {
     "Identifier": "MissionObjective_CM_CheckIfAGC_Program_Value1_IsRunning",
     "Text": "Run AGC Program: "
+  },
+  {
+    "Identifier": "MissionObjective_AGCCheck_VerbValue1_NounValue2",
+    "Text": "Show Verb {0}, Noun {1} on the AGC DSKY."
+  },
+  {
+    "Identifier": "MissionObjective_LGCCheck_VerbValue1_NounValue2",
+    "Text": "Show Verb {0}, Noun {1} on the LGC DSKY."
   },
   {
     "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1",
@@ -990,6 +994,18 @@
   {
     "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
     "Text": "Waiting to reach Pe T-{0} seconds. Time left: {1} seconds."
+  },
+  {
+    "Identifier": "MissionObjective_CM_DockingAlignmentWithLM_Value1",
+    "Text": "Align within {0}° from LM docking cone. Currently at {1}°."
+  },
+  {
+    "Identifier": "MCC_SetTLMToAccept",
+    "Text": "Set Uplink Telemetry to Accept (Panel 2), AGC to P00, and try again."
+  },
+  {
+    "Identifier": "MCC_REFSMMATUplinked",
+    "Text": "Uplinking REFSMMAT. Use P52 option 1 to align with it when Uplink Acty light is out."
   },
   {
     "Identifier": "RadioCommMenu_RadioCheck",

@@ -115,6 +115,10 @@
     "Text": "NOTES"
   },
   {
+    "Identifier": "MissionPad_VR",
+    "Text": "VR"
+  },
+  {
     "Identifier": "AudioMenu_Title",
     "Text": "AUDIO SETTINGS"
   },
@@ -189,5 +193,17 @@
   {
     "Identifier": "Settings_UIScaleDesc",
     "Text": "The scale factor of the User Interface."
+  },
+  {
+    "Identifier": "Debrief_End",
+    "Text": "END MISSION"
+  },
+  {
+    "Identifier": "Debrief_Resume",
+    "Text": "RESUME MISSION"
+  },
+  {
+    "Identifier": "Debrief_Reload",
+    "Text": "RELOAD MISSION"
   }
 ]
