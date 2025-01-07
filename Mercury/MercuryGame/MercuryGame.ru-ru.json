@@ -241,7 +241,7 @@
   },
   {
     "Identifier": "RadioMessage_UmbilicalDisconnect",
-    "Text": "Трубопроводы отсоединены!"
+    "Text": "Кабели отсоединены!"
   },
   {
     "Identifier": "RadioMessage_SetSpacecraftToReady",
