@@ -1,7 +1,7 @@
 [
   {
     "Identifier": "Button_Roger",
-    "Text": "ROGER"
+    "Text": "ENTENDIDO"
   },
   {
     "Identifier": "Button_Deny",
@@ -13,11 +13,11 @@
   },
   {
     "Identifier": "MissionObjectives_Title",
-    "Text": "OBJECTIVO ACTUAL"
+    "Text": "OBJETIVO ACTUAL"
   },
   {
     "Identifier": "Loading_PrepareCockpitState",
-    "Text": "[ PREPARANDO ESTADO CABINA ]"
+    "Text": "[ PREPARANDO EL ESTADO DE LA CABINA ]"
   },
   {
     "Identifier": "ViewSelector_Title",
@@ -33,19 +33,19 @@
   },
   {
     "Identifier": "ViewSelector_MissionPad",
-    "Text": "PLATAFORMA LANZAMIENTO"
+    "Text": "PANEL DE MISIÓN"
   },
   {
     "Identifier": "InGameMenu_Title",
-    "Text": "MENU"
+    "Text": "MENÚ"
   },
   {
     "Identifier": "InGameMenu_ResumeSession",
-    "Text": "CONTINUAR SESION"
+    "Text": "CONTINUAR SESIÓN"
   },
   {
     "Identifier": "InGameMenu_Failures",
-    "Text": "AVERIAS"
+    "Text": "AVERÍAS"
   },
   {
     "Identifier": "InGameMenu_Audio",
@@ -57,11 +57,11 @@
   },
   {
     "Identifier": "InGameMenu_SaveState",
-    "Text": "GUARDAR ESTADO"
+    "Text": "GUARDAR PARTIDA"
   },
   {
     "Identifier": "InGameMenu_MissionControlLive",
-    "Text": "CONTROL DE MISION"
+    "Text": "CONTROL DE MISIÓN\r EN VIVO"
   },
   {
     "Identifier": "InGameMenu_Console",
@@ -73,15 +73,15 @@
   },
   {
     "Identifier": "InGameMenu_EndSession",
-    "Text": "FINALIZAR SESION"
+    "Text": "FINALIZAR SESIÓN"
   },
   {
     "Identifier": "InGameMenu_Graphics",
-    "Text": "GRAFICOS"
+    "Text": "GRÁFICOS"
   },
   {
     "Identifier": "InGameMenu_CreateChecklist",
-    "Text": "CREAR LISTA DE COMPROBACION"
+    "Text": "CREAR LISTA DE COMPROBACIÓN"
   },
   {
     "Identifier": "CommTools_Title",
@@ -89,11 +89,11 @@
   },
   {
     "Identifier": "CommTools_RequestRadioCheck",
-    "Text": "COMPROBACION DE RADIO"
+    "Text": "COMPROBACIÓN DE RADIO"
   },
   {
     "Identifier": "MissionPad_Mission",
-    "Text": "MISION"
+    "Text": "MISIÓN"
   },
   {
     "Identifier": "MissionPad_Briefing",
@@ -105,11 +105,11 @@
   },
   {
     "Identifier": "MissionPad_Checklists",
-    "Text": "LISTA DE COMPROBACION"
+    "Text": "LISTA DE COMPROBACIÓN"
   },
   {
     "Identifier": "MissionPad_Transcript",
-    "Text": "TRANSCRIPCION"
+    "Text": "TRANSCRIPCIÓN"
   },
   {
     "Identifier": "MissionPad_Notes",
@@ -133,31 +133,31 @@
   },
   {
     "Identifier": "AudioMenu_Track_Music",
-    "Text": "Musica"
+    "Text": "Música"
   },
   {
     "Identifier": "AudioMenu_Track_Misc",
-    "Text": "Varios SFX"
+    "Text": "SFX Misceláneos"
   },
   {
     "Identifier": "AudioMenu_Track_AstroComm",
-    "Text": "Astronauta\r\r\r\nComms"
+    "Text": "Comuniaciones\r\r\r\r\r\nAstronauta"
   },
   {
     "Identifier": "AudioMenu_Track_MCC",
-    "Text": "Control de mision Comms"
+    "Text": "Comuniaciones de control de misión"
   },
   {
     "Identifier": "SaveState_Title",
-    "Text": "GUARDAR ESTADO"
+    "Text": "GUARDAR PARTIDA"
   },
   {
     "Identifier": "SaveState_Body",
-    "Text": "Recientemente comencé a implementar las rutinas de guardar y cargar estado. Actualmente son muy básicos y en su mayoría guardarán los vectores de estado de la nave espacial y los elementos físicos, y el estado del panel de la cabina.\r\r\n\r\r\nIntentaré mantener los archivos guardados compatibles con versiones anteriores, pero espere cambios importantes para guardar estados debido a la estado temprano en el que se encuentra el sistema actual de guardar/cargar."
+    "Text": "Hace poco que empezé a implementar las rutinas de guardado y cargado de partidas. Actualmente este sistema es muy básico y en su mayoría guardará los vectores de estado de la nave espacial, los elementos físicos, y el estado del panel de la cabina.\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\nIntentaré mantener los archivos de guardado compatibles con versiones anteriores, pero porfavor, espere cambios que puedan romper sus partidas guardadas. Este sistema aun no esta completamente terminado."
   },
   {
     "Identifier": "SaveState_Error",
-    "Text": "Peligro: No es posible guardar en este momento. Guardar estado está deshabilitado durante las maniobras motorizadas o las fases críticas de la misión."
+    "Text": "Advertencia: No es posible guardar en este momento. La opcion de guardar estará desabilitada durante maniobras motorizadas o fases críticas de la misión."
   },
   {
     "Identifier": "SaveState_ButtonSave",
@@ -169,11 +169,11 @@
   },
   {
     "Identifier": "SaveState_SaveStateName",
-    "Text": "Guardar nombre de estado:"
+    "Text": "Nombre del archivo de guardado: "
   },
   {
     "Identifier": "SaveState_SaveStateWarning",
-    "Text": "Sobreescribir?"
+    "Text": "¿Sobreescribir?"
   },
   {
     "Identifier": "Button_ClearAll",
@@ -182,5 +182,13 @@
   {
     "Identifier": "Button_Clear",
     "Text": "BORRAR"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "Escala de la IU"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "El factor de escala de la interfaz del usuario."
   }
 ]

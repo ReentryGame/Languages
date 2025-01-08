@@ -1,0 +1,231 @@
+[
+  {
+    "Identifier": "BurnPlanner_BurnData_TIG",
+    "Text": "TIG"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "Time to ignition"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_EstBurnT",
+    "Text": "Estimated burn length"
+  },
+  {
+    "Identifier": "BurnPlanner_EIFlightPath",
+    "Text": "EI flight path angle:\n{0}°"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "Time to EI:\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_VelAtEI",
+    "Text": "Velocity at EI:\n{0} fps"
+  },
+  {
+    "Identifier": "BurnPlanner_EI_MET",
+    "Text": "MET:\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_DistToRunway",
+    "Text": "Distance EI to Runway:\n{0} nmi"
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "RADIO CHECK"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "BURN PLANNER"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewOps",
+    "Text": "CREW OPS"
+  },
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "COMMANDERS SEAT"
+  },
+  {
+    "Identifier": "ViewSelector_MidConsole",
+    "Text": "MID CONSOLE"
+  },
+  {
+    "Identifier": "ViewSelector_PilotSeat",
+    "Text": "PILOT SEAT"
+  },
+  {
+    "Identifier": "ViewSelector_OverheadLeft",
+    "Text": "LEFT OVHD"
+  },
+  {
+    "Identifier": "ViewSelector_OverheadRight",
+    "Text": "RIGHT OVHD"
+  },
+  {
+    "Identifier": "ViewSelector_CommanderWindow",
+    "Text": "COMMANDERS WINDOW"
+  },
+  {
+    "Identifier": "ViewSelector_OrbitStation",
+    "Text": "ORBIT STATION"
+  },
+  {
+    "Identifier": "ViewSelector_MissionStation",
+    "Text": "MISSION STATION"
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "None."
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "Press HOLD COUNTDOWN."
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "Press RESUME COUNTDOWN."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Press {0} when ready to proceed with the mission."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Press ROGER when ready to proceed with the mission."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Waiting for liftoff."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Complete panel configuration."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Complete checklist with ID {0}."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Complete the checklist."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Reach an altitude greater than {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Reach an altitude less than {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Get in-range of radio station {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Reach a Longitude between {0} and {1} degrees."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Reach a Latitude between {0} and {1} degrees."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Awaiting initial atmospheric drag (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Waiting for atmospheric entry to start."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Get through the atmosphere."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Get to an altitude less than {0} feet."
+  },
+  {
+    "Identifier": "MissionObjective_ApAbove_Value1",
+    "Text": "Bring Apogee above {0} nmi alt."
+  },
+  {
+    "Identifier": "MissionObjective_PeAbove_Value1",
+    "Text": "Bring Perigee above {0} nmi alt."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Reach an orbital plane of {0} inc with a threshold of +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_GreaterThan_Value1",
+    "Text": "Reach an Inertial Velocity greater than {0}."
+  },
+  {
+    "Identifier": "MissionObjective_State_LandingAreaGuidance_Value1",
+    "Text": "Reach landing phase: {0}."
+  },
+  {
+    "Identifier": "MissionObjective_GForces_GreaterThan_Value1",
+    "Text": "Waiting for G-Forces to exceed {0}."
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_LessThan_Value1",
+    "Text": "Reach an Inertial Velocity less than {0}."
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_GreaterThan_Value1",
+    "Text": "Reach a Vrel greater than {0}."
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_LessThan_Value1",
+    "Text": "Reach a Vrel less than {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_SRBs",
+    "Text": "Waiting for SRB separation."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_ET",
+    "Text": "Waiting for ET separation."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteMPSDump",
+    "Text": "Waiting for MPS dump completion."
+  },
+  {
+    "Identifier": "MissionObjective_State_MECO",
+    "Text": "Waiting for MECO."
+  },
+  {
+    "Identifier": "MissionObjective_State_Landing",
+    "Text": "Get to the landing area."
+  },
+  {
+    "Identifier": "MissionObjective_State_OMS_Both_EnginesBurning_Equals_Bool1",
+    "Text": "Both OMS engines burning: {0}."
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsOpen",
+    "Text": "Open the Payload Bay doors."
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsClosed",
+    "Text": "Close the Payload Bay doors."
+  },
+  {
+    "Identifier": "MissionObjective_IsGPCId_Value1_RunningOPS_Value2",
+    "Text": "Run OPS {1} on GPC Id {0}."
+  },
+  {
+    "Identifier": "Payload_Title",
+    "Text": "PAYLOAD MONITOR"
+  },
+  {
+    "Identifier": "CommTools_EndEffectorCapture",
+    "Text": "EE: CAPTURE"
+  }
+  
+]

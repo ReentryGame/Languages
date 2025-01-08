@@ -5,7 +5,7 @@
   },
   {
     "Identifier": "Button_Deny",
-    "Text": "DENY"
+    "Text": "ABLEHNEN"
   },
   {
     "Identifier": "Button_OK",
@@ -13,11 +13,11 @@
   },
   {
     "Identifier": "MissionObjectives_Title",
-    "Text": "CURRENT OBJECTIVE"
+    "Text": "DERZEITIGES ZIEL"
   },
   {
     "Identifier": "Loading_PrepareCockpitState",
-    "Text": "[ PREPARING COCKPIT STATE ]"
+    "Text": "[VORBEREITUNG DES COCKPIT STATE]"
   },
   {
     "Identifier": "ViewSelector_Title",
@@ -25,7 +25,7 @@
   },
   {
     "Identifier": "ViewSelector_External",
-    "Text": "EXTERNAL"
+    "Text": "EXTERN"
   },
   {
     "Identifier": "ViewSelector_Orbital",
@@ -33,30 +33,31 @@
   },
   {
     "Identifier": "ViewSelector_MissionPad",
-    "Text": "MISSION PAD"
+    "Text": "MISSIONSPAD"
   },
   {
     "Identifier": "InGameMenu_Title",
-    "Text": "MENU"
+    "Text": "MENÜ"
   },
   {
     "Identifier": "InGameMenu_ResumeSession",
-    "Text": "RESUME SESSION"
+    "Text": "WEITER MIT DER SESSION"
   },
   {
     "Identifier": "InGameMenu_Failures",
-    "Text": "FAILURES"
-  },{
+    "Text": "DEFEKTE"
+  },
+  {
     "Identifier": "InGameMenu_Audio",
     "Text": "AUDIO"
   },
   {
     "Identifier": "InGameMenu_InputControls",
-    "Text": "INPUT CONTROLS"
+    "Text": "EINGABEGERÄTE UND STEUERUNG"
   },
   {
     "Identifier": "InGameMenu_SaveState",
-    "Text": "SAVE STATE"
+    "Text": "SPEICHERSTAND"
   },
   {
     "Identifier": "InGameMenu_MissionControlLive",
@@ -64,23 +65,23 @@
   },
   {
     "Identifier": "InGameMenu_Console",
-    "Text": "CONSOLE"
+    "Text": "KONSOLE"
   },
   {
     "Identifier": "InGameMenu_MissionEditor",
-    "Text": "MISSION EDITOR"
+    "Text": "MISSIONSEDITOR"
   },
   {
     "Identifier": "InGameMenu_EndSession",
-    "Text": "END SESSION"
+    "Text": "BEENDE SESSION"
   },
   {
     "Identifier": "InGameMenu_Graphics",
-    "Text": "GRAPHICS"
+    "Text": "GRAFIK"
   },
   {
     "Identifier": "InGameMenu_CreateChecklist",
-    "Text": "CREATE CHECKLIST"
+    "Text": "ERSTELLE CHECKLISTE"
   },
   {
     "Identifier": "CommTools_Title",
@@ -100,27 +101,23 @@
   },
   {
     "Identifier": "MissionPad_Map",
-    "Text": "MAP"
+    "Text": "KARTE"
   },
   {
     "Identifier": "MissionPad_Checklists",
-    "Text": "CHECKLISTS"
+    "Text": "CHECKLISTEN"
   },
   {
     "Identifier": "MissionPad_Transcript",
-    "Text": "TRANSCRIPT"
+    "Text": "TRANSKRIPT"
   },
   {
     "Identifier": "MissionPad_Notes",
-    "Text": "NOTES"
-  },
-  {
-    "Identifier": "MissionPad_VR",
-    "Text": "VR"
+    "Text": "NOTIZEN"
   },
   {
     "Identifier": "AudioMenu_Title",
-    "Text": "AUDIO SETTINGS"
+    "Text": "AUDIOEINSTELLUNGEN"
   },
   {
     "Identifier": "AudioMenu_Track_Master",
@@ -132,11 +129,11 @@
   },
   {
     "Identifier": "AudioMenu_Track_External",
-    "Text": "External"
+    "Text": "Extern"
   },
   {
     "Identifier": "AudioMenu_Track_Music",
-    "Text": "Music"
+    "Text": "Musik"
   },
   {
     "Identifier": "AudioMenu_Track_Misc",
@@ -144,7 +141,7 @@
   },
   {
     "Identifier": "AudioMenu_Track_AstroComm",
-    "Text": "Astronaut\nComm"
+    "Text": "Astronaut\r\r\nComm"
   },
   {
     "Identifier": "AudioMenu_Track_MCC",
@@ -152,58 +149,46 @@
   },
   {
     "Identifier": "SaveState_Title",
-    "Text": "SAVE STATE"
+    "Text": "SPEICHERSTAND"
   },
   {
     "Identifier": "SaveState_Body",
-    "Text": "I recently started to implement the save and load state routines. They are currently very basic and will mostly save the state vectors of the spacecraft and physical items, and the cockpit panel state.\n\nI will try to keep the save files backward compatible, but please expect breaking changes to save states due to the early state the current save/load system is in."
+    "Text": "Ich habe kürzlich damit angefangen, Speicher- und Ladestandroutinen zu implementieren. Sie sind zum jetzigen Zeitpunkt relativ einfach konfiguriert und werden hauptsächlich die Lage von: Vektoren des Raumschiffes, physischen Items, und der Bedienfelder bzw. Schalterstellungen des Cockpits speichern.\n\nIch werde versuchen, diese Dateien rückwärtskompatibel zu lassen. Dennoch sollte man davon ausgehen, dass es immerwieder Probleme im Zusammenhang mit diesen Speicherständen geben wird, da dieses System einfach noch zu neu ist."
   },
   {
     "Identifier": "SaveState_Error",
-    "Text": "Warning: It's not possible to save right now. Save State is disabled during powered maneuvers or critical mission phases."
+    "Text": "Warnung: Es ist gerade nicht möglich, zu speichern.\nSpeichern ist bei bestimmten Manövern oder wichtigen Missionsphasen nicht möglich."
   },
   {
     "Identifier": "SaveState_ButtonSave",
-    "Text": "SAVE"
+    "Text": "SPEICHERN"
   },
   {
     "Identifier": "Button_Close",
-    "Text": "CLOSE"
+    "Text": "SCHLIESSEN"
   },
   {
     "Identifier": "SaveState_SaveStateName",
-    "Text": "Save State Name:"
+    "Text": "NAME DES SPEICHERSTANDES:"
   },
   {
     "Identifier": "SaveState_SaveStateWarning",
-    "Text": "Overwrite?"
+    "Text": "Überschreiben?"
   },
   {
     "Identifier": "Button_ClearAll",
-    "Text": "CLEAR ALL"
+    "Text": "ALLES LÖSCHEN"
   },
   {
     "Identifier": "Button_Clear",
-    "Text": "CLEAR"
+    "Text": "LÖSCHEN"
   },
   {
     "Identifier": "Settings_UIScale",
-    "Text": "UI Scale"
+    "Text": "UI Skalierung"
   },
   {
     "Identifier": "Settings_UIScaleDesc",
-    "Text": "The scale factor of the User Interface."
-  },
-  {
-    "Identifier": "Debrief_End",
-    "Text": "END MISSION"
-  },
-  {
-    "Identifier": "Debrief_Resume",
-    "Text": "RESUME MISSION"
-  },
-  {
-    "Identifier": "Debrief_Reload",
-    "Text": "RELOAD MISSION"
+    "Text": "Der Skalierungsfaktor des User Interfaces."
   }
 ]

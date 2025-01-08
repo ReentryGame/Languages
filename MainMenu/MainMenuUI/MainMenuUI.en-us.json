@@ -136,6 +136,10 @@
     "Text": "LUNAR MODULE LESSONS"
   },
   {
+    "Identifier": "AcademyMenu_ButtonSpaceShuttleTutorials",
+    "Text": "SPACE SHUTTLE LESSONS"
+  },
+  {
     "Identifier": "AcademyMenu_ButtonDiscord",
     "Text": "JOIN US ON DISCORD"
   },
@@ -268,6 +272,22 @@
     "Text": "Automatically check for default checklist changes."
   },
   {
+    "Identifier": "Settings_CameraPoints",
+    "Text": "CAMERA POINTS"
+  },
+  {
+    "Identifier": "Settings_CameraPointsDesc",
+    "Text": "The cockpit camera points/view snap points are copied into (Reentry persistent data path under AppData)/Cameras. This file can be modified to change each of the camera points if you desired. It is important to update this file with game updates as new camera points might be added, or existing changed due to feature updates.\n\nWARNING: This will reset all default camera snap points to factory settings. Please create a backup if you have made any modifications to these and merge them back into the updated file."
+  },
+  {
+    "Identifier": "Settings_ResetDefaultCameraPoints",
+    "Text": "RESET CAMERA POINTS"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoCameraReset",
+    "Text": "Automatically check for default camera point changes."
+  },
+  {
     "Identifier": "Settings_PanelStates",
     "Text": "PANEL STATES"
   },
@@ -286,6 +306,14 @@
   {
     "Identifier": "Settings_EarthTextures",
     "Text": "EARTH TEXTURES"
+  },
+  {
+    "Identifier": "Settings_MoonTextures",
+    "Text": "MOON TEXTURES"
+  },
+  {
+    "Identifier": "Settings_AnalyticsCollection",
+    "Text": "ANALYTICS"
   },
   {
     "Identifier": "Settings_Audio",
@@ -333,7 +361,11 @@
   },
   {
     "Identifier": "Settings_VirtualRealityDesc",
-    "Text": "The current VR support is just an experimental playground while I work on the implementation. Apollo is still a struggle when it comes to performance and hardware requirements."
+    "Text": ""
+  },
+  {
+    "Identifier": "Settings_VirtualRealityGaze",
+    "Text": "VR Mouse Cursor is a brand new feature that I am working on. This will disable the VR Motion Controllers and use the mouse cursor combined with gaze direction to interact with the cockpit panels, and the UI. UI detection is currently not great and is what I focus on now."
   },
   {
     "Identifier": "Settings_ToggleEnableVirtualReality",
@@ -345,7 +377,7 @@
   },
   {
     "Identifier": "Settings_ToggleEnableVRGazeCursor",
-    "Text": "Use a Gaze Cursor instead of Motion Controllers (early dev testing)"
+    "Text": "Use a VR Mouse Cursor instead of Motion Controllers"
   },
   {
     "Identifier": "Settings_ToggleEnableVRSubtitles",
@@ -636,6 +668,14 @@
     "Text": "If enabled, you will need to replace the CO2 canisters manually according to procedures. Manual replacement is supported in the CSM and soon the LM."
   },
   {
+    "Identifier": "RealismSettings_RequireOceanLanding",
+    "Text": "Require Ocean Landing"
+  },
+  {
+    "Identifier": "RealismSettings_RequireOceanLandingDesc",
+    "Text": "With this setting enabled, a mission will require you to land and splash down in the ocean, not on land, to complete the mission."
+  },
+  {
     "Identifier": "MainMenuButton_Launch",
     "Text": "LAUNCH"
   },
@@ -852,6 +892,70 @@
     "Text": "LESSON 13 - LUNAR STAY & EVA"
   },
   {
+    "Identifier": "Academy_Shuttle_Lesson1",
+    "Text": "LESSON 1 - INGRESS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson2",
+    "Text": "LESSON 2 - PRE-LAUNCH"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson3",
+    "Text": "LESSON 3 - ASCENT"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson4",
+    "Text": "LESSON 4 - OMS 2"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson5",
+    "Text": "LESSON 5 - POST INSERTION"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson6",
+    "Text": "LESSON 6 - DPS OVERVIEW"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson7",
+    "Text": "LESSON 7 - THE MEDS AND THE DPS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson8",
+    "Text": "LESSON 8 - DPS OPERATIONS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson9",
+    "Text": "LESSON 9 - ELECTRICITY"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson10",
+    "Text": "LESSON 10 - RCS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson11",
+    "Text": "LESSON 11 - GNC"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson18",
+    "Text": "LESSON 18 - CANADARM"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson19",
+    "Text": "LESSON 19 - PAYLOADS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson20",
+    "Text": "LESSON 20 - DEORBIT PREP"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson21",
+    "Text": "LESSON 21 - DEORBIT BURN"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson22",
+    "Text": "LESSON 22 - ENTRY TO LANDING"
+  },
+  {
     "Identifier": "ChallengeAccepted",
     "Text": "CHALLENGE ACCEPTED"
   },
@@ -1028,11 +1132,127 @@
     "Text": "This will enable Orbital Decay (Testing only, Mercury Only), meaning your orbit will decay relative to how much drag the atmosphere produces."
   },
   {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarm",
+    "Text": "Stop Timescale if Master Alarm"
+  },
+  {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarmDesc",
+    "Text": "This will stop timescale if Master Alarm is active (Apollo)."
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotation",
+    "Text": "Enable Prograde Rotation"
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotationDesc",
+    "Text": "This will automatically rotate the spacecraft in a prograde direction while in Orbit."
+  },
+  {
     "Identifier": "Settings_LanguageContribute",
     "Text": "All translations are contributed by the community, and is mostly partial. If you wish to contribute with language translations, please see the Contribute page on the Main Menu."
   },
   {
     "Identifier": "Settings_VirtualRealityMoved",
     "Text": "Note: VR has moved - a new VR implementation is in development! The existing preliminary VR support has moved into a dedicated branch named Virtual Reality. The development of a new VR implementation leveraging what I learned in the preliminary phase will replace the old implementation. The old implementation will be scrapped."
+  },
+  {
+    "Identifier": "Settings_AlphaFeatures",
+    "Text": "ALPHA FEATURES"
+  },
+  {
+    "Identifier": "Settings_AlphaFeaturesDesc",
+    "Text": "Alpha Features are various features and game modes that are currently in alpha/in-development. You can use this section to opt-in on any of these features. These are features that are outside the scope of the CORE GAME targeted for the 1.0 milestone (post-Early Access) and are currently in a Research & Development stage. You can read all about each feature in the ROADMAP section accessible from the Main Menu.\nAll of these features are automatically enabled if you run any build on the ALPHA-FLOOR branch accessible from the Steam Betas tab.\n\nNote: Changes to this list requires a restart of the game."
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MCC",
+    "Text": "Multiplayer: Mercury Mission Control"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MOCR",
+    "Text": "Multiplayer: Apollo Mission Control"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Challenges",
+    "Text": "Challenges Game Mode"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_VR",
+    "Text": "Virtual Reality"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Workshop",
+    "Text": "Workshop"
+  },
+  {
+    "Identifier": "GeneralCloseButton",
+    "Text": "CLOSE"
+  },
+  {
+    "Identifier": "MainMenuItem_Roadmap",
+    "Text": "ROADMAP"
+  },
+  {
+    "Identifier": "Settings_EnableQuindarNoise",
+    "Text": "Play Quindar tone (msg received)"
+  },
+  {
+    "Identifier": "MainMenuItem_Career",
+    "Text": "CAREER"
+  },
+  {
+    "Identifier": "SwitchCraftButton",
+    "Text": "SPACECRAFT SELECTION"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryFlightDirector",
+    "Text": "MERCURY FLIGHT DIRECTOR"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryCapCom",
+    "Text": "MERCURY CAPCOM"
+  },
+  {
+    "Identifier": "Profile_SkillApolloFlightDirector",
+    "Text": "APOLLO FLIGHT DIRECTOR"
+  },
+  {
+    "Identifier": "Profile_SkillApolloCapCom",
+    "Text": "APOLLO CAPCOM"
+  },
+  {
+    "Identifier": "Profile_InsigniaPath",
+    "Text": "CUSTOM INSIGNIA GRAPHICS PATH (.png)"
+  },
+  {
+    "Identifier": "Rank_CandidateSpaced",
+    "Text": "C A N D I D A T E"
+  },
+  {
+    "Identifier": "Rank_FlightGraduateSpaced",
+    "Text": "F L I G H T\nG R A D U A T E"
+  },
+  {
+    "Identifier": "Rank_EngineerSpaced",
+    "Text": "C O N T R O L L E R\nE N G I N E E R"
+  },
+  {
+    "Identifier": "Rank_MissionControllerSpaced",
+    "Text": "M I S S I O N\nC O N T R O L L E R"
+  },
+  {
+    "Identifier": "Rank_CapComSpaced",
+    "Text": "C A P S U L E\nC O M M U N I C A T O R"
+  },
+  {
+    "Identifier": "Rank_FlightDirSpaced",
+    "Text": "F L I G H T\nD I R E C T O R"
+  },
+  {
+    "Identifier": "Rank_CapComGraduateSpaced",
+    "Text": "C A P C O M\nG R A D U A T E"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityInput",
+    "Text": "VR INPUT BINDINGS"
   }
 ]
