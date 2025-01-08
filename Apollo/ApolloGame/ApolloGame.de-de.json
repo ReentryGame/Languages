@@ -1,0 +1,1098 @@
+[
+  {
+    "Identifier": "CrewMember_CurrentOrbit",
+    "Text": "Derzeitiger Orbit: {0} nmi x {1} nmi"
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnRequested",
+    "Text": "Roger, {0}. Einstellung einer Zirkularisationszündung bei {1} nmi."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCancelled",
+    "Text": "Roger, {0}. Zirkularisationszündung gelöscht."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCompleted",
+    "Text": "Roger, {0}. Zirkularisationszündung abgeschlossen."
+  },
+  {
+    "Identifier": "ViewSelector_SwitchSpacecraftCSM",
+    "Text": "UMSCHALTEN AUF LM"
+  },
+  {
+    "Identifier": "ViewSelector_SwitchSpacecraftLM",
+    "Text": "WECHSELN AUF CM"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LeftSeat",
+    "Text": "LINKER SITZ"
+  },
+  {
+    "Identifier": "ViewSelector_CM_CenterSeat",
+    "Text": "ZENTRALER SITZ"
+  },
+  {
+    "Identifier": "ViewSelector_CM_RightSeat",
+    "Text": "RECHTER SITZ"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LeftWindow",
+    "Text": "LINKES FENSTER"
+  },
+  {
+    "Identifier": "ViewSelector_CM_RightWindow",
+    "Text": "RECHTES FENSTER"
+  },
+  {
+    "Identifier": "ViewSelector_CM_Computer",
+    "Text": "AGC/DSKY"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LEB",
+    "Text": "LEB"
+  },
+  {
+    "Identifier": "ViewSelector_LM_LeftStation",
+    "Text": "LINKE STATION"
+  },
+  {
+    "Identifier": "ViewSelector_LM_CenterPanel",
+    "Text": "ZENTRALES BEDIENFELD"
+  },
+  {
+    "Identifier": "ViewSelector_LM_RightStation",
+    "Text": "RECHTE STATION"
+  },
+  {
+    "Identifier": "ViewSelector_LM_LeftWindow",
+    "Text": "LINKES FENSTER"
+  },
+  {
+    "Identifier": "ViewSelector_LM_RightWindow",
+    "Text": "RECHTES FENSTER"
+  },
+  {
+    "Identifier": "ViewSelector_LM_Computer",
+    "Text": "LGC/DSKY"
+  },
+  {
+    "Identifier": "ViewSelector_LM_ECS",
+    "Text": "ECS"
+  },
+  {
+    "Identifier": "ViewSelector_LM_OVHD",
+    "Text": "OBERES FENSTER (ÜBERKOPF)"
+  },
+  {
+    "Identifier": "CommTools_ToggleCOAS",
+    "Text": "SCHALTE\r\nCOAS\r\nUM"
+  },
+  {
+    "Identifier": "CommTools_ToggleHatch",
+    "Text": "ÖFFNE/SCHLIESSE\nLUKE"
+  },
+  {
+    "Identifier": "CommTools_ToggleDockingTarget",
+    "Text": "SCHALTE ANDOCKZIEL UM"
+  },
+  {
+    "Identifier": "CommTools_ReqWeightData",
+    "Text": "ANFORDERN DER GEWICHTSDATEN"
+  },
+  {
+    "Identifier": "CommTools_ToggleJukebox",
+    "Text": "SCHALTE JUKEBOX AN/AUS"
+  },
+  {
+    "Identifier": "CommTools_ReqSwitchInternalPwr",
+    "Text": "UMSCHALTEN AUF INTERNE ENERGIEVERSORGUNG"
+  },
+  {
+    "Identifier": "CommTools_ToggleCountdown",
+    "Text": "COUNTDOWN ANHALTEN"
+  },
+  {
+    "Identifier": "CommTools_ToggleSeats",
+    "Text": "SCHALTE SITZE DURCH"
+  },
+  {
+    "Identifier": "CommTools_ReqCloseHatchPad",
+    "Text": "SCHALTE LUKE UM"
+  },
+  {
+    "Identifier": "CommTools_ReplaceCanisterA",
+    "Text": "KANISTER AUSWECHSELN"
+  },
+  {
+    "Identifier": "CommTools_ReplaceCanisterB",
+    "Text": "KANISTER AUSWECHSELN"
+  },
+  {
+    "Identifier": "CommTools_LM_Exit",
+    "Text": "VERLASSE DAS LUNARMODUL"
+  },
+  {
+    "Identifier": "CommTools_LM_ReplaceCanister",
+    "Text": "AUSWECHSELN"
+  },
+  {
+    "Identifier": "PhysViewUITitle",
+    "Text": "ORBITANSICHT"
+  },
+  {
+    "Identifier": "PhysViewUIMoon",
+    "Text": "MOND"
+  },
+  {
+    "Identifier": "PhysViewUIEarth",
+    "Text": "ERDE"
+  },
+  {
+    "Identifier": "PhysViewUICM",
+    "Text": "CM"
+  },
+  {
+    "Identifier": "PhysViewUILM",
+    "Text": "LM"
+  },
+  {
+    "Identifier": "ViewOutOfBounds",
+    "Text": "\r\n\r\n\r\n\r\n\r\n\r\n\r\nAUSSERHALB DER BEGRENZUNG; GEHE ZURÜCK ZUM COCKPIT (WECHSELE DIE ANSICHT ZUM ZURÜCKSETZEN)"
+  },
+  {
+    "Identifier": "BurnPlanner_Title",
+    "Text": "MANÖVERPLANUNG"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Title",
+    "Text": "ZÜNDUNGSPARAMETER"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_IgnitionPoint_Title",
+    "Text": "Zündungspunkt"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_IgnitionPoint_Desc",
+    "Text": "Stellt die Orbitalphase zum Zündungsstart ein. Dabei werden Orbitalparameter genutzt. Die Zeit zur Zündung wird berechnet."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Title",
+    "Text": "Delta-V"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Desc",
+    "Text": "Stellt die Zündung für delta-v in Fuß pro Sekunde ein. Die Flugbahn sollte den ungefähren neuen Orbit anzeigen."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Desc",
+    "Text": "Stellt die Zündung für delta-v in Fuß pro Sekunde ein. Die Flugbahn sollte den ungefähren neuen Orbit anzeigen."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Direction_Title",
+    "Text": "Zündungsrichtung"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Direction_Desc",
+    "Text": "Nutze das Dropdownmenü, um die Richtung der Zündung einzustellen."
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Title",
+    "Text": "ZÜNDERAUSWAHL"
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Set",
+    "Text": "Stelle Zünder ein"
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Desc",
+    "Text": "Nutze das Dropdownmenü, um den gewünschten Zünder für die Zündung auszuwählen."
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_Title",
+    "Text": "ZÜNDUNGSDATEN"
+  },
+  {
+    "Identifier": "BurnPlanner_EI_Title",
+    "Text": "ATMOSPHÄRISCHER EINTRITT"
+  },
+  {
+    "Identifier": "BurnPlanner_Exec",
+    "Text": "ANFRAGEN"
+  },
+  {
+    "Identifier": "BurnPlanner_AdditionalData_Title",
+    "Text": "ZUSÄTZLICHE DATEN"
+  },
+  {
+    "Identifier": "BurnPlanner_ToggleLines",
+    "Text": "SCHALTE VORHERGESAGTE FLUGBAHN AN/AUS"
+  },
+  {
+    "Identifier": "BurnPlanner_Reset",
+    "Text": "SETZE PLANER ZURÜCK"
+  },
+  {
+    "Identifier": "TLIPlanner_Title",
+    "Text": "TLI ZÜNDUNGSPLANER"
+  },
+  {
+    "Identifier": "TLIPlanner_Title",
+    "Text": "TLI ZÜNDUNGSPLANER"
+  },
+  {
+    "Identifier": "TLIPlanner_Exec",
+    "Text": "AUSFÜHREN"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Title",
+    "Text": "ZEIGE FOKUS"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Earth",
+    "Text": "ERDE"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_BurnPoint",
+    "Text": "ZÜNDUNGSPUNKT"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Moon",
+    "Text": "MOND"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_CSM",
+    "Text": "CSM"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Title",
+    "Text": "ZÜNDUNGSPARAMETER"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Time_Title",
+    "Text": "Flugzeitfaktor"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Time_Desc",
+    "Text": "Transferzeit wird durch Hohmann xfer-Zeit angegeben. Spanne 0,1 bis 1,5"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Title",
+    "Text": "SOI Gradwinkel"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Desc",
+    "Text": "Dieser Wert legt den Ankunftswinkel fest, wenn das Raumschiff die Schwerkraftszone des Mondes betritt."
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Desc",
+    "Text": "Dieser Wert legt den Ankunftswinkel fest, wenn das Raumschiff die Schwerkraftszone des Mondes betritt."
+  },
+  {
+    "Identifier": "TLIPlanner_Params_TLIDept_Title",
+    "Text": "Winkel der TLI Abstoßung"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_TLIDept_Desc",
+    "Text": "Legt den Winkel des Abstoßens durch die TLI-Zündung fest."
+  },
+  {
+    "Identifier": "TLIPlanner_Data_Title",
+    "Text": "ZÜNDUNGSDATEN"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_Countdown",
+    "Text": "Zeit bis zur Zündung:"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_TIG",
+    "Text": "Zeit der Zündung"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_dV",
+    "Text": "dV"
+  },
+  {
+    "Identifier": "TLIPlanner_Traj_Data",
+    "Text": "FLUGBAHN"
+  },
+  {
+    "Identifier": "TEIPlanner_Title",
+    "Text": "TRANS-ERD INJECTION"
+  },
+  {
+    "Identifier": "TEIPlanner_Exec",
+    "Text": "ANFORDERN"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Title",
+    "Text": "ZÜNDUNGSPARAMETER"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Ve_Title",
+    "Text": "Verlasse Geschwindigkeitskurve"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Ve_Desc",
+    "Text": "Legt die Ziel-TEI Geschwindigkeit als Bruchteil\r der Escapegeschwindigkeit fest."
+  },
+  {
+    "Identifier": "TEIPlanner_BurnData_Title",
+    "Text": "ZÜNDUNGSDATEN"
+  },
+  {
+    "Identifier": "AdvancedCamera_Title",
+    "Text": "KAMERAOPTIONEN"
+  },
+  {
+    "Identifier": "AdvancedCamera_Free_On",
+    "Text": "FREI"
+  },
+  {
+    "Identifier": "AdvancedCamera_Free_Off",
+    "Text": "WECHSELE AUF FREIE"
+  },
+  {
+    "Identifier": "AdvancedCamera_Orbit_On",
+    "Text": "ORBIT"
+  },
+  {
+    "Identifier": "AdvancedCamera_Orbit_Off",
+    "Text": "WECHSELE AUF ORBIT"
+  },
+  {
+    "Identifier": "LRV_Handbrake",
+    "Text": "[HANDBREMSE AKTIVIERT - DRÜCKE LEERTASTE, ZUM LÖSEN]"
+  },
+  {
+    "Identifier": "LRV_Handbrake",
+    "Text": "[HANDBREMSE AKTIVIERT - DRÜCKE LEERTASTE, ZUM LÖSEN]"
+  },
+  {
+    "Identifier": "LRV_EnterLRV",
+    "Text": "BETRETE LRV"
+  },
+  {
+    "Identifier": "LM_ReturnInside",
+    "Text": "KEHRE NACH INNEN ZURÜCK"
+  },
+  {
+    "Identifier": "LM_DeployLRV",
+    "Text": "SETZE LUNARROVER ZUSAMMEN"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, erbitte anhalten des Countdowns."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, bitte fahrt mit dem Countdown fort."
+  },
+  {
+    "Identifier": "RadioCommReq_LM_WeightData1",
+    "Text": "Roger, {0}. LM-Gewicht liegt bei +{1} lbs und CSM-Gewicht liegt bei +{2} lbs."
+  },
+  {
+    "Identifier": "RadioCommReq_LM_WeightData2",
+    "Text": "Roger, {0}. LM -Gewicht liegt bei +{1} lbs."
+  },
+  {
+    "Identifier": "RadioCommReq_CM_WeightData1",
+    "Text": "Roger, {0}. CM-Gewicht liegt bei +{1} lbs und LM Gewicht liegt bei +{2} lbs."
+  },
+  {
+    "Identifier": "RadioCommReq_CM_WeightData2",
+    "Text": "Roger, {0}. CM-Gewicht liegt bei +{1} lbs."
+  },
+  {
+    "Identifier": "RadioCommReq_Mark",
+    "Text": "Markieren."
+  },
+  {
+    "Identifier": "RadioCommReq_RadioCheck",
+    "Text": "{0}, wir hören euch {1} auf 5."
+  },
+  {
+    "Identifier": "RadioCommReq_InternalPower",
+    "Text": "{0}, auf interne Energieversorgung wechseln."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, Countdown angehalten."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, Countdown fährt fort."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "FORTFAHREN DES COUNTDOWNS"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "ANHALTEN DES COUNTDOWNS"
+  },
+  {
+    "Identifier": "RadioCommReq_CO2CanisterReplaced",
+    "Text": "CO2-Kanister {0} ausgewechselt."
+  },
+  {
+    "Identifier": "LunarAscent_BurnCalcData",
+    "Text": "TPI Hohmannzündung auf {0} Uhr MET, mit einem dV von {1} fps gelegt. LGC ist aktualisiert. Starte P30 zum einstellen und P41 zum ausführen."
+  },
+  {
+    "Identifier": "LunarAscent_CSIError",
+    "Text": "{0}, immernoch am aufsteigen. Bitte bis zum Parking-Orbit warten."
+  },
+  {
+    "Identifier": "LunarAscent_CSIBurnCalc",
+    "Text": "CSI-Zündung auf {0} Uhr MET, mit einem dV von {1} fps gelegt. LGC ist aktualisiert. Starte P30 zum aufsetzen und P41 zum Ausführen."
+  },
+  {
+    "Identifier": "LunarAscent_AscentCalc1",
+    "Text": "{0}, lunar-Aufstiegszündung auf {1} gelegt."
+  },
+  {
+    "Identifier": "LunarAscent_AscentCalc2",
+    "Text": "Zeit der Zündungswerte wurden zum LGC hochgeladen. Mit V06N33E bestätigen."
+  },
+  {
+    "Identifier": "BurnPlanner_SPSDeorbitBurn",
+    "Text": "{0}, Zeit bis zur SPS-Zündung für einen Deorbit ist in {1}h {2}m {3}s, mit einem dV von {4} fps {5}"
+  },
+  {
+    "Identifier": "BurnPlanner_SPSBurn",
+    "Text": "{0}, Zeit der SPS Zündung liegt bei {1}h {2}m {3}s, mit einem dV von {4} fps {5}."
+  },
+  {
+    "Identifier": "BurnPlanner_DPSBurn",
+    "Text": "{0}, Zeit der DPS-Zündung liegt bei {1}h {2}m {3}s, mit einem dV von {4} fps {5}."
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRetrograde",
+    "Text": "retrograde"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirPrograde",
+    "Text": "prograde"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRadialIn",
+    "Text": "radial in"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRadialOut",
+    "Text": "radial aus"
+  },
+  {
+    "Identifier": "PDI_Fail",
+    "Text": "Lunarorbitdaten nicht verfügbar."
+  },
+  {
+    "Identifier": "PDI_Fail2",
+    "Text": "Dein Orbit erfüllt nicht die benötigten Voraussetzungen eines energieunterstützten Lunarabstieges. Bitte vermindere Pe auf eine Höhe von ungefähr 50.000 Fuß [8 nmi Höhe, 946 nmi Radius]."
+  },
+  {
+    "Identifier": "PDI_Info1",
+    "Text": "{0}, PDI auf {1} ,mit einer Höhe von 0, 110,0 gesetzt. "
+  },
+  {
+    "Identifier": "PDI_Info2",
+    "Text": "Zeit der Zündungsdaten an das LGC hochgeladen. Bitte mit V06N33E bestätigen."
+  },
+  {
+    "Identifier": "PDI_Info3",
+    "Text": "Bitte zum Landeareal vordringen."
+  },
+  {
+    "Identifier": "TEI_BurnCalc",
+    "Text": "{0}, Zeit der Zündung liegt bei {1}h {2}m {3}s, mit einem dV von {4} fps"
+  },
+  {
+    "Identifier": "LM_ContactLight",
+    "Text": "Kontaktlicht!"
+  },
+  {
+    "Identifier": "LM_Docking",
+    "Text": "Kontaktverriegelung."
+  },
+  {
+    "Identifier": "Stage_Staging",
+    "Text": "Abstufung."
+  },
+  {
+    "Identifier": "TLIPlanner_LunarPe",
+    "Text": "Perilune = {0:0.0} nmi Höhe."
+  },
+  {
+    "Identifier": "TLIPlanner_FreeReturnPe",
+    "Text": "Rückperigee={0:0.0} nmi Höhe"
+  },
+  {
+    "Identifier": "TLIPlanner_TimeToLOI",
+    "Text": "Zeit zum LOI: {0}"
+  },
+  {
+    "Identifier": "TLIPlanner_Warning1",
+    "Text": "Atmosphärischer Eintrittskurs mit der Erde liegt auf freiem Rückflugsweg. Um dies zu verhindern muss Perigee über der Atmosphäre liegen ({0} nmi Höhe)"
+  },
+  {
+    "Identifier": "TLIPlanner_Warning2",
+    "Text": "Kollisionskurs mit dem Mond; erhöhe Perigee über die Mondoberfläche ({0} nmi)"
+  },
+  {
+    "Identifier": "BurnPlanner_EIFlightPath",
+    "Text": "EI Flugwegwinkel: {0}°"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "Zeit zum EI: {0}"
+  },
+  {
+    "Identifier": "BurnPlanner_VelAtEI",
+    "Text": "Geschwindigkeit bei EI: {0} fps"
+  },
+  {
+    "Identifier": "BurnPlanner_CurrentPhase",
+    "Text": "Derzeitige Phase:"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_Date",
+    "Text": "Datum:"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_MET",
+    "Text": "MET: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_ET",
+    "Text": "Eventtimer: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_EarthOrbit",
+    "Text": "Erdorbit"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_LunarOrbit",
+    "Text": "Lunarorbit"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TIG",
+    "Text": "TIG"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "Zeit zur Zündung"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "Zeit zur Zündung"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_EstBurnT",
+    "Text": "Geschätzte Zündungslänge"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_OrbitData",
+    "Text": "Orbitdaten"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_ApLabel",
+    "Text": "Ap: "
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_PeLabel",
+    "Text": "Pe: "
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_NmiLabel",
+    "Text": "nmi"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_NmiAltLabel",
+    "Text": "nmi Höhe"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning1",
+    "Text": "TEI-Zündung erreicht den Mond/Planeten nicht SOI"
+  },
+  {
+    "Identifier": "TEIPlanner_Calc",
+    "Text": "Periapsis: {0:0.00} nmi Höhe ({4} nmi)\r\r\nZeit bis EI={1}\r\r\nΔV={2} Fuß/Sek\r\r\nZeit zur Zündung={3}"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning2",
+    "Text": "Keine"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning3",
+    "Text": "Überprüfe Escapegeschwindigkeitsbruchteil in Zusammenhang mit der Inputpunktierung."
+  },
+  {
+    "Identifier": "TEIPlanner_Warning4",
+    "Text": "Überprüfe die Orbtiexzentrizität. Zirkulärer Orbit für TEI-Manöver benötigt."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Keins."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Drücke {0} , wenn du bereit bist mit der Mission fortzufahren."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Drücke ROGER, wenn du bereit bist mit der Mission fortzufahren."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Warte auf Start."
+  },
+  {
+    "Identifier": "MissionObjective_TowerSep",
+    "Text": "Warte auf Towertrennung."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteLaunchAscent",
+    "Text": "Beende den Aufstieg und die Orbiteindringung."
+  },
+  {
+    "Identifier": "MissionObjective_CECO",
+    "Text": "Warte auf Zentralzünderabschaltung."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration_CM",
+    "Text": "Beende die Kommandomodul-Bedienfeldkonfiguration."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration_LM",
+    "Text": "Beende die Lunarmodul-Bedienfeldkonfiguration."
+  },
+  {
+    "Identifier": "MissionObjective_LunarContact",
+    "Text": "Lande auf der Mondoberfläche."
+  },
+  {
+    "Identifier": "MissionObjective_CM_LOS",
+    "Text": "Warte auf LOS"
+  },
+  {
+    "Identifier": "MissionObjective_CM_AOS",
+    "Text": "Warte auf AOS"
+  },
+  {
+    "Identifier": "MissionObjective_LM_DPSIgnite",
+    "Text": "Zünde den DPS-Motor."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DPSShutoff",
+    "Text": "Beende die DPS-Zündung."
+  },
+  {
+    "Identifier": "MissionObjective_LM_APSIgnite",
+    "Text": "Zünde den APS-Motor."
+  },
+  {
+    "Identifier": "MissionObjective_LM_APSShutoff",
+    "Text": "Beende die APS-Zündung."
+  },
+  {
+    "Identifier": "MissionObjective_SwitchedToLunarStayArea",
+    "Text": "Komme näher an die Lunaroberfläche."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet1",
+    "Text": "Docke das Lunarmodul vom Kommando bzw. Servicemodul ab."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet2",
+    "Text": "Komme in die Reichweite von {0} Fuß. {1} Fuß übrig."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_True",
+    "Text": "Erreiche eine Geschwindigkeit von {0} Fuß/Sekunde im Lunarmodule"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_False",
+    "Text": "Erreiche eine Geschwindigkeit von weniger als {0} Fuß/Sekunde im Lunarmodul."
+  },
+  {
+    "Identifier": "MissionObjective_CM_AltitudeGreater_Value1",
+    "Text": "Erreiche eine Höhe von mehr als {0} km"
+  },
+  {
+    "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
+    "Text": "Erreiche eine Höhe von weniger als {0} km im CM"
+  },
+  {
+    "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
+    "Text": "Erreiche eine Höhe von weniger als {0} km im LM"
+  },
+  {
+    "Identifier": "MissionObjective_CM_CheckIfAGC_Program_Value1_IsRunning",
+    "Text": "Starte das AGC-Programm: "
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1",
+    "Text": "Bewege die CM-Ap Höhe auf {0} oder mehr."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsPeGreaterThan_Value1",
+    "Text": "Bewege die CM-Pe Höhe auf {0} oder mehr."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Passe den CS-Orbit auf {0} Ap x {1} Pe Höhe (km) oder mehr an."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsAtRadioStation_String1",
+    "Text": "Erreiche das Umfeld von Radiostation:"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Longitude_Between_Value1_Value2",
+    "Text": "Erreiche einen Längengrad von {0} und {1} Grad."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Latitude_Between_Value1_Value2",
+    "Text": "Erreiche einen Breitengrad von {0} und {1} Grad."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsInclination_Value1_ThresholdValue2",
+    "Text": "Erreiche eine Orbitalfläche von {0} mit einer Toleranz von +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageIC",
+    "Text": "Warte auf S-IC-Trennung."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageII",
+    "Text": "Warte auf S-II-Trennung."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageIVB",
+    "Text": "Warte auf S-IVB-Trennung."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageSM",
+    "Text": "Warte auf SM-Trennung."
+  },
+  {
+    "Identifier": "MissionObjective_CM_GravityInfluencer_Earth",
+    "Text": "Erreiche den Schwerkraftseinfluss der Erde."
+  },
+  {
+    "Identifier": "MissionObjective_CM_GravityInfluencer_Moon",
+    "Text": "Erreiche den Schwerkraftseinfluss des Mondes."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DrogueDeploy",
+    "Text": "Warte auf Bremsschirmöffnung"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_MainDeploy",
+    "Text": "Warte auf Hauptöffnung"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_InHiDragZone",
+    "Text": "Warte auf Eindringen in die Atmosphäre."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_OutsideHighDragZone",
+    "Text": "Dringe in die Atmosphäre ein."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_SPSBurning",
+    "Text": "Warte auf Zündung des SPS-Motors."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_SPSNotBurning",
+    "Text": "Beende die SPS-Zündung."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_AnyEngineBurning",
+    "Text": "Warte auf Zündung."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_NoEnginesBurning",
+    "Text": "Warte auf Zündungsabschaltung."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Erreiche eine Höhe von weniger als {0} Fuß."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_Splashdown",
+    "Text": "Splashdown."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToAp_Value1",
+    "Text": "Warte auf ein Erreichen von Ap T-{0} Sekunden. Zeit übrig: {1} Sekunden."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToPe_Value1",
+    "Text": "Warte auf ein Erreichen von Pe T-{0} Sekunden. Zeit übrig: {1} Sekunden."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToRetro_Value1Seconds",
+    "Text": "Warte auf ein Erreichen von T -{0} Sekunden bis zur Retrozündung. Zeit übrig: {1} Sekunden."
+  },
+  {
+    "Identifier": "MissionObjective_CM_TimeToSPSBurn_Value1Seconds",
+    "Text": "Warte auf ein Erreichen von T -{0} Sekunden bis zur SPS-Zündung. Zeit übrig: {1} Sekunden."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Velocity_GreaterThan_Value1_FPS",
+    "Text": "Erreiche eine Geschwindigkeit von mehr als {0} Fuß/Sekunde im Kommandomodul"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Velocity_LessThan_Value1_FPS",
+    "Text": "Erreiche eine Geschwindigkeit von weniger als {0} Fuß/Sekunde im Kommandomodul"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_AdjustPeriluneTo_Value1km_Value2ThresholdKm",
+    "Text": "Plane das TLI, um eine Perilune von {0} +/- {1} zu erreichen."
+  },
+  {
+    "Identifier": "MissionObjective_TLI_OpenPlanner",
+    "Text": "Öffne den TLI-Planer"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_RequestTB6",
+    "Text": "Fordere eine TLI-Zündung an"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_BurnComplete",
+    "Text": "Beende die TLI-Zündung."
+  },
+  {
+    "Identifier": "MissionObjective_CSM_OpenBurnPlanner",
+    "Text": "Öffne den Zündungsplaner für das CSM"
+  },
+  {
+    "Identifier": "MissionObjective_CSM_BurnRequested",
+    "Text": "Plane und fordere eine CSM-Zündung an"
+  },
+  {
+    "Identifier": "MissionObjective_TEI_OpenBurnPlanner",
+    "Text": "Öffne den TEI-Zündungsplaner"
+  },
+  {
+    "Identifier": "MissionObjective_TEI_BurnRequested",
+    "Text": "Plane und fordere eine TEI-Zündung an"
+  },
+  {
+    "Identifier": "MissionObjective_LM_CheckIfLGC_Program_Value1_IsRunning",
+    "Text": "Starte das LGC-Programm:"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P12Guidance",
+    "Text": "Beende die LGC P12 Führung"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P63Guidance",
+    "Text": "Beende die LGC P63 Führung"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P64Guidance",
+    "Text": "Beende die LGC P63 Führung"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarDescent",
+    "Text": "Beende den Lunarabstieg."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarAscent",
+    "Text": "Beende den Lunaraufstieg."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CSI",
+    "Text": "Beende das CSI-Manöver."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_PC",
+    "Text": "Beende das PC-Manöver."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CDH",
+    "Text": "Beende das CDH-Manöver."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPI",
+    "Text": "Beende das TPI-Manöver."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPM",
+    "Text": "Beende das TPM-Manöver."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPF",
+    "Text": "Beende das TPF-Manöver."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_DockedWithCSMAfterAscent",
+    "Text": "Docke das Lunarmodul an das Kommando- bzw. Servicemodul an."
+  },
+  {
+    "Identifier": "MissionObjective_LM_State_IsComplete_LandingLegsDeployed",
+    "Text": "Aktiviere das Lunarmodul und fahre die Landestützen aus"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_WalkingOnLunarSurface",
+    "Text": "Laufe auf dem Mond"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_OutsideLunarModule",
+    "Text": "Führe ein EVA aus."
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_InsideLunarModule",
+    "Text": "Gehe zurück ins Lunarmodul"
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Beende die Checkliste:"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DockedWithLunarModule",
+    "Text": "Docke an das Lunarmodul an."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_UndockedWithTheLunarModule",
+    "Text": "Docke vom Lunarmodul ab."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DockedWithLunarModuleInSIVB",
+    "Text": "Docke mit dem Lunarmodul an das S-IVB."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "Bringe das CSM in einen zirkulären Orbit von {0} +/- {1} km"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_IsCircular_ThresholdValue1",
+    "Text": "Bringe das CSM in irgendeinen zirkulären Orbit mit einer Toleranz von {0} km"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "Bringe das Lunarmodul in einen zirkulären Orbit von {0} +/- {1} km"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_IsCircular_ThresholdValue1",
+    "Text": "Bringe das Lunarmodul in irgendeinen zirkulären Orbit mit einer Toleranz von {0} km"
+  },
+  {
+    "Identifier": "MissionObjective_LM_TimeToDPSBurn_Value1Seconds",
+    "Text": "Warten auf ein Erreichen von T -{0} seconds zur DPS-Zündung. Zeit übrig: {1} Sekunden."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_TimeToAp_Value1",
+    "Text": "Warten auf Erreichen von Ap T-{0} Sekunden. Zeit übrig: {1} Sekunden."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
+    "Text": "Warten auf Erreichen von Pe T-{0} Sekunden. Zeit übrig: {1} Sekunden."
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "RADIOCHECK"
+  },
+  {
+    "Identifier": "RadioCommMenu_TLI",
+    "Text": "S-IVB ZÜNDUNGSPLANER"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "ZÜNDUNGSPLANER"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestPDI",
+    "Text": "FORDERE PDI AN"
+  },
+  {
+    "Identifier": "RadioCommMenu_Request",
+    "Text": "ANFORDERN"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestTEI",
+    "Text": "ANFORDERN VON TEI"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestCSI2",
+    "Text": "ANFORDERN VON TPF"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewMembers",
+    "Text": "CREWMITGLIEDER"
+  },
+  {
+    "Identifier": "RadioCommMenu_CAPCOM",
+    "Text": "CAPCOM"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseAscent",
+    "Text": "AUFSTIEG"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCDH",
+    "Text": "CDH"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCSI",
+    "Text": "CSI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhasePC",
+    "Text": "PC"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPF",
+    "Text": "TPF"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPI",
+    "Text": "TPI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPM",
+    "Text": "TPM"
+  },
+  {
+    "Identifier": "RadioCommMessage_TooHighGLoads",
+    "Text": "Die G-Kräfte sind zu hoch."
+  },
+  {
+    "Identifier": "GameOverReason_TooHighGLoads",
+    "Text": "Struktur- und Crewschäden durch zu hohe G-Kräfte."
+  },
+  {
+    "Identifier": "GameOverReason_Crashed",
+    "Text": "Absturz beim Landen."
+  },
+  {
+    "Identifier": "GameOverReason_NonCMEntry",
+    "Text": "Versuch eine Atmosphäreneindringung, während Anschluss an eine Stufe, durchzuführen. Nur das CM kann in die Atmosphäre wiedereindringen. "
+  },
+  {
+    "Identifier": "GameOverReason_LMEntry",
+    "Text": "Versuch eine Atmosphäreneindringung mit angeschlossenem Lunarmodul an das CM durchzuführen."
+  },
+  {
+    "Identifier": "GameOverReason_LMEntry",
+    "Text": "Versuch eine Atmosphäreneindringung mit angeschlossenem Lunarmodul an das CM durchzuführen."
+  },
+  {
+    "Identifier": "BurnPlanner_UplinkPreferred",
+    "Text": "(OPTIONAL) IMU: LEGE GEWÜNSCHTES FEST"
+  },
+  {
+    "Identifier": "BurnPlanner_CommsPreferredSet",
+    "Text": "Gewünschte Zündungsrichtung festgelegt. Nutze die P52 Option 1 , um das Drehmoment der Gyros festzulegen, bevor eine Zündung angefordert wird. Setze ORDEAL auf INRTL und den Schlüssel auf V37E 52E V22E + 1E PRO PRO, um dies durchzuführen."
+  },
+  {
+    "Identifier": "RadioCommReq_MissionTimeSync",
+    "Text": "Missionstimer wurden mit der Bodenmissionszeit synchronisiert."
+  },
+  {
+    "Identifier": "CommTools_SyncMetTimers",
+    "Text": "SYNC MET TIMER"
+  }
+]
