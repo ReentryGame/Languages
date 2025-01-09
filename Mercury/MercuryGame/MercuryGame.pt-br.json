@@ -1,0 +1,330 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "ASSENTO DO COMANDANTE"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "PAINEIS ESQUERDOS"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "PAINEIS DIREITOS"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "PAINEIS SUPERIORES"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "JANELA"
+  },
+  {
+    "Identifier": "ViewSelector_NavigationReticle",
+    "Text": "RETICULO DE NAVEGACAO"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "VERIFICACAO DE RADIO"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "VERIFICACAO DE ALTITUDE"
+  },
+  {
+    "Identifier": "CommReq_ClockReport",
+    "Text": "RELOGIO INICIADO"
+  },
+  {
+    "Identifier": "CommReq_BatteryCheck",
+    "Text": "VERIFICACAO DA BATERIA"
+  },
+  {
+    "Identifier": "CommReq_TempCheck",
+    "Text": "VERIFICACAO DE TEMPERATURA"
+  },
+  {
+    "Identifier": "CommReq_SetRETROtoNextAP",
+    "Text": "RETRO NO PROXIMO AP"
+  },
+  {
+    "Identifier": "CommReq_MessageCapCom",
+    "Text": "MENSAGEM CAPCOM"
+  },
+  {
+    "Identifier": "CommReq_PadSwitchToInternalPower",
+    "Text": "MUDAR PARA ENERGIA INTERNA"
+  },
+  {
+    "Identifier": "CommReq_RequestAbortCapability",
+    "Text": "SOLICITAR TESTE DE CAPACIDADE DE ABORTO"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "ALTERNAR JUKEBOX"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "DADOS DE SUBIDA MANUAL"
+  },
+  {
+    "Identifier": "CommReq_AttitudeInfo",
+    "Text": "DADOS DE ATITUDE"
+  },
+  {
+    "Identifier": "CommReq_CrewMembers",
+    "Text": "FERRAMENTAS DE MISSAO"
+  },
+  {
+    "Identifier": "Radio_NegativeClockCheck",
+    "Text": "Negativo! Umbilical ainda conectado."
+  },
+  {
+    "Identifier": "RadioCheck_HF",
+    "Text": "{0}, lemos voce {1} as 5 em HF."
+  },
+  {
+    "Identifier": "RadioCheck_UHF",
+    "Text": "{0}, lemos voce {1} as 5 em UHF."
+  },
+  {
+    "Identifier": "Radio_RetroTimeUpdated",
+    "Text": "{0}, o Time to Retro foi atualizado. Verifique novamente e faca ajustes."
+  },
+  {
+    "Identifier": "Radio_TempCheck",
+    "Text": "{0}, sua temperatura esta boa."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssues",
+    "Text": "{0}, parece que ha algumas temperaturas fora da escala.{1}"
+  },
+  {
+    "Identifier": "Radio_AltCheck_OnPad",
+    "Text": "a plataforma de lancamento"
+  },
+  {
+    "Identifier": "Radio_AltCheck_WeSeeYouAt",
+    "Text": "Vemos voce em {0}."
+  },
+  {
+    "Identifier": "Radio_AltCheck_NoTLM",
+    "Text": "Nao conseguimos ver sua telemetria."
+  },
+  {
+    "Identifier": "Radio_ClockOperational",
+    "Text": "Reconhecido, o relogio esta operacional."
+  },
+  {
+    "Identifier": "Radio_Staging",
+    "Text": "Confirmamos a preparacao em {0}."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Nenhum."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Pressione {0} quando estiver pronto para prosseguir com a missao."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Pressione ROGER quando estiver pronto para prosseguir com a missao."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Aguardando a decolagem."
+  },
+  {
+    "Identifier": "MissionObjective_State_SECO",
+    "Text": "Aguardando SECO."
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "Pressione o balao de funcao MANTER CONTAGEM REGRESSIVA."
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "Pressione o balao da funcao RETOMAR CONTAGEM REGRESSIVA."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Tower",
+    "Text": "Aguardando separacao da torre."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_LV",
+    "Text": "Aguardando a separacao do veiculo lancador."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Configuracao completa do painel."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Preencha a lista de verificacao com ID {0}."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Alcance uma altitude superior a {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Alcance uma altitude inferior a {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Mova a altitude Ap para {0} ou superior."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Mova a altitude Pe para {0} ou superior."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Ajuste a orbita para altitude {0} Ap x {1} Pe (km) ou superior."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Fique dentro do alcance da estacao de radio {0}."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "Entre no alcance longitudinal da estacao de radio {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Alcance uma Longitude entre {0} e {1} graus."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Alcance uma latitude entre {0} e {1} graus."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "Aguarde o inicio da retrosequencia."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Alcance um plano orbital de {0} com um limite de +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "Aguardando a separacao do Booster."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "Aguardando separacao da secao retrograda."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Aguardando arrasto atmosferico inicial (0,05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "Aguardando implantacao do drogue."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "Aguardando implantacao principal."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Aguardando o inicio da entrada atmosferica."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Preencha a lista de verificacao."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Atravesse a atmosfera."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "Aguardando a ignicao dos motores retrogrados."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Chegue a uma altitude inferior a {0} pes."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "Respingo."
+  },
+  {
+    "Identifier": "MissionObjective_PerformBloodCheck",
+    "Text": "Faca uma verificacao da pressao arterial."
+  },
+  {
+    "Identifier": "RadioMessage_UmbilicalDisconnect",
+    "Text": "Desconexao umbilical!"
+  },
+  {
+    "Identifier": "RadioMessage_SetSpacecraftToReady",
+    "Text": "{0}, nao vemos que voce esta pronto. Mude o interruptor CONTROLE DE LANCAMENTO para PRONTO. A contagem regressiva esta completa!"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, solicitando espera de contagem regressiva."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, retome a contagem regressiva."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, mantendo a contagem regressiva."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, contagem regressiva retomada."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "RETOMAR CONTAGEM REGRESSIVA"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "MANTER CONTAGEM REGRESSIVA"
+  },
+  {
+    "Identifier": "RadioMessage_StartingAbortCapability",
+    "Text": "A verificacao de capacidade de interrupcao foi iniciada. A luz de aborto deve acender e os amplificadores devem disparar."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityNotStarted",
+    "Text": "Nao foi possível iniciar a verificacao de capacidade de cancelamento. Certifique-se de que os abortos estejam armados."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityComplete",
+    "Text": "Verificacao de capacidade de aborto concluida."
+  },
+  {
+    "Identifier": "RadioMessage_SwitchToInternalPower",
+    "Text": "Desconectado o Veiculo Lancador da alimentacao umbilical, voce esta agora com alimentacao interna."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_EvapH2OLow",
+    "Text": "O nivel de H2O do evaporador esta baixo."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitLow",
+    "Text": "A temperatura do traje esta baixa."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitHigh",
+    "Text": "A temperatura do traje esta alta."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinLow",
+    "Text": "A temperatura da cabine esta baixa."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinHigh",
+    "Text": "A temperatura da cabine esta alta."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinFanOff",
+    "Text": "O ventilador da cabine esta desligado. Ligue-o para forcar a entrada de ar no trocador de calor."
+  }
+]
