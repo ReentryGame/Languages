@@ -5,19 +5,54 @@ This repo contains the current language support of the game UI/mechanics of Reen
 The following section will contain the status of the translation of the UI.
 
 MainMenuUI
-- en-us (English/US)
+- [X] English/US
+- [X] Spanish
+- [X] Russian
+- [X] French
+- [X] German
+- [X] Chinese (Simplified)
+- [X] Portuguese of Brazil
+- [ ] Japanese
 
 CommonUI
-- en-us (English/US)
+- [X] English/US
+- [X] Spanish
+- [X] Russian
+- [X] French
+- [X] German
+- [X] Chinese (Simplified)
+- [X] Portuguese of Brazil
+- [ ] Japanese
 
 MercuryGame
-- en-us (English/US)
+- [X] English/US
+- [X] Spanish
+- [X] Russian
+- [X] French
+- [X] German
+- [X] Chinese (Simplified)
+- [X] Portuguese of Brazil
+- [ ] Japanese
 
 GeminiGame
-- en-us (English/US)
+- [X] English/US
+- [X] Spanish
+- [X] Russian
+- [X] French
+- [X] German
+- [X] Chinese (Simplified)
+- [X] Portuguese of Brazil
+- [ ] Japanese
 
 ApolloGame
-- en-us (English/US)
+- [X] English/US
+- [X] Spanish
+- [X] Russian
+- [X] French
+- [X] German
+- [X] Chinese (Simplified)
+- [X] Portuguese of Brazil
+- [ ] Japanese
 
 The following list shows the languages we currently want to support. More will be added as the core of the game gets translated. If you have suggestions please reach out.
 |        Language        | code  |
@@ -27,6 +62,7 @@ The following list shows the languages we currently want to support. More will b
 | French                 | fr-fr |
 | German                 | de-de |
 | Chinese (Simplified)   | zh-cn |
+| Portuguese of Brazil   | pt-br |
 
 ## How to contribute
 To contribute, you will need to get the language files stored on your harddrive, pick a language to translate to for a given file that is missing in the status above, use the in-game tool to translate (or a text editor), then commit and push the change as a pull request. We will then test and verify, and potentially merge the change into the game.
