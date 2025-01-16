@@ -206,5 +206,9 @@
   {
     "Identifier": "MissionPad_VR",
     "Text": "VR"
+  },
+  {
+    "Identifier": "MissionPad_RunChecklist",
+    "Text": "ПУСК"
   }
 ]
