@@ -1254,5 +1254,157 @@
   {
     "Identifier": "Settings_VirtualRealityInput",
     "Text": "VR INPUT BINDINGS"
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Title",
+    "Text": "Updates to the default checklists available"
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Desc",
+    "Text": "Updates to the default checklists are available and ready to be installed. By doing this, any changes you have made to the default checklists will be overwritten, so make backups before proceeding.\n\nTo install these changes, you can press the RESET DEFAULT CHECKLISTS button from SETTINGS, or by pressing INSTALL below.\n\nNOTE: If you have made modifications to any of the default checklits, this message will show. I would recommend you to untoggle the \"Automatically check for checklist changes\" in SETTINGS to disable this message, and manually use the RESET DEFAULT CHECKLISTS function."
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Install",
+    "Text": "INSTALL"
+  },
+  {
+    "Identifier": "GameTips_Tip1",
+    "Text": "You can use to console command sp or setsunphase to modify the sun phase/position."
+  },
+  {
+    "Identifier": "GameTips_Tip2",
+    "Text": "If you have feedback, please visit our official Discord channel at discord.gg/reentrygame"
+  },
+  {
+    "Identifier": "GameTips_Tip3",
+    "Text": "Avoid timescaling above 500x as it accumulates inaccuracies on internal systems."
+  },
+  {
+    "Identifier": "GameTips_Tip4",
+    "Text": "The text-to-speech system can read out mission messages and lesson instructions in realtime. You can toggle this in settings."
+  },
+  {
+    "Identifier": "GameTips_Tip5",
+    "Text": "We welcome every Virtual Astronaut to the Official Reentry Community over at our Discord server (discord.gg/reentrygame)!"
+  },
+  {
+    "Identifier": "GameTips_Tip6",
+    "Text": "Every spacecraft supported by Reentry has a flight manual. It is recommended to get familiar with these. You can find them at the Academy section."
+  },
+  {
+    "Identifier": "GameTips_Tip7",
+    "Text": "We are frequently searching for new Test Pilots (TP)! The TP-platform is Discord, and is part of the official Reentry Discord Channel (discord.gg/reentrygame)"
+  },
+  {
+    "Identifier": "GameTips_Tip8",
+    "Text": "You can create your own checklists or modify existing ones using the Checklist Editor. You can create and load checklists using the 'checklist' command in the in-game console"
+  },
+  {
+    "Identifier": "GameTips_Tip9",
+    "Text": "Avoid timescaling above 500x as it accumulates inaccuracies on internal systems."
+  },
+  {
+    "Identifier": "GameTips_Tip10",
+    "Text": "The text-to-speech system can read out mission messages and lesson instructions in realtime. You can toggle this in settings."
+  },
+  {
+    "Identifier": "GameTips_Tip11",
+    "Text": "The reflection probes require a lot of processing power. Try reducing it's setting or turn them OFF, especially for Apollo."
+  },
+  {
+    "Identifier": "GameTips_Tip12",
+    "Text": "The in-game keyboard buttons for the OBC and the DSKY can be mapped in the Input Settings."
+  },
+  {
+    "Identifier": "GameTips_Tip13",
+    "Text": "You can map a hotkey for cutting the Lunar Module DPS on Lunar Contact."
+  },
+  {
+    "Identifier": "GameTips_Tip14",
+    "Text": "YAvoid timescaling above 500x as it accumulates inaccuracies on internal systems."
+  },
+  {
+    "Identifier": "GameTips_Tip15",
+    "Text": "The text-to-speech system can read out mission messages and lesson instructions in realtime. You can toggle this in settings."
+  },
+  {
+    "Identifier": "LoadingScreen_Program",
+    "Text": "PROGRAM"
+  },
+  {
+    "Identifier": "LoadingScreen_LV",
+    "Text": "LAUNCH VEHICLE"
+  },
+  {
+    "Identifier": "LoadingScreen_LV",
+    "Text": "LAUNCH VEHICLE"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto",
+    "Text": "LOADS INTO"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Orbit",
+    "Text": "Orbit"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Pad",
+    "Text": "Pad"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Pad",
+    "Text": "Pad"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures",
+    "Text": "RANDOM FAILURES"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures_No",
+    "Text": "No"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures_Yes",
+    "Text": "Yes, {0}%/cycle"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Mercury",
+    "Text": "Mercury"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Gemini",
+    "Text": "Gemini"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Apollo",
+    "Text": "Apollo"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_STS",
+    "Text": "Space Shuttle"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_GeminiLV",
+    "Text": "Gemini-Titan II"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_ApolloLV",
+    "Text": "Saturn V"
+  },
+  {
+    "Identifier": "LoadingScreen_STSLV",
+    "Text": "STS"
+  },
+  {
+    "Identifier": "LoadingScreen_RedstoneLV",
+    "Text": "Mercury-Redstone"
+  },
+  {
+    "Identifier": "LoadingScreen_AtlasLV",
+    "Text": "Mercury-Atlas"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_VRCursorPitchOffset",
+    "Text": "VR Mouse Cursor Pitch Offset"
   }
 ]

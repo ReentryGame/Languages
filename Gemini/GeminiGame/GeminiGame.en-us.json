@@ -236,10 +236,6 @@
     "Text": "{0}, squib test complete. Verify Abort Lights on."
   },
   {
-    "Identifier": "Cockpit_SquibTestComplete",
-    "Text": "{0}, squib test complete. Verify Abort Lights on."
-  },
-  {
     "Identifier": "Cockpit_AbortSquibTestFailed",
     "Text": "{0}, Abort & Squib test completed successfully."
   },
@@ -502,5 +498,269 @@
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
     "Text": "HOLD COUNTDOWN"
+  },
+  {
+    "Identifier": "CommReq_RequestCircPe",
+    "Text": "CIRC\nPe"
+  },
+  {
+    "Identifier": "CommReq_RequestCircAp",
+    "Text": "CIRC\nAp"
+  },
+  {
+    "Identifier": "CommReq_RequestRndz",
+    "Text": "RNDZ"
+  },
+  {
+    "Identifier": "CommReq_ToggleTHC",
+    "Text": "TOGGLE\nTHC"
+  },
+  {
+    "Identifier": "CommReq_RequestBurnAndMissionTools",
+    "Text": "MISSION TOOLS"
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "How can I help?"
+  },
+  {
+    "Identifier": "MissionTools_Ground",
+    "Text": "GROUND"
+  },
+  {
+    "Identifier": "MissionTools_RequestBurns",
+    "Text": "REQUEST BURNS"
+  },
+  {
+    "Identifier": "MissionTools_Forms",
+    "Text": "FORMS/SHEETS"
+  },
+  {
+    "Identifier": "MissionTools_DataForms",
+    "Text": "DATA FORMS & CHARTS"
+  },
+  {
+    "Identifier": "MissionTools_Cockpit",
+    "Text": "COCKPIT"
+  },
+  {
+    "Identifier": "MissionTools_CockpitFunctions",
+    "Text": "COCKPIT FUNCTIONS"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_Charts",
+    "Text": "Charts"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_RndzPlot",
+    "Text": "RENDEZVOUS PLOT: GEMINI/AGENA"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataForms",
+    "Text": "Data Forms"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataFormsDesc",
+    "Text": "FORMS\nThese options will open a UI containing the selected form. A pencil tool will let you fill the form to write down the data."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenCatchUpPadForm",
+    "Text": "CATCH UP MANEUVER PAD"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_TextSheets",
+    "Text": "SHEETS\nVarious sheets can be used to take notes, draw and collect data."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenBlankPaper",
+    "Text": "BLANK PAPER"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Title",
+    "Text": "Preliminary Advisory Data (PADs)"
+  },
+  {
+    "Identifier": "MissionTools_PADs_CircBurns",
+    "Text": "CIRCULATION BURNS\nThese pads are designed to plan a circulation burn at either Ap or Pe."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircPeBurn",
+    "Text": "REQUEST PE CIRCULARIZATION BURN"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircApBurn",
+    "Text": "REQUEST AP CIRCULARIZATION BURN"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Rendezvous",
+    "Text": "RENDEZVOUS BURN\nA rendezvous burn requires you to be in a circular orbit. When in a circular orbit, requesting a rendezvous burn will plan a burn that will rendezvous with the target vehicle. After the initial rendezvous burn has been completed, request the correct circulation burn to finalize the rendezvous."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestRendezvous",
+    "Text": "REQUEST RENDEZVOUS BURN"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChange",
+    "Text": "PLANE CHANGE BURN\nPlane change burns will happen at either the ascending or descending node (when you cross equator, from South to North, or from North to South). The node with the least velocity will be used to plan a dV required to reach the set target inclination below.\n1) Type in the inclination you wish to reach\n2) Request the PLANE CHANGE maneuver"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChangeInc",
+    "Text": "Target inclination"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestPlaneChange",
+    "Text": "REQUEST PLANE CHANGE BURN"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "Cockpit Equipment"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleOptics",
+    "Text": "TOGGLE OPTICS SIGHT"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleGT3FlightPlan",
+    "Text": "TOGGLE GT-3: FLIGHT PLAN"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleSandwitch",
+    "Text": "TOGGLE GT-3: CORNED BEEF SANDWITCH"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_DET",
+    "Text": "DIGITAL EVENT TIMER (DET)"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ResetDET",
+    "Text": "RESET EVENT TIMER"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2",
+    "Text": "CRYO O2"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2",
+    "Text": "CRYO H2"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT1",
+    "Text": "O2: SEC T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT2",
+    "Text": "O2: SEC T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropOAMS",
+    "Text": "PROP: OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSA",
+    "Text": "PROP: RCS A"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSB",
+    "Text": "PROP: RCS A"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_OAMS",
+    "Text": "OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_RCS",
+    "Text": "RCS"
+  },
+  {
+    "Identifier": "Debrief_KPI_Descent",
+    "Text": "Descent"
+  },
+  {
+    "Identifier": "Debrief_KPI_GLoad",
+    "Text": "G-Load"
+  },
+  {
+    "Identifier": "Debrief_KPI_Altitude",
+    "Text": "Altitude"
+  },
+  {
+    "Identifier": "Debrief_KPI_Orbit",
+    "Text": "Orbit"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitAp",
+    "Text": "Ap"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitPe",
+    "Text": "Pe"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ejected",
+    "Text": "Ejected"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EI",
+    "Text": "Entry Interface (400k ft. alt.)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockAgena",
+    "Text": "Docked with Agena"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockAgena",
+    "Text": "Undocked with Agena"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_AgenaPPA",
+    "Text": "Agena PPA: Ignited"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "Main Chute Deploy"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "Drogue Chute Deploy"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAStart",
+    "Text": "Started EVA"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAEnd",
+    "Text": "Ended EVA"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "Retro No. 1"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "Retro No. 2"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "Retro No. 3"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo4",
+    "Text": "Retro No. 4"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanI",
+    "Text": "Staging: Titan Stage I"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanII",
+    "Text": "Staging: Titan Stage II"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingAdapter",
+    "Text": "Staging: Adapter"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingRetro",
+    "Text": "Staging: Retro"
   }
 ]

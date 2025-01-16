@@ -205,5 +205,94 @@
   {
     "Identifier": "Debrief_Reload",
     "Text": "RELOAD MISSION"
+  },
+  {
+    "Identifier": "MissionPad_RunChecklist",
+    "Text": "RUN"
+  },
+  {
+    "Identifier": "MissionPad_CloseChecklist",
+    "Text": "BACK"
+  },
+  {
+    "Identifier": "MissionPad_EditChecklist",
+    "Text": "EDIT"
+  },
+  {
+    "Identifier": "Debrief_Title",
+    "Text": "MISSION DEBRIEF"
+  },
+  {
+    "Identifier": "Debrief_Goals",
+    "Text": "GOALS"
+  },
+  {
+    "Identifier": "Debrief_Accomplished",
+    "Text": "MISSION ACCOMPLISHED"
+  },
+  {
+    "Identifier": "Debrief_NotAccomplished",
+    "Text": "MISSION NOT COMPLETED"
+  },
+  {
+    "Identifier": "Debrief_KeyMoments",
+    "Text": "KEY MOMENTS"
+  },
+  {
+    "Identifier": "LoadingPanelState",
+    "Text": "LOADING PANEL STATE"
+  },
+  {
+    "Identifier": "TimeToLaunch",
+    "Text": "Time to launch T"
+  },
+  {
+    "Identifier": "TimeScale",
+    "Text": "Time scale"
+  },
+  {
+    "Identifier": "Paused",
+    "Text": "PAUSED"
+  },
+  {
+    "Identifier": "ViewSelector_Photocamera",
+    "Text": "PHOTOCAMERA"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxVel",
+    "Text": "MAX VEL"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxAlt",
+    "Text": "MAX ALT"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxGs",
+    "Text": "MAX Gs"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentAltitude",
+    "Text": "Ascent Altitude"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption",
+    "Text": "Fuel Consumption"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Splashdown",
+    "Text": "Splashdown"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Abort",
+    "Text": "Abort"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_InsertionData",
+    "Text": "Insertion ({0} nmi x {1} nmi, {2}° inc)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ignition",
+    "Text": "Ignition"
   }
+  
 ]

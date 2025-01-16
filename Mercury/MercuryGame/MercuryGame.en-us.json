@@ -326,5 +326,149 @@
   {
     "Identifier": "Radio_TempCheckIssue_CabinFanOff",
     "Text": "Cabin fan is off. Turn it on to force air into the heat exchanger."
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "How can I help?"
+  },
+  {
+    "Identifier": "MissionTools_Eq",
+    "Text": "EQUIPMENT"
+  },
+  {
+    "Identifier": "MissionTools_OpenEqMenu",
+    "Text": "TOGGLE EQUIPMENT"
+  },
+  {
+    "Identifier": "MissionTools_FormsSheets",
+    "Text": "FORMS/SHEETS"
+  },
+  {
+    "Identifier": "MissionTools_OpenDataForms",
+    "Text": "DATA FORMS"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Title",
+    "Text": "Data Forms"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Desc",
+    "Text": "FORMS\nThese options will open a UI containing the selected form. A pencil tool will let you fill the form to write down the data."
+  },
+  {
+    "Identifier": "MissionTools_DataForms_RetroSeqMA6",
+    "Text": "MA-6: RETRO SEQ. TIMES"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_30MinReport",
+    "Text": "MA-6: 30-Minute Report"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Sheets",
+    "Text": "SHEETS\nVarious sheets can be used to take notes, draw and collect data."
+  },
+  {
+    "Identifier": "MissionTools_DataForms_BlankPaper",
+    "Text": "BLANK PAPER"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "Cockpit Equipment"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_MA6",
+    "Text": "Mercury-Atlas 6 equipment\nThe MA-6 equipment are various equipment needed during the MA-6 mission. These are the vision tests and the retro sequence time form. You can toggle them individually."
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_MA6_RetroSeq",
+    "Text": "MA-6: RETRO SEQ. TIMES"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_VisionTests",
+    "Text": "MA-6: VISION TESTS"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_FlightPlanMA6",
+    "Text": "MA-6: IN-FLIGHT PLAN"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_NavRet",
+    "Text": "NAVIGATION RETICLE\nThe navigation reticle can be used to align the craft with the horizon."
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleNavRet",
+    "Text": "NAVIGATION RETICLE"
+  },
+  {
+    "Identifier": "Debrief_KPI_ManFuel",
+    "Text": "MAN FUEL"
+  },
+  {
+    "Identifier": "Debrief_KPI_AutoFuel",
+    "Text": "AUTO FUEL"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2T1",
+    "Text": "O2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2T2",
+    "Text": "O2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_AutoFuel",
+    "Text": "Auto Fuel"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_ManualFuel",
+    "Text": "Manual Fuel"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StaginAtlasBooster",
+    "Text": "Staging: Atlas Booster"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_AtlasLV",
+    "Text": "Staging: Atlas LV"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_Retros",
+    "Text": "Staging: Retro Engines"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MECO",
+    "Text": "MECO"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TowerJett",
+    "Text": "LES Jettison"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "Retro No. 1"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "Retro No. 2"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "Retro No. 3"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChutes",
+    "Text": "Main Chutes"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_ReserveChutes",
+    "Text": "Reserve Chutes"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChutes",
+    "Text": "Drogue Chutes"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_RedstoneLV",
+    "Text": "Staging: Redstone LV"
   }
 ]

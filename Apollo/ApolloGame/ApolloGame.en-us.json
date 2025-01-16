@@ -1110,5 +1110,429 @@
   {
     "Identifier": "CommTools_SyncMetTimers",
     "Text": "SYNC MET TIMERS"
+  },
+  {
+    "Identifier": "UI_CloseHatch",
+    "Text": "CLOSE HATCH"
+  },
+  {
+    "Identifier": "UI_OpenHatch",
+    "Text": "OPEN HATCH"
+  },
+  {
+    "Identifier": "CrewMembers_Title",
+    "Text": "CREW MEMBERS"
+  },
+  {
+    "Identifier": "ViewSelector_HowHelp",
+    "Text": "How can I help?"
+  },
+  {
+    "Identifier": "ViewSelector_Crew",
+    "Text": "CREW"
+  },
+  {
+    "Identifier": "ViewSelector_ManageCrew",
+    "Text": "MANAGE CREW"
+  },
+  {
+    "Identifier": "CrewMembers_OnBoard",
+    "Text": "ONBOARD"
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc",
+    "Text": "CSM AUTO CIRCULATE"
+  },
+  {
+    "Identifier": "CrewMembers_CSMPower",
+    "Text": "REQUEST CMP TO POWER LMP"
+  },
+  {
+    "Identifier": "CrewMembers_LandingAid",
+    "Text": "LANDING POINT DESIGNATOR"
+  },
+  {
+    "Identifier": "CrewMembers_SlewAid",
+    "Text": "RENDEZVOUS RADAR SLEW"
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid",
+    "Text": "CSM/LM DOCKING"
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr",
+    "Text": "LM CREW: MANEUVER"
+  },
+  {
+    "Identifier": "CrewMembers_Ground",
+    "Text": "GROUND"
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT",
+    "Text": "REQUEST REFSMMATs"
+  },
+  {
+    "Identifier": "CrewMembers_PADs",
+    "Text": "REQUEST PADS & CHARTS"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Info",
+    "Text": "This page allows you to manage your crew. If your load state is older than 0.84, the override toggle is enabled by default and lets you move the crew even if the CSM/LM isn't docked with the hatch open."
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Override",
+    "Text": "Override Transfer"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Commander",
+    "Text": "Commander"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheCSM",
+    "Text": "IN THE CSM"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheLM",
+    "Text": "IN THE LM"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InEVASuit",
+    "Text": "IN EVA SUIT"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_CMP",
+    "Text": "Command Module Pilot"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_LMP",
+    "Text": "Lunar Module Pilot"
+  },
+  {
+    "Identifier": "CrewMembers_LPD_Desc",
+    "Text": "I will provide you with important descent information during the final stages of the lunar descent. From P64 to touchdown I will continuously inform you of your altitude, descent rate, fuel levels of the selected tank, and the position of the landing point using the Landing Point Designator (LPD).\n\nThe LPD pitch angle is where the landing point is on the vertical marks on the window, and the LPD Yaw is where it is on the horizontal axis. The RED dot on the window above has an LPD pitch angle of 10 degrees, and a yaw angle of 0 degrees.\n\nThe information will be updated every 10 seconds."
+  },
+  {
+    "Identifier": "CrewMembers_Toggle",
+    "Text": "TOGGLE"
+  },
+  {
+    "Identifier": "CrewMembers_RR_Desc",
+    "Text": "This will aid you in slewing the RR to target the CSM. If the RR mode selector is set to SLEW, the LMP will tell you how many degrees you need to slew its shaft and trunnion for it so see the CSM."
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid_Desc",
+    "Text": "This docking aid will tell you the range to the LM/CSM."
+  },
+  {
+    "Identifier": "CrewMembers_PowerLM_Desc",
+    "Text": "The CMP will configure the CSM to power the LM through the docking umbilical."
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc_Desc",
+    "Text": "The CMP will automatically circularize the orbit to a value between the current Pe and Ap."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_Desc",
+    "Text": "Request the LM crew to maneuver the LM to face the CSM with a relative angle."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_CsmAtt_Desc",
+    "Text": "Request the LM crew to align the LM attitude with the CSM attitude."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_Desc",
+    "Text": "These functions will request a REFSMMAT uplink from ground. Ensure Uplink Telemetry is set to Accept (panel 2). Once uplinked, used P52 option 1 to align the IMU."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Desc",
+    "Text": "PTC REFSMMAT:\nThis will align the IMU with the ecliptic and the Moon-Earth line at the TEI node."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Request",
+    "Text": "REQUEST PTC REFSMMAT"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Desc",
+    "Text": "Preliminary Advisory Data (PADs) & Forms"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Forms",
+    "Text": "FORMS\nThese options will open a UI containing the selected form. When requesting a PAD/data, the order of the data will match the selected form. A pencil tool will let you fill the form to write down the data."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CommandModule",
+    "Text": "COMMAND MODULE:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P52",
+    "Text": "OPEN P52 IMU REALIGN FORM"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P30",
+    "Text": "OPEN P30 MANEUVER PAD FORM"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P37",
+    "Text": "OPEN P37 BLOCK DATA PAD FORM"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_TLI",
+    "Text": "OPEN TLI PAD FORM"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_Entry",
+    "Text": "OPEN ENTRY PAD FORM"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM",
+    "Text": "LUNAR MODULE:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_P30",
+    "Text": "OPEN P30 MANEUVER PAD FORM"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_Ascent",
+    "Text": "OPEN LUNAR ASCENT PAD FORM"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_DockedIMUCoarseAlign",
+    "Text": "OPEN LM DOCKED IMU COARSE ALIGN"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_General",
+    "Text": "GENERAL:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_BlankPaper",
+    "Text": "OPEN SHEET: BLANK"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_IMURealign",
+    "Text": "IMU REALIGN\nP52 is used to realign the IMU. Use this to request an IMU realign at the current mission time."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RequestIMURealign",
+    "Text": "P52: IMU REALIGN"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_Desc",
+    "Text": "CSM SPS ORBIT  CIRCULATION BURN PADS\nThese pads are designed to plan a circulation burn at either Ap or Pe."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqPeBurn",
+    "Text": "P30 MANEUVER: CIRCULATE AT PE"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqApBurn",
+    "Text": "P30 MANEUVER: CIRCULATE AT AP"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Desc",
+    "Text": "SKYLAB RENDEZVOUS PADs\nPAD(S) required for rendezvous burn calculation with Skylab."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Request",
+    "Text": "P30 MANEUVER: RENDEZVOUS WITH SKYLAB"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Desc",
+    "Text": "LUNAR/EARTH ENTRY PAD\nThis pad is designed to get the craft safely back to Earth through the atmosphere and will contain all the data needed to prepare for an atmospheric entry."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Request",
+    "Text": "REQUEST ENTRY PAD"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts",
+    "Text": "CHARTS"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMSkylabRndzPlot",
+    "Text": "RENDEZVOUS PLOT: CSM / SKYLAB"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMLMRndzPlot",
+    "Text": "RENDEZVOUS PLOT: CSM / LM (LUNAR ORBIT)"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_PDI",
+    "Text": "OPEN PDI PAD FORM"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T1",
+    "Text": "CRYO O2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T2",
+    "Text": "CRYO O2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T1",
+    "Text": "CRYO H2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T2",
+    "Text": "CRYO H2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGvsIV",
+    "Text": "Descent G's x IV"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGs",
+    "Text": "Descent G's"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentAlt",
+    "Text": "Descent Altitude"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVI",
+    "Text": "PDI VI"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVIfts",
+    "Text": "PDI VI (ft/s)"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIAlt",
+    "Text": "PDI Altitude (ft)"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentWT",
+    "Text": "Ascent WT"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentPitch",
+    "Text": "Ascent Pitch"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentGs",
+    "Text": "Ascent G's"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "Main Chuted Deployed"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "Drogue Chuted Deployed"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMIngress",
+    "Text": "First Lunar Module Ingress"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Maxq",
+    "Text": "max-q"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsIECO",
+    "Text": "SI-C: Inboard Engine Cutoff"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsOECO",
+    "Text": "SI-C: Outboard Engine Cutoff"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsIECO",
+    "Text": "S-II: Inboard Engine Cutoff"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsOECO",
+    "Text": "S-II: Outboard Engine Cutoff"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_TowerJettison",
+    "Text": "Launch Escape Tower Jettison"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_DockedWithCSM",
+    "Text": "Lunar Ascent: Docked with CSM"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_APSBurnComplete",
+    "Text": "Lunar Ascent: APS Burn Completed"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarStay_WalkOnMoon",
+    "Text": "Lunar Stay: EVA"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarLanding",
+    "Text": "Touchdown on Lunar Surface"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryEarthSOI",
+    "Text": "Entered Earth Sphere of Influence"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryLunarSOI",
+    "Text": "Entered Lunar Sphere of Influence"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLICompleted",
+    "Text": "Trans-Lunar Injection Completed"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscentStarted",
+    "Text": "Lunar Ascent: APS Ignition"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnPlanned",
+    "Text": "Planned SPS Burn at TIG {0}, dV={1} ft/s"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnPlanned",
+    "Text": "Planned DPS Burn at TIG {0}, dV={1} ft/s"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnCompleted",
+    "Text": "SPS Burn: dV={0} ft/s, Ap={1} nmi R, Pe={2} nmi R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnCompleted",
+    "Text": "SPS Burn: dV={0} ft/s, Ap={1} nmi R, Pe={2} nmi R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLIIgnition",
+    "Text": "Trans-Lunar Injection Burn Ignition"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockedWithLM",
+    "Text": "Undocked from LM"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMDocking",
+    "Text": "Docked with LM: T&D complete"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockedWithLM",
+    "Text": "Docked with LM"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_PDIStarted",
+    "Text": "Lunar Powered Descent Started"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RollProgram",
+    "Text": "Roll Program"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIC",
+    "Text": "Staging: S-IC"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SII",
+    "Text": "Staging: S-II"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIVB",
+    "Text": "Staging: S-IVB"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SM",
+    "Text": "Staging: SM/CM"
   }
 ]
