@@ -1321,7 +1321,7 @@
   },
   {
     "Identifier": "GameTips_Tip14",
-    "Text": "YAvoid timescaling above 500x as it accumulates inaccuracies on internal systems."
+    "Text": "Avoid timescaling above 500x as it accumulates inaccuracies on internal systems."
   },
   {
     "Identifier": "GameTips_Tip15",
