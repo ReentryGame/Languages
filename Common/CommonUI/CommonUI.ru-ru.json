@@ -141,7 +141,7 @@
   },
   {
     "Identifier": "AudioMenu_Track_AstroComm",
-    "Text": "Связь\r\r\nАстронавтов"
+    "Text": "Связь\r\r\r\nАстронавтов"
   },
   {
     "Identifier": "AudioMenu_Track_MCC",
@@ -153,7 +153,7 @@
   },
   {
     "Identifier": "SaveState_Body",
-    "Text": "Недавно я начал работать над системой сохранения и загрузки состояний. Пока она в очень примитивном состоянии и в основном сохраняет векторы движения кораблей и небесных тел, а также состояние панелей кораблей.\r\n\r\r\r\nЯ постараюсь сделать так, чтобы между сохранениями оставалась обратная совместимость, но учитывайте, что из-за идущего процесса разработки сохранения могут ломаться."
+    "Text": "Недавно я начал работать над системой сохранения и загрузки состояний. Пока она в очень примитивном состоянии и в основном сохраняет векторы движения кораблей и небесных тел, а также состояние панелей кораблей.\r\r\n\r\r\r\r\nЯ постараюсь сделать так, чтобы между сохранениями оставалась обратная совместимость, но учитывайте, что из-за идущего процесса разработки сохранения могут ломаться."
   },
   {
     "Identifier": "SaveState_Error",
@@ -210,5 +210,89 @@
   {
     "Identifier": "MissionPad_RunChecklist",
     "Text": "ПУСК"
+  },
+  {
+    "Identifier": "MissionPad_CloseChecklist",
+    "Text": "НАЗАД"
+  },
+  {
+    "Identifier": "MissionPad_EditChecklist",
+    "Text": "ИЗМЕНИТЬ"
+  },
+  {
+    "Identifier": "Debrief_Title",
+    "Text": "РАЗБОР ПОЛЁТОВ"
+  },
+  {
+    "Identifier": "Debrief_Goals",
+    "Text": "ЗАДАЧИ"
+  },
+  {
+    "Identifier": "Debrief_Accomplished",
+    "Text": "МИССИЯ ВЫПОЛНЕНА"
+  },
+  {
+    "Identifier": "Debrief_NotAccomplished",
+    "Text": "МИССИЯ НЕ ВЫПОЛНЕНА"
+  },
+  {
+    "Identifier": "Debrief_KeyMoments",
+    "Text": "КЛЮЧЕВЫЕ МОМЕНТЫ"
+  },
+  {
+    "Identifier": "LoadingPanelState",
+    "Text": "ЗАГРУЗКА СОСТОЯНИЯ ПАНЕЛЕЙ"
+  },
+  {
+    "Identifier": "TimeToLaunch",
+    "Text": "Время до старта T"
+  },
+  {
+    "Identifier": "TimeScale",
+    "Text": "Ускорение времени"
+  },
+  {
+    "Identifier": "Paused",
+    "Text": "ВРЕМЯ ОСТАНОВЛЕНО"
+  },
+  {
+    "Identifier": "ViewSelector_Photocamera",
+    "Text": "ФОТОКАМЕРА"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxVel",
+    "Text": "МАКС СКОРОСТЬ"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxAlt",
+    "Text": "МАКС ВЫСОТА"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxGs",
+    "Text": "МАКС Gs"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentAltitude",
+    "Text": "Высота Набора"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption",
+    "Text": "Расход Топлива"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Splashdown",
+    "Text": "Посадка"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Abort",
+    "Text": "Отмена"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_InsertionData",
+    "Text": "Выход на орбиту ({0} миль x {1} миль, {2}° наклонение)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ignition",
+    "Text": "Зажигание"
   }
 ]
