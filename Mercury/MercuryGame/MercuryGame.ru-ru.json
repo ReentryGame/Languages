@@ -326,5 +326,149 @@
   {
     "Identifier": "MissionObjective_ResumeCountdown",
     "Text": "Нажмите на кнопку ПРОДОЛЖИТЬ ОТСЧЁТ."
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "Чем могу помочь?"
+  },
+  {
+    "Identifier": "MissionTools_Eq",
+    "Text": "ОБОРУДОВАНИЕ"
+  },
+  {
+    "Identifier": "MissionTools_OpenEqMenu",
+    "Text": "ПЕРЕКЛЮЧИТЬ ОБОРУДОВАНИЕ"
+  },
+  {
+    "Identifier": "MissionTools_FormsSheets",
+    "Text": "ФОРМЫ/БЛАНКИ"
+  },
+  {
+    "Identifier": "MissionTools_OpenDataForms",
+    "Text": "ФОРМЫ"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Title",
+    "Text": "Формы"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Desc",
+    "Text": "ФОРМЫ\r\r\r\r\nЗдесь вы можете открыть окошко содержащее выбранную форму. Карандаш и прочие внутреигровые письменные принадлежности помогут вам вносить и стирать данные."
+  },
+  {
+    "Identifier": "MissionTools_DataForms_RetroSeqMA6",
+    "Text": "MA-6: ВРЕМЯ ТОРМОЖЕНИЯ"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_30MinReport",
+    "Text": "MA-6: 30-минутный доклад"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Sheets",
+    "Text": "БЛАНКИ\r\nРазличные прочие бланки, которые можно использовать для ведения заметок, рисования и сбора данных."
+  },
+  {
+    "Identifier": "MissionTools_DataForms_BlankPaper",
+    "Text": "ЧИСТЫЙ ЛИСТ"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "Оборудование Кабины"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_MA6",
+    "Text": "Оборудование Меркурий-Атлас 6\r\nВ этом разделе находится различное оборудование, необходимое для прохождения миссии МА-6. Это проверки зрения и форма для записи времени торможения. Переключать их можно отдельно."
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_MA6_RetroSeq",
+    "Text": "MA-6: ВРЕМЯ ТОРМОЖЕНИЯ"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_VisionTests",
+    "Text": "MA-6: ПРОВЕРКИ ЗРЕНИЯ"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_FlightPlanMA6",
+    "Text": "MA-6: ПОЛЁТНЫЙ ПЛАН"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_NavRet",
+    "Text": "НАВИГАЦИОННЫЙ ПРИЦЕЛ\r\nНавигационный прицел можно использовать для выравнивания корабля по горизонту."
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleNavRet",
+    "Text": "НАВИГАЦИОННЫЙ ПРИЦЕЛ"
+  },
+  {
+    "Identifier": "Debrief_KPI_ManFuel",
+    "Text": "РУЧНОЕ ТОПЛИВО"
+  },
+  {
+    "Identifier": "Debrief_KPI_AutoFuel",
+    "Text": "АВТО ТОПЛИВО"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2T1",
+    "Text": "O2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2T2",
+    "Text": "O2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_AutoFuel",
+    "Text": "Авто Топливо"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_ManualFuel",
+    "Text": "Ручное Топливо"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StaginAtlasBooster",
+    "Text": "Отделение: Стартовый Ускоритель Атласа"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_AtlasLV",
+    "Text": "Отделение: Ракетоноситель Атлас"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_Retros",
+    "Text": "Отделение: Тормозные Двигатели"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MECO",
+    "Text": "MECO"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TowerJett",
+    "Text": "Отделение САС"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "Тормозной №1"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "Тормозной №2"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "Тормозной №3"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChutes",
+    "Text": "Основные Парашюты"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_ReserveChutes",
+    "Text": "Запасные Парашюты"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChutes",
+    "Text": "Тормозные Парашюты"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_RedstoneLV",
+    "Text": "Отделение: Ракетоноситель Редстоун"
   }
 ]
