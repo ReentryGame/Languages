@@ -1328,6 +1328,10 @@
     "Text": "The text-to-speech system can read out mission messages and lesson instructions in realtime. You can toggle this in settings."
   },
   {
+    "Identifier": "GameTips_Tip16",
+    "Text": "Quicksave: You can assign a Quicksave keyboard/joystick button in the Input Mapper."
+  },
+  {
     "Identifier": "LoadingScreen_Program",
     "Text": "PROGRAM"
   },
@@ -1406,5 +1410,13 @@
   {
     "Identifier": "Settings_VirtualReality_VRCursorPitchOffset",
     "Text": "VR Mouse Cursor Pitch Offset"
+  },
+  {
+    "Identifier": "RealismSettings_DisableCameraShake",
+    "Text": "Disable Camera Shake"
+  },
+  {
+    "Identifier": "RealismSettings_DisableCameraShakeDesc",
+    "Text": "This will disable camera shake in all cockpits."
   }
 ]
