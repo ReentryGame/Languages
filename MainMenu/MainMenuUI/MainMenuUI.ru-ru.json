@@ -1328,6 +1328,10 @@
     "Text": "Систему text-to-speech можно использовать для автоматического озвучивания инструкций и радиопереговоров в реальном времени. Включить её можно в настройках."
   },
   {
+    "Identifier": "GameTips_Tip16",
+    "Text": "Quicksave: Вы можете назначить быстрое сохранение на клавишу на клавиатуре или кнопку джойстика в настройках управления."
+  },
+  {
     "Identifier": "LoadingScreen_Program",
     "Text": "ПРОГРАММА"
   },
@@ -1398,5 +1402,13 @@
   {
     "Identifier": "Settings_VirtualReality_VRCursorPitchOffset",
     "Text": "Вертикальное отклонение курсора мыши в VR"
+  }
+  {
+    "Identifier": "RealismSettings_DisableCameraShake",
+    "Text": "Отключить Тряску Камеры"
+  },
+  {
+    "Identifier": "RealismSettings_DisableCameraShakeDesc",
+    "Text": "Эта опция позволит отключить тряску камеры в кабинах всех кораблей."
   }
 ]
