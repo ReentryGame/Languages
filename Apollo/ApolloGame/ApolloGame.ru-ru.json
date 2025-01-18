@@ -85,15 +85,15 @@
   },
   {
     "Identifier": "CommTools_ToggleCOAS",
-    "Text": "УСТАНОВИТЬ\r\r\r\nCOAS"
+    "Text": "УСТАНОВИТЬ\r\r\r\r\r\nCOAS"
   },
   {
     "Identifier": "CommTools_ToggleHatch",
-    "Text": "ВЗАИМОДЕЙСТВОВАТЬ\r\r\r\nС ЛЮКОМ"
+    "Text": "ВЗАИМОДЕЙСТВОВАТЬ\r\r\r\r\r\nС ЛЮКОМ"
   },
   {
     "Identifier": "CommTools_ToggleDockingTarget",
-    "Text": "УСТАНОВИТЬ\r\r\r\nМИШЕНЬ ДЛЯ\r\r\r\nСТЫКОВКИ"
+    "Text": "УСТАНОВИТЬ\r\r\r\r\r\nМИШЕНЬ ДЛЯ\r\r\r\r\r\nСТЫКОВКИ"
   },
   {
     "Identifier": "CommTools_ReqWeightData",
@@ -157,7 +157,7 @@
   },
   {
     "Identifier": "ViewOutOfBounds",
-    "Text": "\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\nЗА ПРЕДЕЛАМИ КАБИНЫ, ВЕРНИТЕСЬ ВНУТРЬ.\r\r\r\n(ВЫБЕРИТЕ ЛЮБОЙ ОБЗОР ПО УМОЛЧАНИЮ)"
+    "Text": "\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\nЗА ПРЕДЕЛАМИ КАБИНЫ, ВЕРНИТЕСЬ ВНУТРЬ.\r\r\r\r\r\n(ВЫБЕРИТЕ ЛЮБОЙ ОБЗОР ПО УМОЛЧАНИЮ)"
   },
   {
     "Identifier": "BurnPlanner_Title",
@@ -173,7 +173,7 @@
   },
   {
     "Identifier": "BurnPlanner_Params_IgnitionPoint_Desc",
-    "Text": "Установить значение орбитальной фазы, по достижении которого будет осуществляться зажигание. Будет расчитано точное время до зажигания."
+    "Text": "Значение орбитальной фазы, когда будет произведено зажигание. Будет расчитано точное время до зажигания."
   },
   {
     "Identifier": "BurnPlanner_Params_dV_Title",
@@ -189,7 +189,7 @@
   },
   {
     "Identifier": "BurnPlanner_Params_Direction_Title",
-    "Text": "Направление импульса"
+    "Text": "Направление"
   },
   {
     "Identifier": "BurnPlanner_Params_Direction_Desc",
@@ -273,7 +273,7 @@
   },
   {
     "Identifier": "TLIPlanner_Params_Time_Desc",
-    "Text": "Время межорбитального перехода выражающееся во времени Гоманновского перехода.\r\r\nМожет быть в промежутке от 0.1 до 1.5"
+    "Text": "Время межорбитального перехода выражающееся во времени Гоманновского перехода.\r\r\r\r\nМожет быть в промежутке от 0.1 до 1.5"
   },
   {
     "Identifier": "TLIPlanner_Params_SOI_Title",
@@ -289,11 +289,11 @@
   },
   {
     "Identifier": "TLIPlanner_Params_TLIDept_Title",
-    "Text": "Угол ухода маневра TLI"
+    "Text": "Выходной угол манёвра TLI"
   },
   {
     "Identifier": "TLIPlanner_Params_TLIDept_Desc",
-    "Text": "Позволяет установить угол маневра TLI."
+    "Text": "Позволяет установить угол манёвра TLI."
   },
   {
     "Identifier": "TLIPlanner_Data_Title",
@@ -525,7 +525,7 @@
   },
   {
     "Identifier": "TLIPlanner_FreeReturnPe",
-    "Text": "Перицентр возвращения={0:0.0} миль"
+    "Text": "Перицентр возврата={0:0.0} миль"
   },
   {
     "Identifier": "TLIPlanner_TimeToLOI",
@@ -613,7 +613,7 @@
   },
   {
     "Identifier": "TEIPlanner_Calc",
-    "Text": "Перицентр: {0:0.00} миль высоты ({4} миль)\r\r\r\r\nВремя до входа в атмосферу={1}\r\r\r\r\nΔV={2} фут/с\r\r\r\nВремя до зажигания={3}"
+    "Text": "Перицентр: {0:0.00} миль высоты ({4} миль)\r\r\r\r\r\r\nВремя до входа в атмосферу={1}\r\r\r\r\r\r\nΔV={2} фут/с\r\r\r\r\r\nВремя до зажигания={3}"
   },
   {
     "Identifier": "TEIPlanner_Warning2",
@@ -717,7 +717,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
-    "Text": "Достигните высоты меньше {0} километров\r\r в Командном Модуле\r\r\r\r\r\n\r "
+    "Text": "Достигните высоты меньше {0} километров\r\r в Командном Модуле\r\r\r\r\r\r\r\n\r "
   },
   {
     "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
@@ -1110,5 +1110,429 @@
   {
     "Identifier": "CommTools_SyncMetTimers",
     "Text": "СИНХР-ТЬ ВРЕМЯ"
+  },
+  {
+    "Identifier": "UI_CloseHatch",
+    "Text": "ЗАКРЫТЬ ЛЮК"
+  },
+  {
+    "Identifier": "UI_OpenHatch",
+    "Text": "ОТКРЫТЬ ЛЮК"
+  },
+  {
+    "Identifier": "CrewMembers_Title",
+    "Text": "ЧЛЕНЫ ЭКИПАЖА"
+  },
+  {
+    "Identifier": "ViewSelector_HowHelp",
+    "Text": "Чем могу помочь?"
+  },
+  {
+    "Identifier": "ViewSelector_Crew",
+    "Text": "ЭКИПАЖ"
+  },
+  {
+    "Identifier": "ViewSelector_ManageCrew",
+    "Text": "УПРАВЛЕНИЕ ЭКИПАЖЕМ"
+  },
+  {
+    "Identifier": "CrewMembers_OnBoard",
+    "Text": "ПОМОЩЬ НА БОРТУ"
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc",
+    "Text": "АВТОМАТИЧЕСКОЕ СКРУГЛЕНИЕ ОРБИТЫ"
+  },
+  {
+    "Identifier": "CrewMembers_CSMPower",
+    "Text": "ПОПРОСИТЬ CMP ЗАПИТАТЬ LMP"
+  },
+  {
+    "Identifier": "CrewMembers_LandingAid",
+    "Text": "ОПРЕДЕЛИТЕЛЬ МЕСТА ПОСАДКИ"
+  },
+  {
+    "Identifier": "CrewMembers_SlewAid",
+    "Text": "НАВЕДЕНИЕ РАДАРА СБЛИЖЕНИЯ"
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid",
+    "Text": "СТЫКОВКА CSM/LM"
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr",
+    "Text": "ЭКИПАЖ LM: МАНЁВР"
+  },
+  {
+    "Identifier": "CrewMembers_Ground",
+    "Text": "ПОМОЩЬ С ЗЕМЛИ"
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT",
+    "Text": "ЗАПРОС REFSMMATа"
+  },
+  {
+    "Identifier": "CrewMembers_PADs",
+    "Text": "ЗАПРОС ПАДОВ И ЧАРТОВ"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Info",
+    "Text": "На этой странице можно осуществлять управление экипажем. Если ваше сохранение сделано до версии 0.84, то вы можете использовать опцию \"Форсировать Переход\" и переместить экипаж даже если CSM/LM не состыкованы или закрыт переходной люк."
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Override",
+    "Text": "Форсировать Переход"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Commander",
+    "Text": "Командир"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheCSM",
+    "Text": "В CSM"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheLM",
+    "Text": "В LM"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InEVASuit",
+    "Text": "В СКАФАНДРЕ ДЛЯ EVA"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_CMP",
+    "Text": "Пилот Командного Модуля"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_LMP",
+    "Text": "Пилот Лунного Модуля"
+  },
+  {
+    "Identifier": "CrewMembers_LPD_Desc",
+    "Text": "Я буду сообщать важную информацию в ходе заключительного этапа снижения к поверхности Луны. Начиная с P64 и вплоть до посадки я буду непрерывно сообщать высоту, скорость снижения, уровень топлива в выбранном баке и положение точки посадки при помощи Определителя Места Посадки (сокр. LPD, Landing Point Designator).\r\r\r\r\n\r\r\r\r\nУгол тангажа LPD позволяет определить точку посадки по вертикальным меткам на обзорном иллюминаторе, а угол рысканья LPD - по горизонтальным меткам. Красная точка на схеме сверху показывает угол LPD в 10 градусов по тангажу и 0 градусов по рысканью.\r\r\r\r Помните - точка посадки постепенно смещается в LPD по мере снижения!\n\r\r\nИнформация будет обновляться каждые 10 секунд. "
+  },
+  {
+    "Identifier": "CrewMembers_Toggle",
+    "Text": "ПЕРЕКЛЮЧИТЬ"
+  },
+  {
+    "Identifier": "CrewMembers_RR_Desc",
+    "Text": "Этот инструмент поможет в наведении радара лунного модуля на CSM. Если селектор режима RR установлен в положение SLEW, то пилот лунного модуля подскажет на сколько градусов нужно развернуть радар по осям, чтобы он смог захватить командный модуль."
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid_Desc",
+    "Text": "Этот инструмент позволяет узнать дистанцию между LM и CSM."
+  },
+  {
+    "Identifier": "CrewMembers_PowerLM_Desc",
+    "Text": "Попросить Пилота Командного Модуля настроить панели CSM так, чтобы запитать LM через стыковочный узел."
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc_Desc",
+    "Text": "Пилот Командного Модуля автоматически скруглит орбиту до введенного в поле значения. Значение может быть между текущими высотами Перицентра и Апоцентра."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_Desc",
+    "Text": "Запросить экипаж LM сманеврировать так, чтобы развернуть LM относительно CSM."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_CsmAtt_Desc",
+    "Text": "Запросить экипаж LM сманеврировать так, чтобы положение LM совпало с положением CSM."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_Desc",
+    "Text": "Здесь вы можете запросить загрузку REFSMMAT с Земли. Убедитесь, что переключатель Uplink Telemetry на панели №2 установлен в положение Accept. После загрузки данных воспользуйтесь P52 опция 1, чтобы выравнять IMU."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Desc",
+    "Text": "PTC REFSMMAT:\r\r\r\r\r\r\r\r\nЭта опция позволяет выравнять IMU с плоскостью эклиптики и линией Луна-Земля на узле маневра TEI."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Request",
+    "Text": "ЗАПРОСИТЬ PTC REFSMMAT"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Desc",
+    "Text": "Предварительные Астрономические Данные (ПАДы) и Формы"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Forms",
+    "Text": "ФОРМЫ\r\r\r\r\r\r\nЗдесь вы можете открыть окошко содержащее выбранную форму. При запросе ПАДов/данных, порядок передаваемых данных строго соответствует их порядку в соответствующей форме. Вы можете использовать внутреигровой карандаш, чтобы вносить данные в форму так, как это делали астронавты в реальности."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CommandModule",
+    "Text": "КОМАНДНЫЙ МОДУЛЬ:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P52",
+    "Text": "ОТКРЫТЬ ФОРМУ P52 IMU REALIGN"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P30",
+    "Text": "ОТКРЫТЬ ФОРМУ ПАДА P30 MANEUVER"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P37",
+    "Text": "ОТКРЫТЬ ФОРМУ ПАДА P37 BLOCK DATA"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_TLI",
+    "Text": "ОТКРЫТЬ ФОРМУ ПАДА TLI"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_Entry",
+    "Text": "ОТКРЫТЬ ФОРМУ ПАДА ВХОДА В АТМОСФЕРУ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM",
+    "Text": "ЛУННЫЙ МОДУЛЬ:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_P30",
+    "Text": "ОТКРЫТЬ ФОРМУ ПАДА P30 MANEUVER"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_Ascent",
+    "Text": "ОТКРЫТЬ ФОРМУ ПАДА ВЗЛЁТА С ЛУНЫ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_DockedIMUCoarseAlign",
+    "Text": "ОТКРЫТЬ ФОРМУ ГРУБОГО ВЫРАВНИВАНИЯ IMU ПРИСТЫКОВАННОГО LM"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_General",
+    "Text": "ОБЩЕЕ:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_BlankPaper",
+    "Text": "ДОСТАТЬ ЧИСТЫЙ ЛИСТ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_IMURealign",
+    "Text": "ВЫРАВНИВАНИЕ IMU\r\r\r\r\r\nP52 используется для выравнивания IMU (инерционной измерительной системы). Используйте эту опцию для выравнивания IMU в текущий момент миссии."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RequestIMURealign",
+    "Text": "P52: ВЫРАВНИВАНИЕ IMU"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_Desc",
+    "Text": "ПАДЫ ДЛЯ СКРУГЛЕНИЯ ОРБИТЫ ПРИ ПОМОЩИ SPS СЕРВИСНОГО МОДУЛЯ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqPeBurn",
+    "Text": "МАНЁВР P30: СКРУГЛЕНИЕ НА ПЕРИЦЕНТРЕ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqApBurn",
+    "Text": "МАНЁВР P30: СКРУГЛЕНИЕ НА АПОЦЕНТРЕ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Desc",
+    "Text": "ПАДЫ ДЛЯ СБЛИЖЕНИЯ СО СКАЙЛЭБ\nПАД(Ы) необходимые для расчёта сближения со станцией Скайлэб."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Request",
+    "Text": "МАНЁВР P30: СБЛИЖЕНИЕ СО СКАЙЛЭБ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Desc",
+    "Text": "ПАД ДЛЯ ВХОДА В АТМОСФЕРУ С ОРБИТЫ ЗЕМЛИ/ЛУНЫ\nЭтот пад позволяет спланировать безопасное возвращение корабля обратно на Землю через атмосферу и содержит все необходимые для подготовки входа в атмосферу данные."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Request",
+    "Text": "ЗАПРОСИТЬ ПАД ДЛЯ ВХОДА В АТМОСФЕРУ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts",
+    "Text": "ЧАРТЫ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMSkylabRndzPlot",
+    "Text": "ОТСЛЕЖИВАНИЕ СБЛИЖЕНИЯ: CSM / СКАЙЛЭБ"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMLMRndzPlot",
+    "Text": "ОТСЛЕЖИВАНИЕ СБЛИЖЕНИЯ: CSM / LM (ЛУННАЯ ОРБИТА)"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_PDI",
+    "Text": "ОТКРЫТЬ ФОРМУ ПАДА PDI"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T1",
+    "Text": "CRYO O2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T2",
+    "Text": "CRYO O2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T1",
+    "Text": "CRYO H2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T2",
+    "Text": "CRYO H2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGvsIV",
+    "Text": "G при снижении x IV"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGs",
+    "Text": "G при снижении"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentAlt",
+    "Text": "Высота Снижения"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVI",
+    "Text": "PDI VI"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVIfts",
+    "Text": "PDI VI (фут/сек)"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIAlt",
+    "Text": "Высота PDI (футы)"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentWT",
+    "Text": "Ascent WT"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentPitch",
+    "Text": "Тангаж Разгона"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentGs",
+    "Text": "G при разгоне"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "Выпуск Основного Парашюта"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "Выпуск Тормозного Парашюта"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMIngress",
+    "Text": "Первый Вход в Лунный Модуль"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Maxq",
+    "Text": "max-q"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsIECO",
+    "Text": "SI-C: Отсечка Центрального Двигателя"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsOECO",
+    "Text": "SI-C: Отсечка Внешних Двигателей"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsIECO",
+    "Text": "S-II: Отсечка Центрального Двигателя"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsOECO",
+    "Text": "S-II: Отсечка Внешних Двигателей"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_TowerJettison",
+    "Text": "Отстрел Башни САС"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_DockedWithCSM",
+    "Text": "Взлёт с Луны: Стыковка с CSM"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_APSBurnComplete",
+    "Text": "Взлёт с Луны: Манёвр APS Выполнен"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarStay_WalkOnMoon",
+    "Text": "Пребывание на Луне: EVA"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarLanding",
+    "Text": "Касание Лунной Поверхности"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryEarthSOI",
+    "Text": "Вход в Сферу Тяготения Земли"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryLunarSOI",
+    "Text": "Вход в Сферу Тяготения Луны"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLICompleted",
+    "Text": "Транслунная Инжекция Выполнена"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscentStarted",
+    "Text": "Взлёт с Луны: Зажигание APS"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnPlanned",
+    "Text": "Запланирован Прожиг SPS - TIG {0}, dV={1} футов/сек"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnPlanned",
+    "Text": "Запланирован Прожиг DPS - TIG {0}, dV={1} ft/s"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnCompleted",
+    "Text": "Прожиг SPS: dV={0} фут/сек, Ap={1} миль R, Pe={2} миль R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnCompleted",
+    "Text": "Прожиг SPS: dV={0} фут/сек, Ap={1} миль R, Pe={2} миль R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLIIgnition",
+    "Text": "Зажигание Двигателя для TLI"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockedWithLM",
+    "Text": "Отстыковка от LM"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMDocking",
+    "Text": "Стыковка с LM: T&D выполнен"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockedWithLM",
+    "Text": "Стыковка с LM"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_PDIStarted",
+    "Text": "Начат манёвр LPD"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RollProgram",
+    "Text": "Программа Крена"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIC",
+    "Text": "Отделение: S-IC"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SII",
+    "Text": "Отделение: S-II"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIVB",
+    "Text": "Отделение: S-IVB"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SM",
+    "Text": "Отделение: SM/CM"
   }
 ]
