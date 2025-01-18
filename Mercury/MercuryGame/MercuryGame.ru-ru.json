@@ -345,11 +345,11 @@
   },
   {
     "Identifier": "MissionTools_OpenDataForms",
-    "Text": "ФОРМЫ"
+    "Text": "ФОРМЫ ДЛЯ ВВОДА ДАННЫХ"
   },
   {
     "Identifier": "MissionTools_DataForms_Title",
-    "Text": "Формы"
+    "Text": "Формы для ввода данных"
   },
   {
     "Identifier": "MissionTools_DataForms_Desc",
@@ -401,7 +401,7 @@
   },
   {
     "Identifier": "Debrief_KPI_ManFuel",
-    "Text": "РУЧНОЕ ТОПЛИВО"
+    "Text": "РУЧН ТОПЛИВО"
   },
   {
     "Identifier": "Debrief_KPI_AutoFuel",
