@@ -233,7 +233,7 @@
   },
   {
     "Identifier": "CommReq_RequestTargetManeuver",
-    "Text": "ЗАПРОСИТЬ\r\r\r\nПАРАМЕТРЫ\r\r\r\nМАНЕВРА"
+    "Text": "ЗАПРОСИТЬ\r\r\r\r\r\nПАРАМЕТРЫ\r\r\r\r\r\nМАНЕВРА"
   },
   {
     "Identifier": "CommReq_RetroAtNextApogee",
@@ -249,11 +249,11 @@
   },
   {
     "Identifier": "CommReq_OpenHatchButtonCdr",
-    "Text": "ОТКРЫТЬ\r\r\r\nЛЮК"
+    "Text": "ОТКРЫТЬ\r\r\r\r\nЛЮК"
   },
   {
     "Identifier": "CommReq_OpenHatchButtonPilot",
-    "Text": "ОТКРЫТЬ\r\r\nЛЮК"
+    "Text": "ОТКРЫТЬ\r\r\r\nЛЮК"
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
@@ -277,7 +277,7 @@
   },
   {
     "Identifier": "CommReq_AbortCapabilityTest",
-    "Text": "ПРОВЕРКА\r\r\nПИРОПАТРОНОВ"
+    "Text": "ПРОВЕРКА\r\r\r\nПИРОПАТРОНОВ"
   },
   {
     "Identifier": "CommReq_RetroAtTargetCursor",
@@ -425,7 +425,7 @@
   },
   {
     "Identifier": "ReqBurnResponse_NotCircular",
-    "Text": "{0}, не можем рассчитать манёвр. Ваша орбита не круговая. Перед запросом манёвра сближения вам нужно \"закруглить\" орбиту."
+    "Text": "{0}, не можем рассчитать манёвр. Ваша орбита не круговая. Перед запросом манёвра сближения вам нужно \"скруглить\" орбиту."
   },
   {
     "Identifier": "ReqBurnResponse_NotIncl",
@@ -698,5 +698,269 @@
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
     "Text": "ОСТАНОВИТЬ ОТСЧЁТ"
+  },
+  {
+    "Identifier": "CommReq_RequestCircPe",
+    "Text": "СКРУГ\r\r\r\nНА ПЕРИГЕЕ"
+  },
+  {
+    "Identifier": "CommReq_RequestCircAp",
+    "Text": "СКРУГ\r\r\r\r\nНА АПОГЕЕ"
+  },
+  {
+    "Identifier": "CommReq_RequestRndz",
+    "Text": "РАНДЕВУ"
+  },
+  {
+    "Identifier": "CommReq_ToggleTHC",
+    "Text": "ПЕРЕКЛ\r\r\r\nРУЧКУ\r\r\nTHC"
+  },
+  {
+    "Identifier": "CommReq_RequestBurnAndMissionTools",
+    "Text": "ИНСТРУМЕНТЫ МИССИИ"
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "Чем могу помочь?"
+  },
+  {
+    "Identifier": "MissionTools_Ground",
+    "Text": "ЗЕМЛЯ"
+  },
+  {
+    "Identifier": "MissionTools_RequestBurns",
+    "Text": "ЗАПРОС МАНЕВРОВ"
+  },
+  {
+    "Identifier": "MissionTools_Forms",
+    "Text": "ФОРМЫ/БЛАНКИ"
+  },
+  {
+    "Identifier": "MissionTools_DataForms",
+    "Text": "ФОРМЫ ДЛЯ ВВОДА ДАННЫХ И КАРТЫ"
+  },
+  {
+    "Identifier": "MissionTools_Cockpit",
+    "Text": "КАБИНА"
+  },
+  {
+    "Identifier": "MissionTools_CockpitFunctions",
+    "Text": "ФУНКЦИОНАЛ КАБИНЫ"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_Charts",
+    "Text": "Карты"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_RndzPlot",
+    "Text": "ОТСЛЕЖИВАНИЕ СБЛИЖЕНИЯ: ДЖЕМИНИ/АДЖЕНА"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataForms",
+    "Text": "Формы для ввода данных"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataFormsDesc",
+    "Text": "ФОРМЫ\r\r\r\r\r\nЗдесь вы можете открыть окошко содержащее выбранную форму. Карандаш и прочие внутреигровые письменные принадлежности помогут вам вносить и стирать данные."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenCatchUpPadForm",
+    "Text": "ПАД МАНЕВРА УРАВНИВАНИЯ СКОРОСТЕЙ"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_TextSheets",
+    "Text": "БЛАНКИ\r\r\r\r\r\r\r\r\nРазличные прочие бланки, которые можно использовать для ведения заметок, рисования и сбора данных."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenBlankPaper",
+    "Text": "ЧИСТЫЙ ЛИСТ"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Title",
+    "Text": "Предварительные Астрономические Данные (ПАДы)"
+  },
+  {
+    "Identifier": "MissionTools_PADs_CircBurns",
+    "Text": "МАНЁВРЫ СКРУГЛЕНИЯ ОРБИТЫ\r\r\nЭти ПАДы помогают осуществить планирование скругления орбиты на Апогее или Перигее."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircPeBurn",
+    "Text": "ЗАПРОСИТЬ СКРУГЛЕНИЕ НА ПЕРИГЕЕ"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircApBurn",
+    "Text": "ЗАПРОСИТЬ СКРУГЛЕНИЕ НА АПОГЕЕ"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Rendezvous",
+    "Text": "МАНЁВР СБЛИЖЕНИЯ\r\r\nМаневр сближения требует предварительно выйти на круговую орбиту. Когда будете на круговой орбите, запрос манёвра сближения позволит получить данные для сближения с целевым космическим аппаратом. После осуществления основного манёвра сближения необходимо запросить правильный манёвр скругления орбиты (на Апогее или Перигее, в зависимости от ситуации) для завершения сближения."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestRendezvous",
+    "Text": "ЗАПРОСИТЬ МАНЁВР СБЛИЖЕНИЯ"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChange",
+    "Text": "МАНЁВР ИЗМЕНЕНИЯ НАКЛОНЕНИЯ\r\r\nМанёвры изменения наклонения орбиты могут быть осуществлены либо на восходящем, либо на нисходящем узле (в одной из двух точек при пересечении экватора). Узел с наименьшей скоростью будет использоваться для расчёта dV для смены наклонения на указанное ниже. \r\n1) Введите в поле наклонение, которое требуется установить\r\n2) Запросите манёвр"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChangeInc",
+    "Text": "Целевое наклонение"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestPlaneChange",
+    "Text": "ЗАПРОСИТЬ МАНЁВР ИЗМЕНЕНИЯ НАКЛОНЕНИЯ"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "Оборудование Кабины"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleOptics",
+    "Text": "ВКЛЮЧИТЬ ОПТИЧЕСКИЙ ПРИЦЕЛ"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleGT3FlightPlan",
+    "Text": "ПЕРЕКЛЮЧИТЬ GT-3: ПОЛЁТНЫЙ ПЛАН"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleSandwitch",
+    "Text": "ПЕРЕКЛЮЧИТЬ GT-3: СЭНДВИЧ С СОЛОНИНОЙ"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_DET",
+    "Text": "ЦИФРОВОЙ ТАЙМЕР СОБЫТИЙ (DET)"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ResetDET",
+    "Text": "СБРОСИТЬ ТАЙМЕР"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2",
+    "Text": "CRYO O2"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2",
+    "Text": "CRYO H2"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT1",
+    "Text": "O2: SEC T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT2",
+    "Text": "O2: SEC T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropOAMS",
+    "Text": "ТОПЛИВО: OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSA",
+    "Text": "ТОПЛИВО: RCS A"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSB",
+    "Text": "ТОПЛИВО: RCS A"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_OAMS",
+    "Text": "OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_RCS",
+    "Text": "RCS"
+  },
+  {
+    "Identifier": "Debrief_KPI_Descent",
+    "Text": "Снижение"
+  },
+  {
+    "Identifier": "Debrief_KPI_GLoad",
+    "Text": "G-нагрузки"
+  },
+  {
+    "Identifier": "Debrief_KPI_Altitude",
+    "Text": "Высота"
+  },
+  {
+    "Identifier": "Debrief_KPI_Orbit",
+    "Text": "Орбита"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitAp",
+    "Text": "Апогей"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitPe",
+    "Text": "Перигей"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ejected",
+    "Text": "Катапультирование"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EI",
+    "Text": "Вход в атмосферу (400k футов)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockAgena",
+    "Text": "Стыковка с Адженой"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockAgena",
+    "Text": "Отстыковка от Аджены"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_AgenaPPA",
+    "Text": "Двигатель PPA Аджены: Зажигание"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "Выпуск основного парашюта"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "Выпуск тормозного парашюта"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAStart",
+    "Text": "Начата внекорабельная деятельность"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAEnd",
+    "Text": "Закончена внекорабельная деятельность"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "Тормозной №1"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "Тормозной №2"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "Тормозной №3"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo4",
+    "Text": "Тормозной №4"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanI",
+    "Text": "Отделение: Титан - Ступень I"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanII",
+    "Text": "Отделение: Титан - Ступень I\rI"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingAdapter",
+    "Text": "Отделение: Адаптер"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingRetro",
+    "Text": "Отделение: Тормозные двигатели"
   }
 ]
