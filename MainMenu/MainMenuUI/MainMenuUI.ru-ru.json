@@ -1402,7 +1402,7 @@
   {
     "Identifier": "Settings_VirtualReality_VRCursorPitchOffset",
     "Text": "Вертикальное отклонение курсора мыши в VR"
-  }
+  },
   {
     "Identifier": "RealismSettings_DisableCameraShake",
     "Text": "Отключить Тряску Камеры"
