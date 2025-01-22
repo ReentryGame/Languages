@@ -1418,5 +1418,13 @@
   {
     "Identifier": "RealismSettings_DisableCameraShakeDesc",
     "Text": "This will disable camera shake in all cockpits."
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedORDEAL",
+    "Text": "Enable Simplified ORDEAL"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedORDEALDesc",
+    "Text": "The ORDEAL in the Command Module and the Lunar Module has two modes: ORB RATE and INERTIAL. INERTIAL will display the current IMU/GDC attitude on the FDAI, while ORB RATE will show the Local Vertical Local Horizontal (LVLH) on the FDAI.\n\nThis setting enables a simplified ORDEAL logic when the ORDEAL is set to ORB RATE. It temporarily adjusts the IMU/GDC inertial platforms to match the LVLH. When the ORDEAL is returned to INERTIAL mode, the adjusted IMU/GDC platforms will revert to their original settings.\nThis allows auto-maneuvering and attitudes to align with the selected ORDEAL mode.\nSome academy lessons assume this is set to ON.\nSetting this to OFF will make the ORDEAL only adjust the FDAI ball without affecting the orientation of the IMU/GDC. This means all attitude information, auto-maneuvering, and targeting will be relative to the IMU, and the ORB RATE mode will be visual only. This is the most realistic option, and I recommend that those familiar with the IMU, REFSMMATs, P52, and attitude control set this to OFF, along with the Automatic Prograde Realism setting."
   }
 ]
