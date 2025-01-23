@@ -1598,5 +1598,9 @@
   {
     "Identifier": "CrewMembers_CueCard_13",
     "Text": "Toggle Entry"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleVelcro",
+    "Text": "Toggle Velcro"
   }
 ]
