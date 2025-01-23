@@ -208,11 +208,11 @@
   },
   {
     "Identifier": "MissionPad_RunChecklist",
-    "Text": "RUN"
+    "Text": "RUN:"
   },
   {
     "Identifier": "MissionPad_CloseChecklist",
-    "Text": "BACK"
+    "Text": "< BACK"
   },
   {
     "Identifier": "MissionPad_EditChecklist",
@@ -294,5 +294,4 @@
     "Identifier": "Debrief_KeyMoment_Ignition",
     "Text": "Ignition"
   }
-  
 ]

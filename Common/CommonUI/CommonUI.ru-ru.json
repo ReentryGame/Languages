@@ -209,11 +209,11 @@
   },
   {
     "Identifier": "MissionPad_RunChecklist",
-    "Text": "ПУСК"
+    "Text": "ПУСК:"
   },
   {
     "Identifier": "MissionPad_CloseChecklist",
-    "Text": "НАЗАД"
+    "Text": "< НАЗАД"
   },
   {
     "Identifier": "MissionPad_EditChecklist",
