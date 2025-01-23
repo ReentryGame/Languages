@@ -1534,5 +1534,73 @@
   {
     "Identifier": "Debrief_KeyMoment_Stage_SM",
     "Text": "Отделение: SM/CM"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit",
+    "Text": "КАБИНА"
+  },
+  {
+    "Identifier": "CrewMembers_CockpitEq_Title",
+    "Text": "Оборудование Кабины"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_CueCards",
+    "Text": "Cue Cards"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_1",
+    "Text": "Toggle AC PWR"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_2",
+    "Text": "Toggle SM Eq"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_3",
+    "Text": "Toggle Saturn V Boost"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_4",
+    "Text": "Toggle CDR Boost Aborts"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_5",
+    "Text": "Toggle LMP Boost Aborts"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_6",
+    "Text": "Toggle TLI"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_7",
+    "Text": "Toggle Nominal TLI 1"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_8",
+    "Text": "Toggle TnD"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_9",
+    "Text": "Toggle TnD Cont"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_10",
+    "Text": "Toggle Undock Sep"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_11",
+    "Text": "Toggle SPS Burn"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_12",
+    "Text": "Toggle SPS Burn Cont"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_13",
+    "Text": "Toggle Entry"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleVelcro",
+    "Text": "Toggle Velcro"
   }
 ]
