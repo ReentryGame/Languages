@@ -1602,5 +1602,29 @@
   {
     "Identifier": "CrewMembers_ToggleVelcro",
     "Text": "Toggle Velcro"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions1",
+    "Text": "{0}/{1}: Slew Optics"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions2",
+    "Text": "{0}: Exit Optics Scope"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions3",
+    "Text": "{0}: Switch Optics Eyepiece"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions4",
+    "Text": "{0}: Mark"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions5",
+    "Text": "{0}: Reject Mark"
+  },
+  {
+    "Identifier": "VROptics_MotionControllerInstructions1",
+    "Text": "Right Thumb: Move scope\nToggle Comms: Switch scope\nLeft Trigger: Exit scope\nInteract Left: Mark\nInteract Right: Reject mark"
   }
 ]
