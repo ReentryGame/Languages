@@ -1600,6 +1600,34 @@
     "Text": "Toggle Entry"
   },
   {
+    "Identifier": "CrewMembers_CueCard_14",
+    "Text": "Toggle SPS Burn Rules"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_15",
+    "Text": "Toggle LOI Limits"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_16",
+    "Text": "Toggle EPS ECS Aborts"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_17",
+    "Text": "Toggle CM Landing"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_18",
+    "Text": "Toggle CM Landing 10K"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_19",
+    "Text": "Toggle CSM DAP Setup"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_20",
+    "Text": "Toggle CSM Insertion"
+  },
+  {
     "Identifier": "CrewMembers_ToggleVelcro",
     "Text": "Toggle Velcro"
   },
