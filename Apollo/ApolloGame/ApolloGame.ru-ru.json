@@ -1628,6 +1628,10 @@
     "Text": "Toggle CSM Insertion"
   },
   {
+    "Identifier": "CrewMembers_CueCard_LM_1",
+    "Text": "Toggle LM Warning Lights"
+  },
+  {
     "Identifier": "CrewMembers_ToggleVelcro",
     "Text": "Toggle Velcro"
   },
