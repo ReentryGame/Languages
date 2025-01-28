@@ -1658,5 +1658,29 @@
   {
     "Identifier": "VROptics_MotionControllerInstructions1",
     "Text": "Right Thumb: Move scope\nToggle Comms: Switch scope\nLeft Trigger: Exit scope\nInteract Left: Mark\nInteract Right: Reject mark"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_WindowShields",
+    "Text": "Window Shades"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_LH",
+    "Text": "LH RNDZ Window (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_RH",
+    "Text": "RH RNDZ Window (CMP)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_LH",
+    "Text": "LH Side Window (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_RH",
+    "Text": "RH Side Window (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Hatch",
+    "Text": "Hatch Window"
   }
 ]

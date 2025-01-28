@@ -293,5 +293,21 @@
   {
     "Identifier": "Debrief_KeyMoment_Ignition",
     "Text": "Ignition"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun",
+    "Text": "Fun"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo1",
+    "Text": "Photograph: photo1.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo2",
+    "Text": "Photograph: photo2.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo3",
+    "Text": "Photograph: photo3.png"
   }
 ]
