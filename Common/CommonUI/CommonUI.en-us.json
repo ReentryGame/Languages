@@ -309,5 +309,13 @@
   {
     "Identifier": "CrewMembers_Cockpit_Fun_Photo3",
     "Text": "Photograph: photo3.png"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleAllCockpitEq",
+    "Text": "HIDE ALL"
+  },
+  {
+    "Identifier": "CrewMembers_TogglePADs",
+    "Text": "IN-COCKPIT PAD"
   }
 ]
