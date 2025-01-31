@@ -1434,5 +1434,9 @@
   {
     "Identifier": "GameTips_Tip18",
     "Text": "I recommend learning Mercury fully, before starting Project Gemini. Then learn Gemini and rendezvous/docking, before attempting Apollo. This will let you learn the game mechanics, and the technology as it evolved in real life."
+  },
+  {
+    "Identifier": "GameTips_Tip19",
+    "Text": "The \"Apollo By The Numbers\" book (link found in the Apollo Flight Documents browser (SHIFT+M to toggle)) is a great reference to use when planning burns or trying to figure out what LOI parameters to use."
   }
 ]
