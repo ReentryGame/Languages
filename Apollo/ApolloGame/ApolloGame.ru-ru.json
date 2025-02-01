@@ -85,15 +85,15 @@
   },
   {
     "Identifier": "CommTools_ToggleCOAS",
-    "Text": "УСТАНОВИТЬ\r\r\r\r\r\nCOAS"
+    "Text": "УСТАНОВИТЬ\r\r\r\r\r\r\r\nCOAS"
   },
   {
     "Identifier": "CommTools_ToggleHatch",
-    "Text": "ВЗАИМОДЕЙСТВОВАТЬ\r\r\r\r\r\nС ЛЮКОМ"
+    "Text": "ВЗАИМОДЕЙСТВОВАТЬ\r\r\r\r\r\r\r\nС ЛЮКОМ"
   },
   {
     "Identifier": "CommTools_ToggleDockingTarget",
-    "Text": "УСТАНОВИТЬ\r\r\r\r\r\nМИШЕНЬ ДЛЯ\r\r\r\r\r\nСТЫКОВКИ"
+    "Text": "УСТАНОВИТЬ\r\r\r\r\r\r\r\nМИШЕНЬ ДЛЯ\r\r\r\r\r\r\r\nСТЫКОВКИ"
   },
   {
     "Identifier": "CommTools_ReqWeightData",
@@ -157,7 +157,7 @@
   },
   {
     "Identifier": "ViewOutOfBounds",
-    "Text": "\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\n\r\r\r\r\r\nЗА ПРЕДЕЛАМИ КАБИНЫ, ВЕРНИТЕСЬ ВНУТРЬ.\r\r\r\r\r\n(ВЫБЕРИТЕ ЛЮБОЙ ОБЗОР ПО УМОЛЧАНИЮ)"
+    "Text": "\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\nЗА ПРЕДЕЛАМИ КАБИНЫ, ВЕРНИТЕСЬ ВНУТРЬ.\r\r\r\r\r\r\r\n(ВЫБЕРИТЕ ЛЮБОЙ ОБЗОР ПО УМОЛЧАНИЮ)"
   },
   {
     "Identifier": "BurnPlanner_Title",
@@ -273,7 +273,7 @@
   },
   {
     "Identifier": "TLIPlanner_Params_Time_Desc",
-    "Text": "Время межорбитального перехода выражающееся во времени Гоманновского перехода.\r\r\r\r\nМожет быть в промежутке от 0.1 до 1.5"
+    "Text": "Время межорбитального перехода выражающееся во времени Гоманновского перехода.\r\r\r\r\r\r\nМожет быть в промежутке от 0.1 до 1.5"
   },
   {
     "Identifier": "TLIPlanner_Params_SOI_Title",
@@ -613,7 +613,7 @@
   },
   {
     "Identifier": "TEIPlanner_Calc",
-    "Text": "Перицентр: {0:0.00} миль высоты ({4} миль)\r\r\r\r\r\r\nВремя до входа в атмосферу={1}\r\r\r\r\r\r\nΔV={2} фут/с\r\r\r\r\r\nВремя до зажигания={3}"
+    "Text": "Перицентр: {0:0.00} миль высоты ({4} миль)\r\r\r\r\r\r\r\r\nВремя до входа в атмосферу={1}\r\r\r\r\r\r\r\r\nΔV={2} фут/с\r\r\r\r\r\r\r\nВремя до зажигания={3}"
   },
   {
     "Identifier": "TEIPlanner_Warning2",
@@ -717,7 +717,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
-    "Text": "Достигните высоты меньше {0} километров\r\r в Командном Модуле\r\r\r\r\r\r\r\n\r "
+    "Text": "Достигните высоты меньше {0} километров\r\r в Командном Модуле\r\r\r\r\r\r\r\r\r\n\r "
   },
   {
     "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
@@ -1209,7 +1209,7 @@
   },
   {
     "Identifier": "CrewMembers_LPD_Desc",
-    "Text": "Я буду сообщать важную информацию в ходе заключительного этапа снижения к поверхности Луны. Начиная с P64 и вплоть до посадки я буду непрерывно сообщать высоту, скорость снижения, уровень топлива в выбранном баке и положение точки посадки при помощи Определителя Места Посадки (сокр. LPD, Landing Point Designator).\r\r\r\r\n\r\r\r\r\nУгол тангажа LPD позволяет определить точку посадки по вертикальным меткам на обзорном иллюминаторе, а угол рысканья LPD - по горизонтальным меткам. Красная точка на схеме сверху показывает угол LPD в 10 градусов по тангажу и 0 градусов по рысканью.\r\r\r\r Помните - точка посадки постепенно смещается в LPD по мере снижения!\n\r\r\nИнформация будет обновляться каждые 10 секунд. "
+    "Text": "Я буду сообщать важную информацию в ходе заключительного этапа снижения к поверхности Луны. Начиная с P64 и вплоть до посадки я буду непрерывно сообщать высоту, скорость снижения, уровень топлива в выбранном баке и положение точки посадки при помощи Определителя Места Посадки (сокр. LPD, Landing Point Designator).\r\r\r\r\r\r\n\r\r\r\r\r\r\nУгол тангажа LPD позволяет определить точку посадки по вертикальным меткам на обзорном иллюминаторе, а угол рысканья LPD - по горизонтальным меткам. Красная точка на схеме сверху показывает угол LPD в 10 градусов по тангажу и 0 градусов по рысканью.\r\r\r\r Помните - точка посадки постепенно смещается в LPD по мере снижения!\r\r\n\r\r\r\r\nИнформация будет обновляться каждые 10 секунд. "
   },
   {
     "Identifier": "CrewMembers_Toggle",
@@ -1245,7 +1245,7 @@
   },
   {
     "Identifier": "CrewMembers_REFSMMAT_PTC_Desc",
-    "Text": "PTC REFSMMAT:\r\r\r\r\r\r\r\r\nЭта опция позволяет выравнять IMU с плоскостью эклиптики и линией Луна-Земля на узле маневра TEI."
+    "Text": "PTC REFSMMAT:\r\r\r\r\r\r\r\r\r\r\nЭта опция позволяет выравнять IMU с плоскостью эклиптики и линией Луна-Земля на узле маневра TEI."
   },
   {
     "Identifier": "CrewMembers_REFSMMAT_PTC_Request",
@@ -1257,7 +1257,7 @@
   },
   {
     "Identifier": "CrewMembers_PADs_Forms",
-    "Text": "ФОРМЫ\r\r\r\r\r\r\nЗдесь вы можете открыть окошко содержащее выбранную форму. При запросе ПАДов/данных, порядок передаваемых данных строго соответствует их порядку в соответствующей форме. Вы можете использовать внутреигровой карандаш, чтобы вносить данные в форму так, как это делали астронавты в реальности."
+    "Text": "ФОРМЫ\r\r\r\r\r\r\r\r\nЗдесь вы можете открыть окошко содержащее выбранную форму. При запросе ПАДов/данных, порядок передаваемых данных строго соответствует их порядку в соответствующей форме. Вы можете использовать внутреигровой карандаш, чтобы вносить данные в форму так, как это делали астронавты в реальности."
   },
   {
     "Identifier": "CrewMembers_PADs_CommandModule",
@@ -1309,7 +1309,7 @@
   },
   {
     "Identifier": "CrewMembers_PADs_IMURealign",
-    "Text": "ВЫРАВНИВАНИЕ IMU\r\r\r\r\r\nP52 используется для выравнивания IMU (инерционной измерительной системы). Используйте эту опцию для выравнивания IMU в текущий момент миссии."
+    "Text": "ВЫРАВНИВАНИЕ IMU\r\r\r\r\r\r\r\nP52 используется для выравнивания IMU (инерционной измерительной системы). Используйте эту опцию для выравнивания IMU в текущий момент миссии."
   },
   {
     "Identifier": "CrewMembers_PADs_RequestIMURealign",
@@ -1329,7 +1329,7 @@
   },
   {
     "Identifier": "CrewMembers_PADs_RndzSkylab_Desc",
-    "Text": "ПАДЫ ДЛЯ СБЛИЖЕНИЯ СО СКАЙЛЭБ\nПАД(Ы) необходимые для расчёта сближения со станцией Скайлэб."
+    "Text": "ПАДЫ ДЛЯ СБЛИЖЕНИЯ СО СКАЙЛЭБ\r\r\nПАД(Ы) необходимые для расчёта сближения со станцией Скайлэб."
   },
   {
     "Identifier": "CrewMembers_PADs_RndzSkylab_Request",
@@ -1337,7 +1337,7 @@
   },
   {
     "Identifier": "CrewMembers_PADs_Entry_Desc",
-    "Text": "ПАД ДЛЯ ВХОДА В АТМОСФЕРУ С ОРБИТЫ ЗЕМЛИ/ЛУНЫ\nЭтот пад позволяет спланировать безопасное возвращение корабля обратно на Землю через атмосферу и содержит все необходимые для подготовки входа в атмосферу данные."
+    "Text": "ПАД ДЛЯ ВХОДА В АТМОСФЕРУ С ОРБИТЫ ЗЕМЛИ/ЛУНЫ\r\r\nЭтот пад позволяет спланировать безопасное возвращение корабля обратно на Землю через атмосферу и содержит все необходимые для подготовки входа в атмосферу данные."
   },
   {
     "Identifier": "CrewMembers_PADs_Entry_Request",
@@ -1545,118 +1545,142 @@
   },
   {
     "Identifier": "CrewMembers_Cockpit_CueCards",
-    "Text": "Cue Cards"
+    "Text": "Контрольные Карты"
   },
   {
     "Identifier": "CrewMembers_CueCard_1",
-    "Text": "Toggle AC PWR"
+    "Text": "Включить AC PWR"
   },
   {
     "Identifier": "CrewMembers_CueCard_2",
-    "Text": "Toggle SM Eq"
+    "Text": "Включить SM Eq"
   },
   {
     "Identifier": "CrewMembers_CueCard_3",
-    "Text": "Toggle Saturn V Boost"
+    "Text": "Включить Saturn V Boost"
   },
   {
     "Identifier": "CrewMembers_CueCard_4",
-    "Text": "Toggle CDR Boost Aborts"
+    "Text": "Включить CDR Boost Aborts"
   },
   {
     "Identifier": "CrewMembers_CueCard_5",
-    "Text": "Toggle LMP Boost Aborts"
+    "Text": "Включить LMP Boost Aborts"
   },
   {
     "Identifier": "CrewMembers_CueCard_6",
-    "Text": "Toggle TLI"
+    "Text": "Включить TLI"
   },
   {
     "Identifier": "CrewMembers_CueCard_7",
-    "Text": "Toggle Nominal TLI 1"
+    "Text": "Включить Nominal TLI 1"
   },
   {
     "Identifier": "CrewMembers_CueCard_8",
-    "Text": "Toggle TnD"
+    "Text": "Включить TnD"
   },
   {
     "Identifier": "CrewMembers_CueCard_9",
-    "Text": "Toggle TnD Cont"
+    "Text": "Включить TnD Cont"
   },
   {
     "Identifier": "CrewMembers_CueCard_10",
-    "Text": "Toggle Undock Sep"
+    "Text": "Включить Undock Sep"
   },
   {
     "Identifier": "CrewMembers_CueCard_11",
-    "Text": "Toggle SPS Burn"
+    "Text": "Включить SPS Burn"
   },
   {
     "Identifier": "CrewMembers_CueCard_12",
-    "Text": "Toggle SPS Burn Cont"
+    "Text": "Включить SPS Burn Cont"
   },
   {
     "Identifier": "CrewMembers_CueCard_13",
-    "Text": "Toggle Entry"
+    "Text": "Включить Entry"
   },
   {
     "Identifier": "CrewMembers_CueCard_14",
-    "Text": "Toggle SPS Burn Rules"
+    "Text": "Включить SPS Burn Rules"
   },
   {
     "Identifier": "CrewMembers_CueCard_15",
-    "Text": "Toggle LOI Limits"
+    "Text": "Включить LOI Limits"
   },
   {
     "Identifier": "CrewMembers_CueCard_16",
-    "Text": "Toggle EPS ECS Aborts"
+    "Text": "Включить EPS ECS Aborts"
   },
   {
     "Identifier": "CrewMembers_CueCard_17",
-    "Text": "Toggle CM Landing"
+    "Text": "Включить CM Landing"
   },
   {
     "Identifier": "CrewMembers_CueCard_18",
-    "Text": "Toggle CM Landing 10K"
+    "Text": "Включить CM Landing 10K"
   },
   {
     "Identifier": "CrewMembers_CueCard_19",
-    "Text": "Toggle CSM DAP Setup"
+    "Text": "Включить CSM DAP Setup"
   },
   {
     "Identifier": "CrewMembers_CueCard_20",
-    "Text": "Toggle CSM Insertion"
+    "Text": "Включить CSM Insertion"
   },
   {
     "Identifier": "CrewMembers_CueCard_LM_1",
-    "Text": "Toggle LM Warning Lights"
+    "Text": "Включить LM Warning Lights"
   },
   {
     "Identifier": "CrewMembers_ToggleVelcro",
-    "Text": "Toggle Velcro"
+    "Text": "Видимость липучек"
   },
   {
     "Identifier": "VROptics_VRCursorInstructions1",
-    "Text": "{0}/{1}: Slew Optics"
+    "Text": "{0}/{1}: Управление оптикой"
   },
   {
     "Identifier": "VROptics_VRCursorInstructions2",
-    "Text": "{0}: Exit Optics Scope"
+    "Text": "{0}: Выйти из оптики"
   },
   {
     "Identifier": "VROptics_VRCursorInstructions3",
-    "Text": "{0}: Switch Optics Eyepiece"
+    "Text": "{0}: Переключить режим оптики"
   },
   {
     "Identifier": "VROptics_VRCursorInstructions4",
-    "Text": "{0}: Mark"
+    "Text": "{0}: Отметка"
   },
   {
     "Identifier": "VROptics_VRCursorInstructions5",
-    "Text": "{0}: Reject Mark"
+    "Text": "{0}: Отклонить отметку"
   },
   {
     "Identifier": "VROptics_MotionControllerInstructions1",
-    "Text": "Right Thumb: Move scope\nToggle Comms: Switch scope\nLeft Trigger: Exit scope\nInteract Left: Mark\nInteract Right: Reject mark"
+    "Text": "Правый Стик: Управление оптикой\r\r\r\nКнопка Связи: Переключение оптики\r\r\r\nЛевый Курок: Выйти из режима оптики\r\r\r\nВзаимодействие Влево: Отметка\r\r\r\nВзаимодействие Вправо: Отклонить отметку"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_WindowShields",
+    "Text": "Заглушки для Иллюминаторов"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_LH",
+    "Text": "Левый Верхний Иллюминатор (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_RH",
+    "Text": "Правый Верхний Иллюминатор (CMP)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_LH",
+    "Text": "Левый Нижний Иллюминатор (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_RH",
+    "Text": "Правый Нижний Иллюминатор (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Hatch",
+    "Text": "Окошко Входного Люка"
   }
 ]
