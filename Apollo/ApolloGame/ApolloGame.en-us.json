@@ -1682,5 +1682,9 @@
   {
     "Identifier": "CrewMembers_WindowShield_Hatch",
     "Text": "Hatch Window"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeOfSMSep",
+    "Text": "Time of CM/SM sep: {0}"
   }
 ]
