@@ -545,7 +545,7 @@
   },
   {
     "Identifier": "BurnPlanner_TimeToEI",
-    "Text": "Time to EI: {0}"
+    "Text": "Time of EI: {0}"
   },
   {
     "Identifier": "BurnPlanner_VelAtEI",
