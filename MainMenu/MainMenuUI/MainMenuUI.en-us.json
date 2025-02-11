@@ -793,7 +793,7 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson9",
-    "Text": "LESSON 9 - ATMOSPHERIC ENTRY"
+    "Text": "LESSON 9A - ATMOSPHERIC ENTRY"
   },
   {
     "Identifier": "Academy_CSM_Lesson10",
@@ -1438,5 +1438,22 @@
   {
     "Identifier": "GameTips_Tip19",
     "Text": "The \"Apollo By The Numbers\" book (link found in the Apollo Flight Documents browser (SHIFT+M to toggle)) is a great reference to use when planning burns or trying to figure out what LOI parameters to use."
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9Full",
+    "Text": "LESSON 9B - ATMOSPHERIC ENTRY (FULL)"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson18",
+    "Text": "LESSON 18 - LUNAR ENTRY (FULL)"
+  },
+  {
+    "Identifier": "RealismSettings_MissionCompleteAutoPopup",
+    "Text": "Automatically Show Mission Complete Screen"
+  },
+  {
+    "Identifier": "RealismSettings_MissionCompleteAutoPopupDesc",
+    "Text": "This toggle will automatically make the Mission Complete screen pop up when completing a mission / splash down. If disabled, you can call it by pressing ESC -> End Session."
   }
+  
 ]
