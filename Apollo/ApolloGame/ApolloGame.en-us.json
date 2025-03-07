@@ -529,7 +529,7 @@
   },
   {
     "Identifier": "TLIPlanner_TimeToLOI",
-    "Text": "Time to LOI: {0}"
+    "Text": "Est. GET at LOI: {0}"
   },
   {
     "Identifier": "TLIPlanner_Warning1",
