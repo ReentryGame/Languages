@@ -1269,7 +1269,7 @@
   },
   {
     "Identifier": "GameTips_Tip1",
-    "Text": "You can use to console command sp or setsunphase to modify the sun phase/position."
+    "Text": "You can use the console command sp or setsunphase to modify the sun phase/position."
   },
   {
     "Identifier": "GameTips_Tip2",
@@ -1438,6 +1438,10 @@
   {
     "Identifier": "GameTips_Tip19",
     "Text": "The \"Apollo By The Numbers\" book (link found in the Apollo Flight Documents browser (SHIFT+M to toggle)) is a great reference to use when planning burns or trying to figure out what LOI parameters to use."
+  },
+  {
+    "Identifier": "GameTips_Tip20",
+    "Text": "You can change/add Loading Screen images by replacing or adding files to the LoadingImages directory in the games AppData folder."
   },
   {
     "Identifier": "Academy_CSM_Lesson9Full",

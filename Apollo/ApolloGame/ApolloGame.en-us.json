@@ -713,15 +713,15 @@
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeGreater_Value1",
-    "Text": "Reach an altitude greater than {0} km"
+    "Text": "Reach an altitude greater than {0} nmi"
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
-    "Text": "Reach an altitude less than {0} km in the CM"
+    "Text": "Reach an altitude less than {0} nmi in the CM"
   },
   {
     "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
-    "Text": "Reach an altitude less than {0} km in the LM"
+    "Text": "Reach an altitude less than {0} nmi in the LM"
   },
   {
     "Identifier": "MissionObjective_CM_CheckIfAGC_Program_Value1_IsRunning",
@@ -745,7 +745,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
-    "Text": "Adjust CS orbit to {0} Ap x {1} Pe altitude (km) or greater."
+    "Text": "Adjust CS orbit to {0} Ap x {1} Pe altitude (nmi) or greater."
   },
   {
     "Identifier": "MissionObjective_CM_IsAtRadioStation_String1",
@@ -853,7 +853,7 @@
   },
   {
     "Identifier": "MissionObjective_TLI_AdjustPeriluneTo_Value1km_Value2ThresholdKm",
-    "Text": "Plan the TLI to reach a Perilune of {0} +/- {1}."
+    "Text": "Plan the TLI to reach a Perilune of {0} +/- {1} nmi."
   },
   {
     "Identifier": "MissionObjective_TLI_OpenPlanner",
@@ -969,19 +969,19 @@
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
-    "Text": "Get the CSM into a circular orbit of {0} +/- {1} km"
+    "Text": "Get the CSM into a circular orbit of {0} +/- {1} nmi"
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_IsCircular_ThresholdValue1",
-    "Text": "Get the CSM into any circular orbit with a threshold of {0} km"
+    "Text": "Get the CSM into any circular orbit with a threshold of {0} nmi"
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
-    "Text": "Get the LM into a circular orbit of {0} +/- {1} km"
+    "Text": "Get the LM into a circular orbit of {0} +/- {1} nmi"
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_IsCircular_ThresholdValue1",
-    "Text": "Get the LM into any circular orbit with a threshold of {0} km"
+    "Text": "Get the LM into any circular orbit with a threshold of {0} nmi"
   },
   {
     "Identifier": "MissionObjective_LM_TimeToDPSBurn_Value1Seconds",
