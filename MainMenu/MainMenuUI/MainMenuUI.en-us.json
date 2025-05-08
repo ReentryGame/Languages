@@ -1458,6 +1458,25 @@
   {
     "Identifier": "RealismSettings_MissionCompleteAutoPopupDesc",
     "Text": "This toggle will automatically make the Mission Complete screen pop up when completing a mission / splash down. If disabled, you can call it by pressing ESC -> End Session."
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerTiltOffsetPitch",
+    "Text": "Motion Controller/Hand Tilt Offset Pitch"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset",
+    "Text": "Motion Controller/Hand Position Offset"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_X",
+    "Text": "X"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_Y",
+    "Text": "Y"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_Z",
+    "Text": "Z"
   }
-  
 ]

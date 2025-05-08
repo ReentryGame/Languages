@@ -317,5 +317,9 @@
   {
     "Identifier": "CrewMembers_TogglePADs",
     "Text": "IN-COCKPIT PAD"
+  },
+  {
+    "Identifier": "SlowMode",
+    "Text": "SLOW MODE"
   }
 ]

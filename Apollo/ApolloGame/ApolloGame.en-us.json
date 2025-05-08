@@ -457,15 +457,23 @@
   },
   {
     "Identifier": "BurnPlanner_SPSDeorbitBurn",
-    "Text": "{0}, time of SPS ignition for a de-orbiting burn is {1}h {2}m {3}s, with dV of {4} fps {5}"
+    "Text": "{0}, time of SPS ignition for a de-orbiting burn is {1}h {2}m {3}s, with dV of {4} fps {5}. Burn attitude with current REFSMMAT is {6}."
   },
   {
     "Identifier": "BurnPlanner_SPSBurn",
-    "Text": "{0}, time of SPS ignition is {1}h {2}m {3}s, with dV of {4} fps {5}."
+    "Text": "{0}, time of SPS ignition is {1}h {2}m {3}s, with dV of {4} fps {5}. Burn attitude with current REFSMMAT is {6}. Use P30, then V49E to maneuver to this attitude, or align the IMU to the new uplinked preferred REFSMMAT using P52, opt 1 with attitude 0,0,0."
   },
   {
     "Identifier": "BurnPlanner_DPSBurn",
     "Text": "{0}, time of DPS ignition is {1}h {2}m {3}s, with dV of {4} fps {5}."
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttCurr",
+    "Text": "Burn Attitude (current):"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttPref",
+    "Text": "Burn Attitude (preferred):"
   },
   {
     "Identifier": "BurnPlanner_BurnDirRetrograde",
