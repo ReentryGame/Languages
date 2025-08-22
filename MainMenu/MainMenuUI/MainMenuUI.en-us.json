@@ -1444,6 +1444,10 @@
     "Text": "You can change/add Loading Screen images by replacing or adding files to the LoadingImages directory in the games AppData folder."
   },
   {
+    "Identifier": "GameTips_Tip21",
+    "Text": "Got a dark area in the cockpit or need additional light? You can always toggle the Flashlight using [F] to make it easier to see in dark areas."
+  },
+  {
     "Identifier": "Academy_CSM_Lesson9Full",
     "Text": "LESSON 9B - ATMOSPHERIC ENTRY (FULL)"
   },
@@ -1478,5 +1482,9 @@
   {
     "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_Z",
     "Text": "Z"
+  },
+  {
+    "Identifier": "MissionsMenu_FlightPlanMode",
+    "Text": "FLIGHT PLAN MODE"
   }
 ]
