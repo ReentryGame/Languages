@@ -321,5 +321,38 @@
   {
     "Identifier": "SlowMode",
     "Text": "SLOW MODE"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Title",
+    "Text": "RETROBURN PLANNER"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Hours",
+    "Text": "HOURS"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Minutes",
+    "Text": "MINUTES"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "SECONDS"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "SECONDS"
+  },
+  {
+    "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
+    "Text": "ESTIMATED LANDING LOCATION"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Lat",
+    "Text": "LAT"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Long",
+    "Text": "LONG"
   }
+  
 ]

@@ -1486,5 +1486,9 @@
   {
     "Identifier": "MissionsMenu_FlightPlanMode",
     "Text": "FLIGHT PLAN MODE"
+  },
+  {
+    "Identifier": "Settings_UDPDataRate",
+    "Text": "UDP Package Rate (packages/sec)"
   }
 ]
