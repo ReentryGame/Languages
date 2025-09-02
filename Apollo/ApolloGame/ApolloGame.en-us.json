@@ -1694,5 +1694,18 @@
   {
     "Identifier": "BurnPlanner_TimeOfSMSep",
     "Text": "Time of CM/SM sep: {0}"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffset",
+    "Text": "Orbit Offset (0 - 5 orbits)"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetNext",
+    "Text": "Next passing"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetFuture",
+    "Text": "+{0} Orbit(s)"
   }
+  
 ]
