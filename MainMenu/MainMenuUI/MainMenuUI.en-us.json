@@ -1490,5 +1490,9 @@
   {
     "Identifier": "Settings_UDPDataRate",
     "Text": "UDP Package Rate (packages/sec)"
+  },
+  {
+    "Identifier": "Academy_Gemini_EntryVideo",
+    "Text": "VIDEO: DEORBIT & ENTRY"
   }
 ]

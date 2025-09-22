@@ -189,11 +189,11 @@
   },
   {
     "Identifier": "CommReq_AltStatus1",
-    "Text": "sea level."
+    "Text": "0 (sea level)"
   },
   {
     "Identifier": "CommReq_AltStatus2",
-    "Text": "less than 9 nmi altitude."
+    "Text": "less than 9"
   },
   {
     "Identifier": "CommReq_AltStatus3",
