@@ -762,5 +762,9 @@
   {
     "Identifier": "Debrief_KeyMoment_StagingRetro",
     "Text": "Staging: Retro"
+  },
+  {
+    "Identifier": "BurnUplinkBrief",
+    "Text": "DCS Uplink brief: Time of burn is {0}, with a dV of {1} ft/s."
   }
 ]
