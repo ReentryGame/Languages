@@ -1636,6 +1636,10 @@
     "Text": "Toggle CSM Insertion"
   },
   {
+    "Identifier": "CrewMembers_A13NoSign",
+    "Text": "Toggle Apollo 13 NO sign"
+  },
+  {
     "Identifier": "CrewMembers_CueCard_LM_1",
     "Text": "Toggle LM Warning Lights"
   },
