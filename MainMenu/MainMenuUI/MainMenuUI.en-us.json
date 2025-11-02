@@ -1494,5 +1494,13 @@
   {
     "Identifier": "Academy_Gemini_EntryVideo",
     "Text": "VIDEO: DEORBIT & ENTRY"
+  },
+  {
+    "Identifier": "RealismSettings_DisableLensFlare",
+    "Text": "Disable Lens Flare"
+  },
+  {
+    "Identifier": "RealismSettings_DisableLensFlareDesc",
+    "Text": "This will disable the lens flare effect and instead render the sun as a bright blob."
   }
 ]
