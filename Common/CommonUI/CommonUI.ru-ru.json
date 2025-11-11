@@ -341,7 +341,7 @@
   },
   {
     "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
-    "Text": "РАСЧЕТНАЯ ТОЧКА ПОСАДКИ"
+    "Text": "МЕСТО ПОСАДКИ"
   },
   {
     "Identifier": "RetroburnPlanner_Lat",
