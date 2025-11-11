@@ -137,7 +137,7 @@
   },
   {
     "Identifier": "MissionObjective_Separation_LV",
-    "Text": "Ожидание отделения ракетоносителя."
+    "Text": "Ожидание отделения ракеты-носителя."
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration",
@@ -285,7 +285,7 @@
   },
   {
     "Identifier": "RadioMessage_SwitchToInternalPower",
-    "Text": "Питание ракетоносителя от внешних кабелей отключено, корабль переведен на внутреннее питание."
+    "Text": "Питание ракеты-носителя от внешних кабелей отключено, корабль переведен на внутреннее питание."
   },
   {
     "Identifier": "Radio_TempCheckIssue_EvapH2OLow",
@@ -429,7 +429,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_Staging_AtlasLV",
-    "Text": "Отделение: Ракетоноситель Атлас"
+    "Text": "Отделение: Ракета-носитель Атлас"
   },
   {
     "Identifier": "Debrief_KeyMoment_Staging_Retros",
@@ -469,6 +469,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_Staging_RedstoneLV",
-    "Text": "Отделение: Ракетоноситель Редстоун"
+    "Text": "Отделение: Ракета-носитель Редстоун"
   }
 ]
+
