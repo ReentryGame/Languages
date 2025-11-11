@@ -1337,7 +1337,7 @@
   },
   {
     "Identifier": "LoadingScreen_LV",
-    "Text": "РАКЕТОНОСИТЕЛЬ"
+    "Text": "РАКЕТА-НОСИТЕЛЬ"
   },
   {
     "Identifier": "LoadingScreen_LoadsInto",
@@ -1499,4 +1499,5 @@
     "Identifier": "MainMenuItem_DevMessage",
     "Text": "ПОСЛАНИЕ ОТ РАЗРАБОТЧИКА"
   }
+
 ]
