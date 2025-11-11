@@ -5,11 +5,11 @@
   },
   {
     "Identifier": "ViewSelector_LeftPanels",
-    "Text": "ПАНЕЛЬ СЛЕВА"
+    "Text": "ЛЕВАЯ ПАНЕЛЬ"
   },
   {
     "Identifier": "ViewSelector_RightPanels",
-    "Text": "ПАНЕЛЬ СПРАВА"
+    "Text": "ПРАВАЯ ПАНЕЛЬ"
   },
   {
     "Identifier": "ViewSelector_UpperPanels",
@@ -57,11 +57,11 @@
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
-    "Text": "ВКЛЮЧИТЬ ПЛЕЕР"
+    "Text": "ВКЛ/ВЫКЛ ПЛЕЕР"
   },
   {
     "Identifier": "CommReq_ManualAscentData",
-    "Text": "РУЧ-ОЙ ВВОД ТРАЕКТОРИИ"
+    "Text": "РУЧНОЙ ВВОД ТРАЕКТОРИИ РАЗГОНА"
   },
   {
     "Identifier": "CommReq_AttitudeInfo",
@@ -69,7 +69,7 @@
   },
   {
     "Identifier": "Radio_NegativeClockCheck",
-    "Text": "Отмена! Трубопроводы всё еще подключены."
+    "Text": "Никак нет! Кабели коммуникаций всё еще подключены."
   },
   {
     "Identifier": "RadioCheck_HF",
@@ -145,7 +145,7 @@
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "Пройдите чеклист обозначенный {0}."
+    "Text": "Выполнить чеклист {0}."
   },
   {
     "Identifier": "MissionObjective_AltitudeGreater_Value1",
@@ -241,7 +241,7 @@
   },
   {
     "Identifier": "RadioMessage_UmbilicalDisconnect",
-    "Text": "Кабели отсоединены!"
+    "Text": "Кабели коммуникаций отсоединены!"
   },
   {
     "Identifier": "RadioMessage_SetSpacecraftToReady",
@@ -337,7 +337,7 @@
   },
   {
     "Identifier": "MissionTools_OpenEqMenu",
-    "Text": "ПЕРЕКЛЮЧИТЬ ОБОРУДОВАНИЕ"
+    "Text": "МЕНЮ ОБОРУДОВАНИЯ"
   },
   {
     "Identifier": "MissionTools_FormsSheets",
@@ -353,7 +353,7 @@
   },
   {
     "Identifier": "MissionTools_DataForms_Desc",
-    "Text": "ФОРМЫ\nЗдесь вы можете открыть окошко содержащее выбранную форму. Карандаш и прочие внутреигровые письменные принадлежности помогут вам вносить и стирать данные."
+    "Text": "ФОРМЫ\nЗдесь вы можете открыть окно с выбранной формой. Карандаш и другие инструменты помогут вам вносить и стирать данные."
   },
   {
     "Identifier": "MissionTools_DataForms_RetroSeqMA6",
