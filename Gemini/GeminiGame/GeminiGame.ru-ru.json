@@ -577,7 +577,7 @@
   },
   {
     "Identifier": "MissionObjective_Separation_Booster",
-    "Text": "Ожидание отделения ракетоносителя."
+    "Text": "Ожидание отделения ракеты-носителя."
   },
   {
     "Identifier": "MissionObjective_State_Dot05GDetected",
@@ -967,4 +967,5 @@
     "Identifier": "BurnUplinkBrief",
     "Text": "DCS Uplink: Время маневра {0}, планируется dV {1} фут/сек."
   }
+
 ]
