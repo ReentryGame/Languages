@@ -1,0 +1,231 @@
+[
+  {
+    "Identifier": "BurnPlanner_BurnData_TIG",
+    "Text": "TIG"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "Время до зажигания"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_EstBurnT",
+    "Text": "Расчетная длительность маневра"
+  },
+  {
+    "Identifier": "BurnPlanner_EIFlightPath",
+    "Text": "Угол входа в атмосферу:\n{0}°"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "Время до входа в атмосферу:\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_VelAtEI",
+    "Text": "Скорость при входе в атмосферу:\n{0} fps"
+  },
+  {
+    "Identifier": "BurnPlanner_EI_MET",
+    "Text": "MET:\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_DistToRunway",
+    "Text": "Расстояние от точки входа до ВПП:\n{0} nmi"
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "ПРОВЕРКА СВЯЗИ"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "ПЛАНИРОВЩИК МАНЕВРОВ"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewOps",
+    "Text": "УПРАВЛЕНИЕ ЭКИПАЖЕМ"
+  },
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "КРЕСЛО КОМАНДИРА"
+  },
+  {
+    "Identifier": "ViewSelector_MidConsole",
+    "Text": "ЦЕНТРАЛЬНАЯ ПАНЕЛЬ"
+  },
+  {
+    "Identifier": "ViewSelector_PilotSeat",
+    "Text": "КРЕСЛО ПИЛОТА"
+  },
+  {
+    "Identifier": "ViewSelector_OverheadLeft",
+    "Text": "ЛЕВЫЙ ВЕРХНИЙ ПУЛЬТ"
+  },
+  {
+    "Identifier": "ViewSelector_OverheadRight",
+    "Text": "ПРАВЫЙ ВЕРХНИЙ ПУЛЬТ"
+  },
+  {
+    "Identifier": "ViewSelector_CommanderWindow",
+    "Text": "ИЛЛЮМИНАТОР КОМАНДИРА"
+  },
+  {
+    "Identifier": "ViewSelector_OrbitStation",
+    "Text": "ОРБИТАЛЬНАЯ СТАНЦИЯ"
+  },
+  {
+    "Identifier": "ViewSelector_MissionStation",
+    "Text": "СЛУЖЕБНАЯ СТАНЦИЯ"
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Отсутствуют."
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "Нажмите ОСТАНОВИТЬ ОТСЧЕТ."
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "Нажмите ПРОДОЛЖИТЬ ОТСЧЕТ."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Нажмите {0}, когда будете готовы продолжить выполнение миссии."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Нажмите ПРИНЯТО, когда будете готовы продолжить выполнение миссии."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Ожидание старта."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Завершите настройку панелей кабины."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Выполните чеклист с идентификатором {0}."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Завершите выполнение чеклиста."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Достигните высоты более {0} км."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Достигните высоты менее {0} км."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Войдите в зону действия радиостанции {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Достигните долготы от {0} до {1} градусов."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Достигните широты от {0} до {1} градусов."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Ожидание начального атмосферного сопротивления (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Ожидание входа в атмосферу."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Уцелейте при прохождении атмосферы."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Снизьтесь до высоты менее {0} футов."
+  },
+  {
+    "Identifier": "MissionObjective_ApAbove_Value1",
+    "Text": "Поднимите Апогей выше {0} миль выс."
+  },
+  {
+    "Identifier": "MissionObjective_PeAbove_Value1",
+    "Text": "Поднимите Перигей выше {0} миль выс."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Достигните орбитальной плоскости {0} накл. с допуском +/- {1}"
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_GreaterThan_Value1",
+    "Text": "Достигните инерциальной скорости более {0}."
+  },
+  {
+    "Identifier": "MissionObjective_State_LandingAreaGuidance_Value1",
+    "Text": "Достигните фазы посадки: {0}."
+  },
+  {
+    "Identifier": "MissionObjective_GForces_GreaterThan_Value1",
+    "Text": "Ожидание превышения перегрузки {0} G."
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_LessThan_Value1",
+    "Text": "Достигните инерциальной скорости менее {0}."
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_GreaterThan_Value1",
+    "Text": "Достигните относительной скорости более {0}."
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_LessThan_Value1",
+    "Text": "Достигните относительной скорости менее {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_SRBs",
+    "Text": "Ожидание отделения твердотопливных ускорителей."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_ET",
+    "Text": "Ожидание отделения внешнего топливного бака."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteMPSDump",
+    "Text": "Ожидание завершения сброса топлива."
+  },
+  {
+    "Identifier": "MissionObjective_State_MECO",
+    "Text": "Ожидание отсечки главного двигателя."
+  },
+  {
+    "Identifier": "MissionObjective_State_Landing",
+    "Text": "Достигните зоны посадки."
+  },
+  {
+    "Identifier": "MissionObjective_State_OMS_Both_EnginesBurning_Equals_Bool1",
+    "Text": "Оба двигателя OMS работают: {0}."
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsOpen",
+    "Text": "Откройте створки грузового отсека."
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsClosed",
+    "Text": "Закройте створки грузового отсека."
+  },
+  {
+    "Identifier": "MissionObjective_IsGPCId_Value1_RunningOPS_Value2",
+    "Text": "Запустите OPS {1} на бортовом компьютере GPC Id {0}."
+  },
+  {
+    "Identifier": "Payload_Title",
+    "Text": "ОТСЛЕЖИВАНИЕ ПОЛЕЗНОЙ НАГРУЗКИ"
+  },
+  {
+    "Identifier": "CommTools_EndEffectorCapture",
+    "Text": "EE: ЗАХВАТ"
+  }
+  
+]
