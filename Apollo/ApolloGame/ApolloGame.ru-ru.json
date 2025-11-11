@@ -17,11 +17,11 @@
   },
   {
     "Identifier": "ViewSelector_SwitchSpacecraftCSM",
-    "Text": "ПЕРЕЙТИ В ЛМ"
+    "Text": "ПЕРЕЙТИ В LM"
   },
   {
     "Identifier": "ViewSelector_SwitchSpacecraftLM",
-    "Text": "ПЕРЕЙТИ В КМ"
+    "Text": "ПЕРЕЙТИ В CM"
   },
   {
     "Identifier": "ViewSelector_CM_LeftSeat",
@@ -101,7 +101,7 @@
   },
   {
     "Identifier": "CommTools_ToggleJukebox",
-    "Text": "ВКЛЮЧИТЬ ПЛЕЕР"
+    "Text": "ВКЛ/ВЫКЛ ПЛЕЕР"
   },
   {
     "Identifier": "CommTools_ReqSwitchInternalPwr",
@@ -461,11 +461,11 @@
   },
   {
     "Identifier": "BurnPlanner_SPSBurn",
-    "Text": "{0}, время зажигания SPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}\r\r."
+    "Text": "{0}, время зажигания SPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}. Ориентация для маневра (текущий REFSMMAT):{6}."
   },
   {
     "Identifier": "BurnPlanner_DPSBurn",
-    "Text": "{0}, время зажигания DPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}\r\r."
+    "Text": "{0}, время зажигания DPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}. Ориентация для маневра (текущий REFSMMAT):{6}."
   },
   {
     "Identifier": "BurnPlanner_BurnDirRetrograde",
@@ -605,7 +605,7 @@
   },
   {
     "Identifier": "BurnPlanner_BurnData_NmiAltLabel",
-    "Text": "миль (высота)"
+    "Text": "миль выс."
   },
   {
     "Identifier": "TEIPlanner_Warning1",
@@ -625,7 +625,7 @@
   },
   {
     "Identifier": "TEIPlanner_Warning4",
-    "Text": "Проверьте эксцентриситет орбиты. Для маневра трансземной инжекции орбита должна быть круговой."
+    "Text": "Для маневра трансземной инжекции орбита должна быть круговой. Проверьте эксцентриситет."
   },
   {
     "Identifier": "MissionObjective_None",
@@ -1085,7 +1085,7 @@
   },
   {
     "Identifier": "GameOverReason_NonCMEntry",
-    "Text": "Вход в атмосферу с \"лишним грузом\". Вернуться на Землю может только Командный Модуль, без сервисного."
+    "Text": "Вход в атмосферу с \"лишним грузом\". Вернуться на Землю можно только в отделенном Командном Модуле, без Сервисного."
   },
   {
     "Identifier": "GameOverReason_LMEntry",
@@ -1209,7 +1209,7 @@
   },
   {
     "Identifier": "CrewMembers_LPD_Desc",
-    "Text": "Я буду сообщать важную информацию в ходе заключительного этапа снижения к поверхности Луны. Начиная с запуска P64 и вплоть до момента посадки я буду непрерывно сообщать высоту, скорость снижения, уровень топлива в выбранном баке и положение точки посадки при помощи Определителя Места Посадки (сокр. LPD, Landing Point Designator).\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\nУгол тангажа LPD позволяет определить точку посадки по вертикальным меткам на обзорном иллюминаторе, а угол рысканья LPD - по горизонтальным меткам. Красная точка на схеме сверху показывает угол LPD в 10 градусов по тангажу и 0 градусов по рысканью.\r\r\r\r Помните - точка посадки постепенно смещается в LPD по мере снижения!\r\r\r\r\r\n\r\r\r\r\r\r\r\nИнформация будет обновляться каждые 10 секунд. "
+    "Text": "Я буду сообщать важную информацию в ходе заключительного этапа снижения к поверхности Луны. Начиная с запуска P64 и вплоть до момента посадки я буду непрерывно сообщать высоту, скорость снижения, уровень топлива в выбранном баке и положение точки посадки при помощи Определителя Места Посадки (сокр. LPD, Landing Point Designator).\n\nУгол тангажа LPD позволяет определить точку посадки по вертикальным меткам на обзорном иллюминаторе, а угол рысканья LPD - по горизонтальным меткам. Красная точка на схеме сверху показывает угол LPD в 10 градусов по тангажу и 0 градусов по рысканью. Помните - точка посадки постепенно смещается в LPD по мере снижения!\n\nИнформация будет обновляться каждые 10 секунд. "
   },
   {
     "Identifier": "CrewMembers_Toggle",
@@ -1493,7 +1493,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_DPSBurnCompleted",
-    "Text": "Работа SPS: dV={0} фут/сек, Ap={1} миль R, Pe={2} миль R, i={3}°"
+    "Text": "Работа DPS: dV={0} фут/сек, Ap={1} миль R, Pe={2} миль R, i={3}°"
   },
   {
     "Identifier": "Debrief_KeyMoment_TLIIgnition",
@@ -1549,87 +1549,87 @@
   },
   {
     "Identifier": "CrewMembers_CueCard_1",
-    "Text": "Включить AC PWR"
+    "Text": "Переключить AC PWR"
   },
   {
     "Identifier": "CrewMembers_CueCard_2",
-    "Text": "Включить SM Eq"
+    "Text": "Переключить SM Eq"
   },
   {
     "Identifier": "CrewMembers_CueCard_3",
-    "Text": "Включить Saturn V Boost"
+    "Text": "Переключить Saturn V Boost"
   },
   {
     "Identifier": "CrewMembers_CueCard_4",
-    "Text": "Включить CDR Boost Aborts"
+    "Text": "Переключить CDR Boost Aborts"
   },
   {
     "Identifier": "CrewMembers_CueCard_5",
-    "Text": "Включить LMP Boost Aborts"
+    "Text": "Переключить LMP Boost Aborts"
   },
   {
     "Identifier": "CrewMembers_CueCard_6",
-    "Text": "Включить TLI"
+    "Text": "Переключить TLI"
   },
   {
     "Identifier": "CrewMembers_CueCard_7",
-    "Text": "Включить Nominal TLI 1"
+    "Text": "Переключить Nominal TLI 1"
   },
   {
     "Identifier": "CrewMembers_CueCard_8",
-    "Text": "Включить TnD"
+    "Text": "Переключить TnD"
   },
   {
     "Identifier": "CrewMembers_CueCard_9",
-    "Text": "Включить TnD Cont"
+    "Text": "Переключить TnD Cont"
   },
   {
     "Identifier": "CrewMembers_CueCard_10",
-    "Text": "Включить Undock Sep"
+    "Text": "Переключить Undock Sep"
   },
   {
     "Identifier": "CrewMembers_CueCard_11",
-    "Text": "Включить SPS Burn"
+    "Text": "Переключить SPS Burn"
   },
   {
     "Identifier": "CrewMembers_CueCard_12",
-    "Text": "Включить SPS Burn Cont"
+    "Text": "Переключить SPS Burn Cont"
   },
   {
     "Identifier": "CrewMembers_CueCard_13",
-    "Text": "Включить Entry"
+    "Text": "Переключить Entry"
   },
   {
     "Identifier": "CrewMembers_CueCard_14",
-    "Text": "Включить SPS Burn Rules"
+    "Text": "Переключить SPS Burn Rules"
   },
   {
     "Identifier": "CrewMembers_CueCard_15",
-    "Text": "Включить LOI Limits"
+    "Text": "Переключить LOI Limits"
   },
   {
     "Identifier": "CrewMembers_CueCard_16",
-    "Text": "Включить EPS ECS Aborts"
+    "Text": "Переключить EPS ECS Aborts"
   },
   {
     "Identifier": "CrewMembers_CueCard_17",
-    "Text": "Включить CM Landing"
+    "Text": "Переключить CM Landing"
   },
   {
     "Identifier": "CrewMembers_CueCard_18",
-    "Text": "Включить CM Landing 10K"
+    "Text": "Переключить CM Landing 10K"
   },
   {
     "Identifier": "CrewMembers_CueCard_19",
-    "Text": "Включить CSM DAP Setup"
+    "Text": "Переключить CSM DAP Setup"
   },
   {
     "Identifier": "CrewMembers_CueCard_20",
-    "Text": "Включить CSM Insertion"
+    "Text": "Переключить CSM Insertion"
   },
   {
     "Identifier": "CrewMembers_CueCard_LM_1",
-    "Text": "Включить LM Warning Lights"
+    "Text": "Переключить LM Warning Lights"
   },
   {
     "Identifier": "CrewMembers_ToggleVelcro",
@@ -1693,7 +1693,7 @@
   },
   {
     "Identifier": "CrewMembers_A13NoSign",
-    "Text": "Toggle Apollo 13 NO sign"
+    "Text": "Переключить табличку NO Аполлона-13"
   },
   {
     "Identifier": "BurnPlanner_TimeOfSMSep",
