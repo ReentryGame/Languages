@@ -1509,10 +1509,18 @@
   },
   {
     "Identifier": "RealismSettings_StopCockpitCamOnBorder",
-    "Text": "Stop Camera When Leaving Cockpit Interior"
+    "Text": "Restrict Camera Movement to Cockpit Interior"
   },
   {
     "Identifier": "RealismSettings_StopCockpitCamOnBorderDesc",
-    "Text": "This will stop the camera motion when trying to move through the cockpit interior walls."
+    "Text": "Stops the camera when it reaches cockpit walls, preventing movement beyond the interior."
+  },
+  {
+    "Identifier": "RealismSettings_StarIdentifyHelper",
+    "Text": "Enable Star Identification Aids"
+  },
+  {
+    "Identifier": "RealismSettings_StarIdentifyHelperDesc",
+    "Text": "Displays visual markers to help you identify stars. Stars stored in the AGC are highlighted with a blue halo."
   }
 ]
