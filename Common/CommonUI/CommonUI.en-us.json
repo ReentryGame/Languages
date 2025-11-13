@@ -156,7 +156,7 @@
   },
   {
     "Identifier": "SaveState_Body",
-    "Text": "I recently started to implement the save and load state routines. They are currently very basic and will mostly save the state vectors of the spacecraft and physical items, and the cockpit panel state.\n\nI will try to keep the save files backward compatible, but please expect breaking changes to save states due to the early state the current save/load system is in."
+    "Text": "This will save your current progress into a save state.\n\nEnter a filename below and press SAVE.\n\nNote: Most core states, orbital parameters, and system data within the 1.0 scope are saved. Save States will continue to evolve and improve as the game moves toward 2.0 and as systems are further developed."
   },
   {
     "Identifier": "SaveState_Error",

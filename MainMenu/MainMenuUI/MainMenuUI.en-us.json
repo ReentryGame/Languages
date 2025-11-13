@@ -1161,7 +1161,7 @@
   },
   {
     "Identifier": "Settings_AlphaFeaturesDesc",
-    "Text": "Alpha Features are various features and game modes that are currently in alpha/in-development. You can use this section to opt-in on any of these features. These are features that are outside the scope of the CORE GAME targeted for the 1.0 milestone (post-Early Access) and are currently in a Research & Development stage. You can read all about each feature in the ROADMAP section accessible from the Main Menu.\nAll of these features are automatically enabled if you run any build on the ALPHA-FLOOR branch accessible from the Steam Betas tab.\n\nNote: Changes to this list requires a restart of the game."
+    "Text": "Alpha Features are various features and game modes that are currently in alpha/in-development. You can use this section to opt-in on any of these features. These are features that are currently in a Research & Development stage. You can read all about each feature in the ROADMAP section accessible from the Main Menu.\nAll of these features are automatically enabled if you run any build on the ALPHA-FLOOR branch accessible from the Steam Betas tab.\n\nNote: Changes to this list requires a restart of the game."
   },
   {
     "Identifier": "Settings_AlphaFeature_MCC",
@@ -1502,5 +1502,17 @@
   {
     "Identifier": "RealismSettings_DisableLensFlareDesc",
     "Text": "This will disable the lens flare effect and instead render the sun as a bright blob."
+  },
+  {
+    "Identifier": "MainMenuItem_DevMessage",
+    "Text": "DEVELOPER'S NOTE"
+  },
+  {
+    "Identifier": "RealismSettings_StopCockpitCamOnBorder",
+    "Text": "Stop Camera When Leaving Cockpit Interior"
+  },
+  {
+    "Identifier": "RealismSettings_StopCockpitCamOnBorderDesc",
+    "Text": "This will stop the camera motion when trying to move through the cockpit interior walls."
   }
 ]
