@@ -5,23 +5,23 @@
   },
   {
     "Identifier": "CrewMember_CircularizationBurnRequested",
-    "Text": "Принято, {0}. Готовим данные для закругления орбиты на высоте {1} миль."
+    "Text": "Принято, {0}. Готовим маневр для cкругления орбиты на высоте {1} миль."
   },
   {
     "Identifier": "CrewMember_CircularizationBurnCancelled",
-    "Text": "Принято, {0}. Закругление орбиты отменено."
+    "Text": "Принято, {0}. Скругление орбиты отменено."
   },
   {
     "Identifier": "CrewMember_CircularizationBurnCompleted",
-    "Text": "Принято, {0}. Прожиг двигателя для закругления орбиты завершен."
+    "Text": "Принято, {0}. Маневр скругления орбиты завершен."
   },
   {
     "Identifier": "ViewSelector_SwitchSpacecraftCSM",
-    "Text": "ПЕРЕЙТИ В ЛМ"
+    "Text": "ПЕРЕЙТИ В LM"
   },
   {
     "Identifier": "ViewSelector_SwitchSpacecraftLM",
-    "Text": "ПЕРЕЙТИ В КМ"
+    "Text": "ПЕРЕЙТИ В CM"
   },
   {
     "Identifier": "ViewSelector_CM_LeftSeat",
@@ -85,15 +85,15 @@
   },
   {
     "Identifier": "CommTools_ToggleCOAS",
-    "Text": "УСТАНОВИТЬ\r\r\r\r\r\r\r\nCOAS"
+    "Text": "УСТАНОВИТЬ\nCOAS"
   },
   {
     "Identifier": "CommTools_ToggleHatch",
-    "Text": "ВЗАИМОДЕЙСТВОВАТЬ\r\r\r\r\r\r\r\nС ЛЮКОМ"
+    "Text": "ВЗАИМОДЕЙСТВОВАТЬ\nС ЛЮКОМ"
   },
   {
     "Identifier": "CommTools_ToggleDockingTarget",
-    "Text": "УСТАНОВИТЬ\r\r\r\r\r\r\r\nМИШЕНЬ ДЛЯ\r\r\r\r\r\r\r\nСТЫКОВКИ"
+    "Text": "УСТАНОВИТЬ\nМИШЕНЬ ДЛЯ\nСТЫКОВКИ"
   },
   {
     "Identifier": "CommTools_ReqWeightData",
@@ -101,7 +101,7 @@
   },
   {
     "Identifier": "CommTools_ToggleJukebox",
-    "Text": "ВКЛЮЧИТЬ ПЛЕЕР"
+    "Text": "ВКЛ/ВЫКЛ ПЛЕЕР"
   },
   {
     "Identifier": "CommTools_ReqSwitchInternalPwr",
@@ -157,7 +157,7 @@
   },
   {
     "Identifier": "ViewOutOfBounds",
-    "Text": "\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\nЗА ПРЕДЕЛАМИ КАБИНЫ, ВЕРНИТЕСЬ ВНУТРЬ.\r\r\r\r\r\r\r\n(ВЫБЕРИТЕ ЛЮБОЙ ОБЗОР ПО УМОЛЧАНИЮ)"
+    "Text": "\n\n\n\n\n\n\nЗА ПРЕДЕЛАМИ КАБИНЫ, ВЕРНИТЕСЬ ВНУТРЬ.\n(ВЫБЕРИТЕ ЛЮБОЙ ОБЗОР ПО УМОЛЧАНИЮ)"
   },
   {
     "Identifier": "BurnPlanner_Title",
@@ -165,7 +165,7 @@
   },
   {
     "Identifier": "BurnPlanner_Params_Title",
-    "Text": "ПАРАМЕТРЫ ИМПУЛЬСА"
+    "Text": "ПАРАМЕТРЫ МАНЕВРА"
   },
   {
     "Identifier": "BurnPlanner_Params_IgnitionPoint_Title",
@@ -181,11 +181,11 @@
   },
   {
     "Identifier": "BurnPlanner_Params_dV_Desc",
-    "Text": "Установить значение delta-v прожига в футах/сек. Появится траектория, которая примерно покажет новую орбиту."
+    "Text": "Установить значение delta-v маневра в футах/сек. Появится траектория, которая покажет примерную новую орбиту."
   },
   {
     "Identifier": "BurnPlanner_Params_dV_Desc",
-    "Text": "Установить значение delta-v прожига в футах/сек. Появится траектория, которая примерно покажет новую орбиту."
+    "Text": "Установить значение delta-v маневра в футах/сек. Появится траектория, которая покажет примерную новую орбиту."
   },
   {
     "Identifier": "BurnPlanner_Params_Direction_Title",
@@ -209,7 +209,7 @@
   },
   {
     "Identifier": "BurnPlanner_BurnData_Title",
-    "Text": "ДАННЫЕ О ЗАЖИГАНИИ"
+    "Text": "ДАННЫЕ О МАНЕВРЕ"
   },
   {
     "Identifier": "BurnPlanner_EI_Title",
@@ -273,7 +273,7 @@
   },
   {
     "Identifier": "TLIPlanner_Params_Time_Desc",
-    "Text": "Время межорбитального перехода выражающееся во времени Гоманновского перехода.\r\r\r\r\r\r\nМожет быть в промежутке от 0.1 до 1.5"
+    "Text": "Время межорбитального перехода выражающееся во времени Гоманновского перехода.\nМожет быть в промежутке от 0.1 до 1.5"
   },
   {
     "Identifier": "TLIPlanner_Params_SOI_Title",
@@ -297,7 +297,7 @@
   },
   {
     "Identifier": "TLIPlanner_Data_Title",
-    "Text": "ПАРАМЕТРЫ ИМПУЛЬСА"
+    "Text": "ПАРАМЕТРЫ МАНЕВРА"
   },
   {
     "Identifier": "TLIPlanner_Data_Countdown",
@@ -325,7 +325,7 @@
   },
   {
     "Identifier": "TEIPlanner_BurnParams_Title",
-    "Text": "ПАРАМЕТРЫ ИМПУЛЬСА"
+    "Text": "ПАРАМЕТРЫ МАНЕВРА"
   },
   {
     "Identifier": "TEIPlanner_BurnParams_Ve_Title",
@@ -337,7 +337,7 @@
   },
   {
     "Identifier": "TEIPlanner_BurnData_Title",
-    "Text": "ПАРАМЕТРЫ ИМПУЛЬСА"
+    "Text": "ПАРАМЕТРЫ МАНЕВРА"
   },
   {
     "Identifier": "AdvancedCamera_Title",
@@ -381,11 +381,11 @@
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown",
-    "Text": "MCC, запрашиваю остановку обратного отсчёта."
+    "Text": "MCC, запрашиваю остановку обратного отсчета."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown",
-    "Text": "MCC, продолжайте отсчёт."
+    "Text": "MCC, продолжайте отсчет."
   },
   {
     "Identifier": "RadioCommReq_LM_WeightData1",
@@ -417,19 +417,19 @@
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown2",
-    "Text": "{0}, останавливаем отсчёт."
+    "Text": "{0}, останавливаем отсчет."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown2",
-    "Text": "{0}, продолжаем отсчёт."
+    "Text": "{0}, продолжаем отсчет."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
-    "Text": "ПРОДОЛЖИТЬ ОТСЧЁТ"
+    "Text": "ПРОДОЛЖИТЬ ОТСЧЕТ"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
-    "Text": "ОСТАНОВИТЬ ОТСЧЁТ"
+    "Text": "ОСТАНОВИТЬ ОТСЧЕТ"
   },
   {
     "Identifier": "RadioCommReq_CO2CanisterReplaced",
@@ -441,7 +441,7 @@
   },
   {
     "Identifier": "LunarAscent_CSIError",
-    "Text": "{0}, вы все еще продолжаете набор высоты. Пожалуйста подождите, пока не будет достигнута промежуточная орбита."
+    "Text": "{0}, вы все еще продолжаете разгон. Пожалуйста подождите, пока не будет достигнута промежуточная орбита."
   },
   {
     "Identifier": "LunarAscent_CSIBurnCalc",
@@ -461,27 +461,27 @@
   },
   {
     "Identifier": "BurnPlanner_SPSBurn",
-    "Text": "{0}, время зажигания SPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}\r\r."
+    "Text": "{0}, время зажигания SPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}. Ориентация для маневра (текущий REFSMMAT):{6}."
   },
   {
     "Identifier": "BurnPlanner_DPSBurn",
-    "Text": "{0}, время зажигания DPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}\r\r."
+    "Text": "{0}, время зажигания DPS - {1}ч {2}мин {3}сек, значение dV {4} футов/сек {5}. Ориентация для маневра (текущий REFSMMAT):{6}."
   },
   {
     "Identifier": "BurnPlanner_BurnDirRetrograde",
-    "Text": "retrograde"
+    "Text": "retrograde (обратное)"
   },
   {
     "Identifier": "BurnPlanner_BurnDirPrograde",
-    "Text": "prograde"
+    "Text": "prograde (прямое)"
   },
   {
     "Identifier": "BurnPlanner_BurnDirRadialIn",
-    "Text": "radial in"
+    "Text": "radial in (радиальное внутрь)"
   },
   {
     "Identifier": "BurnPlanner_BurnDirRadialOut",
-    "Text": "radial out"
+    "Text": "radial out (радиальное наружу)"
   },
   {
     "Identifier": "PDI_Fail",
@@ -489,7 +489,7 @@
   },
   {
     "Identifier": "PDI_Fail2",
-    "Text": "Ваша орбита не соответствует требования для осуществления маневра PLD. Пожалуйста снизьте высоту  перицентра до значения меньше 50.000 футов [8 миль в высоту, радиус 946 миль]."
+    "Text": "Ваша орбита не соответствует требованиям для осуществления маневра PLD. Пожалуйста снизьте высоту  перицентра до значения меньше 50.000 футов [8 миль в высоту, радиус 946 миль]."
   },
   {
     "Identifier": "PDI_Info1",
@@ -585,7 +585,7 @@
   },
   {
     "Identifier": "BurnPlanner_BurnData_EstBurnT",
-    "Text": "Расчетная длительность прожига"
+    "Text": "Расчетная длительность маневра"
   },
   {
     "Identifier": "BurnPlanner_BurnData_OrbitData",
@@ -605,7 +605,7 @@
   },
   {
     "Identifier": "BurnPlanner_BurnData_NmiAltLabel",
-    "Text": "миль\r\r\r (высота)"
+    "Text": "миль выс."
   },
   {
     "Identifier": "TEIPlanner_Warning1",
@@ -613,7 +613,7 @@
   },
   {
     "Identifier": "TEIPlanner_Calc",
-    "Text": "Перицентр: {0:0.00} миль высоты ({4} миль)\r\r\r\r\r\r\r\r\nВремя до входа в атмосферу={1}\r\r\r\r\r\r\r\r\nΔV={2} фут/с\r\r\r\r\r\r\r\nВремя до зажигания={3}"
+    "Text": "Перицентр: {0:0.00} миль высоты ({4} миль)\nВремя до входа в атмосферу={1}\nΔV={2} фут/с\nВремя до зажигания={3}"
   },
   {
     "Identifier": "TEIPlanner_Warning2",
@@ -621,11 +621,11 @@
   },
   {
     "Identifier": "TEIPlanner_Warning3",
-    "Text": "Check escape velocity fraction input punctation."
+    "Text": "Проверьте пунктуацию в поле ввода доли орбитальной скорости."
   },
   {
     "Identifier": "TEIPlanner_Warning4",
-    "Text": "Проверьте эксцентриситет орбиты. Для маневра транслунной инжекции орбита должна быть круговой."
+    "Text": "Для маневра трансземной инжекции орбита должна быть круговой. Проверьте эксцентриситет."
   },
   {
     "Identifier": "MissionObjective_None",
@@ -681,7 +681,7 @@
   },
   {
     "Identifier": "MissionObjective_LM_DPSShutoff",
-    "Text": "Завершите прожиг двигателя посадочной ступени."
+    "Text": "Завершите работу двигателя посадочной ступени."
   },
   {
     "Identifier": "MissionObjective_LM_APSIgnite",
@@ -689,7 +689,7 @@
   },
   {
     "Identifier": "MissionObjective_LM_APSShutoff",
-    "Text": "Завершите прожиг двигателя взлетной \rступени."
+    "Text": "Завершите работу двигателя взлетной \rступени."
   },
   {
     "Identifier": "MissionObjective_SwitchedToLunarStayArea",
@@ -701,7 +701,7 @@
   },
   {
     "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet2",
-    "Text": "Доберитесь до {0} на дистанцию {1} футов."
+    "Text": "Доберитесь до дистанции {0} от модуля. Осталось {1} футов."
   },
   {
     "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_True",
@@ -713,15 +713,15 @@
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeGreater_Value1",
-    "Text": "Достигните высоты больше {0} километров"
+    "Text": "Достигните высоты больше {0} миль"
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
-    "Text": "Достигните высоты меньше {0} километров\r\r в Командном Модуле\r\r\r\r\r\r\r\r\r\n\r "
+    "Text": "Достигните высоты меньше {0} миль в Командном Модуле"
   },
   {
     "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
-    "Text": "Достигните высоты меньше {0} километров\r\r в Лунном Модуле"
+    "Text": "Достигните высоты меньше {0} миль в Лунном Модуле"
   },
   {
     "Identifier": "MissionObjective_CM_CheckIfAGC_Program_Value1_IsRunning",
@@ -745,7 +745,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
-    "Text": "Установите параметры орбиты Командно-Служебного Модуля на {0} Апоцентр x {1} Перицентр (в километрах) или выше."
+    "Text": "Установите параметры орбиты Командно-Служебного Модуля на {0} Апоцентр x {1} Перицентр (в милях) или выше."
   },
   {
     "Identifier": "MissionObjective_CM_IsAtRadioStation_String1",
@@ -801,7 +801,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_State_OutsideHighDragZone",
-    "Text": "Выживите при прохождении атмосферы."
+    "Text": "Пройти через атмосферу."
   },
   {
     "Identifier": "MissionObjective_CM_State_SPSBurning",
@@ -809,7 +809,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_State_SPSNotBurning",
-    "Text": "Завершите прожиг двигателя SPS."
+    "Text": "Завершите маневр с помощью двигателя SPS."
   },
   {
     "Identifier": "MissionObjective_CM_State_AnyEngineBurning",
@@ -825,7 +825,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_State_Splashdown",
-    "Text": "Приземление."
+    "Text": "Приводнение."
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_TimeToAp_Value1",
@@ -905,7 +905,7 @@
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarAscent",
-    "Text": "Завершите взлёт с лунной поверхности."
+    "Text": "Завершите взлет с лунной поверхности."
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CSI",
@@ -1001,11 +1001,11 @@
   },
   {
     "Identifier": "MCC_SetTLMToAccept",
-    "Text": "Переведите Прием Телеметрии в режим \"Accept\" (Панель 2), AGC - программа P00, и попробуйте снова."
+    "Text": "Переведите тумблер Uplink Telemetry в режим \"Accept\" (Панель 2), в AGC - запустите программу P00, и попробуйте снова."
   },
   {
     "Identifier": "MCC_REFSMMATUplinked",
-    "Text": "Ведем передачу REFSMMAT. Используйте P52 вариант 1 для выравнивания когда погаснет лампа \"Uplink Acty\"."
+    "Text": "Ведем передачу REFSMMAT. Используйте P52 вариант 1 для выравнивания гироскопов когда погаснет лампа \"Uplink Acty\"."
   },
   {
     "Identifier": "RadioCommMenu_RadioCheck",
@@ -1085,7 +1085,7 @@
   },
   {
     "Identifier": "GameOverReason_NonCMEntry",
-    "Text": "Вход в атмосферу с \"лишним грузом\". Вернуться на Землю может только Командный Модуль."
+    "Text": "Вход в атмосферу с \"лишним грузом\". Вернуться на Землю можно только в отделенном Командном Модуле, без Сервисного."
   },
   {
     "Identifier": "GameOverReason_LMEntry",
@@ -1105,7 +1105,7 @@
   },
   {
     "Identifier": "RadioCommReq_MissionTimeSync",
-    "Text": "Таймеры в корабле синхронизированы с таймерами в ЦУП."
+    "Text": "Бортовые таймеры синхронизированы с наземным временем в ЦУП."
   },
   {
     "Identifier": "CommTools_SyncMetTimers",
@@ -1209,7 +1209,7 @@
   },
   {
     "Identifier": "CrewMembers_LPD_Desc",
-    "Text": "Я буду сообщать важную информацию в ходе заключительного этапа снижения к поверхности Луны. Начиная с P64 и вплоть до посадки я буду непрерывно сообщать высоту, скорость снижения, уровень топлива в выбранном баке и положение точки посадки при помощи Определителя Места Посадки (сокр. LPD, Landing Point Designator).\r\r\r\r\r\r\n\r\r\r\r\r\r\nУгол тангажа LPD позволяет определить точку посадки по вертикальным меткам на обзорном иллюминаторе, а угол рысканья LPD - по горизонтальным меткам. Красная точка на схеме сверху показывает угол LPD в 10 градусов по тангажу и 0 градусов по рысканью.\r\r\r\r Помните - точка посадки постепенно смещается в LPD по мере снижения!\r\r\n\r\r\r\r\nИнформация будет обновляться каждые 10 секунд. "
+    "Text": "Я буду сообщать важную информацию в ходе заключительного этапа снижения к поверхности Луны. Начиная с запуска P64 и вплоть до момента посадки я буду непрерывно сообщать высоту, скорость снижения, уровень топлива в выбранном баке и положение точки посадки при помощи Определителя Места Посадки (сокр. LPD, Landing Point Designator).\n\nУгол тангажа LPD позволяет определить точку посадки по вертикальным меткам на обзорном иллюминаторе, а угол рысканья LPD - по горизонтальным меткам. Красная точка на схеме сверху показывает угол LPD в 10 градусов по тангажу и 0 градусов по рысканью. Помните - точка посадки постепенно смещается в LPD по мере снижения!\n\nИнформация будет обновляться каждые 10 секунд. "
   },
   {
     "Identifier": "CrewMembers_Toggle",
@@ -1241,11 +1241,11 @@
   },
   {
     "Identifier": "CrewMembers_REFSMMAT_Desc",
-    "Text": "Здесь вы можете запросить загрузку REFSMMAT с Земли. Убедитесь, что переключатель Uplink Telemetry на панели №2 установлен в положение Accept. После загрузки данных воспользуйтесь P52 опция 1, чтобы выравнять IMU."
+    "Text": "Здесь вы можете запросить загрузку REFSMMAT с Земли. Убедитесь, что переключатель Uplink Telemetry на панели №2 установлен в положение Accept. После загрузки данных воспользуйтесь P52 опция 1, чтобы выравнять гироскопы инцерциальной системы IMU."
   },
   {
     "Identifier": "CrewMembers_REFSMMAT_PTC_Desc",
-    "Text": "PTC REFSMMAT:\r\r\r\r\r\r\r\r\r\r\nЭта опция позволяет выравнять IMU с плоскостью эклиптики и линией Луна-Земля на узле маневра TEI."
+    "Text": "PTC REFSMMAT:\nЭта опция позволяет выравнять навигационную систему IMU с плоскостью эклиптики и линией Луна-Земля на узле маневра трансземной инжекции (TEI)."
   },
   {
     "Identifier": "CrewMembers_REFSMMAT_PTC_Request",
@@ -1257,7 +1257,7 @@
   },
   {
     "Identifier": "CrewMembers_PADs_Forms",
-    "Text": "ФОРМЫ\r\r\r\r\r\r\r\r\nЗдесь вы можете открыть окошко содержащее выбранную форму. При запросе ПАДов/данных, порядок передаваемых данных строго соответствует их порядку в соответствующей форме. Вы можете использовать внутреигровой карандаш, чтобы вносить данные в форму так, как это делали астронавты в реальности."
+    "Text": "ФОРМЫ\nЗдесь вы можете открыть окошко содержащее выбранную форму. При запросе ПАДов/данных, порядок передаваемых данных строго соответствует их порядку в соответствующей форме. Вы можете использовать внутреигровой карандаш, чтобы вносить данные в форму так, как это делали астронавты в реальности."
   },
   {
     "Identifier": "CrewMembers_PADs_CommandModule",
@@ -1265,7 +1265,7 @@
   },
   {
     "Identifier": "CrewMembers_PADs_CSM_P52",
-    "Text": "ОТКРЫТЬ ФОРМУ P52 IMU REALIGN"
+    "Text": "ОТКРЫТЬ ФОРМУ P52 IMU REALIGN\r (ВЫРАВНИВАНИЕ IMU)"
   },
   {
     "Identifier": "CrewMembers_PADs_CSM_P30",
@@ -1309,7 +1309,7 @@
   },
   {
     "Identifier": "CrewMembers_PADs_IMURealign",
-    "Text": "ВЫРАВНИВАНИЕ IMU\r\r\r\r\r\r\r\nP52 используется для выравнивания IMU (инерционной измерительной системы). Используйте эту опцию для выравнивания IMU в текущий момент миссии."
+    "Text": "ВЫРАВНИВАНИЕ IMU\nP52 используется для выравнивания гироскопов IMU (инцерциальной измерительной системы). Используйте эту опцию для выравнивания IMU в текущий момент миссии."
   },
   {
     "Identifier": "CrewMembers_PADs_RequestIMURealign",
@@ -1329,7 +1329,7 @@
   },
   {
     "Identifier": "CrewMembers_PADs_RndzSkylab_Desc",
-    "Text": "ПАДЫ ДЛЯ СБЛИЖЕНИЯ СО СКАЙЛЭБ\r\r\nПАД(Ы) необходимые для расчёта сближения со станцией Скайлэб."
+    "Text": "ПАДЫ ДЛЯ СБЛИЖЕНИЯ СО СКАЙЛЭБ\nПАД(Ы) необходимые для расчёта сближения со станцией Скайлэб."
   },
   {
     "Identifier": "CrewMembers_PADs_RndzSkylab_Request",
@@ -1337,7 +1337,7 @@
   },
   {
     "Identifier": "CrewMembers_PADs_Entry_Desc",
-    "Text": "ПАД ДЛЯ ВХОДА В АТМОСФЕРУ С ОРБИТЫ ЗЕМЛИ/ЛУНЫ\r\r\nЭтот пад позволяет спланировать безопасное возвращение корабля обратно на Землю через атмосферу и содержит все необходимые для подготовки входа в атмосферу данные."
+    "Text": "ПАД ДЛЯ ВХОДА В АТМОСФЕРУ С ОРБИТЫ ЗЕМЛИ/ЛУНЫ\nЭтот пад позволяет спланировать безопасное возвращение корабля обратно на Землю через атмосферу и содержит все необходимые для подготовки входа в атмосферу данные."
   },
   {
     "Identifier": "CrewMembers_PADs_Entry_Request",
@@ -1401,7 +1401,7 @@
   },
   {
     "Identifier": "Debrief_KPI_AscentWT",
-    "Text": "Ascent WT"
+    "Text": "Взлётная Масса"
   },
   {
     "Identifier": "Debrief_KPI_AscentPitch",
@@ -1457,7 +1457,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_LunarStay_WalkOnMoon",
-    "Text": "Пребывание на Луне: EVA"
+    "Text": "Пребывание на Луне: Внекорабельная деятельность"
   },
   {
     "Identifier": "Debrief_KeyMoment_LunarLanding",
@@ -1481,19 +1481,19 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_SPSBurnPlanned",
-    "Text": "Запланирован Прожиг SPS - TIG {0}, dV={1} футов/сек"
+    "Text": "Запланирован маневр с использованием SPS - TIG {0}, dV={1} футов/сек"
   },
   {
     "Identifier": "Debrief_KeyMoment_DPSBurnPlanned",
-    "Text": "Запланирован Прожиг DPS - TIG {0}, dV={1} ft/s"
+    "Text": "Запланировано зажигание DPS - TIG {0}, dV={1} ft/s"
   },
   {
     "Identifier": "Debrief_KeyMoment_SPSBurnCompleted",
-    "Text": "Прожиг SPS: dV={0} фут/сек, Ap={1} миль R, Pe={2} миль R, i={3}°"
+    "Text": "Работа SPS: dV={0} фут/сек, Ap={1} миль R, Pe={2} миль R, i={3}°"
   },
   {
     "Identifier": "Debrief_KeyMoment_DPSBurnCompleted",
-    "Text": "Прожиг SPS: dV={0} фут/сек, Ap={1} миль R, Pe={2} миль R, i={3}°"
+    "Text": "Работа DPS: dV={0} фут/сек, Ap={1} миль R, Pe={2} миль R, i={3}°"
   },
   {
     "Identifier": "Debrief_KeyMoment_TLIIgnition",
@@ -1549,87 +1549,87 @@
   },
   {
     "Identifier": "CrewMembers_CueCard_1",
-    "Text": "Включить AC PWR"
+    "Text": "Переключить AC PWR"
   },
   {
     "Identifier": "CrewMembers_CueCard_2",
-    "Text": "Включить SM Eq"
+    "Text": "Переключить SM Eq"
   },
   {
     "Identifier": "CrewMembers_CueCard_3",
-    "Text": "Включить Saturn V Boost"
+    "Text": "Переключить Saturn V Boost"
   },
   {
     "Identifier": "CrewMembers_CueCard_4",
-    "Text": "Включить CDR Boost Aborts"
+    "Text": "Переключить CDR Boost Aborts"
   },
   {
     "Identifier": "CrewMembers_CueCard_5",
-    "Text": "Включить LMP Boost Aborts"
+    "Text": "Переключить LMP Boost Aborts"
   },
   {
     "Identifier": "CrewMembers_CueCard_6",
-    "Text": "Включить TLI"
+    "Text": "Переключить TLI"
   },
   {
     "Identifier": "CrewMembers_CueCard_7",
-    "Text": "Включить Nominal TLI 1"
+    "Text": "Переключить Nominal TLI 1"
   },
   {
     "Identifier": "CrewMembers_CueCard_8",
-    "Text": "Включить TnD"
+    "Text": "Переключить TnD"
   },
   {
     "Identifier": "CrewMembers_CueCard_9",
-    "Text": "Включить TnD Cont"
+    "Text": "Переключить TnD Cont"
   },
   {
     "Identifier": "CrewMembers_CueCard_10",
-    "Text": "Включить Undock Sep"
+    "Text": "Переключить Undock Sep"
   },
   {
     "Identifier": "CrewMembers_CueCard_11",
-    "Text": "Включить SPS Burn"
+    "Text": "Переключить SPS Burn"
   },
   {
     "Identifier": "CrewMembers_CueCard_12",
-    "Text": "Включить SPS Burn Cont"
+    "Text": "Переключить SPS Burn Cont"
   },
   {
     "Identifier": "CrewMembers_CueCard_13",
-    "Text": "Включить Entry"
+    "Text": "Переключить Entry"
   },
   {
     "Identifier": "CrewMembers_CueCard_14",
-    "Text": "Включить SPS Burn Rules"
+    "Text": "Переключить SPS Burn Rules"
   },
   {
     "Identifier": "CrewMembers_CueCard_15",
-    "Text": "Включить LOI Limits"
+    "Text": "Переключить LOI Limits"
   },
   {
     "Identifier": "CrewMembers_CueCard_16",
-    "Text": "Включить EPS ECS Aborts"
+    "Text": "Переключить EPS ECS Aborts"
   },
   {
     "Identifier": "CrewMembers_CueCard_17",
-    "Text": "Включить CM Landing"
+    "Text": "Переключить CM Landing"
   },
   {
     "Identifier": "CrewMembers_CueCard_18",
-    "Text": "Включить CM Landing 10K"
+    "Text": "Переключить CM Landing 10K"
   },
   {
     "Identifier": "CrewMembers_CueCard_19",
-    "Text": "Включить CSM DAP Setup"
+    "Text": "Переключить CSM DAP Setup"
   },
   {
     "Identifier": "CrewMembers_CueCard_20",
-    "Text": "Включить CSM Insertion"
+    "Text": "Переключить CSM Insertion"
   },
   {
     "Identifier": "CrewMembers_CueCard_LM_1",
-    "Text": "Включить LM Warning Lights"
+    "Text": "Переключить LM Warning Lights"
   },
   {
     "Identifier": "CrewMembers_ToggleVelcro",
@@ -1657,7 +1657,7 @@
   },
   {
     "Identifier": "VROptics_MotionControllerInstructions1",
-    "Text": "Правый Стик: Управление оптикой\r\r\r\nКнопка Связи: Переключение оптики\r\r\r\nЛевый Курок: Выйти из режима оптики\r\r\r\nВзаимодействие Влево: Отметка\r\r\r\nВзаимодействие Вправо: Отклонить отметку"
+    "Text": "Правый Стик: Управление оптикой\nКнопка Связи: Переключение оптики\nЛевый Курок: Выйти из режима оптики\nВзаимодействие Влево: Отметка\nВзаимодействие Вправо: Отклонить отметку"
   },
   {
     "Identifier": "CrewMembers_Cockpit_WindowShields",
@@ -1682,5 +1682,33 @@
   {
     "Identifier": "CrewMembers_WindowShield_Hatch",
     "Text": "Окошко Входного Люка"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttCurr",
+    "Text": "Направление Маневра (текущее):"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttPref",
+    "Text": "Направление Маневра (предпочтительное):"
+  },
+  {
+    "Identifier": "CrewMembers_A13NoSign",
+    "Text": "Переключить табличку NO Аполлона-13"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeOfSMSep",
+    "Text": "Время разделения CM/SM: {0}"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffset",
+    "Text": "Смещение по Виткам (0 - 5 витков)"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetNext",
+    "Text": "Следующий пролет"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetFuture",
+    "Text": "+{0} Вит(ок/ков)"
   }
 ]
