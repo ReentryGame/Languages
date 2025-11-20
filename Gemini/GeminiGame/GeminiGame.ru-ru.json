@@ -177,7 +177,7 @@
   },
   {
     "Identifier": "Button_ClearAll",
-    "Text": "ОЧИСТИТЬ ВСЁ"
+    "Text": "ОЧИСТИТЬ ВСЕ"
   },
   {
     "Identifier": "Button_Clear",
@@ -221,7 +221,7 @@
   },
   {
     "Identifier": "CommReq_RadiatorTemperature",
-    "Text": "ТЕМП-РА РАДИАТОРА"
+    "Text": "ТЕМП. РАДИАТОРА"
   },
   {
     "Identifier": "CommReq_OrbitInfo",
@@ -229,11 +229,11 @@
   },
   {
     "Identifier": "CommReq_FCTempCheck",
-    "Text": "ТЕМП-РА ТОПЛИВНЫХ ЯЧЕЕК"
+    "Text": "ТЕМП. ТОПЛИВНЫХ ЯЧЕЕК"
   },
   {
     "Identifier": "CommReq_RequestTargetManeuver",
-    "Text": "ЗАПРОСИТЬ\r\r\r\r\r\nПАРАМЕТРЫ\r\r\r\r\r\nМАНЕВРА"
+    "Text": "ЗАПРОСИТЬ\nПАРАМЕТРЫ\nМАНЕВРА"
   },
   {
     "Identifier": "CommReq_RetroAtNextApogee",
@@ -249,15 +249,15 @@
   },
   {
     "Identifier": "CommReq_OpenHatchButtonCdr",
-    "Text": "ОТКРЫТЬ\r\r\r\r\nЛЮК"
+    "Text": "ОТКРЫТЬ\nЛЮК"
   },
   {
     "Identifier": "CommReq_OpenHatchButtonPilot",
-    "Text": "ОТКРЫТЬ\r\r\r\nЛЮК"
+    "Text": "ОТКРЫТЬ\nЛЮК"
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
-    "Text": "ВКЛЮЧИТЬ ПЛЕЕР"
+    "Text": "ВКЛ/ВЫКЛ ПЛЕЕР"
   },
   {
     "Identifier": "CommReq_ManualAscentData",
@@ -269,7 +269,7 @@
   },
   {
     "Identifier": "CommReq_ToggleDRing",
-    "Text": "ПЕРЕКЛ-ТЬ КОЛЬЦО"
+    "Text": "ПЕРЕКЛ-ТЬ D-КОЛЬЦО"
   },
   {
     "Identifier": "CommReq_SwitchToInternalPower",
@@ -277,7 +277,7 @@
   },
   {
     "Identifier": "CommReq_AbortCapabilityTest",
-    "Text": "ПРОВЕРКА\r\r\r\nПИРОПАТРОНОВ"
+    "Text": "ПРОВЕРКА\nПИРОПАТРОНОВ"
   },
   {
     "Identifier": "CommReq_RetroAtTargetCursor",
@@ -361,15 +361,15 @@
   },
   {
     "Identifier": "CommReq_RadiatorStatus3",
-    "Text": "Температура на выходе из радиатора чуть выше нормы, входная температура - {0}. Удостоверьтесь, что переключатель RADIATOR в положении BY-PASS."
+    "Text": "Температура на выходе из радиатора чуть выше нормы, входная температура - {0}. Удостоверьтесь, что переключатель RADIATOR в положении BYPASS."
   },
   {
     "Identifier": "CommReq_RadiatorStatus4",
-    "Text": "Температура на выходе из радиатора выше нормы, входная температура - {0}. Удостоверьтесь, что переключатель RADIATOR в положении BY-PASS."
+    "Text": "Температура на выходе из радиатора выше нормы, входная температура - {0}. Удостоверьтесь, что переключатель RADIATOR в положении BYPASS."
   },
   {
     "Identifier": "CommReq_RadiatorStatus5",
-    "Text": "Температура на выходе из радиатора критически высокая, входная температура - {0}. Удостоверьтесь, что переключатель RADIATOR в положении BY-PASS."
+    "Text": "Температура на выходе из радиатора критически высокая, входная температура - {0}. Удостоверьтесь, что переключатель RADIATOR в положении BYPASS."
   },
   {
     "Identifier": "CommReq_RadiatorStatus6",
@@ -421,15 +421,15 @@
   },
   {
     "Identifier": "ReqBurn_Response",
-    "Text": "{0}, прожиг двигателя в {1} с delta-V {2}"
+    "Text": "{0}, маневр в {1} с delta-V {2}"
   },
   {
     "Identifier": "ReqBurnResponse_NotCircular",
-    "Text": "{0}, не можем рассчитать манёвр. Ваша орбита не круговая. Перед запросом манёвра сближения вам нужно \"скруглить\" орбиту."
+    "Text": "{0}, не можем рассчитать маневр. Ваша орбита не круговая. Перед запросом маневра сближения вам нужно \"скруглить\" орбиту."
   },
   {
     "Identifier": "ReqBurnResponse_NotIncl",
-    "Text": "{0}, не можем рассчитать манёвр. Ваша орбита не в плоскости с орбитой цели, нужно перевести орбиту в плоскость орбиты цели прежде чем начинать манёвр сближения."
+    "Text": "{0}, не можем рассчитать маневр. Ваша орбита не в плоскости с орбитой цели, нужно перевести орбиту в плоскость орбиты цели прежде чем начинать маневр сближения."
   },
   {
     "Identifier": "Cockpit_AbortCapabilityTest",
@@ -441,19 +441,19 @@
   },
   {
     "Identifier": "Cockpit_SquibTestComplete",
-    "Text": "{0}, проверка пиропатронов выполнена успешно. Подтвердите работу сигнальных ламп."
+    "Text": "{0}, проверка пиропатронов выполнена успешно. Подтвердите работу сигнальных ламп аварийного прерывания разгона."
   },
   {
     "Identifier": "Cockpit_AbortSquibTestFailed",
-    "Text": "{0}, тест пиропатронов выполнен успешно."
-  },
-  {
-    "Identifier": "Cockpit_AbortSquibTestComplete",
     "Text": "{0}, проверка пиропатронов не завершена."
   },
   {
+    "Identifier": "Cockpit_AbortSquibTestComplete",
+    "Text": "{0}, тест пиропатронов выполнен успешно."
+  },
+  {
     "Identifier": "Cockpit_AbortSquibTestInProgress",
-    "Text": "{0}, проверка пиропатронов уже идёт."
+    "Text": "{0}, проверка пиропатронов уже идет."
   },
   {
     "Identifier": "Cockpit_InternalPower",
@@ -577,7 +577,7 @@
   },
   {
     "Identifier": "MissionObjective_Separation_Booster",
-    "Text": "Ожидание отделения ракетоносителя."
+    "Text": "Ожидание отделения ракеты-носителя."
   },
   {
     "Identifier": "MissionObjective_State_Dot05GDetected",
@@ -677,43 +677,43 @@
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown",
-    "Text": "MCC, запрашиваю приостановку обратного отсчёта."
+    "Text": "MCC, запрашиваю приостановку обратного отсчета."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown",
-    "Text": "MCC, продолжайте отсчёт до старта."
+    "Text": "MCC, продолжайте отсчет до старта."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown2",
-    "Text": "{0}, отсчёт до старта остановлен."
+    "Text": "{0}, обратный отсчет до старта остановлен."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown2",
-    "Text": "{0}, продолжаем отсчёт до старта."
+    "Text": "{0}, продолжаем обратный отсчет."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
-    "Text": "ПРОДОЛЖИТЬ ОТСЧЁТ"
+    "Text": "ПРОДОЛЖИТЬ ОТСЧЕТ"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
-    "Text": "ОСТАНОВИТЬ ОТСЧЁТ"
+    "Text": "ОСТАНОВИТЬ ОТСЧЕТ"
   },
   {
     "Identifier": "CommReq_RequestCircPe",
-    "Text": "СКРУГ\r\r\r\nНА ПЕРИГЕЕ"
+    "Text": "СКРУГ\nНА ПЕРИГЕЕ"
   },
   {
     "Identifier": "CommReq_RequestCircAp",
-    "Text": "СКРУГ\r\r\r\r\nНА АПОГЕЕ"
+    "Text": "СКРУГ\nНА АПОГЕЕ"
   },
   {
     "Identifier": "CommReq_RequestRndz",
-    "Text": "РАНДЕВУ"
+    "Text": "СБЛИЖЕНИЕ"
   },
   {
     "Identifier": "CommReq_ToggleTHC",
-    "Text": "ПЕРЕКЛ\r\r\r\nРУЧКУ\r\r\nTHC"
+    "Text": "ПЕРЕКЛ\nРУЧКУ\nTHC"
   },
   {
     "Identifier": "CommReq_RequestBurnAndMissionTools",
@@ -761,7 +761,7 @@
   },
   {
     "Identifier": "MissionTools_DataFormsPage_DataFormsDesc",
-    "Text": "ФОРМЫ\r\r\r\r\r\nЗдесь вы можете открыть окошко содержащее выбранную форму. Карандаш и прочие внутреигровые письменные принадлежности помогут вам вносить и стирать данные."
+    "Text": "ФОРМЫ\nЗдесь вы можете открыть окошко содержащее выбранную форму. Карандаш и другие инструменты помогут вам вносить и стирать данные."
   },
   {
     "Identifier": "MissionTools_DataFormsPage_OpenCatchUpPadForm",
@@ -769,7 +769,7 @@
   },
   {
     "Identifier": "MissionTools_DataFormsPage_TextSheets",
-    "Text": "БЛАНКИ\r\r\r\r\r\r\r\r\nРазличные прочие бланки, которые можно использовать для ведения заметок, рисования и сбора данных."
+    "Text": "БЛАНКИ\nРазличные прочие бланки, которые можно использовать для ведения заметок, рисования и сбора данных."
   },
   {
     "Identifier": "MissionTools_DataFormsPage_OpenBlankPaper",
@@ -781,7 +781,7 @@
   },
   {
     "Identifier": "MissionTools_PADs_CircBurns",
-    "Text": "МАНЁВРЫ СКРУГЛЕНИЯ ОРБИТЫ\r\r\nЭти ПАДы помогают осуществить планирование скругления орбиты на Апогее или Перигее."
+    "Text": "МАНЕВРЫ СКРУГЛЕНИЯ ОРБИТЫ\nЭти ПАДы помогают осуществить планирование скругления орбиты на Апогее или Перигее."
   },
   {
     "Identifier": "MissionTools_PADs_RequestCircPeBurn",
@@ -793,15 +793,15 @@
   },
   {
     "Identifier": "MissionTools_PADs_Rendezvous",
-    "Text": "МАНЁВР СБЛИЖЕНИЯ\r\r\nМаневр сближения требует предварительно выйти на круговую орбиту. Когда будете на круговой орбите, запрос манёвра сближения позволит получить данные для сближения с целевым космическим аппаратом. После осуществления основного манёвра сближения необходимо запросить правильный манёвр скругления орбиты (на Апогее или Перигее, в зависимости от ситуации) для завершения сближения."
+    "Text": "МАНЕВР СБЛИЖЕНИЯ\nМаневр сближения требует предварительно выйти на круговую орбиту. Когда будете на круговой орбите, запрос маневра сближения позволит получить данные для сближения с целевым космическим аппаратом. После осуществления основного маневра сближения необходимо запросить правильный маневр скругления орбиты (на Апогее или Перигее) для завершения сближения."
   },
   {
     "Identifier": "MissionTools_PADs_RequestRendezvous",
-    "Text": "ЗАПРОСИТЬ МАНЁВР СБЛИЖЕНИЯ"
+    "Text": "ЗАПРОСИТЬ МАНЕВР СБЛИЖЕНИЯ"
   },
   {
     "Identifier": "MissionTools_PADs_PlaneChange",
-    "Text": "МАНЁВР ИЗМЕНЕНИЯ НАКЛОНЕНИЯ\r\r\nМанёвры изменения наклонения орбиты могут быть осуществлены либо на восходящем, либо на нисходящем узле (в одной из двух точек при пересечении экватора). Узел с наименьшей скоростью будет использоваться для расчёта dV для смены наклонения на указанное ниже. \r\n1) Введите в поле наклонение, которое требуется установить\r\n2) Запросите манёвр"
+    "Text": "МАНЕВР ИЗМЕНЕНИЯ НАКЛОНЕНИЯ\nМаневры изменения наклонения орбиты выполняются на восходящем, либо на нисходящем узле (в одной из двух точек при пересечении экватора). Узел с наименьшей скоростью будет использоваться для расчета dV для смены наклонения орбиты на указанное ниже.\n1) Введите в поле наклонение, которое требуется установить\n2) Запросите маневр"
   },
   {
     "Identifier": "MissionTools_PADs_PlaneChangeInc",
@@ -809,7 +809,7 @@
   },
   {
     "Identifier": "MissionTools_PADs_RequestPlaneChange",
-    "Text": "ЗАПРОСИТЬ МАНЁВР ИЗМЕНЕНИЯ НАКЛОНЕНИЯ"
+    "Text": "ЗАПРОСИТЬ МАНЕВР ИЗМЕНЕНИЯ НАКЛОНЕНИЯ"
   },
   {
     "Identifier": "MissionTools_CockpitEq_Title",
@@ -821,7 +821,7 @@
   },
   {
     "Identifier": "MissionTools_CockpitEq_ToggleGT3FlightPlan",
-    "Text": "ПЕРЕКЛЮЧИТЬ GT-3: ПОЛЁТНЫЙ ПЛАН"
+    "Text": "ПЕРЕКЛЮЧИТЬ GT-3: ПОЛЕТНЫЙ ПЛАН"
   },
   {
     "Identifier": "MissionTools_CockpitEq_ToggleSandwitch",
@@ -861,7 +861,7 @@
   },
   {
     "Identifier": "Debrief_KPI_PropRCSB",
-    "Text": "ТОПЛИВО: RCS A"
+    "Text": "ТОПЛИВО: RCS B"
   },
   {
     "Identifier": "Debrief_KPI_FuelConsumption_OAMS",
@@ -953,7 +953,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_StagingTitanII",
-    "Text": "Отделение: Титан - Ступень I\rI"
+    "Text": "Отделение: Титан - Ступень II"
   },
   {
     "Identifier": "Debrief_KeyMoment_StagingAdapter",
@@ -962,5 +962,10 @@
   {
     "Identifier": "Debrief_KeyMoment_StagingRetro",
     "Text": "Отделение: Тормозные двигатели"
+  },
+  {
+    "Identifier": "BurnUplinkBrief",
+    "Text": "DCS Uplink: Время маневра {0}, планируется dV {1} фут/сек."
   }
+
 ]

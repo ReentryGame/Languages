@@ -5,11 +5,11 @@
   },
   {
     "Identifier": "ViewSelector_LeftPanels",
-    "Text": "ПАНЕЛЬ СЛЕВА"
+    "Text": "ЛЕВАЯ ПАНЕЛЬ"
   },
   {
     "Identifier": "ViewSelector_RightPanels",
-    "Text": "ПАНЕЛЬ СПРАВА"
+    "Text": "ПРАВАЯ ПАНЕЛЬ"
   },
   {
     "Identifier": "ViewSelector_UpperPanels",
@@ -57,11 +57,11 @@
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
-    "Text": "ВКЛЮЧИТЬ ПЛЕЕР"
+    "Text": "ВКЛ/ВЫКЛ ПЛЕЕР"
   },
   {
     "Identifier": "CommReq_ManualAscentData",
-    "Text": "РУЧ-ОЙ ВВОД ТРАЕКТОРИИ"
+    "Text": "РУЧНОЙ ВВОД ТРАЕКТОРИИ РАЗГОНА"
   },
   {
     "Identifier": "CommReq_AttitudeInfo",
@@ -69,7 +69,7 @@
   },
   {
     "Identifier": "Radio_NegativeClockCheck",
-    "Text": "Отмена! Трубопроводы всё еще подключены."
+    "Text": "Никак нет! Кабели коммуникаций всё еще подключены."
   },
   {
     "Identifier": "RadioCheck_HF",
@@ -137,7 +137,7 @@
   },
   {
     "Identifier": "MissionObjective_Separation_LV",
-    "Text": "Ожидание отделения ракетоносителя."
+    "Text": "Ожидание отделения ракеты-носителя."
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration",
@@ -145,7 +145,7 @@
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "Пройдите чеклист обозначенный {0}."
+    "Text": "Выполнить чеклист {0}."
   },
   {
     "Identifier": "MissionObjective_AltitudeGreater_Value1",
@@ -241,7 +241,7 @@
   },
   {
     "Identifier": "RadioMessage_UmbilicalDisconnect",
-    "Text": "Кабели отсоединены!"
+    "Text": "Кабели коммуникаций отсоединены!"
   },
   {
     "Identifier": "RadioMessage_SetSpacecraftToReady",
@@ -285,7 +285,7 @@
   },
   {
     "Identifier": "RadioMessage_SwitchToInternalPower",
-    "Text": "Питание ракетоносителя от внешних кабелей отключено, корабль переведен на внутреннее питание."
+    "Text": "Питание ракеты-носителя от внешних кабелей отключено, корабль переведен на внутреннее питание."
   },
   {
     "Identifier": "Radio_TempCheckIssue_EvapH2OLow",
@@ -337,7 +337,7 @@
   },
   {
     "Identifier": "MissionTools_OpenEqMenu",
-    "Text": "ПЕРЕКЛЮЧИТЬ ОБОРУДОВАНИЕ"
+    "Text": "МЕНЮ ОБОРУДОВАНИЯ"
   },
   {
     "Identifier": "MissionTools_FormsSheets",
@@ -353,7 +353,7 @@
   },
   {
     "Identifier": "MissionTools_DataForms_Desc",
-    "Text": "ФОРМЫ\r\r\r\r\nЗдесь вы можете открыть окошко содержащее выбранную форму. Карандаш и прочие внутреигровые письменные принадлежности помогут вам вносить и стирать данные."
+    "Text": "ФОРМЫ\nЗдесь вы можете открыть окно с выбранной формой. Карандаш и другие инструменты помогут вам вносить и стирать данные."
   },
   {
     "Identifier": "MissionTools_DataForms_RetroSeqMA6",
@@ -365,7 +365,7 @@
   },
   {
     "Identifier": "MissionTools_DataForms_Sheets",
-    "Text": "БЛАНКИ\r\nРазличные прочие бланки, которые можно использовать для ведения заметок, рисования и сбора данных."
+    "Text": "БЛАНКИ\nРазличные прочие бланки, которые можно использовать для ведения заметок, рисования и сбора данных."
   },
   {
     "Identifier": "MissionTools_DataForms_BlankPaper",
@@ -377,7 +377,7 @@
   },
   {
     "Identifier": "MissionTools_CockpitEq_MA6",
-    "Text": "Оборудование Меркурий-Атлас 6\r\nВ этом разделе находится различное оборудование, необходимое для прохождения миссии МА-6. Это проверки зрения и форма для записи времени торможения. Переключать их можно отдельно."
+    "Text": "Оборудование Меркурий-Атлас 6\nВ этом разделе находится различное оборудование, необходимое для прохождения миссии МА-6. Это проверки зрения и форма для записи времени торможения. Переключать их можно отдельно."
   },
   {
     "Identifier": "MissionTools_CockpitEq_MA6_RetroSeq",
@@ -393,7 +393,7 @@
   },
   {
     "Identifier": "MissionTools_CockpitEq_NavRet",
-    "Text": "НАВИГАЦИОННЫЙ ПРИЦЕЛ\r\nНавигационный прицел можно использовать для выравнивания корабля по горизонту."
+    "Text": "НАВИГАЦИОННЫЙ ПРИЦЕЛ\nНавигационный прицел можно использовать для выравнивания корабля по горизонту."
   },
   {
     "Identifier": "MissionTools_CockpitEq_ToggleNavRet",
@@ -429,7 +429,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_Staging_AtlasLV",
-    "Text": "Отделение: Ракетоноситель Атлас"
+    "Text": "Отделение: Ракета-носитель Атлас"
   },
   {
     "Identifier": "Debrief_KeyMoment_Staging_Retros",
@@ -469,6 +469,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_Staging_RedstoneLV",
-    "Text": "Отделение: Ракетоноситель Редстоун"
+    "Text": "Отделение: Ракета-носитель Редстоун"
   }
 ]
+
