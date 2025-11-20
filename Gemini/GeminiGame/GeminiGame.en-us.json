@@ -661,7 +661,7 @@
   },
   {
     "Identifier": "Debrief_KPI_PropRCSB",
-    "Text": "PROP: RCS A"
+    "Text": "PROP: RCS B"
   },
   {
     "Identifier": "Debrief_KPI_FuelConsumption_OAMS",
@@ -767,4 +767,5 @@
     "Identifier": "BurnUplinkBrief",
     "Text": "DCS Uplink brief: Time of burn is {0}, with a dV of {1} ft/s."
   }
+
 ]
