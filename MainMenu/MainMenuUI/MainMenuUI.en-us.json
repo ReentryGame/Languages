@@ -1522,5 +1522,13 @@
   {
     "Identifier": "RealismSettings_StarIdentifyHelperDesc",
     "Text": "Displays visual markers to help you identify stars. Stars stored in the AGC are highlighted with a blue halo."
+  },
+  {
+    "Identifier": "Settings_CameraSettings",
+    "Text": "CAMERA SETTINGS"
+  },
+  {
+    "Identifier": "Settings_CameraSettings_DefaultFoV",
+    "Text": "Default FoV"
   }
 ]
