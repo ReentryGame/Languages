@@ -353,6 +353,14 @@
   {
     "Identifier": "RetroburnPlanner_Long",
     "Text": "LONG"
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Gemini",
+    "Text": "\nLimitations (1.0):\n-Saving state between a planned burn and executing it. When requesting a planned burn, complete the burn before saving, or else the burn will need to be re-planned."
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Apollo",
+    "Text": "\nLimitations (1.0):\n-Saving state between a planned burn and executing it. When requesting a planned burn, complete the burn before saving, or else the burn will need to be re-planned.\n-Saving state between an executed TEI burn, and Earth SOI."
   }
   
 ]
