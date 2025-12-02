@@ -1261,7 +1261,7 @@
   },
   {
     "Identifier": "AutoUpdateChecklist_Desc",
-    "Text": "Updates to the default checklists are available and ready to be installed. By doing this, any changes you have made to the default checklists will be overwritten, so make backups before proceeding.\n\nTo install these changes, you can press the RESET DEFAULT CHECKLISTS button from SETTINGS, or by pressing INSTALL below.\n\nNOTE: If you have made modifications to any of the default checklits, this message will show. I would recommend you to untoggle the \"Automatically check for checklist changes\" in SETTINGS to disable this message, and manually use the RESET DEFAULT CHECKLISTS function."
+    "Text": "Updates to the default checklists are available and ready to be installed. By doing this, any changes you have made to the default checklists will be overwritten, so make backups before proceeding.\n\nTo install these changes, you can press the RESET DEFAULT CHECKLISTS button from SETTINGS, or by pressing INSTALL below.\n\nNOTE: If you have made modifications to any of the default checklists, this message will show. I would recommend you to untoggle the \"Automatically check for checklist changes\" in SETTINGS to disable this message, and manually use the RESET DEFAULT CHECKLISTS function."
   },
   {
     "Identifier": "AutoUpdateChecklist_Install",
