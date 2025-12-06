@@ -13,6 +13,7 @@ MainMenuUI
 - [X] Chinese (Simplified)
 - [X] Portuguese of Brazil
 - [ ] Japanese
+- [ ] Czech 
 
 CommonUI
 - [X] English/US
@@ -23,6 +24,7 @@ CommonUI
 - [X] Chinese (Simplified)
 - [X] Portuguese of Brazil
 - [ ] Japanese
+- [x] Czech 
 
 MercuryGame
 - [X] English/US
@@ -33,6 +35,7 @@ MercuryGame
 - [X] Chinese (Simplified)
 - [X] Portuguese of Brazil
 - [ ] Japanese
+- [ ] Czech
 
 GeminiGame
 - [X] English/US
@@ -43,6 +46,7 @@ GeminiGame
 - [X] Chinese (Simplified)
 - [X] Portuguese of Brazil
 - [ ] Japanese
+- [ ] Czech
 
 ApolloGame
 - [X] English/US
@@ -53,6 +57,9 @@ ApolloGame
 - [X] Chinese (Simplified)
 - [X] Portuguese of Brazil
 - [ ] Japanese
+- [ ] Czech
+
+| Czech | cs-cz |
 
 The following list shows the languages we currently want to support. More will be added as the core of the game gets translated. If you have suggestions please reach out.
 |        Language        | code  |
