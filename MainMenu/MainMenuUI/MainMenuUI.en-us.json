@@ -609,7 +609,7 @@
   },
   {
     "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
-    "Text": "This will enable random failures in missions that allows for this (Free Play or custom missions). The random failures system will roll a dice once every 2 - 5 minutes (cycle), where a random failure have a chance of happening. Below you can configure the chance a random failure can happen for each cycle, and what failures you wish to exclude from the list. Please note you can manually trigger a failure in-game using the failure console command."
+    "Text": "This will enable random failures in missions that allows for this (Free Play or custom missions). The random failures system will roll a dice once every 25 - 35 minutes (cycle), where a random failure have a chance of happening. Below you can configure the chance a random failure can happen for each cycle, and what failures you wish to exclude from the list. Please note you can manually trigger a failure in-game using the failure console command."
   },
   {
     "Identifier": "RealismSettings_MercuryRandomFailuresPercentage",
@@ -625,7 +625,7 @@
   },
   {
     "Identifier": "RealismSettings_GeminiRandomFailuresDesc",
-    "Text": "This will enable random failures in missions that allows for this (Free Play or custom missions). The random failures system will roll a dice once every 2 - 5 minutes (cycle), where a random failure have a chance of happening. Below you can configure the chance a random failure can happen for each cycle, and what failures you wish to exclude from the list. Please note you can manually trigger a failure in-game using the failure console command."
+    "Text": "This will enable random failures in missions that allows for this (Free Play or custom missions). The random failures system will roll a dice once every 25 - 35 minutes (cycle), where a random failure have a chance of happening. Below you can configure the chance a random failure can happen for each cycle, and what failures you wish to exclude from the list. Please note you can manually trigger a failure in-game using the failure console command."
   },
   {
     "Identifier": "RealismSettings_GeminiRandomFailuresPercentage",
@@ -641,7 +641,7 @@
   },
   {
     "Identifier": "RealismSettings_ApolloRandomFailuresDesc",
-    "Text": "This will enable random failures in missions that allows for this (Free Play or custom missions). The random failures system will roll a dice once every 2 - 5 minutes (cycle), where a random failure have a chance of happening. Below you can configure the chance a random failure can happen for each cycle, and what failures you wish to exclude from the list. Please note you can manually trigger a failure in-game using the failure console command."
+    "Text": "This will enable random failures in missions that allows for this (Free Play or custom missions). The random failures system will roll a dice once every 25 - 35 minutes (cycle), where a random failure have a chance of happening. Below you can configure the chance a random failure can happen for each cycle, and what failures you wish to exclude from the list. Please note you can manually trigger a failure in-game using the failure console command."
   },
   {
     "Identifier": "RealismSettings_ApolloRandomFailuresPercentage",
