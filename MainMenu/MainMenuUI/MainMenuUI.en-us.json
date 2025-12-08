@@ -1534,5 +1534,13 @@
   {
     "Identifier": "CameraSettings_InvertExternalViewXAxis",
     "Text": "External View: Invert X-Axis during Mouse Look"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloCustomColorTint",
+    "Text": "Apollo: Blue Color Tint on Integral Light"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloCustomColorTintDesc",
+    "Text": "The original integral color on the Apollo panels were white. This setting will override it with a slight ice blue tint."
   }
 ]
