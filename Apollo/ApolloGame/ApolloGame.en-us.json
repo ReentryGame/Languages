@@ -492,6 +492,10 @@
     "Text": "radial out"
   },
   {
+    "Identifier": "PDI_Requested",
+    "Text": "PDI request received. We are working on the trajectory and will let you know when the data is complete."
+  },
+  {
     "Identifier": "PDI_Fail",
     "Text": "Lunar Orbit Data not available."
   },
@@ -501,15 +505,19 @@
   },
   {
     "Identifier": "PDI_Info1",
-    "Text": "{0}, PDI set to {1}, with attitude 0, 110, 0."
+    "Text": "{0}, PDI set to {1}, with attitude 0°, 110°, 0°."
   },
   {
     "Identifier": "PDI_Info2",
-    "Text": "The time of ignition values are uploaded to the LGC. Verify with V06N33E. "
+    "Text": "The time of ignition values are uploaded to the LGC. Verify with V06N33E."
   },
   {
     "Identifier": "PDI_Info3",
     "Text": "Please attend to your landing site location."
+  },
+  {
+    "Identifier": "PDI_SiteUpdate",
+    "Text": "The PREFERRED flag has been set to the Landing Site REFSMMAT. You can align with it using P52 option 1."
   },
   {
     "Identifier": "TEI_BurnCalc",
