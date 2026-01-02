@@ -493,7 +493,7 @@
   },
   {
     "Identifier": "PDI_Requested",
-    "Text": "PDI request received. We are working on the trajectory and will let you know when the data is complete."
+    "Text": "PDI request received. We are working on the trajectory and will let you know when the data is complete. [This can take up to a minute]"
   },
   {
     "Identifier": "PDI_Fail",

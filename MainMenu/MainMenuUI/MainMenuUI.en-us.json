@@ -1542,5 +1542,17 @@
   {
     "Identifier": "RealismSettings_ApolloCustomColorTintDesc",
     "Text": "The original integral color on the Apollo panels were white. This setting will override it with a slight ice blue tint."
+  },
+  {
+    "Identifier": "Settings_TileSetStreamingPath",
+    "Text": "Absolute path of the folder containing the tile set:"
+  },
+  {
+    "Identifier": "Settings_SkipIntro",
+    "Text": "Skip the intro cutscene"
+  },
+  {
+    "Identifier": "Settings_GeneralHeader",
+    "Text": "GENERAL"
   }
 ]

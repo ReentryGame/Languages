@@ -361,6 +361,18 @@
   {
     "Identifier": "SaveState_Body_Limitation_Apollo",
     "Text": "\nLimitations (1.0):\n-Saving state between a planned burn and executing it. When requesting a planned burn, complete the burn before saving, or else the burn will need to be re-planned.\n-Saving state between an executed TEI burn, and Earth SOI."
+  },
+  {
+    "Identifier": "Debrief_Failure",
+    "Text": "Failure: "
+  },
+  {
+    "Identifier": "MissionPad_DragToReposition",
+    "Text": "DRAG TO REPOSITION"
+  },
+  {
+    "Identifier": "MissionPad_DragToRepositionVertical",
+    "Text": "D\nR\nA\nG\n \nT\nO\n \nR\nE\nP\nO\nS\nI\nT\nI\nO\nN"
   }
   
 ]
