@@ -373,6 +373,18 @@
   {
     "Identifier": "MissionPad_DragToRepositionVertical",
     "Text": "D\nR\nA\nG\n \nT\nO\n \nR\nE\nP\nO\nS\nI\nT\nI\nO\nN"
+  },
+  {
+    "Identifier": "VR_ToggleCurrentObjective",
+    "Text": "TOGGLE CURRENT OBJECTIVE"
+  },
+  {
+    "Identifier": "VR_TriggerAbort",
+    "Text": "ABORT"
+  },
+  {
+    "Identifier": "VR_ToggleMissionPad",
+    "Text": "TOGGLE MISSION PAD"
   }
   
 ]
