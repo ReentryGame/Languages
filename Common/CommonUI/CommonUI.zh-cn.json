@@ -161,7 +161,7 @@
   },
   {
     "Identifier": "SaveState_Error",
-    "Text": "警告：当前无法保存即时存档。即时存档在机动或关键任务阶段时不可用。"
+    "Text": "警告：当前无法保存即时存档。即时存档在点火机动和关键任务阶段时不可用。"
   },
   {
     "Identifier": "SaveState_ButtonSave",
