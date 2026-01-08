@@ -9,7 +9,7 @@
   },
   {
     "Identifier": "Button_OK",
-    "Text": "确认"
+    "Text": "好的"
   },
   {
     "Identifier": "MissionObjectives_Title",
@@ -17,11 +17,11 @@
   },
   {
     "Identifier": "Loading_PrepareCockpitState",
-    "Text": "[ 正在准备座舱...]"
+    "Text": "[ 正在准备座舱... ]"
   },
   {
     "Identifier": "ViewSelector_Title",
-    "Text": "[V]视角选择"
+    "Text": "[V] 选择视角"
   },
   {
     "Identifier": "ViewSelector_External",
@@ -45,18 +45,19 @@
   },
   {
     "Identifier": "InGameMenu_Failures",
-    "Text": "失效"
-  },{
+    "Text": "故障"
+  },
+  {
     "Identifier": "InGameMenu_Audio",
     "Text": "音频"
   },
   {
     "Identifier": "InGameMenu_InputControls",
-    "Text": "输入控制"
+    "Text": "输入设置"
   },
   {
     "Identifier": "InGameMenu_SaveState",
-    "Text": "保存任务"
+    "Text": "即时存档"
   },
   {
     "Identifier": "InGameMenu_MissionControlLive",
@@ -76,19 +77,19 @@
   },
   {
     "Identifier": "InGameMenu_Graphics",
-    "Text": "图像"
+    "Text": "图形设置"
   },
   {
     "Identifier": "InGameMenu_CreateChecklist",
-    "Text": "创建 检查单"
+    "Text": "创建检查单"
   },
   {
     "Identifier": "CommTools_Title",
-    "Text": "[C]通讯"
+    "Text": "[C] 通信"
   },
   {
     "Identifier": "CommTools_RequestRadioCheck",
-    "Text": "无线电检查"
+    "Text": "检查无线电质量"
   },
   {
     "Identifier": "MissionPad_Mission",
@@ -108,11 +109,15 @@
   },
   {
     "Identifier": "MissionPad_Transcript",
-    "Text": "报告单"
+    "Text": "通话记录"
   },
   {
     "Identifier": "MissionPad_Notes",
-    "Text": "日志"
+    "Text": "笔记"
+  },
+  {
+    "Identifier": "MissionPad_VR",
+    "Text": "VR"
   },
   {
     "Identifier": "AudioMenu_Title",
@@ -124,39 +129,39 @@
   },
   {
     "Identifier": "AudioMenu_Track_Cockpit",
-    "Text": "座舱音量"
+    "Text": "座舱"
   },
   {
     "Identifier": "AudioMenu_Track_External",
-    "Text": "外部音量"
+    "Text": "外部"
   },
   {
     "Identifier": "AudioMenu_Track_Music",
-    "Text": "音乐音量"
+    "Text": "音乐"
   },
   {
     "Identifier": "AudioMenu_Track_Misc",
-    "Text": "音效音量"
+    "Text": "杂项音效"
   },
   {
     "Identifier": "AudioMenu_Track_AstroComm",
-    "Text": "宇航员\n通讯"
+    "Text": "宇航员\n通信"
   },
   {
     "Identifier": "AudioMenu_Track_MCC",
-    "Text": "任务控制通讯"
+    "Text": "任务控制\n通信"
   },
   {
     "Identifier": "SaveState_Title",
-    "Text": "保存"
+    "Text": "即时存档"
   },
   {
     "Identifier": "SaveState_Body",
-    "Text": "我最近开始实现保存和加载状态进程。 它们目前非常基础，主要保存航天器和物理项目的状态向量，以及驾驶舱面板状态。\n\n我会尽量保持保存文件向后兼容，但请注意保存状态的重大更改，因为当前保存/加载系统处于的早期状态。"
+    "Text": "这将把你当前的状态保存到一个存档文件中。\n\n在下面输入文件名并按保存。\n\n注意：大多数核心状态、轨道参数和1.0版本内的系统数据都会被保存。随着游戏向2.0发展以及各系统的进一步开发，我们将继续改进即时存档功能。"
   },
   {
     "Identifier": "SaveState_Error",
-    "Text": "警告：现在无法保存。 在动力机动或关键任务阶段禁用保存状态。"
+    "Text": "警告：当前无法保存即时存档。即时存档在机动或关键任务阶段时不可用。"
   },
   {
     "Identifier": "SaveState_ButtonSave",
@@ -168,11 +173,11 @@
   },
   {
     "Identifier": "SaveState_SaveStateName",
-    "Text": "保存文件名:"
+    "Text": "存档名称:"
   },
   {
     "Identifier": "SaveState_SaveStateWarning",
-    "Text": "是否覆盖?"
+    "Text": "覆盖现有存档？"
   },
   {
     "Identifier": "Button_ClearAll",
@@ -181,5 +186,201 @@
   {
     "Identifier": "Button_Clear",
     "Text": "清除"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "UI比例"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "用户界面的缩放比例。"
+  },
+  {
+    "Identifier": "Debrief_End",
+    "Text": "结束任务"
+  },
+  {
+    "Identifier": "Debrief_Resume",
+    "Text": "继续任务"
+  },
+  {
+    "Identifier": "Debrief_Reload",
+    "Text": "重新加载任务"
+  },
+  {
+    "Identifier": "MissionPad_RunChecklist",
+    "Text": "执行:"
+  },
+  {
+    "Identifier": "MissionPad_CloseChecklist",
+    "Text": "< 返回"
+  },
+  {
+    "Identifier": "MissionPad_EditChecklist",
+    "Text": "编辑"
+  },
+  {
+    "Identifier": "Debrief_Title",
+    "Text": "任务总结"
+  },
+  {
+    "Identifier": "Debrief_Goals",
+    "Text": "目标"
+  },
+  {
+    "Identifier": "Debrief_Accomplished",
+    "Text": "任务完成"
+  },
+  {
+    "Identifier": "Debrief_NotAccomplished",
+    "Text": "任务未完成"
+  },
+  {
+    "Identifier": "Debrief_KeyMoments",
+    "Text": "关键时刻"
+  },
+  {
+    "Identifier": "LoadingPanelState",
+    "Text": "正在加载面板状态"
+  },
+  {
+    "Identifier": "TimeToLaunch",
+    "Text": "距离发射时间 T"
+  },
+  {
+    "Identifier": "TimeScale",
+    "Text": "时间倍速"
+  },
+  {
+    "Identifier": "Paused",
+    "Text": "时间已暂停"
+  },
+  {
+    "Identifier": "ViewSelector_Photocamera",
+    "Text": "摄像机视角"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxVel",
+    "Text": "最大速度"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxAlt",
+    "Text": "最大高度"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxGs",
+    "Text": "最大G值"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentAltitude",
+    "Text": "上升高度"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption",
+    "Text": "燃料消耗"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Splashdown",
+    "Text": "溅落"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Abort",
+    "Text": "中止"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_InsertionData",
+    "Text": "进入轨道 ({0} 海里 x {1} 海里, {2}° 倾角)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ignition",
+    "Text": "点火"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun",
+    "Text": "趣味功能"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo1",
+    "Text": "照片: photo1.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo2",
+    "Text": "照片: photo2.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo3",
+    "Text": "照片: photo3.png"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleAllCockpitEq",
+    "Text": "全部隐藏"
+  },
+  {
+    "Identifier": "CrewMembers_TogglePADs",
+    "Text": "座舱内笔记板"
+  },
+  {
+    "Identifier": "SlowMode",
+    "Text": "慢动作模式"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Title",
+    "Text": "反推点火计划工具"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Hours",
+    "Text": "时"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Minutes",
+    "Text": "分"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "秒"
+  },
+  {
+    "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
+    "Text": "预计着陆点"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Lat",
+    "Text": "纬度"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Long",
+    "Text": "经度"
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Gemini",
+    "Text": "\n限制 (1.0):\n-不能在计划点火和执行点火之间存档。当请求计划点火时，请在存档之前完成点火，否则需要重新计划点火。"
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Apollo",
+    "Text": "\n限制 (1.0):\n-不能在计划点火和执行点火之间存档。当请求计划点火时，请在存档之前完成点火，否则需要重新计划点火。\n-不能在执行完毕TEI点火之后到进入地球引力范围之前存档。"
+  },
+  {
+    "Identifier": "Debrief_Failure",
+    "Text": "失败: "
+  },
+  {
+    "Identifier": "MissionPad_DragToReposition",
+    "Text": "拖动此处以重新定位"
+  },
+  {
+    "Identifier": "MissionPad_DragToRepositionVertical",
+    "Text": "拖\n动\n此\n处\n以\n重\n新\n定\n位"
+  },
+  {
+    "Identifier": "VR_ToggleCurrentObjective",
+    "Text": "开关当前目标"
+  },
+  {
+    "Identifier": "VR_TriggerAbort",
+    "Text": "中止任务"
+  },
+  {
+    "Identifier": "VR_ToggleMissionPad",
+    "Text": "开关任务面板"
   }
 ]
