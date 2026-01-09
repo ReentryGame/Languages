@@ -339,10 +339,6 @@
     "Text": "SECONDS"
   },
   {
-    "Identifier": "RetroburnPlanner_Seconds",
-    "Text": "SECONDS"
-  },
-  {
     "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
     "Text": "ESTIMATED LANDING LOCATION"
   },
