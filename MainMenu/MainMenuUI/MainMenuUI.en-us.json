@@ -1340,20 +1340,12 @@
     "Text": "LAUNCH VEHICLE"
   },
   {
-    "Identifier": "LoadingScreen_LV",
-    "Text": "LAUNCH VEHICLE"
-  },
-  {
     "Identifier": "LoadingScreen_LoadsInto",
     "Text": "LOADS INTO"
   },
   {
     "Identifier": "LoadingScreen_LoadsInto_Orbit",
     "Text": "Orbit"
-  },
-  {
-    "Identifier": "LoadingScreen_LoadsInto_Pad",
-    "Text": "Pad"
   },
   {
     "Identifier": "LoadingScreen_LoadsInto_Pad",

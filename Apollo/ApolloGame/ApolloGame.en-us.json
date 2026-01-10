@@ -184,10 +184,6 @@
     "Text": "Set the burn delta-v in feet pr. second. The trajectory should show an estimate of the new orbit."
   },
   {
-    "Identifier": "BurnPlanner_Params_dV_Desc",
-    "Text": "Set the burn delta-v in feet pr. second. The trajectory should show an estimate of the new orbit."
-  },
-  {
     "Identifier": "BurnPlanner_Params_Direction_Title",
     "Text": "Burn Direction"
   },
@@ -236,10 +232,6 @@
     "Text": "TLI BURN PLANNER"
   },
   {
-    "Identifier": "TLIPlanner_Title",
-    "Text": "TLI BURN PLANNER"
-  },
-  {
     "Identifier": "TLIPlanner_Exec",
     "Text": "EXECUTE"
   },
@@ -278,10 +270,6 @@
   {
     "Identifier": "TLIPlanner_Params_SOI_Title",
     "Text": "SOI Angle Degree"
-  },
-  {
-    "Identifier": "TLIPlanner_Params_SOI_Desc",
-    "Text": "This value sets the arrival angle when the spacecraft enters the gravity influence of the Moon."
   },
   {
     "Identifier": "TLIPlanner_Params_SOI_Desc",
@@ -358,10 +346,6 @@
   {
     "Identifier": "AdvancedCamera_Orbit_Off",
     "Text": "SWITCH TO ORBIT"
-  },
-  {
-    "Identifier": "LRV_Handbrake",
-    "Text": "[HANDBRAKE ON - PRESS SPACE TO RELEASE]"
   },
   {
     "Identifier": "LRV_Handbrake",
@@ -1102,10 +1086,6 @@
   {
     "Identifier": "GameOverReason_NonCMEntry",
     "Text": "Tried to perform an atmospheric entry while attached to a stage. Only the CM can reenter."
-  },
-  {
-    "Identifier": "GameOverReason_LMEntry",
-    "Text": "Tried to perform an atmospheric entry with the LM attached to the CM."
   },
   {
     "Identifier": "GameOverReason_LMEntry",

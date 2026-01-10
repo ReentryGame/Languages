@@ -296,10 +296,6 @@
     "Text": "Separate the Adapter section."
   },
   {
-    "Identifier": "MissionObjective_Separation_Retro",
-    "Text": "Waiting for Retrograde section separation"
-  },
-  {
     "Identifier": "MissionObjective_CompletePanelConfiguration",
     "Text": "Complete panel configuration."
   },
@@ -386,10 +382,6 @@
   {
     "Identifier": "MissionObjective_State_MainDeploy",
     "Text": "Awaiting main deploy."
-  },
-  {
-    "Identifier": "MissionObjective_State_InHiDragZone",
-    "Text": "Waiting for atmospheric entry to start."
   },
   {
     "Identifier": "MissionObjective_State_InHiDragZone",
@@ -766,6 +758,9 @@
   {
     "Identifier": "BurnUplinkBrief",
     "Text": "DCS Uplink brief: Time of burn is {0}, with a dV of {1} ft/s."
+  },
+  {
+    "Identifier": "RetroburnPlanner_GeminiTimeSet",
+    "Text": "Retro sequence time set to {0}."
   }
-
 ]
