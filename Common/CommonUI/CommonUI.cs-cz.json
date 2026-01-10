@@ -1,0 +1,366 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ROZUMÍM"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "ODMÍTNOUT"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "SOUČASNÝ ÚKOL"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ PŘÍPRAVA STAVU KOKPITU ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] Ý B Ě R  Z O B R A Z E N Í"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "VNĚJŠÍ"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "OBĚŽNÝ"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "CENTRUM MISE"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENU"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "POKRAČOVAT"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "SELHÁNÍ"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "ZVUK"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "OVLÁDÁNÍ VSTUPU"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "ULOŽIT STAV"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "ŘÍZENÍ MISE BĚŽÍ"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "KONZOLE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "ÚPRAVA MISE"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "UKONČIT"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRAFIKA"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "VYTVOŘIT KONTROLNÍ SEZNAM"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] K O M U N I K A C E"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "KONTROLA VYSÍLAČKY"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "MISE"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "ZASEDÁNÍ"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "MAPA"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "KONTROLNÍ SEZNAMY"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "PŘEPIS"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "POZNÁMKY"
+  },
+  {
+    "Identifier": "MissionPad_VR",
+    "Text": "VIRTUÁLNÍ REALITA"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "NASTAVENÍ ZVUKU"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Obecné"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Kokpit"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "Vnější"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Hudba"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Smíšené SFX"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Komunikace\r\r\nAstronauta"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Komunikace Řízení Mise"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "ULOŽIT STAV"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "Toto uloží Váš dosavadní progres do úložného stavu.\r\r\n\r\r\r\r\r\nNíže zadejte název souboru a stiskněte ULOŽIT.\r\r\n\r\r\nPoznámka: Většina základních stavů, oběžných parametrů a systémových dat v rámci verze 1.0 je uložena. Uložené stavy se budou dále vyvíjet a zlepšovat s tím, jak se hra bude blížit k verzi 2.0 a jak se budou systémy dále rozvíjet."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Varování: Momentálně nelze uložit. Ukládání stavu je během motorových manévrů nebo kritických fází mise neaktivní."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "ULOŽIT"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "ZAVŘÍT"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Název Úložného Stavu:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Přepsat?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "VYMAZAT VŠE"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "VYMAZAT"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "UI Měřítko"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "Faktor měřítka uživatelského rozhraní."
+  },
+  {
+    "Identifier": "Debrief_End",
+    "Text": "UKONČIT MISI"
+  },
+  {
+    "Identifier": "Debrief_Resume",
+    "Text": "POKRAČOVAT V MISI"
+  },
+  {
+    "Identifier": "Debrief_Reload",
+    "Text": "ZNOVU NAČÍST MISI"
+  },
+  {
+    "Identifier": "MissionPad_RunChecklist",
+    "Text": "PRŮBĚH:"
+  },
+  {
+    "Identifier": "MissionPad_CloseChecklist",
+    "Text": "< ZPĚT"
+  },
+  {
+    "Identifier": "MissionPad_EditChecklist",
+    "Text": "UPRAVIT"
+  },
+  {
+    "Identifier": "Debrief_Title",
+    "Text": "SOUHRN MISE"
+  },
+  {
+    "Identifier": "Debrief_Goals",
+    "Text": "CÍLE"
+  },
+  {
+    "Identifier": "Debrief_Accomplished",
+    "Text": "MISE SPLNĚNA"
+  },
+  {
+    "Identifier": "Debrief_NotAccomplished",
+    "Text": "MISE NEBYLA DOKONČENA"
+  },
+  {
+    "Identifier": "Debrief_KeyMoments",
+    "Text": "KLÍČOVÉ MOMENTY"
+  },
+  {
+    "Identifier": "LoadingPanelState",
+    "Text": "NAČÍTÁNÍ PANELOVÉHO STAVU"
+  },
+  {
+    "Identifier": "TimeToLaunch",
+    "Text": "\r\rČas do odletu T"
+  },
+  {
+    "Identifier": "TimeScale",
+    "Text": "Měřítko času"
+  },
+  {
+    "Identifier": "Paused",
+    "Text": "POZASTAVENO"
+  },
+  {
+    "Identifier": "ViewSelector_Photocamera",
+    "Text": "FOTOKAMERA"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxVel",
+    "Text": "MAX RYCH"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxAlt",
+    "Text": "MAX VÝŠKA"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxGs",
+    "Text": "MAX G"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentAltitude",
+    "Text": "Výška Výstupu"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption",
+    "Text": "Spotřeba Paliva"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Splashdown",
+    "Text": "Přistání"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Abort",
+    "Text": "Přerušit"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_InsertionData",
+    "Text": "Vložení ({0} nmi x {1} nmi, {2}° inc)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ignition",
+    "Text": "Zapalování"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun",
+    "Text": "Zábava"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo1",
+    "Text": "Fotografie: foto1.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo2",
+    "Text": "Fotografie: foto2.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo3",
+    "Text": "Fotografie: foto3.png"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleAllCockpitEq",
+    "Text": "SKRÝT VŠE"
+  },
+  {
+    "Identifier": "CrewMembers_TogglePADs",
+    "Text": "PANEL V KOKPITU"
+  },
+  {
+    "Identifier": "SlowMode",
+    "Text": "POMALÝ MÓD"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Title",
+    "Text": "PLÁNOVAČ ZPĚTNÉHO SPALOVAČE"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Hours",
+    "Text": "HODINY"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Minutes",
+    "Text": "MINUTY"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "SEKUNDY"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "SEKUNDY"
+  },
+  {
+    "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
+    "Text": "PŘEDPOKLÁDANÉ MÍSTO PŘISTÁNÍ"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Lat",
+    "Text": "LAT"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Long",
+    "Text": "DLOUHÉ"
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Gemini",
+    "Text": "\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nOmezení (1.0):\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Ukládání stavu mezi plánovaným zapalováním a jeho spuštěním. Při žádosti o plánované zapalování je nutné před uložením zapalování dokončit, jinak bude nutné zapalování znovu naplánovat."
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Apollo",
+    "Text": "\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nOmezení (1.0):\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Ukládání stavu mezi plánovaným zapalováním a jeho spuštěním. Při žádosti o plánované zapalování je nutné před uložením zapalování dokončit, jinak bude nutné zapalování znovu naplánovat.\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Ukládání stavu mezi provedeným zapalováním TEI a SOI Země."
+  }
+]
