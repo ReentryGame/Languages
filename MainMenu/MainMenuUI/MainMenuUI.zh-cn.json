@@ -21,7 +21,7 @@
   },
   {
     "Identifier": "ContextMenu_Settings",
-    "Text": "系统设置"
+    "Text": "设置"
   },
   {
     "Identifier": "ContextMenu_Missions",
@@ -1157,11 +1157,11 @@
   },
   {
     "Identifier": "Settings_AlphaFeatures",
-    "Text": "alpha功能"
+    "Text": "Alpha功能"
   },
   {
     "Identifier": "Settings_AlphaFeaturesDesc",
-    "Text": "alpha功能是各种当前处于alpha阶段/开发中的功能和游戏模式。你可以使用此部分选择加入这些功能。这些功能目前处于研发阶段。您可以在主菜单的开发路线图部分了解每个功能的详细信息。\n如果您运行Steam设置-测试版中的ALPHA-FLOOR测试版本，这些功能将全部自动启用。\n\n注意：对该列表的更改需要重启游戏才能应用。"
+    "Text": "Alpha功能是各种当前处于Alpha阶段/开发中的功能和游戏模式。你可以使用此部分选择加入这些功能。这些功能目前处于研发阶段。您可以在主菜单的开发路线图部分了解每个功能的详细信息。\n如果您运行Steam设置-测试版中的ALPHA-FLOOR测试版本，这些功能将全部自动启用。\n\n注意：对该列表的更改需要重启游戏才能应用。"
   },
   {
     "Identifier": "Settings_AlphaFeature_MCC",
@@ -1205,19 +1205,19 @@
   },
   {
     "Identifier": "Profile_SkillMercuryFlightDirector",
-    "Text": "水星飞行指挥员"
+    "Text": "水星计划 飞行指挥员"
   },
   {
     "Identifier": "Profile_SkillMercuryCapCom",
-    "Text": "水星飞船通信员"
+    "Text": "水星计划 飞船通信员"
   },
   {
     "Identifier": "Profile_SkillApolloFlightDirector",
-    "Text": "阿波罗飞行指挥员"
+    "Text": "阿波罗计划 飞行指挥员"
   },
   {
     "Identifier": "Profile_SkillApolloCapCom",
-    "Text": "阿波罗飞船通信员"
+    "Text": "阿波罗计划 飞船通信员"
   },
   {
     "Identifier": "Profile_InsigniaPath",
@@ -1225,31 +1225,31 @@
   },
   {
     "Identifier": "Rank_CandidateSpaced",
-    "Text": "预 备 队 员"
+    "Text": "预备队员"
   },
   {
     "Identifier": "Rank_FlightGraduateSpaced",
-    "Text": "飞 行 员\n毕 业 生"
+    "Text": "飞行员\n毕 业 生"
   },
   {
     "Identifier": "Rank_EngineerSpaced",
-    "Text": "控 制 工 程 师"
+    "Text": "控制\n工程师"
   },
   {
     "Identifier": "Rank_MissionControllerSpaced",
-    "Text": "任 务 指 挥 员"
+    "Text": "任务\n指挥员"
   },
   {
     "Identifier": "Rank_CapComSpaced",
-    "Text": "飞 船 通 信 员"
+    "Text": "飞船\n通信员"
   },
   {
     "Identifier": "Rank_FlightDirSpaced",
-    "Text": "飞 行 指 挥 员"
+    "Text": "飞行\n指挥员"
   },
   {
     "Identifier": "Rank_CapComGraduateSpaced",
-    "Text": "飞 船 通 信\n毕 业 生"
+    "Text": "飞船通信\n毕业生"
   },
   {
     "Identifier": "Settings_VirtualRealityInput",
@@ -1365,11 +1365,11 @@
   },
   {
     "Identifier": "LoadingScreen_LoadsInto_Failures_No",
-    "Text": "否"
+    "Text": "无"
   },
   {
     "Identifier": "LoadingScreen_LoadsInto_Failures_Yes",
-    "Text": "是, 每周期{0}%"
+    "Text": "有, 每周期{0}%"
   },
   {
     "Identifier": "LoadingScreen_Program_Mercury",
@@ -1505,7 +1505,7 @@
   },
   {
     "Identifier": "MainMenuItem_DevMessage",
-    "Text": "开发者备注"
+    "Text": "开发者留言"
   },
   {
     "Identifier": "RealismSettings_StopCockpitCamOnBorder",
