@@ -1269,67 +1269,67 @@
   },
   {
     "Identifier": "GameTips_Tip1",
-    "Text": "You can use the console command sp or setsunphase to modify the sun phase/position."
+    "Text": "你可以使用控制台命令 sp 或 setsunphase 来修改太阳的相位/位置。"
   },
   {
     "Identifier": "GameTips_Tip2",
-    "Text": "If you have feedback, please visit our official Discord channel at discord.gg/reentrygame"
+    "Text": "如果你有反馈，请访问我们的官方Discord频道 discord.gg/reentrygame"
   },
   {
     "Identifier": "GameTips_Tip3",
-    "Text": "Avoid timescaling above 500x as it accumulates inaccuracies on internal systems."
+    "Text": "避免时间加速超过500倍，因为这会导致内部系统累积误差。"
   },
   {
     "Identifier": "GameTips_Tip4",
-    "Text": "The text-to-speech system can read out mission messages and lesson instructions in realtime. You can toggle this in settings."
+    "Text": "文字转语音系统可以实时朗读任务消息和课程说明。你可以在设置中切换此功能。"
   },
   {
     "Identifier": "GameTips_Tip5",
-    "Text": "We welcome every Virtual Astronaut to the Official Reentry Community over at our Discord server (discord.gg/reentrygame)!"
+    "Text": "我们欢迎每一位虚拟宇航员加入官方Reentry社区，欢迎访问我们的Discord服务器 (discord.gg/reentrygame)！"
   },
   {
     "Identifier": "GameTips_Tip6",
-    "Text": "Every spacecraft supported by Reentry has a flight manual. It is recommended to get familiar with these. You can find them at the Academy section."
+    "Text": "每个Reentry支持的航天器都有一本飞行手册。建议熟悉这些手册。你可以在教程部分找到它们。"
   },
   {
     "Identifier": "GameTips_Tip7",
-    "Text": "We are frequently searching for new Test Pilots (TP)! The TP-platform is Discord, and is part of the official Reentry Discord Channel (discord.gg/reentrygame)"
+    "Text": "我们经常寻找新的测试飞行员（TP）！测试飞行员平台使用Discord，是官方Reentry Discord频道（discord.gg/reentrygame）的一部分。"
   },
   {
     "Identifier": "GameTips_Tip8",
-    "Text": "You can create your own checklists or modify existing ones using the Checklist Editor. You can create and load checklists using the 'checklist' command in the in-game console"
+    "Text": "你可以使用检查单编辑器创建自己的检查单或修改现有的检查单。你可以使用游戏内控制台中的“checklist”命令创建和加载检查单。"
   },
   {
     "Identifier": "GameTips_Tip9",
-    "Text": "Avoid timescaling above 500x as it accumulates inaccuracies on internal systems."
+    "Text": "避免时间加速超过500倍，因为这会导致内部系统累积误差。"
   },
   {
     "Identifier": "GameTips_Tip10",
-    "Text": "The text-to-speech system can read out mission messages and lesson instructions in realtime. You can toggle this in settings."
+    "Text": "文字转语音系统可以实时朗读任务消息和课程说明。你可以在设置中切换此功能。"
   },
   {
     "Identifier": "GameTips_Tip11",
-    "Text": "The reflection probes require a lot of processing power. Try reducing it's setting or turn them OFF, especially for Apollo."
+    "Text": "反射探针消耗大量渲染资源。尝试降低其设置或关闭它们，特别是对于阿波罗。"
   },
   {
     "Identifier": "GameTips_Tip12",
-    "Text": "The in-game keyboard buttons for the OBC and the DSKY can be mapped in the Input Settings."
+    "Text": "游戏内OBC和DSKY的键盘按钮可以在输入设置中映射。"
   },
   {
     "Identifier": "GameTips_Tip13",
-    "Text": "You can map a hotkey for cutting the Lunar Module DPS on Lunar Contact."
+    "Text": "你可以为切断登月舱DPS设置一个快捷键。"
   },
   {
     "Identifier": "GameTips_Tip14",
-    "Text": "Avoid timescaling above 500x as it accumulates inaccuracies on internal systems."
+    "Text": "避免时间加速超过500倍，因为这会导致内部系统累积误差。"
   },
   {
     "Identifier": "GameTips_Tip15",
-    "Text": "The text-to-speech system can read out mission messages and lesson instructions in realtime. You can toggle this in settings."
+    "Text": "文字转语音系统可以实时朗读任务消息和课程说明。你可以在设置中切换此功能。"
   },
   {
     "Identifier": "GameTips_Tip16",
-    "Text": "Quicksave: You can assign a Quicksave keyboard/joystick button in the Input Mapper."
+    "Text": "即时存档：你可以在输入设置中为即时存档分配一个键盘/操纵杆按钮。"
   },
   {
     "Identifier": "LoadingScreen_Program",
@@ -1425,27 +1425,27 @@
   },
   {
     "Identifier": "RealismSettings_SimplifiedORDEALDesc",
-    "Text": "The ORDEAL in the Command Module and the Lunar Module has two modes: ORB RATE and INERTIAL. INERTIAL will display the current IMU/GDC attitude on the FDAI, while ORB RATE will show the Local Vertical Local Horizontal (LVLH) on the FDAI.\n\nThis setting enables a simplified ORDEAL logic when the ORDEAL is set to ORB RATE. It temporarily adjusts the IMU/GDC inertial platforms to match the LVLH. When the ORDEAL is returned to INERTIAL mode, the adjusted IMU/GDC platforms will revert to their original settings.\nThis allows auto-maneuvering and attitudes to align with the selected ORDEAL mode.\nSome academy lessons assume this is set to ON.\nSetting this to OFF will make the ORDEAL only adjust the FDAI ball without affecting the orientation of the IMU/GDC. This means all attitude information, auto-maneuvering, and targeting will be relative to the IMU, and the ORB RATE mode will be visual only. This is the most realistic option, and I recommend that those familiar with the IMU, REFSMMATs, P52, and attitude control set this to OFF, along with the Automatic Prograde Realism setting."
+    "Text": "指令舱和登月舱中的ORDEAL有两种模式：ORB RATE和INERTIAL。INERTIAL将在FDAI上显示当前的IMU/GDC姿态，而ORB RATE将在FDAI上显示LVLH坐标系。\n\n当ORDEAL设置为ORB RATE时，此设置启用简化的ORDEAL逻辑。它会暂时调整IMU/GDC惯性平台以匹配LVLH。当ORDEAL返回到INERTIAL模式时，调整后的IMU/GDC平台将恢复到其原始设置。\n这允许自动机动和姿态与所选的ORDEAL模式对齐。\n一些教程会假设此设置为开启。\n将此设置为关闭将使ORDEAL仅调整FDAI球，而不影响IMU/GDC的方向。这意味着所有姿态信息、自动机动和目标定位都将相对于IMU，而ORB RATE模式将仅为视觉效果。这是最符合现实的选项，我建议熟悉IMU、REFSMMAT、P52和姿态控制的用户将此设置为关闭，同时关闭自动进近现实感设置。"
   },
   {
     "Identifier": "GameTips_Tip17",
-    "Text": "Press SHIFT+M to open the Flight Documents. This allows you to read the manuals and use a browser in-game to open up pdfs, web sites etc."
+    "Text": "按下SHIFT+M打开飞行文档。这允许你阅读手册并在游戏内使用浏览器打开pdf、网站等。"
   },
   {
     "Identifier": "GameTips_Tip18",
-    "Text": "I recommend learning Mercury fully, before starting Project Gemini. Then learn Gemini and rendezvous/docking, before attempting Apollo. This will let you learn the game mechanics, and the technology as it evolved in real life."
+    "Text": "我建议你在开始双子星计划之前，先完全掌握水星计划。然后学习双子星计划和会合/对接，最后尝试阿波罗计划。这将让你了解游戏机制以及现实生活中技术的发展。"
   },
   {
     "Identifier": "GameTips_Tip19",
-    "Text": "The \"Apollo By The Numbers\" book (link found in the Apollo Flight Documents browser (SHIFT+M to toggle) is a great reference to use when planning burns or trying to figure out what LOI parameters to use."
+    "Text": "《Apollo By The Numbers》一书（链接可在阿波罗飞行文档浏览器中找到，按SHIFT+M切换）是规划点火或确定LOI参数时的绝佳参考资料。"
   },
   {
     "Identifier": "GameTips_Tip20",
-    "Text": "You can change/add Loading Screen images by replacing or adding files to the LoadingImages directory in the games AppData folder."
+    "Text": "你可以通过替换或添加游戏AppData文件夹中LoadingImages目录下的文件来更改或添加加载屏幕图片。"
   },
   {
     "Identifier": "GameTips_Tip21",
-    "Text": "Got a dark area in the cockpit or need additional light? You can always toggle the Flashlight using [F] to make it easier to see in dark areas."
+    "Text": "驾驶舱内有暗区或需要额外照明？你可以随时按[F]键切换手电筒，方便在暗区观察。"
   },
   {
     "Identifier": "Academy_CSM_Lesson9Full",
