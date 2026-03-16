@@ -841,7 +841,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_TimeToSPSBurn_Value1Seconds",
-    "Text": "Waiting to reach T -{0} seconds to burn. Time left: {1} seconds."
+    "Text": "Waiting to reach T -{0} seconds to SPS burn. Time left: {1} seconds."
   },
   {
     "Identifier": "MissionObjective_CM_Velocity_GreaterThan_Value1_FPS",

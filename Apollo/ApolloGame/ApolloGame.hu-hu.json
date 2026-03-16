@@ -1,0 +1,1702 @@
+﻿[
+  {
+    "Identifier": "CrewMember_CurrentOrbit",
+    "Text": "Jelenlegi keringési pálya: {0} tengeri mérföld x {1} tengeri mérföld"
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnRequested",
+    "Text": "Roger (Értettem), {0}. Keringésbe állító hajtómű indítást állítok be {1} tengeri mérföldnél."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCancelled",
+    "Text": "Roger, {0}. Keringésbe állító hajtómű indítás törölve."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCompleted",
+    "Text": "Roger, {0}. Keringésbe állító égés befejezve."
+  },
+  {
+    "Identifier": "ViewSelector_SwitchSpacecraftCSM",
+    "Text": "ÁTKAPCSOLÁS AZ LM-RE"
+  },
+  {
+    "Identifier": "ViewSelector_SwitchSpacecraftLM",
+    "Text": "ÁTKAPCSOLÁS CM-RE"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LeftSeat",
+    "Text": "BAL ÜLÉS"
+  },
+  {
+    "Identifier": "ViewSelector_CM_CenterSeat",
+    "Text": "KÖZÉPSŐ ÜLÉS"
+  },
+  {
+    "Identifier": "ViewSelector_CM_RightSeat",
+    "Text": "JOBB OLDALI ÜLÉS"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LeftWindow",
+    "Text": "BAL ABLAK"
+  },
+  {
+    "Identifier": "ViewSelector_CM_RightWindow",
+    "Text": "JOBB OLDALI ABLAK"
+  },
+  {
+    "Identifier": "ViewSelector_CM_Computer",
+    "Text": "AGC/DSKY"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LEB",
+    "Text": "LEB (Alsó Máso. Munk.áll.)"
+  },
+  {
+    "Identifier": "ViewSelector_LM_LeftStation",
+    "Text": "BALOLDALI ÁLLOMÁS"
+  },
+  {
+    "Identifier": "ViewSelector_LM_CenterPanel",
+    "Text": "KÖZÉPSŐ PANEL"
+  },
+  {
+    "Identifier": "ViewSelector_LM_RightStation",
+    "Text": "JOBB OLDALI ÁLLOMÁS"
+  },
+  {
+    "Identifier": "ViewSelector_LM_LeftWindow",
+    "Text": "BAL ABLAK"
+  },
+  {
+    "Identifier": "ViewSelector_LM_RightWindow",
+    "Text": "jobb ablak"
+  },
+  {
+    "Identifier": "ViewSelector_LM_Computer",
+    "Text": "LGC/DSKY"
+  },
+  {
+    "Identifier": "ViewSelector_LM_ECS",
+    "Text": "ECS (Környezet- és Létfentartó Rendszer)"
+  },
+  {
+    "Identifier": "ViewSelector_LM_OVHD",
+    "Text": "FELSŐ ABLAK"
+  },
+  {
+    "Identifier": "CommTools_ToggleCOAS",
+    "Text": "kapcsol\nCOAS"
+  },
+  {
+    "Identifier": "CommTools_ToggleHatch",
+    "Text": "AJTÓ KAPCSOLÁS"
+  },
+  {
+    "Identifier": "CommTools_ToggleDockingTarget",
+    "Text": "DOKKOLÁSI CÉLPONT KAPCSOLÁS"
+  },
+  {
+    "Identifier": "CommTools_ReqWeightData",
+    "Text": "SÚLYADATOK KÉRÉSE"
+  },
+  {
+    "Identifier": "CommTools_ToggleJukebox",
+    "Text": "MAGNETOFON KAPCSOLÁS"
+  },
+  {
+    "Identifier": "CommTools_ReqSwitchInternalPwr",
+    "Text": "BELSŐ ÁRAMFORRÁSRA KAPCSOL"
+  },
+  {
+    "Identifier": "CommTools_ToggleCountdown",
+    "Text": "VISSZASZÁMLÁLÁS FELFÜGGESZTÉSE"
+  },
+  {
+    "Identifier": "CommTools_ToggleSeats",
+    "Text": "ÜLÉSEK VÁLTÁSA"
+  },
+  {
+    "Identifier": "CommTools_ReqCloseHatchPad",
+    "Text": "AJTÓ KAPCSOLÁS"
+  },
+  {
+    "Identifier": "CommTools_ReplaceCanisterA",
+    "Text": "PATRON CSERÉJE"
+  },
+  {
+    "Identifier": "CommTools_ReplaceCanisterB",
+    "Text": "PATRON CSERÉJE"
+  },
+  {
+    "Identifier": "CommTools_LM_Exit",
+    "Text": "HOLDKOMP ELHAGYÁSA"
+  },
+  {
+    "Identifier": "CommTools_LM_ReplaceCanister",
+    "Text": "CSERE"
+  },
+  {
+    "Identifier": "PhysViewUITitle",
+    "Text": "PÁLYANÉZET"
+  },
+  {
+    "Identifier": "PhysViewUIMoon",
+    "Text": "HOLD"
+  },
+  {
+    "Identifier": "PhysViewUIEarth",
+    "Text": "FÖLD"
+  },
+  {
+    "Identifier": "PhysViewUICM",
+    "Text": "CM (Parancsnoki Modul)"
+  },
+  {
+    "Identifier": "PhysViewUILM",
+    "Text": "LM (Holdkomp)"
+  },
+  {
+    "Identifier": "ViewOutOfBounds",
+    "Text": "\n\n\n\n\n\n\nHATÁROKON KÍVÜL, TÉRJEN VISSZA A PILÓTAFÜLKÉBE.\n(NÉZETVÁLTÁS A VISSZAÁLLÍTÁSHOZ)"
+  },
+  {
+    "Identifier": "BurnPlanner_Title",
+    "Text": "Manőver Tervező"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Title",
+    "Text": "HAJTÓMŰINDÍTÁSI PARAMÉTEREK"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_IgnitionPoint_Title",
+    "Text": "Gyújtási Pont"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_IgnitionPoint_Desc",
+    "Text": "Állítsa be a hajtóműindítás orbitális fázisát pályaparaméterek használatával. A hajtóműgyújtásig hátralévő idő kiszámításra kerül."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Title",
+    "Text": "Delta-V"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Desc",
+    "Text": "Állítsa be a hajtóműindítás delta-v értékét láb perc másodpercben. A pálya az új pálya becsült útvonalát mutatja."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Direction_Title",
+    "Text": "Égési irány"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Direction_Desc",
+    "Text": "A legördülő menüvel állítsa be a hajtóműindítás irányát."
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Title",
+    "Text": "HAJTÓMŰ KIVÁLASZTÁS"
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Set",
+    "Text": "Hajtómű beállítása"
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Desc",
+    "Text": "A legördülő menü segítségével válassza ki a hajtóműindításhoz használni kívánt hajtóművet."
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_Title",
+    "Text": "ÉGÉSI ADATOK"
+  },
+  {
+    "Identifier": "BurnPlanner_EI_Title",
+    "Text": "LÉGKÖRI BELÉPÉS"
+  },
+  {
+    "Identifier": "BurnPlanner_Exec",
+    "Text": "KÉRÉS"
+  },
+  {
+    "Identifier": "BurnPlanner_AdditionalData_Title",
+    "Text": "TOVÁBBI ADATOK"
+  },
+  {
+    "Identifier": "BurnPlanner_ToggleLines",
+    "Text": "ELŐREJELZETT PÁLYA KAPCSOLÁS."
+  },
+  {
+    "Identifier": "BurnPlanner_Reset",
+    "Text": "TERVEZŐ VISSZAÁLLÍTÁSA"
+  },
+  {
+    "Identifier": "TLIPlanner_Title",
+    "Text": "TLI MANŐVER TERVEZŐ"
+  },
+  {
+    "Identifier": "TLIPlanner_Exec",
+    "Text": "VÉGREHAJTÁS"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Title",
+    "Text": "NÉZET FÓKUSZ"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Earth",
+    "Text": "FÖLD"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_BurnPoint",
+    "Text": "HAJTÓMŰINDÍTÁSI PONT"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Moon",
+    "Text": "HOLD"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_CSM",
+    "Text": "CSM (Parancsnoki és Műszaki egység)"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Title",
+    "Text": "HAJTÓMŰINDÍTÁSI PARAMÉTEREK"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Time_Title",
+    "Text": "Repülési Idő Faktor"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Time_Desc",
+    "Text": "Transzferidő a Hohmann transzferidő törtrészeként.\nTartomány 0.1-től 1.5-ig"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Title",
+    "Text": "SOI (Gravitációs Vonzáskörzet) Szög Fok"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Desc",
+    "Text": "Ez az érték állítja be a belépési szöget, amikor az űrhajó a Hold gravitációs vonzáskörzetébe lép."
+  },
+  {
+    "Identifier": "TLIPlanner_Params_TLIDept_Title",
+    "Text": "TLI indulási szög"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_TLIDept_Desc",
+    "Text": "Beállítja a Holdra induló gyorsítás indulási szögét."
+  },
+  {
+    "Identifier": "TLIPlanner_Data_Title",
+    "Text": "ÉGÉSI ADATOK"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_Countdown",
+    "Text": "idő a hajtóműgyújtásig:"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_TIG",
+    "Text": "Gyújtás Ideje"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_dV",
+    "Text": "dV (sebességváltozás)"
+  },
+  {
+    "Identifier": "TLIPlanner_Traj_Data",
+    "Text": "PÁLYA"
+  },
+  {
+    "Identifier": "TEIPlanner_Title",
+    "Text": "TRANSZ-FÖLDI GYORSÍTÁS"
+  },
+  {
+    "Identifier": "TEIPlanner_Exec",
+    "Text": "KÉRÉS"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Title",
+    "Text": "HAJTÓMŰINDÍTÁSI PARAMÉTEREK"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Ve_Title",
+    "Text": "Szökési sebességhányad"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Ve_Desc",
+    "Text": "Állítsa be a cél TEI sebességet a szökési sebesség töredékeként."
+  },
+  {
+    "Identifier": "TEIPlanner_BurnData_Title",
+    "Text": "ÉGÉSI ADATOK"
+  },
+  {
+    "Identifier": "AdvancedCamera_Title",
+    "Text": "KAMERA OPCIÓK"
+  },
+  {
+    "Identifier": "AdvancedCamera_Free_On",
+    "Text": "SZABAD"
+  },
+  {
+    "Identifier": "AdvancedCamera_Free_Off",
+    "Text": "ÁTKAPCSOLÁS SZABADRA"
+  },
+  {
+    "Identifier": "AdvancedCamera_Orbit_On",
+    "Text": "PÁLYA"
+  },
+  {
+    "Identifier": "AdvancedCamera_Orbit_Off",
+    "Text": "KAPCSOLÁS PÁLYÁRA"
+  },
+  {
+    "Identifier": "LRV_Handbrake",
+    "Text": "[KÉZIFÉK BE - NYOMJA MEG A SPACE BILLENTYŰT AZ ELENGEDÉSHEZ]"
+  },
+  {
+    "Identifier": "LRV_EnterLRV",
+    "Text": "LRV BESZÁLLÁS"
+  },
+  {
+    "Identifier": "LM_ReturnInside",
+    "Text": "VISSZATÉRÉS"
+  },
+  {
+    "Identifier": "LM_DeployLRV",
+    "Text": "HOLDJÁRÓ JÁRMŰ ÖSSZESZERELÉSE"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, a visszaszámlálás felfüggesztését kérem."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, kérem, folytassák a visszaszámlálást."
+  },
+  {
+    "Identifier": "RadioCommReq_LM_WeightData1",
+    "Text": "Értettem, {0}. Az LM súlya +{1} font és a CSM súlya +{2} font."
+  },
+  {
+    "Identifier": "RadioCommReq_LM_WeightData2",
+    "Text": "Roger, {0}. Az LM súlya +{1} font."
+  },
+  {
+    "Identifier": "RadioCommReq_CM_WeightData1",
+    "Text": "Roger, {0}. A CM súlya +{1} font és az LM súlya +{2} font."
+  },
+  {
+    "Identifier": "RadioCommReq_CM_WeightData2",
+    "Text": "Roger, {0}. A CM súly +{1} font."
+  },
+  {
+    "Identifier": "RadioCommReq_Mark",
+    "Text": "JEL."
+  },
+  {
+    "Identifier": "RadioCommReq_RadioCheck",
+    "Text": "{0}, halljuk önt, {1}, ötös."
+  },
+  {
+    "Identifier": "RadioCommReq_InternalPower",
+    "Text": "{0}, átkapcsolok belső áramforrásra."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, tartjuk a visszaszámlálást."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, visszaszámlálás folytatódott."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "VISSZASZÁMLÁLÁS FOLYTATÁSA"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "VISSZASZÁMLÁLÁS FELFÜGGESZTÉSE"
+  },
+  {
+    "Identifier": "RadioCommReq_CO2CanisterReplaced",
+    "Text": "A(z) {0}. számú CO2-szűrőpatron kicserélve."
+  },
+  {
+    "Identifier": "LunarAscent_BurnCalcData",
+    "Text": "TPI Hohmann égés ütemezve {0} MET-kor, {1} láb/másodperces dV-vel. LGC frissítve. Futtassa a P30-at a beállításhoz és a P41-et a végrehajtáshoz."
+  },
+  {
+    "Identifier": "LunarAscent_CSIError",
+    "Text": "{0}, Ön még emelkedik. Kérem, várjon, amíg beáll a kezdeti parkolópályára."
+  },
+  {
+    "Identifier": "LunarAscent_CSIBurnCalc",
+    "Text": "CSI manőver ütemezve {0} MET-re {1} láb/másodperc dV-vel. LGC frissítve. Futtassa a P30-at a beállításhoz és a P41-et a végrehajtáshoz."
+  },
+  {
+    "Identifier": "LunarAscent_AscentCalc1",
+    "Text": "{0},  holdi felszálló hajtómű gyújtás {1}-re beállítva."
+  },
+  {
+    "Identifier": "LunarAscent_AscentCalc2",
+    "Text": "A Gyújtás Ideje értékek feltöltésre kerültek az LGC-be. Ellenőrizd a V06N33E-vel."
+  },
+  {
+    "Identifier": "BurnPlanner_SPSDeorbitBurn",
+    "Text": "{0}, a pályaelhagyó hajtóműindításhoz az SPS gyújtás időpontja {1}h {2}m {3}s, a dV {4} láb/másodperc {5}. Az Égési Helyzet a jelenlegi REFSMMAT (Referencia Stabil Tag Mátrixa) szerint {6}."
+  },
+  {
+    "Identifier": "BurnPlanner_SPSBurn",
+    "Text": "{0}, az SPS gyújtás ideje {1}ó {2}p {3}mp, {4} láb/másodperc {5} dV-vel. Az Égési Helyzet a jelenlegi REFSMMAT-tal (Referencia Stabil Tag Mátrixa) {6}. Használja a P30-at, majd a V49E-t (AGC parancs), hogy ebbe a helyzetbe manőverezzen, vagy igazítsa az IMU-t az új, feltöltött, preferált REFSMMAT-hoz a P52, 1-es opciójával, 0,0,0 helyzetben."
+  },
+  {
+    "Identifier": "BurnPlanner_DPSBurn",
+    "Text": "{0}, a Leszálló Meghajtó Rendszer gyújtásának időpontja {1}h {2}m {3}s, a dV {4} láb/másodperc {5}."
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttCurr",
+    "Text": "Égési Helyzet (jelenlegi):"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttPref",
+    "Text": "Égési Helyzet (előnyben részesített):"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRetrograde",
+    "Text": "retrográd"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirPrograde",
+    "Text": "előre irányuló (pálya menti)"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRadialIn",
+    "Text": "sugárirányban befelé"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRadialOut",
+    "Text": "radiális kifelé"
+  },
+  {
+    "Identifier": "PDI_Requested",
+    "Text": "PDI kérelem fogadva. A pálya számítása folyamatban van, és értesítjük, amint az adatok elkészültek. [Ez akár egy percig is eltarthat]"
+  },
+  {
+    "Identifier": "PDI_Fail",
+    "Text": "Holdpálya Adatok nem áll rendelkezésre."
+  },
+  {
+    "Identifier": "PDI_Fail2",
+    "Text": "A pálya nem felel meg a Hajtóműves Holdi Leszállás követelményeinek. Csökkentse a Pe-t kb. 50.000 láb magasságra [8 tengeri mérföld magasság, 946 tengeri mérföld sugár]."
+  },
+  {
+    "Identifier": "PDI_Info1",
+    "Text": "{0}, PDI {1}-re állítva, 0°, 110°, 0° helyzettel."
+  },
+  {
+    "Identifier": "PDI_Info2",
+    "Text": "A Gyújtás Ideje értékek feltöltésre kerülnek az LGC-be. Ellenőrizze a V06N33E-vel."
+  },
+  {
+    "Identifier": "PDI_Info3",
+    "Text": "Figyeljen a leszállóhelyére."
+  },
+  {
+    "Identifier": "PDI_SiteUpdate",
+    "Text": "A PREFERRED jelző a leszállóhely REFSMMAT-jára (Referencia Stabil Tag Mátrixa) lett beállítva. Hozzáigazodhat a P52 (Program) 1-es opciójával."
+  },
+  {
+    "Identifier": "TEI_BurnCalc",
+    "Text": "{0}, a Gyújtás Ideje {1}h {2}m {3}s, a dV pedig {4} láb/másodperc"
+  },
+  {
+    "Identifier": "LM_ContactLight",
+    "Text": "Konttakt fény!"
+  },
+  {
+    "Identifier": "LM_Docking",
+    "Text": "Érintkezés, reteszelés."
+  },
+  {
+    "Identifier": "Stage_Staging",
+    "Text": "Fokozatleválasztás."
+  },
+  {
+    "Identifier": "TLIPlanner_LunarPe",
+    "Text": "Perihold = {0:0.0} tengeri mérföld magasság."
+  },
+  {
+    "Identifier": "TLIPlanner_FreeReturnPe",
+    "Text": "Visszatérési Perigeum={0:0.0} tengeri mérföld magasság"
+  },
+  {
+    "Identifier": "TLIPlanner_TimeToLOI",
+    "Text": "Becsült GET LOI-nél: {0}"
+  },
+  {
+    "Identifier": "TLIPlanner_Warning1",
+    "Text": "Atmoszférikus belépési pálya a Föld felé a szabad visszatérési útvonalon. Elkerüléséhez emelje a Perigeumot az Atmoszféra fölé ({0} tengeri mérföld magasság)."
+  },
+  {
+    "Identifier": "TLIPlanner_Warning2",
+    "Text": "Ütközési pálya a Holddal, a Perihold emelése a Holdfelszín fölé ({0} tengeri mérföld)"
+  },
+  {
+    "Identifier": "BurnPlanner_EIFlightPath",
+    "Text": "EI repülési útvonal szög: {0}°"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "EI ideje: {0}"
+  },
+  {
+    "Identifier": "BurnPlanner_VelAtEI",
+    "Text": "Sebesség az EI-nél: {0} láb/másodperc"
+  },
+  {
+    "Identifier": "BurnPlanner_CurrentPhase",
+    "Text": "Jelenlegi fázis:"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_Date",
+    "Text": "Dátum:"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_MET",
+    "Text": "MET (Küldetés Eltelt Ideje):"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_ET",
+    "Text": "Esemény Időzítő:"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_EarthOrbit",
+    "Text": "Föld körüli pálya"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_LunarOrbit",
+    "Text": "Holdkörüli pálya"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TIG",
+    "Text": "TIG (Begyújtási Idő)"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "Begyújtásig hátralévő idő"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_EstBurnT",
+    "Text": "Becsült égési időtartam"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_OrbitData",
+    "Text": "Pálya adatok"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_ApLabel",
+    "Text": "Ap (Apogeum):"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_PeLabel",
+    "Text": "Pe (Perigeum):"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_NmiLabel",
+    "Text": "tengeri mérföld"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_NmiAltLabel",
+    "Text": "tengeri mérföld magasság"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning1",
+    "Text": "A TEI hajtóműindítás nem éri el a Hold/bolygó SOI-ját"
+  },
+  {
+    "Identifier": "TEIPlanner_Calc",
+    "Text": "Periapszis: {0:0.00} tengeri mérföld magasság ({4} tengeri mérföld)\nIdő az EI-ig={1}\nΔV={2} láb/másodperc\nIdő a hajtóműgyújtásig={3}"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning2",
+    "Text": "Semmi"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning3",
+    "Text": "Szökési sebesség hányad bevitelének pontossági ellenőrzése."
+  },
+  {
+    "Identifier": "TEIPlanner_Warning4",
+    "Text": "Ellenőrizze a pályaexcentricitást. A Föld felé irányuló gyorsítási manőverhez körpálya szükséges."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Nincs."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Nyomja meg a(z) {0} gombot, amikor készen áll a küldetés folytatására."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Nyomja meg a ROGER gombot, amikor készen áll a küldetés folytatására."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Várakozás a felemelkedésre."
+  },
+  {
+    "Identifier": "MissionObjective_TowerSep",
+    "Text": "Várja a torony leválását."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteLaunchAscent",
+    "Text": "A felszállás és a pályára állás befejezése."
+  },
+  {
+    "Identifier": "MissionObjective_CECO",
+    "Text": "Várakozás a középső hajtómű leállítására."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration_CM",
+    "Text": "A PARANCSNOKI MODUL panel konfigurációjának elvégzése."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration_LM",
+    "Text": "A Holdkomp Panel-konfigurációja kész."
+  },
+  {
+    "Identifier": "MissionObjective_LunarContact",
+    "Text": "Szállj le a Hold felszínére."
+  },
+  {
+    "Identifier": "MissionObjective_CM_LOS",
+    "Text": "Várjon a jelvesztésre"
+  },
+  {
+    "Identifier": "MissionObjective_CM_AOS",
+    "Text": "Várjon AOS (Jelvétel Kezdete)"
+  },
+  {
+    "Identifier": "MissionObjective_LM_DPSIgnite",
+    "Text": "Gyújtsa be a DPS (Leszálló Hajtómű Rendszer) hajtóművét."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DPSShutoff",
+    "Text": "DPS manőver kész."
+  },
+  {
+    "Identifier": "MissionObjective_LM_APSIgnite",
+    "Text": "Gyújtsa be az APS (LM Felszáló) hajtóművet."
+  },
+  {
+    "Identifier": "MissionObjective_LM_APSShutoff",
+    "Text": "Az APS gyújtás legyen kész."
+  },
+  {
+    "Identifier": "MissionObjective_SwitchedToLunarStayArea",
+    "Text": "Kerüljön közel a Holdfelszínhez."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet1",
+    "Text": "Válassza le a Holdkompot a Parancsnoki/Szervíz Modulról."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet2",
+    "Text": "Közelíts {0} lábon belülre. {1} láb hátra."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_True",
+    "Text": "Érjen el {0} ft./s.-nál nagyobb sebességet a Holdkompban."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_False",
+    "Text": "Érjen el egy {0} láb/mp-nél kisebb sebességet a Holdkompban."
+  },
+  {
+    "Identifier": "MissionObjective_CM_AltitudeGreater_Value1",
+    "Text": "Érjen el {0} tengeri mérföldnél nagyobb magasságot"
+  },
+  {
+    "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
+    "Text": "Érje el a {0} tmf alatti magasságot a CM-ben"
+  },
+  {
+    "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
+    "Text": "Érjen el {0} tengeri mérföldnél alacsonyabb magasságot az LM-ben"
+  },
+  {
+    "Identifier": "MissionObjective_CM_CheckIfAGC_Program_Value1_IsRunning",
+    "Text": "AGC PROGRAM FUTTATÁSA:"
+  },
+  {
+    "Identifier": "MissionObjective_AGCCheck_VerbValue1_NounValue2",
+    "Text": "Jelenítse meg a Verb (Parancs) {0}, Noun (Adat) {1} adatokat az AGC DSKY-n (Kijelző & Billentyűzet Interfész)."
+  },
+  {
+    "Identifier": "MissionObjective_LGCCheck_VerbValue1_NounValue2",
+    "Text": "Jelenítse meg az LGC DSKY-n: Verb (Parancs) {0}, Noun (Adat) {1}."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1",
+    "Text": "Állítsd a CM Apogeum Magasságot {0} vagy annál nagyobb értékre."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsPeGreaterThan_Value1",
+    "Text": "Növeld a CM Pe magasságát {0} vagy annál nagyobb értékre."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Módosítsa a CS pályát legalább {0} Ap x {1} Pe (tengeri mérföld) magasságúra."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsAtRadioStation_String1",
+    "Text": "Kerülj a rádióállomás hatótávolságába:"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Longitude_Between_Value1_Value2",
+    "Text": "Érje el a {0} és {1} fok közötti hosszúságot."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Latitude_Between_Value1_Value2",
+    "Text": "Érjen el egy szélességi fokot {0} és {1} fok között."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsInclination_Value1_ThresholdValue2",
+    "Text": "Érje el a {0} pályasíkot +/- {1} küszöbértékkel"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageIC",
+    "Text": "Várjon az S-IC leválasztására."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageII",
+    "Text": "Várjon az S-II leválasztására."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageIVB",
+    "Text": "Várjon az S-IVB leválasztására."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageSM",
+    "Text": "Várjon az SM leválasztására."
+  },
+  {
+    "Identifier": "MissionObjective_CM_GravityInfluencer_Earth",
+    "Text": "Érje el a Föld gravitációs hatókörét."
+  },
+  {
+    "Identifier": "MissionObjective_CM_GravityInfluencer_Moon",
+    "Text": "Érje el a Hold gravitációs vonzáskörzetét."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DrogueDeploy",
+    "Text": "Fékezőernyő kioldására várva"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_MainDeploy",
+    "Text": "Várakozás a főernyő kioldására"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_InHiDragZone",
+    "Text": "Várakozás a Légköri Belépés megkezdésére."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_OutsideHighDragZone",
+    "Text": "Áthatolás a légkörön."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_SPSBurning",
+    "Text": "Az SPS hajtómű gyújtására várva."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_SPSNotBurning",
+    "Text": "Az SPS hajtóműindítás végrehajtása."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_AnyEngineBurning",
+    "Text": "Várakozás a hajtómű gyújtására."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_NoEnginesBurning",
+    "Text": "Hajtómű leállításra várva."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Ereszkedjen {0} láb magasság alá."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_Splashdown",
+    "Text": "Vízre szállás."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToAp_Value1",
+    "Text": "Ap T-{0} másodperc elérésére várva. Hátralévő idő: {1} másodperc."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToPe_Value1",
+    "Text": "Várakozás Pe T-{0} másodpercre. Hátralévő idő: {1} másodperc."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToRetro_Value1Seconds",
+    "Text": "Várakozás T-{0} másodperc elérésére a retrográd gyorsításhoz. Hátralévő idő: {1} másodperc."
+  },
+  {
+    "Identifier": "MissionObjective_CM_TimeToSPSBurn_Value1Seconds",
+    "Text": "Várakozás a T-{0} másodperc elérésére a Gyújtásig. Hátralévő idő: {1} másodperc."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Velocity_GreaterThan_Value1_FPS",
+    "Text": "Haladja meg a {0} ft./s. sebességet a Parancsnoki modullal."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Velocity_LessThan_Value1_FPS",
+    "Text": "Érjen el {0} ft./s.-nál kisebb sebességet a Parancsnoki modullal"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_AdjustPeriluneTo_Value1km_Value2ThresholdKm",
+    "Text": "Tervezd meg a TLI-t {0} +/- {1} tengeri mérföldes Perihold elérésére."
+  },
+  {
+    "Identifier": "MissionObjective_TLI_OpenPlanner",
+    "Text": "Nyissa meg a TLI tervezőt"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_RequestTB6",
+    "Text": "Kérem a Holdra induló gyorsítást."
+  },
+  {
+    "Identifier": "MissionObjective_TLI_BurnComplete",
+    "Text": "Végezze el a TLI égetést"
+  },
+  {
+    "Identifier": "MissionObjective_CSM_OpenBurnPlanner",
+    "Text": "A CSM manőver tervezőjének megnyitása"
+  },
+  {
+    "Identifier": "MissionObjective_CSM_BurnRequested",
+    "Text": "A CSM hajtóműindítás megtervezése és kérelmezése."
+  },
+  {
+    "Identifier": "MissionObjective_TEI_OpenBurnPlanner",
+    "Text": "Nyisd meg a Föld felé irányuló gyorsítás manőver tervezőt."
+  },
+  {
+    "Identifier": "MissionObjective_TEI_BurnRequested",
+    "Text": "A Föld felé irányuló gyorsítás (TEI) hajtóműindítás megtervezése és kérelmezése."
+  },
+  {
+    "Identifier": "MissionObjective_LM_CheckIfLGC_Program_Value1_IsRunning",
+    "Text": "LGC PROGRAM FUTTATÁS:"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P12Guidance",
+    "Text": "LGC P12 Irányítás kész"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P63Guidance",
+    "Text": "LGC P63 irányítás kész"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P64Guidance",
+    "Text": "LGC P64 irányítás kész"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarDescent",
+    "Text": "Hajtsa végre a holdi leszállást."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarAscent",
+    "Text": "A holdi felszállás végrehajtása."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CSI",
+    "Text": "A CSI manőver befejezése."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_PC",
+    "Text": "A PC manővert befeezése."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CDH",
+    "Text": "A CDH manőver befejezése."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPI",
+    "Text": "A TPI manőver befejezése."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPM",
+    "Text": "Befejezni a TPM manővert."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPF",
+    "Text": "A TPF manőver befejezése."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_DockedWithCSMAfterAscent",
+    "Text": "Dokkoljunk a Holdkomppal a Parancsnoki/Szervíz Modulhoz."
+  },
+  {
+    "Identifier": "MissionObjective_LM_State_IsComplete_LandingLegsDeployed",
+    "Text": "A Holdkomp aktiválása és a leszálló lábak kibocsátása"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_WalkingOnLunarSurface",
+    "Text": "Séta a Holdon"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_OutsideLunarModule",
+    "Text": "Hajtson végre EVA-t"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_InsideLunarModule",
+    "Text": "Térj vissza az LM-be."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Töltse ki az ellenőrzőlistát:"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DockedWithLunarModule",
+    "Text": "Dokkoljunk a Holdkomppal."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_UndockedWithTheLunarModule",
+    "Text": "Leválás a Holdkompról."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DockedWithLunarModuleInSIVB",
+    "Text": "Dokkoljunk a Holdkomppal az S-IVB-n."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "Állítsa a CSM-et {0} +/- {1} tengeri mérföldes körpályára."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_IsCircular_ThresholdValue1",
+    "Text": "Állítsa a CSM-et bármilyen körpályára {0} tengeri mérföldes küszöbbel."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "Állítsa az LM-et egy {0} +/- {1} tengeri mérföldes körpályára"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_IsCircular_ThresholdValue1",
+    "Text": "Juttassa az LM-et bármely körpályára, {0} tengeri mérföldes küszöbbel."
+  },
+  {
+    "Identifier": "MissionObjective_LM_TimeToDPSBurn_Value1Seconds",
+    "Text": "Várakozás a DPS manőver T-{0} másodperces időpontjára. Hátralévő idő: {1} másodperc."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_TimeToAp_Value1",
+    "Text": "Ap T-{0} másodperc elérésére várva. Hátralévő idő: {1} másodperc."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
+    "Text": "Várakozás a Pe elérésére, T-{0} másodperc. Hátralévő idő: {1} másodperc."
+  },
+  {
+    "Identifier": "MissionObjective_CM_DockingAlignmentWithLM_Value1",
+    "Text": "Igazítás az LM dokkoló kúphoz {0}°-on belül. Jelenlegi eltérés {1}°."
+  },
+  {
+    "Identifier": "MCC_SetTLMToAccept",
+    "Text": "Állítsa a Telemetria adatátvitelt (felfelé) ELFOGAD állásba (2-es Panel), az AGC-t P00-ra, és próbálja újra."
+  },
+  {
+    "Identifier": "MCC_REFSMMATUplinked",
+    "Text": "REFSMMAT (Referencia Stabil Tag Mátrixa) adatátvitel (felfelé). Használd a P52 1-es opcióját annak beállításához, amikor az Adatátvitel Aktív jelzőfény kialszik."
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "RÁDIÓELLENŐRZÉS"
+  },
+  {
+    "Identifier": "RadioCommMenu_TLI",
+    "Text": "S-IVB MANŐVERTERVEZŐ"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "MANŐVER TERVEZŐ"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestPDI",
+    "Text": "PDI KÉRÉSE"
+  },
+  {
+    "Identifier": "RadioCommMenu_Request",
+    "Text": "KÉRÉS"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestTEI",
+    "Text": "TEI KÉRÉSE"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestCSI2",
+    "Text": "TPF KÉRÉSE"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewMembers",
+    "Text": "SZEMÉLYZETI TAGOK"
+  },
+  {
+    "Identifier": "RadioCommMenu_CAPCOM",
+    "Text": "CAPCOM (Kapszula Kommunikátor)"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseAscent",
+    "Text": "FELSZÁLLÁS"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCDH",
+    "Text": "CDH (Parancs Adatkezelés)"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCSI",
+    "Text": "CSI (Ko-elliptikus Szekvencia Indítása)"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhasePC",
+    "Text": "PC (Fáziskoherens Rádiós Távolság Mérés)"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPF",
+    "Text": "TPF (Perigeumhoz/Periapsishoz csúcspontig hátralévő idő)"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPI",
+    "Text": "TPI (Pályacél-megközelítés indítása)"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPM",
+    "Text": "TPM (Pályaközi korrekciós manőver)"
+  },
+  {
+    "Identifier": "RadioCommMessage_TooHighGLoads",
+    "Text": "A G-terhelés túl magas."
+  },
+  {
+    "Identifier": "GameOverReason_TooHighGLoads",
+    "Text": "Szerkezeti és személyzeti sérülése a túl magas G-erők miatt."
+  },
+  {
+    "Identifier": "GameOverReason_Crashed",
+    "Text": "Leszállás során lezuhant."
+  },
+  {
+    "Identifier": "GameOverReason_NonCMEntry",
+    "Text": "Légköri belépést kísérelt meg egy fokozathoz csatolva. Csak a CM léphet be újra."
+  },
+  {
+    "Identifier": "GameOverReason_LMEntry",
+    "Text": "Légköri Belépést kísérelt meg a CM-hez csatlakoztatott LM-mel."
+  },
+  {
+    "Identifier": "BurnPlanner_UplinkPreferred",
+    "Text": "(OPCIONÁLIS) IMU: ÁLLÍTSA PREFERÁLTRA"
+  },
+  {
+    "Identifier": "BurnPlanner_CommsPreferredSet",
+    "Text": "Az előnyben részesített égési irány beállítva. A hajtóműindítás kérelmezése előtt a P52 1-es opciójával adjon nyomatékot a giroszkópoknak, amihez állítsa az ORDEAL-t Inerciális állásba, és hajtsa végre a V37E 52E V22E +1E PRO PRO billentyűzést."
+  },
+  {
+    "Identifier": "RadioCommReq_MissionTimeSync",
+    "Text": "A Küldetésidő-mérők szinkronizálásra kerültek a Földi Küldetésidővel."
+  },
+  {
+    "Identifier": "CommTools_SyncMetTimers",
+    "Text": "MET IDŐZÍTŐK SZINKRONIZÁLÁSA"
+  },
+  {
+    "Identifier": "UI_CloseHatch",
+    "Text": "ZÁRJA BE A NYÍLÁSZÁRÓT"
+  },
+  {
+    "Identifier": "UI_OpenHatch",
+    "Text": "NYITOTT AJTÓ"
+  },
+  {
+    "Identifier": "CrewMembers_Title",
+    "Text": "SZEMÉLYZETI TAGOK"
+  },
+  {
+    "Identifier": "ViewSelector_HowHelp",
+    "Text": "Miben segíthetek?"
+  },
+  {
+    "Identifier": "ViewSelector_Crew",
+    "Text": "SZEMÉLYZET"
+  },
+  {
+    "Identifier": "ViewSelector_ManageCrew",
+    "Text": "SZEMÉLYZET KEZELÉSE"
+  },
+  {
+    "Identifier": "CrewMembers_OnBoard",
+    "Text": "FEDÉLZETI"
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc",
+    "Text": "CSM AUTOMATIKUS KERINGETÉS"
+  },
+  {
+    "Identifier": "CrewMembers_CSMPower",
+    "Text": "KÉRÉS A CMP-HEZ AZ LMP TÁPELLÁTÁSÁRA."
+  },
+  {
+    "Identifier": "CrewMembers_LandingAid",
+    "Text": "LESZÁLLÁSI PONT KIJELÖLŐ"
+  },
+  {
+    "Identifier": "CrewMembers_SlewAid",
+    "Text": "RANDEVÚ RADAR IRÁNYÍTÁS"
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid",
+    "Text": "CSM/LM DOKKOLÁS"
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr",
+    "Text": "LM SZEMÉLYZET: MANŐVER"
+  },
+  {
+    "Identifier": "CrewMembers_Ground",
+    "Text": "FÖLD"
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT",
+    "Text": "REFSMMATs KÉRÉS"
+  },
+  {
+    "Identifier": "CrewMembers_PADs",
+    "Text": "KÉRJEN PAD-eket és TÉRKÉPEKET"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Info",
+    "Text": "Ezen az oldalon kezelheti a személyzetet. Ha a betöltött állás régebbi, mint 0.84, a felülbírálás kapcsoló alapértelmezetten engedélyezett, és lehetővé teszi a személyzet mozgatását még akkor is, ha a CSM/LM nincs dokkolva nyitott ajtóval."
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Override",
+    "Text": "Felülbírálási átvitel"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Commander",
+    "Text": "Parancsnok"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheCSM",
+    "Text": "A CSM-BEN"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheLM",
+    "Text": "AZ LM-BEN"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InEVASuit",
+    "Text": "EVA ruhában"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_CMP",
+    "Text": "Parancsnoki Modul Pilóta"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_LMP",
+    "Text": "Holdkomp Pilóta"
+  },
+  {
+    "Identifier": "CrewMembers_LPD_Desc",
+    "Text": "A holdi leszállás utolsó szakaszaiban fontos leszállási adatokat fogok közölni. P64-től a földetérésig folyamatosan közölni fogom a magasságot, a süllyedési sebességet, a kiválasztott tartály üzemanyagszintjét, valamint a leszállási pont pozícióját a Leszállási Pont Kijelölő (LPD) segítségével.\n\nAz LPD bólintási szög a leszállási pont helyzetét jelöli az ablak függőleges jelein, az LPD legyezés pedig a vízszintes tengelyen. A fenti ablakon lévő PIROS pont LPD bólintási szöge 10 fok, oldalazási szöge pedig 0 fok.\n\nAz adatok 10 másodpercenként frissülnek."
+  },
+  {
+    "Identifier": "CrewMembers_Toggle",
+    "Text": "KAPCSOL"
+  },
+  {
+    "Identifier": "CrewMembers_RR_Desc",
+    "Text": "Ez segítséget nyújt Önnek az RR (Randevú Radar) CSM célpontra történő irányításához. Ha az RR üzemmód választó a SLEW állásban van, az LMP (Holdkomp Modul Pilóta) megmondja Önnek, hogy hány fokkal kell a radart a *shaft* (forgástengely) és a *trunnion* (billenőtengely) mentén irányítani ahhoz, hogy az lássa a CSM-et."
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid_Desc",
+    "Text": "Ez a dokkolási segédeszköz az LM/CSM-től való távolságot jelzi."
+  },
+  {
+    "Identifier": "CrewMembers_PowerLM_Desc",
+    "Text": "A CMP konfigurálja a CSM-et a Holdkomp áramellátására a dokkoló köldökzsinóron keresztül."
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc_Desc",
+    "Text": "A CMP automatikusan körpályára állítja a keringést egy, a jelenlegi Pe és Ap közötti értékre."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_Desc",
+    "Text": "Kérés az LM személyzethez, hogy hajtson végre egy manővert, amellyel a CSM felé fordul, relatív szögben."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_CsmAtt_Desc",
+    "Text": "Kérés az LM személyzetnek, hogy igazítsa az LM helyzetét a CSM helyzetéhez."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_Desc",
+    "Text": "Ezek a funkciók REFSMMAT feltöltést kérelmeznek a földről. Győződjön meg róla, hogy a Feltöltési Telemetria Elfogadásra van állítva (2. Panel). A feltöltést követően használja a P52 1. opciót az IMU igazításához."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Desc",
+    "Text": "PTC REFSMMAT:\nEz igazítja az IMU-t az ekliptikához és a Hold-Föld vonalhoz a Föld felé irányuló gyorsítás TEI csomópontjánál."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Request",
+    "Text": "PTC REFSMMAT KÉRÉS"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Desc",
+    "Text": "Előzetes Tájékoztató Adatok (PAD-ok) & ŰRLAPOK"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Forms",
+    "Text": "ŰRLAPOK\nEzek a lehetőségek megnyitnak egy *UI*-t (felhasználói felületet), amely a kiválasztott űrlapot tartalmazza. PAD/adatok kérésekor az adatok rendje a kiválasztott űrlapénak fog megfelelni. A ceruza eszköz lehetővé teszi az űrlap kitöltését az adatok lejegyzése céljából."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CommandModule",
+    "Text": "PARANCSNOKI MODUL:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P52",
+    "Text": "NYITOTT P52 IMU ÚJRAIGAZÍTÁSI ŰRLAP"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P30",
+    "Text": "NYISSA MEG A P30 MANŐVER PAD ŰRLAPOT"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P37",
+    "Text": "NYISSA MEG A P37 ADATBLOKK LAP ŰRLAPOT"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_TLI",
+    "Text": "TLI PAD ŰRLAP MEGNYITÁSA"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_Entry",
+    "Text": "BELÉPÉSI PAD ADATLAP MEGNYITÁSA"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM",
+    "Text": "HOLDKOMP:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_P30",
+    "Text": "NYISSA MEG A P30 MANŐVER PAD ŰRLAPOT"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_Ascent",
+    "Text": "A HOLDI FELSZÁLLÁS PAD NYOMTATVÁNY MEGNYITÁSA"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_DockedIMUCoarseAlign",
+    "Text": "NYITOTT LM DOKKOLVA IMU DURVA IGAZÍTÁS"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_General",
+    "Text": "ÁLTALÁNOS:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_BlankPaper",
+    "Text": "NYITOTT LAP: ÜRES"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_IMURealign",
+    "Text": "IMU Újraigazítás\nA P52 az IMU újraigazítására szolgál. Ezzel kérhető az IMU újraigazítása a küldetés jelenlegi időpontjában."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RequestIMURealign",
+    "Text": "P52: IMU Újraigazítás"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_Desc",
+    "Text": "CSM SPS PÁLYAKÖRÖSÍTŐ HAJTÓMŰINDÍTÁS PAD-OK\n\nEzek a PAD-ok egy pályakörösítő hajtóműindítás megtervezésére szolgálnak Apogeumban vagy Perigeumban."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqPeBurn",
+    "Text": "P30 Manőver: PÁLYAKÖRÖSÍTÉS A PE-N"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqApBurn",
+    "Text": "P30 Manőver: Keringés az apogeumban"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Desc",
+    "Text": "SKYLAB RANDEVÚ PAD-ok\nA Skylab randevú égés kiszámításához szükséges PAD(ok)."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Request",
+    "Text": "P30 Manőver: Randevú a Skylabbal"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Desc",
+    "Text": "HOLDI/FÖLDI BELÉPÉSI PAD\nEz a PAD arra szolgál, hogy az űrhajót a légkörön keresztül biztonságosan visszajuttassa a Földre, és tartalmazza a Légköri Belépés előkészítéséhez szükséges összes adatot."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Request",
+    "Text": "BELÉPÉSI PAD KÉRÉSE"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts",
+    "Text": "TÉRKÉPEK"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMSkylabRndzPlot",
+    "Text": "RANDEVÚ HELYZETRAJZ: CSM / SKYLAB"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMLMRndzPlot",
+    "Text": "RANDEVÚ ÁBRÁZOLÁS: CSM / LM (HOLDKÖRÜLI PÁLYA)"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_PDI",
+    "Text": "PDI PAD FORM megnyitása"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T1",
+    "Text": "KRIO O2 1. TA."
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T2",
+    "Text": "KRIO O2 2. TA."
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T1",
+    "Text": "KRIO H 1. TA."
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T2",
+    "Text": "KRIO H 2. TA."
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGvsIV",
+    "Text": "LESZÁLLÁS G-k x IV"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGs",
+    "Text": "Leszállás G-k"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentAlt",
+    "Text": "Leszállási Magasság"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVI",
+    "Text": "PDI Sebességjelző"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVIfts",
+    "Text": "PDI Sebességjelző (láb/másodperc)"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIAlt",
+    "Text": "PDI Magasság (ft)"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentWT",
+    "Text": "Emelkedési WT (súly)"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentPitch",
+    "Text": "Emelkedési bólintás"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentGs",
+    "Text": "Emelkedési G-k"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "Főernyő kiengedve"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "Fékezőernyő kiengedve"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMIngress",
+    "Text": "Első belépés a Holdkompba"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Maxq",
+    "Text": "max-q (maximális dinamikus nyomás)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsIECO",
+    "Text": "SI-C: Belső hajtómű leállítás"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsOECO",
+    "Text": "SI-C: Külső Hajtómű Leállítás"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsIECO",
+    "Text": "S-II: Belső hajtómű leállítás"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsOECO",
+    "Text": "S-II: Külső Hajtómű Leállítás"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_TowerJettison",
+    "Text": "Mentőrakéta-torony Ledobása"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_DockedWithCSM",
+    "Text": "Holdi felszállás: CSM-mel dokkolt"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_APSBurnComplete",
+    "Text": "Holdi felszállás: APS gyújtás befejezve"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarStay_WalkOnMoon",
+    "Text": "Holdi Tartózkodás: EVA"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarLanding",
+    "Text": "Földetérés a Holdfelszínen"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryEarthSOI",
+    "Text": "Belépett a Föld vonzáskörzetébe"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryLunarSOI",
+    "Text": "Belépés a Hold Gravitációs Hatósugarába"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLICompleted",
+    "Text": "Transz-Lunáris Gyorsítás Befejezve"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscentStarted",
+    "Text": "Holdi felszállás: APS gyújtás"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnPlanned",
+    "Text": "Tervezett SPS hajtóműindítás TIG {0}-kor, dV={1} láb/másodperc"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnPlanned",
+    "Text": "Tervezett DPS manőver a TIG {0} időpontban, dV={1} láb/másodperc"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnCompleted",
+    "Text": "SPS hajtóműindítás: dV={0} láb/másodperc, Ap={1} tengeri mérföld R, Pe={2} tengeri mérföld R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnCompleted",
+    "Text": "SPS hajtóműindítás: dV={0} láb/másodperc, Ap={1} tengeri mérföld R, Pe={2} tengeri mérföld R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLIIgnition",
+    "Text": "Transz-Lunáris Gyorsítási Égetés Gyújtás"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockedWithLM",
+    "Text": "Lecsatlakozott az LM-ről"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMDocking",
+    "Text": "Dokkolva a Holdkomppal: Követés és Dokkolás kész"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockedWithLM",
+    "Text": "Dokkolva a Holdkomppal"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_PDIStarted",
+    "Text": "Holdi hajtóműves ereszkedés megkezdődött"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RollProgram",
+    "Text": "Orsózás program"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIC",
+    "Text": "fokozatleválasztás: S-IC"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SII",
+    "Text": "Fokozatleválasztás: S-II"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIVB",
+    "Text": "Fokozatleválasztás: S-IVB"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SM",
+    "Text": "Fokozatleválasztás: Szervíz Modul/CM"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit",
+    "Text": "PILÓTAFÜLKE"
+  },
+  {
+    "Identifier": "CrewMembers_CockpitEq_Title",
+    "Text": "PILÓTAFÜLKE FELSZERELÉS"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_CueCards",
+    "Text": "Eljáráskártyák"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_1",
+    "Text": "Váltóáram Táp kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_2",
+    "Text": "Szervíz Modul Berendezés kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_3",
+    "Text": "Saturn V pályaemelés kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_4",
+    "Text": "Parancsnoki Gyorsítási Megszakítások kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_5",
+    "Text": "LMP pályaemelés Megszakítások kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_6",
+    "Text": "TLI kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_7",
+    "Text": "Névleges TLI 1 kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_8",
+    "Text": "TnD váltása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_9",
+    "Text": "TnD Folyamatos váltása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_10",
+    "Text": "Leválás SEP kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_11",
+    "Text": "SPS hajtóműindítás kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_12",
+    "Text": "SPS Égés Vezérlés kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_13",
+    "Text": "Belépés kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_14",
+    "Text": "SPS hajtóműindítási szabályok kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_15",
+    "Text": "LOI korlátok kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_16",
+    "Text": "EPS ECS Megszakítások kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_17",
+    "Text": "CM Leszállás kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_18",
+    "Text": "CM Leszállás 10K kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_19",
+    "Text": "CSM DAP beállítás kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_20",
+    "Text": "CSM behelyezés váltása"
+  },
+  {
+    "Identifier": "CrewMembers_A13NoSign",
+    "Text": "Az Apollo 13 NO táblát kapcsolása."
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_LM_1",
+    "Text": "LM Figyelmeztető Lámpák kapcsolása"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleVelcro",
+    "Text": "Tépőzár levétel"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions1",
+    "Text": "{0}/{1}: Optika irányítás"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions2",
+    "Text": "{0}: Kilépés az Optikai Kijelzőből"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions3",
+    "Text": "{0}: Optikai Szemlencse kapcsoló"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions4",
+    "Text": "{0}: JEL"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions5",
+    "Text": "{0}: JEL ELUTASÍTVA"
+  },
+  {
+    "Identifier": "VROptics_MotionControllerInstructions1",
+    "Text": "Jobb hüvelykujj: Kijelző mozgatása\nKommunikáció Váltása: Kijelző váltása\nBal ravasz: Kilépés a kijelzőből\nInterakció Bal: JEL\nInterakció Jobb: Jel elutasítása"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_WindowShields",
+    "Text": "Ablakárnyékolók"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_LH",
+    "Text": "Bal oldali RNDZ ablak (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_RH",
+    "Text": "Jobb RNDZ ablak (CMP)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_LH",
+    "Text": "Bal oldali ablak (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_RH",
+    "Text": "Jobb oldalsó ablak (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Hatch",
+    "Text": "Ajtó Ablak"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeOfSMSep",
+    "Text": "A CM/SM leválasztás időpontja: {0}"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffset",
+    "Text": "Pálya eltolás (0 - 5 pálya)"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetNext",
+    "Text": "Következő elhaladás"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetFuture",
+    "Text": "+{0}Pálya"
+  }
+]
