@@ -1,0 +1,766 @@
+﻿[
+  {
+    "Identifier": "CommReq_ReadyToLaunch",
+    "Text": "INDULÁSRA KÉSZ"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "RÁDIÓELLENŐRZÉS"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "MAGASSÁG ELLENŐRZÉS"
+  },
+  {
+    "Identifier": "CommReq_RadiatorTemperature",
+    "Text": "RADIÁTOR HŐMÉRSÉGLET."
+  },
+  {
+    "Identifier": "CommReq_OrbitInfo",
+    "Text": "KERINGÉSI ADATOK"
+  },
+  {
+    "Identifier": "CommReq_FCTempCheck",
+    "Text": "ÜZEMANYAGCELLA HŐMÉRSÉKLET"
+  },
+  {
+    "Identifier": "CommReq_RequestTargetManeuver",
+    "Text": "KÉRÉS\nCÉLPONT\nHAJTÓMŰINDÍTÁS"
+  },
+  {
+    "Identifier": "CommReq_RetroAtNextApogee",
+    "Text": "FÉKEZŐRAKÉTA A KÖVETKEZŐ AP-nál"
+  },
+  {
+    "Identifier": "CommReq_EVAButton",
+    "Text": "EVA"
+  },
+  {
+    "Identifier": "CommReq_RequestRetroTime",
+    "Text": "FÉKEZŐ ELLENŐRZÉS IDEJE"
+  },
+  {
+    "Identifier": "CommReq_OpenHatchButtonCdr",
+    "Text": "AJTÓ\nKAPCSOLÓ"
+  },
+  {
+    "Identifier": "CommReq_OpenHatchButtonPilot",
+    "Text": "AJTÓ\nKAPCSOLÓ"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "MAGNETOFON KAPCSOLÁSA"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "KÉZI FELSZÁLLÁSI ADATOK"
+  },
+  {
+    "Identifier": "CommReq_AttitudeData",
+    "Text": "HELYZETADATOK"
+  },
+  {
+    "Identifier": "CommReq_ToggleDRing",
+    "Text": "D-GYŰRŰ VÁLTÁSA"
+  },
+  {
+    "Identifier": "CommReq_SwitchToInternalPower",
+    "Text": "BELSŐ ÁRAMFORRÁSRA KAPCSOLÁS"
+  },
+  {
+    "Identifier": "CommReq_AbortCapabilityTest",
+    "Text": "MEGSZAKÍTÁS\n& PIROTECHNIKA ELLENŐRZÉSE"
+  },
+  {
+    "Identifier": "CommReq_RetroAtTargetCursor",
+    "Text": "FÉKEZŐRAKÉTA AZ ORBITÁLIS KURZORNÁL"
+  },
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "PARANCSNOKI ÜLÉS"
+  },
+  {
+    "Identifier": "ViewSelector_CommanderPanel",
+    "Text": "PARANCSNOKI PANEL"
+  },
+  {
+    "Identifier": "ViewSelector_CenterPanel",
+    "Text": "KÖZÉPSŐ PANEL"
+  },
+  {
+    "Identifier": "ViewSelector_CenterPedestal",
+    "Text": "KÖZÉPSŐ PULT"
+  },
+  {
+    "Identifier": "ViewSelector_CoPilotSeat",
+    "Text": "PILÓTAÜLÉS"
+  },
+  {
+    "Identifier": "ViewSelector_CoPilotPanel",
+    "Text": "PILÓTA PANELJE"
+  },
+  {
+    "Identifier": "ViewSelector_RoofPanel",
+    "Text": "FELSŐ PANEL"
+  },
+  {
+    "Identifier": "OrbitalCursor_Title",
+    "Text": "O R B I T Á L I S   K U R Z O R"
+  },
+  {
+    "Identifier": "OrbitalCursor_Move",
+    "Text": "ORBITÁLIS MUTATÓ MOZGATÁSA"
+  },
+  {
+    "Identifier": "OrbitalCursor_Time",
+    "Text": "ÁTHALADÁSI IDŐ:"
+  },
+  {
+    "Identifier": "EVA_RemainingFuel",
+    "Text": "MARADÉK ÜZEMANYAG"
+  },
+  {
+    "Identifier": "EVA_Enter",
+    "Text": "ENTER (Bevitel)"
+  },
+  {
+    "Identifier": "EVA_GetBackpack",
+    "Text": "GET (Földi Eltelt Idő)"
+  },
+  {
+    "Identifier": "CommReq_AstroReadyToLaunch",
+    "Text": "{0} {1} indulásra kész!"
+  },
+  {
+    "Identifier": "CommReq_RadioVoiceCheck",
+    "Text": "{0}, halljuk önt 5x5."
+  },
+  {
+    "Identifier": "CommReq_UpdatedRetroTime",
+    "Text": "{0}, a Retró Idő frissítve lett: {{timeToRetro}}. Ellenőrizze a Core 19-et, és végezzen módosításokat, ha szükséges."
+  },
+  {
+    "Identifier": "CommReq_CheckRetroTime",
+    "Text": "{0}, idő a Fékezőrakéta-gyújtásig: {{timeToRetro}}. Korrekció a Core 19-cel."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus1",
+    "Text": "A radiátor kimeneti hőmérséklet megfelelő, a bemenet {0}. Állítsa a RADIÁTOR-t ÁRAMLÁSRA (FLOW)."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus2",
+    "Text": "A radiátor kimeneti hőmérséklete rendben, a bemeneti {0}. Állítsa a RADIÁTOR-t ÁRAMLÁSRA (FLOW)."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus3",
+    "Text": "A radiátor kimeneti hőmérséklet kissé magas, a bemenetnél {0}. Állítsa a RADIÁTOR kapcsolót BY-PASS állásba."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus4",
+    "Text": "A radiátor kimeneti hőmérséklete magas, a bemeneti {0}. Állítsa a RADIÁTOR-t BY-PASS állásba."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus5",
+    "Text": "A radiátor kimeneti hőmérséklete Skálán kívüli magas érték, a bemeneti {0}. Állítsa a RADIATOR-t BY-PASS állásba."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus6",
+    "Text": "Adapter leválasztva, radiátorok nem elérhetők."
+  },
+  {
+    "Identifier": "CommReq_FCStatus1",
+    "Text": "Üzemanyagcella 1 Hőmérséklet OK."
+  },
+  {
+    "Identifier": "CommReq_FCStatus2",
+    "Text": "1-es üzemanyagcella hőmérséklete alacsony, állítsa Bemelegítés-re (WARMUP)."
+  },
+  {
+    "Identifier": "CommReq_FCStatus3",
+    "Text": "2-es Üzemanyagcella Hőmérséklet Rendben."
+  },
+  {
+    "Identifier": "CommReq_FCStatus4",
+    "Text": "2-es Üzemanyagcella hőmérséklete alacsony, állítsa BEMELEGÍTÉS (WARMUP) állásba."
+  },
+  {
+    "Identifier": "CommReq_FCStatus5",
+    "Text": "Adapter leválasztva, az üzemanyagcellák nem elérhetők."
+  },
+  {
+    "Identifier": "CommReq_AltStatus1",
+    "Text": "0 (tengerszint)"
+  },
+  {
+    "Identifier": "CommReq_AltStatus2",
+    "Text": "kisebb, mint 9"
+  },
+  {
+    "Identifier": "CommReq_AltStatus3",
+    "Text": "Látjuk, a magassága {0} tengeri mérföld."
+  },
+  {
+    "Identifier": "CommReq_NoTelemetry",
+    "Text": "Nem látjuk a Telemetriát."
+  },
+  {
+    "Identifier": "CommReq_Acknowledged",
+    "Text": "Tudomásul vettem!"
+  },
+  {
+    "Identifier": "CommReq_StageSep",
+    "Text": "{0} leválasztva."
+  },
+  {
+    "Identifier": "ReqBurn_Response",
+    "Text": "{0}, égés ütemezve {1}-re, {2} delta-V-vel"
+  },
+  {
+    "Identifier": "ReqBurnResponse_NotCircular",
+    "Text": "{0}, nem tudja kiszámítani az égést. Nem körpályán van. Állítsa körpályára a keringést, mielőtt randevú égést kérne."
+  },
+  {
+    "Identifier": "ReqBurnResponse_NotIncl",
+    "Text": "{0}, nem tudja kiszámítani az égést. Ön nincs síkban a céllal, igazítsa be, mielőtt randevú hajtóműgyújtást kér."
+  },
+  {
+    "Identifier": "Cockpit_AbortCapabilityTest",
+    "Text": "{0}, Megszakítás és Piro-patron Működési Teszt indítása."
+  },
+  {
+    "Identifier": "Cockpit_SquibTestFailed",
+    "Text": "{0}, gyújtópatron teszt sikertelen. Ellenőrizze a gyújtópatron Gyűjtősín áramellátást, és hogy a gyújtópatron akkumulátorok UMB-n vannak."
+  },
+  {
+    "Identifier": "Cockpit_SquibTestComplete",
+    "Text": "{0}, piro-patron teszt kész. Ellenőrizze: Megszakítás lámpák BE."
+  },
+  {
+    "Identifier": "Cockpit_AbortSquibTestFailed",
+    "Text": "{0}, Megszakítás- és Piro-patron-teszt sikeresen befejeződött."
+  },
+  {
+    "Identifier": "Cockpit_AbortSquibTestComplete",
+    "Text": "{0}, a Megszakítás & Piro-patron Üzemképességi Teszt végrehajtása sikertelen."
+  },
+  {
+    "Identifier": "Cockpit_AbortSquibTestInProgress",
+    "Text": "{0}, a Megszakítás- és Piro-patron képességvizsgálata már folyamatban van."
+  },
+  {
+    "Identifier": "Cockpit_InternalPower",
+    "Text": "{0}, átkapcsolás belső áramforrásra."
+  },
+  {
+    "Identifier": "Cockpit_EVA",
+    "Text": "{0}, jelenleg nem lehetséges EVA-t végrehajtani."
+  },
+  {
+    "Identifier": "Cockpit_UpdateTTRetro",
+    "Text": "{0}, a Retró Idő frissítve lett, az új érték {{timeToRetro}}. Kérjük, ellenőrizze a Core 19-et és végezzen módosításokat, ha szükséges."
+  },
+  {
+    "Identifier": "Cockpit_UnableToUpdateTTRetro",
+    "Text": "{0}, nem sikerült beállítani a fékezőrakéta-időt. Ellenőrizze, hogy a számítógép működik és a DCS be van kapcsolva."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Nincs."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Nyomja meg a(z) {0} gombot, amikor készen áll a küldetés folytatására."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Nyomja meg a ROGER gombot, amikor készen áll a küldetés folytatására."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteActivity",
+    "Text": "Tevékenység kész."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Várakozás az emelkedésre."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_StageI",
+    "Text": "Várjon az I. fokozat leválasztására."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_StageII",
+    "Text": "Várjon a II. fokozat leválasztására."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Adapter",
+    "Text": "Az Adapter szekció leválasztása."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Panelkonfiguráció kész."
+  },
+  {
+    "Identifier": "MissionObjective_Rendezvous_DistanceToTarget_LessThanValue1Feet",
+    "Text": "Célpont megközelítése {0} lábon belülre"
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "A {0} azonosítójú ellenőrzőlista teljesítése."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Töltse ki az ellenőrzőlistát."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Érjen el {0} km-nél nagyobb magasságot."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Érje el a {0} km alatti magasságot."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1_ft",
+    "Text": "Érjen el {0} ft-nál nagyobb magasságot."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1_ft",
+    "Text": "Érjen el {0} ft-nál alacsonyabb magasságot."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Növeld az Ap Magasságot {0} vagy annál nagyobb értékre."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Növeld a Pe magasságot {0} vagy annál nagyobb értékre."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "Keringési pálya módosítása {0} Ap x {1} Pe (km) vagy annál nagyobb magasságra."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Kerülj a {0} rádióállomás hatósugarába."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "Kerülj a {0} rádióállomás hosszúsági hatótávolságába."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Érjen el {0} és {1} fok közötti hosszúságot."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Érjen el egy szélességi fokot {0} és {1} fok között."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "Várjon a fékező szekvencia indítására."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Érje el a {0} pályasíkot +/- {1} küszöbbel"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "Várakozás a fokozatleválasztásra."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "Retró szekció leválásának várása."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Várakozás a magas légköri fékeződésre (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "Fékezőernyő kioldására várva."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "Várakozás a főernyő kioldására."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Várakozás a Légköri Belépés megkezdésére."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Áthatolás a légkörön."
+  },
+  {
+    "Identifier": "MissionObjective_State_SSECO",
+    "Text": "SSECO-ra várva."
+  },
+  {
+    "Identifier": "State_InCockpit",
+    "Text": "Szállj be a pilótafülkébe."
+  },
+  {
+    "Identifier": "State_RCSEnabled",
+    "Text": "RCS engedélyezése."
+  },
+  {
+    "Identifier": "State_InEVA",
+    "Text": "Hajtson végre EVA-t"
+  },
+  {
+    "Identifier": "MissionObjective_CheckComputerProgramRunning_ComputerMode",
+    "Text": "A {0} OBC (Fedélzeti Számítógép) program futtatása."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "Várakozás a retrográd hajtóművek gyújtására."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Ereszkedjen {0} láb magasság alá."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "Vízre szállás."
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToAp_Value1",
+    "Text": "Ap elérésére várva - {0} másodperc. Hátralévő idő: {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToPe_Value1",
+    "Text": "Várakozás a Pe elérésére - {0} másodperc. Hátralévő idő: {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToTargetBurn_Value1Seconds",
+    "Text": "Várakozás a randevú égés T - {0} másodpercére. Hátralévő idő: {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "Érjen el körpályát {0} km +/- {1} magasságon."
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_IsCircular_ThresholdValue1",
+    "Text": "Érjen el körpályát, ahol az Ap és Pe közötti magasságkülönbség < {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_IsOnTarget_ThresholdValue1",
+    "Text": "Érjen el Ap {0} x Pe {1} km magasságú célpályát."
+  },
+  {
+    "Identifier": "MissionObjective_Radio_SuccessRequestTargetBurn",
+    "Text": "Sikeres randevú égés kérés."
+  },
+  {
+    "Identifier": "MissionObjective_Radio_TimeToTargetBurn_Value1",
+    "Text": "Várakozás T - {0} másodperc elérésére a randevú égéshez. Hátralévő idő: {1}"
+  },
+  {
+    "Identifier": "MissionObjective_State_Docked",
+    "Text": "Dokkoljunk a célponthoz."
+  },
+  {
+    "Identifier": "MissionObjective_State_Undocked",
+    "Text": "Leválás a célpontról."
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToRetro_Value1Seconds",
+    "Text": "T -{0} másodperc a retrográd gyorsításig. Hátralévő idő: {1}"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, a visszaszámlálás szüneteltetését kérem."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, kérem folytassák a visszaszámlálást."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, tartjuk a visszaszámlálást."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, visszaszámlálás folytatódott."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "VISSZASZÁMLÁLÁS FOLYTATÁSA"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "VISSZASZÁMLÁLÁS FELFÜGGESZTÉSE"
+  },
+  {
+    "Identifier": "CommReq_RequestCircPe",
+    "Text": "KÖRPÁLYÁSÍTÁS\nPe"
+  },
+  {
+    "Identifier": "CommReq_RequestCircAp",
+    "Text": "KÖRPÁLYÁSÍTÁS\nAp"
+  },
+  {
+    "Identifier": "CommReq_RequestRndz",
+    "Text": "RNDZ"
+  },
+  {
+    "Identifier": "CommReq_ToggleTHC",
+    "Text": "KAPCSOL\nTHC"
+  },
+  {
+    "Identifier": "CommReq_RequestBurnAndMissionTools",
+    "Text": "KÜLDETÉS ESZKÖZÖK"
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "Miben segíthetek?"
+  },
+  {
+    "Identifier": "MissionTools_Ground",
+    "Text": "FÖLDI"
+  },
+  {
+    "Identifier": "MissionTools_RequestBurns",
+    "Text": "HAJTÓMŰINDÍTÁSOK KÉRÉSE"
+  },
+  {
+    "Identifier": "MissionTools_Forms",
+    "Text": "ŰRLAPOK/LAPOK"
+  },
+  {
+    "Identifier": "MissionTools_DataForms",
+    "Text": "ADATŰRLAPOK & TÉRKÉPEK"
+  },
+  {
+    "Identifier": "MissionTools_Cockpit",
+    "Text": "PILÓTAFÜLKE"
+  },
+  {
+    "Identifier": "MissionTools_CockpitFunctions",
+    "Text": "PILÓTAFÜLKE FUNKCIÓK"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_Charts",
+    "Text": "Térképek"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_RndzPlot",
+    "Text": "RENDEZVOÚS PLOT: GEMINI/AGENA"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataForms",
+    "Text": "Adatűrlapok"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataFormsDesc",
+    "Text": "ŰRLAPOK\nEzek a lehetőségek a kiválasztott űrlap kezelőfelületét nyitják meg. Egy ceruza eszköz teszi lehetővé az űrlap kitöltését az adatok lejegyzéséhez."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenCatchUpPadForm",
+    "Text": "FELZÁRKÓZÁSI MANŐVER PAD"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_TextSheets",
+    "Text": "JEGYZETLAPOK\nKülönböző lapok használhatók jegyzetek készítésére, rajzolásra és adatok gyűjtésére."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenBlankPaper",
+    "Text": "ÜRES PAPÍR"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Title",
+    "Text": "Előzetes Tájékoztató Adatok (PAD-ok)"
+  },
+  {
+    "Identifier": "MissionTools_PADs_CircBurns",
+    "Text": "KERINGETÉSI ÉGÉSEK\nEzek a PAD-ok egy keringési hajtóműindítás megtervezésére szolgálnak vagy az Ap (Apogeum)-nál, vagy a Pe (Perigeum)-nél."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircPeBurn",
+    "Text": "PE KERINGÉSBE ÁLLÍTÓ HAJTÓMŰ INDÍTÁS KÉRÉ"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircApBurn",
+    "Text": "AP KERINGÉSBE ÁLLÍTÓ HAJTÓMŰ INDÍTÁS KÉRÉS"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Rendezvous",
+    "Text": "RENDEVÚ ÉGÉS\nA randevú égés feltétele a szabályos Körpálya. Körpályán egy randevú égés kérése megtervez egy olyan hajtóműindítást, amely létrehozza a randevút a célponttal. A kezdeti randevú égés befejezése után, kérje a megfelelő új pályakörösítő égést a randevú véglegesítéséhez."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestRendezvous",
+    "Text": "RANDEVÚ ÉGÉS KÉRÉS"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChange",
+    "Text": "PÁLYASÍK-VÁLTOZTATÓ HAJTÓMŰINDÍTÁS\nA pályasík-változtató hajtóműindításokra a felszálló vagy a leszálló csomópontnál kerül sor (amikor délről észak felé, vagy északról dél felé haladva keresztezi az Egyenlítőt). A legalacsonyabb sebességű csomópont kerül felhasználásra az alább beállítandó célpályahajlás eléréséhez szükséges dV (sebességváltozás) megtervezéséhez.\n1) Gépelje be az elérni kívánt pályahajlást\n2) Kérje a PÁLYASÍK-VÁLTOZTATÓ manővert"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChangeInc",
+    "Text": "Célpont pályahajlás"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestPlaneChange",
+    "Text": "PÁLYASÍK-VÁLTOZTATÓ HAJTÓMŰINDÍTÁS KÉRÉSE"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "Pilótafülke Felszerelés"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleOptics",
+    "Text": "OPTIKAI CÉLZÓ BE/KI KAPCSOLÁSA"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleGT3FlightPlan",
+    "Text": "KAPCSOL GT-3: REPÜLÉSI TERV"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleSandwitch",
+    "Text": "KAPCSOL GT-3: PÁCOLT MARHAHÚSOS SZENDVICS"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_DET",
+    "Text": "DIGITÁLIS ESEMÉNY IDŐZÍTŐ (DET)"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ResetDET",
+    "Text": "ESEMÉNY IDŐZÍTŐ VISSZAÁLLÍT"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2",
+    "Text": "KRIO OXIGÉN"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2",
+    "Text": "KRIO HIDROGÉN"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT1",
+    "Text": "Oxigén: MÁSOD 1. Ta."
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT2",
+    "Text": "Oxigén: MÁSOD 2 Ta."
+  },
+  {
+    "Identifier": "Debrief_KPI_PropOAMS",
+    "Text": "HAJTÁS: OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSA",
+    "Text": "HAJTÁS: RCS A"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSB",
+    "Text": "HAJTÁS: RCS B"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_OAMS",
+    "Text": "OAMS (Pálya Attitűd Manőverező Rendszer)"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_RCS",
+    "Text": "RCS (Orientációs Manőverező Rendszer)"
+  },
+  {
+    "Identifier": "Debrief_KPI_Descent",
+    "Text": "LESZÁLLÁS"
+  },
+  {
+    "Identifier": "Debrief_KPI_GLoad",
+    "Text": "G-terhelés"
+  },
+  {
+    "Identifier": "Debrief_KPI_Altitude",
+    "Text": "Magasság"
+  },
+  {
+    "Identifier": "Debrief_KPI_Orbit",
+    "Text": "Pálya"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitAp",
+    "Text": "Ap (Apogeum)"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitPe",
+    "Text": "Pe (Perigeum)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ejected",
+    "Text": "Kilökve"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EI",
+    "Text": "Légkörbelépési Pont (400k láb magasság)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockAgena",
+    "Text": "Dokkolt az Agenával"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockAgena",
+    "Text": "Dokkolatlan az Agena-val"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_AgenaPPA",
+    "Text": "Agena PPA: begyújtva"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "Fő Ernyő Kinyitása"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "Stabilizáló ernyő Kibocsátása"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAStart",
+    "Text": "EVA megkezdve"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAEnd",
+    "Text": "EVA vége"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "Fékezőrakéta No. 1"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "Fékezőrakéta No. 2"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "Fékezőrakéta No. 3"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo4",
+    "Text": "Fékezőrakéta No. 4"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanI",
+    "Text": "Fokozatleválasztás: Titan I. fokozat"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanII",
+    "Text": "Fokozatleválasztás: Titan II. fokozat"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingAdapter",
+    "Text": "Leválasztás: Adapter"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingRetro",
+    "Text": "Fokozatleválasztás: Fékező"
+  },
+  {
+    "Identifier": "BurnUplinkBrief",
+    "Text": "DCS (Digitális Vezérlő Rendszer) adatátvitel tájékoztató: A hajtóműindítás idejéről {0}, {1} láb/másodperc dV értékkel."
+  },
+  {
+    "Identifier": "RetroburnPlanner_GeminiTimeSet",
+    "Text": "A fékezőrakéta-szekvencia ideje {0}-ra lett beállítva."
+  }
+]
