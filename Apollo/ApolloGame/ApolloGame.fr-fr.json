@@ -449,7 +449,7 @@
   },
   {
     "Identifier": "LunarAscent_AscentCalc1",
-    "Text": "{allumage du moteur d'ascension lunaire réglé sur 1."
+    "Text": "{0}, allumage du moteur d'ascension lunaire réglé sur {1}."
   },
   {
     "Identifier": "LunarAscent_AscentCalc2",
@@ -457,7 +457,7 @@
   },
   {
     "Identifier": "BurnPlanner_SPSDeorbitBurn",
-    "Text": "{Le temps d'allumage du SPS pour une poussée de désorbitation est de {1}h {2}m {3}s, avec un dV de {4} fps {5}."
+    "Text": "{0}, le temps d'allumage du SPS pour une poussée de désorbitation est de {1}h {2}m {3}s, avec un dV de {4} fps {5}."
   },
   {
     "Identifier": "BurnPlanner_SPSBurn",
