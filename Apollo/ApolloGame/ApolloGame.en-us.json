@@ -432,6 +432,10 @@
     "Text": "CSI burn scheduled at {0} MET with a dV of {1} fps. LGC is updated. Run P30 to set up and P41 to execute."
   },
   {
+    "Identifier": "LunarAscent_CSI_N_BurnCalc",
+    "Text": "TPF burn scheduled at {0} MET with a dV of {1} fps. LGC is updated. Run P30 to set up and P41 to execute."
+  },
+  {
     "Identifier": "LunarAscent_AscentCalc1",
     "Text": "{0},  lunar ascent engine ignition set to {1}. "
   },

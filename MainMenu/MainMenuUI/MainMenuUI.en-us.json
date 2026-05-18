@@ -936,6 +936,18 @@
     "Text": "LESSON 11 - GNC"
   },
   {
+    "Identifier": "Academy_Shuttle_Lesson14",
+    "Text": "LESSON 14 - HOHMANN RENDEZVOUS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson15",
+    "Text": "LESSON 15 - LAMBERT RENDEZVOUS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson16",
+    "Text": "LESSON 16 - DOCKING"
+  },
+  {
     "Identifier": "Academy_Shuttle_Lesson18",
     "Text": "LESSON 18 - CANADARM"
   },
