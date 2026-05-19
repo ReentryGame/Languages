@@ -356,6 +356,10 @@
     "Text": "ENTER LRV"
   },
   {
+    "Identifier": "LRV_ExitLRV",
+    "Text": "EXIT VEHICLE"
+  },
+  {
     "Identifier": "LM_ReturnInside",
     "Text": "RETURN INSIDE"
   },
