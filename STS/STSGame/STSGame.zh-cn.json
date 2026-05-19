@@ -1,0 +1,231 @@
+[
+  {
+    "Identifier": "BurnPlanner_BurnData_TIG",
+    "Text": "点火时刻"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "点火倒计时"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_EstBurnT",
+    "Text": "预计燃烧时长"
+  },
+  {
+    "Identifier": "BurnPlanner_EIFlightPath",
+    "Text": "再入界面飞行路径角：\n{0}°"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "到达再入界面时间：\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_VelAtEI",
+    "Text": "再入界面速度：\n{0} 英尺/秒"
+  },
+  {
+    "Identifier": "BurnPlanner_EI_MET",
+    "Text": "任务经过时间：\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_DistToRunway",
+    "Text": "再入界面到跑道距离：\n{0} 海里"
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "无线电检查"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "燃烧规划器"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewOps",
+    "Text": "乘员操作"
+  },
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "指令长席位"
+  },
+  {
+    "Identifier": "ViewSelector_MidConsole",
+    "Text": "中控台"
+  },
+  {
+    "Identifier": "ViewSelector_PilotSeat",
+    "Text": "驾驶员席位"
+  },
+  {
+    "Identifier": "ViewSelector_OverheadLeft",
+    "Text": "左侧头顶面板"
+  },
+  {
+    "Identifier": "ViewSelector_OverheadRight",
+    "Text": "右侧头顶面板"
+  },
+  {
+    "Identifier": "ViewSelector_CommanderWindow",
+    "Text": "指令长舷窗"
+  },
+  {
+    "Identifier": "ViewSelector_OrbitStation",
+    "Text": "轨道工作站"
+  },
+  {
+    "Identifier": "ViewSelector_MissionStation",
+    "Text": "任务工作站"
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "无。"
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "按下保持倒计时。"
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "按下继续倒计时。"
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "准备好继续任务时按下{0}。"
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "准备好继续任务时按下收到。"
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "等待起飞。"
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "完成面板配置。"
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "完成ID为{0}的检查单。"
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "完成检查单。"
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "达到高于{0}公里的高度。"
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "达到低于{0}公里的高度。"
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "进入{0}无线电通信站范围内。"
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "到达经度{0}到{1}度之间。"
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "到达纬度{0}到{1}度之间。"
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "等待初始大气阻力（0.05G）。"
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "等待大气再入开始。"
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "穿过大气层。"
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "达到低于{0}英尺的高度。"
+  },
+  {
+    "Identifier": "MissionObjective_ApAbove_Value1",
+    "Text": "将远地点提升到{0}海里高度以上。"
+  },
+  {
+    "Identifier": "MissionObjective_PeAbove_Value1",
+    "Text": "将近地点提升到{0}海里高度以上。"
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "达到倾角{0}度的轨道平面，阈值为+/-{1}"
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_GreaterThan_Value1",
+    "Text": "达到高于{0}的惯性速度。"
+  },
+  {
+    "Identifier": "MissionObjective_State_LandingAreaGuidance_Value1",
+    "Text": "到达着陆阶段：{0}。"
+  },
+  {
+    "Identifier": "MissionObjective_GForces_GreaterThan_Value1",
+    "Text": "等待过载超过{0}。"
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_LessThan_Value1",
+    "Text": "达到低于{0}的惯性速度。"
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_GreaterThan_Value1",
+    "Text": "达到高于{0}的相对速度。"
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_LessThan_Value1",
+    "Text": "达到低于{0}的相对速度。"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_SRBs",
+    "Text": "等待固体火箭助推器分离。"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_ET",
+    "Text": "等待外部燃料箱分离。"
+  },
+  {
+    "Identifier": "MissionObjective_CompleteMPSDump",
+    "Text": "等待主推进系统排放完成。"
+  },
+  {
+    "Identifier": "MissionObjective_State_MECO",
+    "Text": "等待主发动机关机。"
+  },
+  {
+    "Identifier": "MissionObjective_State_Landing",
+    "Text": "到达着陆区。"
+  },
+  {
+    "Identifier": "MissionObjective_State_OMS_Both_EnginesBurning_Equals_Bool1",
+    "Text": "两台轨道机动系统引擎点火中：{0}。"
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsOpen",
+    "Text": "打开有效载荷舱门。"
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsClosed",
+    "Text": "关闭有效载荷舱门。"
+  },
+  {
+    "Identifier": "MissionObjective_IsGPCId_Value1_RunningOPS_Value2",
+    "Text": "在通用计算机{0}上运行OPS {1}。"
+  },
+  {
+    "Identifier": "Payload_Title",
+    "Text": "有效载荷监视器"
+  },
+  {
+    "Identifier": "CommTools_EndEffectorCapture",
+    "Text": "末端执行器：捕获"
+  }
+
+]
