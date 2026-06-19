@@ -1,0 +1,230 @@
+﻿[
+  {
+    "Identifier": "BurnPlanner_BurnData_TIG",
+    "Text": "TIG"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "Begyújtásig hátralévő idő"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_EstBurnT",
+    "Text": "Becsült égési időtartam"
+  },
+  {
+    "Identifier": "BurnPlanner_EIFlightPath",
+    "Text": "EI (Légkörbelépési Pont) repülési útvonal szög:\n{0}°"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "Idő az EI-ig (Légkörbelépési Pont):\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_VelAtEI",
+    "Text": "Sebesség az EI-nál (Légkörbelépési Pont):\n{0} láb/másodperc"
+  },
+  {
+    "Identifier": "BurnPlanner_EI_MET",
+    "Text": "MET (Küldetés Eltelt Ideje):\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_DistToRunway",
+    "Text": "Távolság az EI-től a leszállópályáig:\n{0} tengeri mérföld"
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "RÁDIÓELLENŐRZÉS"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "MANŐVER TERVEZŐ"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewOps",
+    "Text": "LEGÉNYSÉGI MŰVELETEK"
+  },
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "PARANCSNOKI ÜLÉS"
+  },
+  {
+    "Identifier": "ViewSelector_MidConsole",
+    "Text": "KÖZÉPSŐ KONZOL"
+  },
+  {
+    "Identifier": "ViewSelector_PilotSeat",
+    "Text": "PILÓTAÜLÉS"
+  },
+  {
+    "Identifier": "ViewSelector_OverheadLeft",
+    "Text": "BAL FELSŐ"
+  },
+  {
+    "Identifier": "ViewSelector_OverheadRight",
+    "Text": "JOBB FELSŐ"
+  },
+  {
+    "Identifier": "ViewSelector_CommanderWindow",
+    "Text": "PARANCSNOKI ABLAK"
+  },
+  {
+    "Identifier": "ViewSelector_OrbitStation",
+    "Text": "KERINGÉSI ÁLLOMÁS"
+  },
+  {
+    "Identifier": "ViewSelector_MissionStation",
+    "Text": "KÜLDETÉS ÁLLOMÁS"
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Nincs."
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "Nyomja meg a SZÁMLÁLÁS FELFÜGGESZTÉSE gombot."
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "A visszaszámlálás folytatása."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Nyomja meg a(z) {0} gombot, amikor készen áll a küldetés folytatására."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Nyomja meg a ROGER gombot, amikor készen áll a küldetés folytatására."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Várakozás a felemelkedésre."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Panel konfiguráció kész."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Teljes ellenőrzőlista {0} azonosítóval."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Töltse ki az ellenőrzőlistát."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Érjen el {0} km-nél nagyobb magasságot."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Érje el a {0} km alatti magasságot."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Kerüljön a {0} rádióállomás hatótávolságán belülre."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Érjen el egy {0} és {1} fok közötti hosszúságot."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Érjen el egy szélességi fokot {0} és {1} fok között."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Várakozás a kezdeti légköri fékeződésre (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Várakozás a Légköri Belépés megkezdésére."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Jusson át a légkörön."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Érjen el {0} lábnál alacsonyabb magasságot."
+  },
+  {
+    "Identifier": "MissionObjective_ApAbove_Value1",
+    "Text": "Emelje az Apogeumot {0} tengeri mérföld magasság fölé."
+  },
+  {
+    "Identifier": "MissionObjective_PeAbove_Value1",
+    "Text": "Emelje a Perigeumot {0} tengeri mérföld magasság fölé."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Érjen el egy {0} hajlásszögű pályasíkot +/- {1} küszöbbel."
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_GreaterThan_Value1",
+    "Text": "Érjen el {0} feletti Inerciális sebességet."
+  },
+  {
+    "Identifier": "MissionObjective_State_LandingAreaGuidance_Value1",
+    "Text": "Leszállási fázis elérése: {0}."
+  },
+  {
+    "Identifier": "MissionObjective_GForces_GreaterThan_Value1",
+    "Text": "Várakozás arra, hogy a G-erők meghaladják a {0} értéket."
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_LessThan_Value1",
+    "Text": "Érjen el egy {0}-nál kisebb Inerciális sebességet."
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_GreaterThan_Value1",
+    "Text": "Érjen el {0}-nál nagyobb Vrel-t."
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_LessThan_Value1",
+    "Text": "Érjen el {0}-nál/-nél kisebb relatív sebességet."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_SRBs",
+    "Text": "Várakozás az SRB-k leválasztására."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_ET",
+    "Text": "Várakozás az ET leválasztására."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteMPSDump",
+    "Text": "Várakozás az MPS DUMP (Ürít) befejezésére."
+  },
+  {
+    "Identifier": "MissionObjective_State_MECO",
+    "Text": "Várva a MECO-ra (Főhajtómű Leállás)"
+  },
+  {
+    "Identifier": "MissionObjective_State_Landing",
+    "Text": "Jusson el a landolási területre."
+  },
+  {
+    "Identifier": "MissionObjective_State_OMS_Both_EnginesBurning_Equals_Bool1",
+    "Text": "Mindkét OMS hajtómű ég: {0}."
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsOpen",
+    "Text": "Nyissa ki a hasznos teher raktér ajtajait."
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsClosed",
+    "Text": "Zárja be a hasznosteher-tér ajtajait."
+  },
+  {
+    "Identifier": "MissionObjective_IsGPCId_Value1_RunningOPS_Value2",
+    "Text": "Futtassa az OPS {1}-t a GPC Azonosító {0}-n."
+  },
+  {
+    "Identifier": "Payload_Title",
+    "Text": "HASZNOSTEHER-FIGYELŐ"
+  },
+  {
+    "Identifier": "CommTools_EndEffectorCapture",
+    "Text": "EE: ELFOGÁS"
+  }
+]
