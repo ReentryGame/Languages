@@ -1,0 +1,1550 @@
+﻿[
+  {
+    "Identifier": "ContextMenu_MainMenu",
+    "Text": "FŐMENÜ"
+  },
+  {
+    "Identifier": "ContextMenu_Academy",
+    "Text": "AKADÉMIA"
+  },
+  {
+    "Identifier": "ContextMenu_MissionControl",
+    "Text": "KÜLDETÉSIRÁNYÍTÁS"
+  },
+  {
+    "Identifier": "ContextMenu_Profile",
+    "Text": "PROFIL"
+  },
+  {
+    "Identifier": "ContextMenu_LoadState",
+    "Text": "ÁLLAPOT BETÖLTÉSE"
+  },
+  {
+    "Identifier": "ContextMenu_Settings",
+    "Text": "BEÁLLÍTÁSOK"
+  },
+  {
+    "Identifier": "ContextMenu_Missions",
+    "Text": "KÜLDETÉSEK"
+  },
+  {
+    "Identifier": "ContextMenu_Campaigns",
+    "Text": "PROGRAMOK"
+  },
+  {
+    "Identifier": "ContextMenu_Mercury",
+    "Text": "MERCURY-PROGRAM"
+  },
+  {
+    "Identifier": "ContextMenu_Gemini",
+    "Text": "GEMINI-PROGRAM"
+  },
+  {
+    "Identifier": "ContextMenu_Apollo",
+    "Text": "APOLLO-PROGRAM"
+  },
+  {
+    "Identifier": "ContextMenu_Credits",
+    "Text": "PROJEKT KREDITJEI"
+  },
+  {
+    "Identifier": "ContextMenu_WorkshopMission",
+    "Text": "MŰHELY KÜLDETÉS"
+  },
+  {
+    "Identifier": "MainMenuItem_Academy",
+    "Text": "AKADÉMIA"
+  },
+  {
+    "Identifier": "MainMenuItem_Missions",
+    "Text": "KÜLDETÉSEK"
+  },
+  {
+    "Identifier": "MainMenuItem_Campaigns",
+    "Text": "KAMPÁNYOK"
+  },
+  {
+    "Identifier": "MainMenuItem_LoadState",
+    "Text": "ÁLLÁS BETÖLTÉSE"
+  },
+  {
+    "Identifier": "MainMenuItem_MissionControl",
+    "Text": "KÜLDETÉSIRÁNYÍTÁS"
+  },
+  {
+    "Identifier": "MainMenuItem_Challenges",
+    "Text": "KIHÍVÁSOK"
+  },
+  {
+    "Identifier": "MainMenuItem_Exhibitions",
+    "Text": "KIÁLLÍTÁSOK"
+  },
+  {
+    "Identifier": "MainMenuItem_Profile",
+    "Text": "PROFIL"
+  },
+  {
+    "Identifier": "MainMenuItem_Settings",
+    "Text": "BEÁLLÍTÁSOK"
+  },
+  {
+    "Identifier": "MainMenuItem_Credits",
+    "Text": "KÉSZÍTŐK"
+  },
+  {
+    "Identifier": "MainMenuItem_Workshop",
+    "Text": "MŰHELY"
+  },
+  {
+    "Identifier": "MainMenuItem_Contribute",
+    "Text": "HOZZÁJÁRULÁS"
+  },
+  {
+    "Identifier": "MainMenuItem_DevJournal",
+    "Text": "FEJLESZTŐI NAPLÓ"
+  },
+  {
+    "Identifier": "MainMenuItem_UpdateNotes",
+    "Text": "FRISSÍTÉSI JEGYZETEK"
+  },
+  {
+    "Identifier": "MainMenuItem_Exit",
+    "Text": "KILÉPÉS"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonManuals",
+    "Text": "KÉZIKÖNYVEK (WEB)"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonBasicTheory",
+    "Text": "ALAPVETŐ ELMÉLET"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonMercuryTutorials",
+    "Text": "MERCURY-PROGRAM KIKÉPZÉS"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonGeminiTutorials",
+    "Text": "GEMINI-PROGRAM KIKÉPZÉS"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonApolloTutorials",
+    "Text": "APOLLO-PROGRAM KIKÉPZÉS"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonLunarModuleTutorials",
+    "Text": "HOLDKOMP KIKÉPZÉSEK"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonSpaceShuttleTutorials",
+    "Text": "ŰRREPÜLŐGÉP KIKÉPZÉS"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonDiscord",
+    "Text": "CSATLAKOZZ HOZZÁNK A DISCORDON"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonMercury",
+    "Text": "MERCURY-PROGRAM"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonGemini",
+    "Text": "GEMINI-PROGRAM"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonApollo",
+    "Text": "APOLLO-PROGRAM"
+  },
+  {
+    "Identifier": "MissionsMenu_FreePlay",
+    "Text": "SZABAD JÁTÉK"
+  },
+  {
+    "Identifier": "MissionsMenu_Scenarios",
+    "Text": "FORGATÓKÖNYVEK"
+  },
+  {
+    "Identifier": "MissionsMenu_Historic",
+    "Text": "TÖRTÉNELMI KÜLDETÉS"
+  },
+  {
+    "Identifier": "MissionsMenu_MissionControlLive",
+    "Text": "KÜLDETÉSIRÁNYÍTÁS ÉLŐ"
+  },
+  {
+    "Identifier": "MissionsMenu_Custom",
+    "Text": "EGYEDI KÜLDETÉS"
+  },
+  {
+    "Identifier": "MissionsMenu_Create",
+    "Text": "ÚJ KÜLDETÉS LÉTREHOZÁSA"
+  },
+  {
+    "Identifier": "ProgramInfo_Mercury",
+    "Text": "A Mercury-proprogram volt az első amerikai űrprogram, amelynek célja egy űrhajós biztonságos pályára állítása és a Földre való biztonságos visszatérése volt."
+  },
+  {
+    "Identifier": "ProgramInfo_Gemini",
+    "Text": "A Gemini-program volt az Egyesült Államok második űrprogramja, és gyakran nevezték a Holdhoz vezető hídnak is."
+  },
+  {
+    "Identifier": "ProgramInfo_Apollo",
+    "Text": "Az Apollo-program az a program, amely végül embert juttatott a Holdra."
+  },
+  {
+    "Identifier": "ProgramInfo_MCC",
+    "Text": "A Mercury IRÁNYÍTÓKÖZPONT Élő egy többjátékos modul, ahol több küldetésirányító támogathat egy Mercury küldetést."
+  },
+  {
+    "Identifier": "ProgramInfo_MOCR",
+    "Text": "A Küldetési Műveletek Irányítóközpontja Élő lehetővé teszi több küldetésirányító számára, hogy egy Apollo küldetést a MOCR-on keresztül támogassanak."
+  },
+  {
+    "Identifier": "Profile_PlayerName",
+    "Text": "JÁTÉKOS NÉV"
+  },
+  {
+    "Identifier": "Profile_CapsuleName",
+    "Text": "KAPSZULA NÉV"
+  },
+  {
+    "Identifier": "Profile_CharacterEditor",
+    "Text": "KARAKTER SZERKESZTŐ"
+  },
+  {
+    "Identifier": "Profile_FlightTime",
+    "Text": "FÖLDI IRÁNYÍTÁS IDŐ"
+  },
+  {
+    "Identifier": "Profile_Online",
+    "Text": "TÖBBJÁTÉKOS RANGSOR"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryAstonaut",
+    "Text": "MERCURY ŰRHAJÓS"
+  },
+  {
+    "Identifier": "Profile_SkillCSMAstonaut",
+    "Text": "PARANCSNOKI MODUL ŰRHAJÓS"
+  },
+  {
+    "Identifier": "Profile_SkillLMAstonaut",
+    "Text": "HOLDKOMP ŰRHAJÓS"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryController",
+    "Text": "MERCURY VEZÉRLŐ"
+  },
+  {
+    "Identifier": "Profile_SkillApolloController",
+    "Text": "APOLLO VEZÉRLŐ"
+  },
+  {
+    "Identifier": "GeneralBackButton",
+    "Text": "VISSZA"
+  },
+  {
+    "Identifier": "Settings_Effects",
+    "Text": "GRAFIKÁK"
+  },
+  {
+    "Identifier": "Settings_Language",
+    "Text": "NYELV"
+  },
+  {
+    "Identifier": "Settings_RealismSettings",
+    "Text": "REALIZMUS BEÁLLÍTÁSOK"
+  },
+  {
+    "Identifier": "Settings_Checklists",
+    "Text": "ELLENŐRZŐLISTÁK"
+  },
+  {
+    "Identifier": "Settings_ChecklistsDesc",
+    "Text": "FIGYELEM: Ez visszaállítja az összes alapértelmezett ellenőrzőlistát a gyári beállításokra. Hozzon létre biztonsági másolatot, ha módosításokat hajtott végre az alapértelmezett ellenőrzőlistákon.\nAz Ön saját ellenőrzőlistái nem módosulnak."
+  },
+  {
+    "Identifier": "Settings_ResetDefaultChecklists",
+    "Text": "ALAP ELLENŐRZŐLISTÁK VISSZAÁLLÍTÁSA"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoChecklistReset",
+    "Text": "Alapértelmezett Ellenőrzőlista változásainak automatikus ellenőrzése."
+  },
+  {
+    "Identifier": "Settings_CameraPoints",
+    "Text": "KAMERA NÉZŐPONTOK"
+  },
+  {
+    "Identifier": "Settings_CameraPointsDesc",
+    "Text": "A pilótafülke kamera/nézet rögzítési pontok a (Reentry állandó adatút az AppData alatt)/Kamerák mappába kerülnek átmásolásra. Ez a fájl módosítható az egyes kamerapontok tetszés szerinti megváltoztatásához. Fontos, hogy frissítse ezt a fájlt a játékfrissítésekkel, mivel új kamerapontok hozzáadódhatnak, vagy a meglévők megváltozhatnak a funkciófrissítések miatt.\n\nFIGYELEM: Ez a művelet az összes alapértelmezett kamerapontot gyári beállításokra állítja vissza. Kérjük, hozzon létre biztonsági másolatot, ha módosításokat hajtott végre ezeken, és egyesítse vissza őket a frissített fájlba."
+  },
+  {
+    "Identifier": "Settings_ResetDefaultCameraPoints",
+    "Text": "KAMERA NÉZŐPONTOK VISSZAÁLLÍTÁSA"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoCameraReset",
+    "Text": "Alapértelmezett kamerapont-változások automatikus ellenőrzése."
+  },
+  {
+    "Identifier": "Settings_PanelStates",
+    "Text": "PANELÁLLAPOTOK"
+  },
+  {
+    "Identifier": "Settings_PanelStatesDesc",
+    "Text": "FIGYELEM: Ez visszaállítja az összes alapértelmezett panelállapotot a gyári beállításokra. Hozzon létre biztonsági másolatot, ha módosításokat hajtott végre az alapértelmezett panelállapotokon.\nAz Ön saját panelállapotait ez nem érinti."
+  },
+  {
+    "Identifier": "Settings_PanelStatesReset",
+    "Text": "ALAPÉRTELMEZETT PANELÁLLAPOTOK VISSZAÁLLÍTÁSA"
+  },
+  {
+    "Identifier": "Settings_InputControls",
+    "Text": "BEMENETI VEZÉRLŐK (billentyűzet, egér, joystick)"
+  },
+  {
+    "Identifier": "Settings_EarthTextures",
+    "Text": "FÖLDI TEXTÚRÁK"
+  },
+  {
+    "Identifier": "Settings_MoonTextures",
+    "Text": "HOLD TEXTÚRÁK"
+  },
+  {
+    "Identifier": "Settings_AnalyticsCollection",
+    "Text": "ELEMZÉSEK"
+  },
+  {
+    "Identifier": "Settings_Audio",
+    "Text": "HANGANYAG"
+  },
+  {
+    "Identifier": "Settings_AudioMusic",
+    "Text": "Zene"
+  },
+  {
+    "Identifier": "Settings_AudioSFX",
+    "Text": "Hangeffektusok"
+  },
+  {
+    "Identifier": "Settings_AudioCabinNoise",
+    "Text": "Kabin Környezeti Zaj"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableSFXDSKYRelayClicking",
+    "Text": "DSKY (Kijelző & Billentyűzet Interfész) reléjének kattogása"
+  },
+  {
+    "Identifier": "Settings_TrackIR",
+    "Text": "TRACKIR"
+  },
+  {
+    "Identifier": "Settings_Autosave",
+    "Text": "AUTOMATIKUS MENTÉS"
+  },
+  {
+    "Identifier": "Settings_AutosaveDesc",
+    "Text": "Ez automatikus mentési pontokat hoz létre bizonyos kritikus pontokon, mint például a pályára állásnál, a Hold Befolyási Gömbjénél, a PDI-nál stb."
+  },
+  {
+    "Identifier": "Settings_ToggleAutosave",
+    "Text": "Automatikus mentés engedélyezése"
+  },
+  {
+    "Identifier": "Settings_ToggleTrackIR",
+    "Text": "NaturalPoint TrackIR használata"
+  },
+  {
+    "Identifier": "Settings_VirtualReality",
+    "Text": "VIRTUÁLIS VALÓSÁG (Kísérleti)"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityDesc",
+    "Text": ""
+  },
+  {
+    "Identifier": "Settings_VirtualRealityGaze",
+    "Text": "A VR Egérkurzor egy vadonatúj funkció, amelyen jelenleg dolgozom. Ez letiltja a VR Mozgásvezérlőket, és a nézésirányával kombinált egérkurzort használja a pilótafülke paneleinek és a UI-nak a kezeléséhez. A UI érzékelése jelenleg nem kifogástalan, és most erre összpontosítok."
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVirtualReality",
+    "Text": "VR engedélyezése"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRBurnHaptics",
+    "Text": "VR vezérlő rezgések engedélyezése hajtóműindítások alatt"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRGazeCursor",
+    "Text": "VR Egérkurzor használata Mozgásvezérlők helyett"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRSubtitles",
+    "Text": "Küldetés párbeszéd engedélyezése feliratként."
+  },
+  {
+    "Identifier": "Settings_Data",
+    "Text": "ADATOK"
+  },
+  {
+    "Identifier": "Settings_DataDesc",
+    "Text": "FIGYELEM: Ez törli az összes felhasználói adatot, mint például a beállításokat, a haladást, az űrben töltött időt stb., és ezek nem állíthatók helyre."
+  },
+  {
+    "Identifier": "Settings_ClearData",
+    "Text": "MINDEN JÁTÉKOS ADAT TÖRLÉSE"
+  },
+  {
+    "Identifier": "Settings_OutputLive",
+    "Text": "SZÁMÍTÓGÉP ÉLŐ KIMENETI ADATAI"
+  },
+  {
+    "Identifier": "Settings_OutputLiveDesc",
+    "Text": "Ez valós időben exportálja a Fedélzeti Számítógép, az AGC és az LGC panel adatait az Exports mappa dedikált fájljaiba (a Reentry AppData mappájában). Ezt fel lehet használni az adatok külső eszközökön (például *IoT* (Dolgok Internete)) történő megjelenítésére."
+  },
+  {
+    "Identifier": "Settings_ToggleOutputLive",
+    "Text": "Élő közvetítés engedélyezése"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursor",
+    "Text": "PILÓTAFÜLKE KURZOR"
+  },
+  {
+    "Identifier": "Settings_Toggle3DClouds",
+    "Text": "Kísérleti 3D felhők engedélyezése"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursorDesc",
+    "Text": "A pilótafülke kurzor lecseréli az egér kurzort, és olyan játékon belüli funkciókat nyújt, mint a színváltozás a kapcsolók fölé pozicionáláskor. Ennek hátránya, hogy a leképezése a normál leképezési ciklusban történik."
+  },
+  {
+    "Identifier": "Settings_ToggleFunctionalCursor",
+    "Text": "Pilótafülke kurzor engedélyezése"
+  },
+  {
+    "Identifier": "Settings_Configure",
+    "Text": "KONFIGURÁLÁS"
+  },
+  {
+    "Identifier": "Settings_ResetControls",
+    "Text": "ALAPÉRTELMEZETT BEÁLLÍTÁSOK VISSZAÁLLÍTÁSA"
+  },
+  {
+    "Identifier": "MissionControlLive_MCC",
+    "Text": "MERCURY IRÁNYÍTÓKÖZPONT"
+  },
+  {
+    "Identifier": "MissionControlLive_MOCR",
+    "Text": "APOLLO KÜLDETÉSIRÁNYÍTÁS"
+  },
+  {
+    "Identifier": "MissionControlLive_LFG",
+    "Text": "CSOPORTKERESÉS A DISCORDON"
+  },
+  {
+    "Identifier": "GraphicsSettings_Title",
+    "Text": "GRAFIKAI BEÁLLÍTÁSOK"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityTitle",
+    "Text": "Tükröződési Felületek Minősége"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityDesc",
+    "Text": "A *Reflection probes* (tükröződéseket létrehozó mintavételezők) a tükröződések minden típusának megjelenítésére szolgálnak. Kezdve a bolygók által vetett fényvisszaverődésektől, amíg Keringési Pályán van (általános mintavételezők), egészen a műszereken, ablakokon és tükröződő anyagokon látható belső pilótafülke-tükröződésekig (kritikus mintavételezők). Ezek nagyon megterhelik a rendszert.\nHa alacsonyabb frissítési gyakoriságot használ, javaslom az ABLAK CSILLANÁS kikapcsolását is."
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityInfo",
+    "Text": "KI: Minden tükröződési felület kikapcsolásra kerül\nALACSONY: A kritikus felület frissítése tizennégy képkockás vétel alatt történik, MAX felbontás: 256\nKÖZEPES: A kritikus felület frissítése kilenc képkockás vétel alatt történik, MAX felbontás: 512\nMAGAS: A kritikus felület frissítése egy képkockán belül történik.\nULTRA: Minden tükröződési felület frissítése egy képkockán belül történik."
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingTitle",
+    "Text": "Utófeldolgozás"
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingDesc",
+    "Text": "Többféle utófeldolgozási effektus szolgál a vizuális élmény fokozására. Ezek GPU és CPU számítási kapacitást igényelnek, ezért fontolja meg ezek Ki kapcsolását a képkockasebesség javítása érdekében (vagy ha nem tetszenek). Ilyen effektusok például a *Bloom*, *Color Grading*, *AO*, stb."
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAOTitle",
+    "Text": "Képernyőtérbeli Környezeti Kitakarás PRO"
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAODesc",
+    "Text": "A Továbbfejlesztett SSAO árnyékokat és sötét területeket renderel a szűk geometriai helyeken, például sarkokban, mélyedésekben stb. Ha máshol van szüksége az extra ciklusokra, fontolja meg ennek kikapcsolását."
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareTitle",
+    "Text": "Főablak csillanás"
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareDesc",
+    "Text": "Ez belső tükröződést jelenít meg a Fő pilótafülke ablakain. Minél sötétebb a pilótafülke, annál kevesebb a tükröződés. Ezért ajánlott lekapcsolni a világítást, ha olyan feladatot hajt végre, ahol a kitekintés kritikus fontosságú.\nHa a fenti tükröződési szonda beállítás az alacsonyabb fokozatok egyikére van állítva (a Ki állás kivételével), javaslom ennek kikapcsolását, mivel a tükröződések frissítésében késleltetés lesz."
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelTitle",
+    "Text": "Személyzetmodellek Megjelenítése"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelDesc",
+    "Text": "Ennek engedélyezése megjeleníti a személyzet 3D modelljeit a CSM-en és az LM-en belül. A Mercury &\nGemini modellek, valamint egy megfelelő arc/avatár generátor fejlesztés alatt áll."
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksTitle",
+    "Text": "Holdkövek megjelenítése"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksDesc",
+    "Text": "A Holdi sziklák a leszállás végső fázisának részét képezik, és a Holdfelszínen jelennek meg. Megjelenítésük egyes rendszerek számára meglehetősen megterhelő, így ha a szimuláció lassulását tapasztalja, próbálja meg ezen beállítás kikapcsolását."
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesTitle",
+    "Text": "LRV Kerék Részecskék Megjelenítése"
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesDesc",
+    "Text": "Az LRV (Holdjáró) vezetése közben a kerekek homokot vernek fel. Ezt részecskék szimulálják. Ez megterhelő lehet, így ha vezetés közben lassulást tapasztal, próbálja meg kikapcsolni ezt."
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorTitle",
+    "Text": "Parancsnoki Modul Belső Tér"
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorDesc",
+    "Text": "A Parancsnoki Modul Belső Tér fejlesztés a meglévő, alacsony poligonszámú belső teret cseréli le. A panelek változatlanok maradnak, a belső tér azonban valósághűbb lesz, ugyanakkor a renderelése is rendkívül költséges."
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationTitle",
+    "Text": "Hold tesszeláció"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationDesc",
+    "Text": "A Hold körüli keringési pályán egy *Tessellation* (felület-részletezés) nevű eljárás generálja a holdi részleteket. Ez a GPU-n történik, és a megjelenítése meglehetősen erőforrás-igényes lehet. A felület-részletezés három paraméterrel szabályozható: Faktor, Minimális távolság és Maximális távolság.\nA Faktor a felület-részletezés mértékét határozza meg. Jellemző értékei: 1, 8, 16, 32 stb. A Minimális és a Maximális távolság a részletezendő terület ablakát határozza meg. A Minimális távolságnál közelebbi objektumok 100%-os felület-részletezést kapnak. A Maximális távolságnál távolabbi objektumok 0%-os felület-részletezést kapnak. Ha egy objektum a minimálisnál távolabb, de a maximálisnál közelebb helyezkedik el, annak felület-részletezése interpoláció alapján történik."
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_Factor",
+    "Text": "Tényező:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MinDist",
+    "Text": "Minimális távolság:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MaxDist",
+    "Text": "Maximális távolság:"
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BTitle",
+    "Text": "Apollo: Csúcskategóriás 39A indítókomplexum renderelése"
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BDesc",
+    "Text": "Ez az Apollo 39A indítókomplexumot egy ultra nagy részletességű modellel jeleníti meg."
+  },
+  {
+    "Identifier": "RealismSettings_Title",
+    "Text": "REALIZMUS & SEGÉDBEÁLLÍTÁSOK"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterTitle",
+    "Text": "Kapcsoló Lebegőkiemelő"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterDesc",
+    "Text": "Ennek engedélyezése egy kockát rajzol azon műszer vagy kapcsoló köré, amely fölött az egérkurzor áll."
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorTitle",
+    "Text": "Képernyőn kívüli kapcsolójelző"
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorDesc",
+    "Text": "Ennek bekapcsolása esetén jelzőt mutat egy kiemelt kapcsoló irányába, amennyiben az a játékos nézeten kívül helyezkedik el."
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistTitle",
+    "Text": "Automatikus Folytatás Ellenőrzőlista"
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistDesc",
+    "Text": "Ha a FUTTATÁS funkciót használja az ellenőrzőlistákban, az útmutató automatikusan továbbhalad, amíg egy olyan lépéshez nem ér, amely beavatkozást igényel. Ha ez le van tiltva, a következő lépéshez nyomja meg a PRO-t."
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingTitle",
+    "Text": "Egyszerűsített Hajtóműindítások & Randevú"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingDesc",
+    "Text": "Ennek engedélyezése némileg leegyszerűsíti a randevú és a pályamódosító hajtóműgyújtásokat automatikus irányítási korrekciókkal, amikor a Logika felhalmozódott hibákat vagy célpont-eltéréseket érzékel. Javaslom bekapcsolva hagyni, különösen mivel az irányító számítógépek még a fejlesztés korai szakaszában vannak. A játék Logikája ezt kritikus helyzetekben felülbírálhatja."
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeTitle",
+    "Text": "Apollo Indítási Kamerarezgés Csökkentése"
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeDesc",
+    "Text": "Ennek engedélyezése csökkenti a kamera rázkódását egy Apollo Saturn V felszállás során (SIC és SII)."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleTitle",
+    "Text": "Holdra Szállási Pont Jelző megjelenítése"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleDesc",
+    "Text": "Ennek engedélyezése egy zászlórudat jelenít meg a kiválasztott leszállóhelyen, a holdi landolási területre történő átváltáskor."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionTitle",
+    "Text": "Automatikusan a Holdra Szállás leszállóhelye felé fordul"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionDesc",
+    "Text": "Ennek engedélyezése automatikusan a leszállóhely irányába állítja a Holdkompot, amikor a Holdra szállási területre lép."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresTitle",
+    "Text": "véletlenszerű meghibásodások: Mercury"
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
+    "Text": "Ez engedélyezi a véletlenszerű meghibásodásokat azokban a küldetésekben, amelyek ezt lehetővé teszik (Free Play vagy egyéni küldetések). A véletlenszerű meghibásodások rendszere 25 - 35 percenként (ciklusonként) 'sorsol', amely során egy véletlenszerű meghibásodásnak esélye van bekövetkezni. Az alábbiakban beállíthatja, hogy ciklusonként mekkora eséllyel következzen be egy véletlenszerű meghibásodás, valamint azt is, hogy mely hibákat kívánja kizárni a listáról. Kérjük, vegye figyelembe, hogy játék közben kézzel is előidézhet egy meghibásodást a 'failure' konzolparancs segítségével."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresPercentage",
+    "Text": "A meghibásodás bekövetkezésének %-os esélye Ciklusonként."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresToggleFailures",
+    "Text": "HIBÁK KAPCSOLÁSA"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresTitle",
+    "Text": "Véletlenszerű meghibásodások: Gemini"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresDesc",
+    "Text": "Ez engedélyezi a véletlenszerű meghibásodásokat azokban a küldetésekben, amelyek ezt lehetővé teszik (Free Play vagy egyéni küldetések). A véletlenszerű meghibásodások rendszere 25 - 35 percenként (ciklusonként) 'sorsol', amely során egy véletlenszerű meghibásodásnak esélye van bekövetkezni. Az alábbiakban beállíthatja, hogy ciklusonként mekkora eséllyel következzen be egy véletlenszerű meghibásodás, valamint azt is, hogy mely hibákat kívánja kizárni a listáról. Kérjük, vegye figyelembe, hogy játék közben kézzel is előidézhet egy meghibásodást a 'failure' konzolparancs segítségével."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresPercentage",
+    "Text": "A meghibásodás bekövetkezésének %-os esélye ciklusonként."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresToggleFailures",
+    "Text": "HIBÁK KAPCSOLÁSA"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresTitle",
+    "Text": "Véletlenszerű meghibásodások: Apollo"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresDesc",
+    "Text": "Ez engedélyezi a véletlenszerű meghibásodásokat azokban a küldetésekben, amelyek ezt lehetővé teszik (Free Play vagy egyéni küldetések). A véletlenszerű meghibásodások rendszere 25 - 35 percenként (ciklusonként) 'sorsol', amely során egy véletlenszerű meghibásodásnak esélye van bekövetkezni. Az alábbiakban beállíthatja, hogy ciklusonként mekkora eséllyel következzen be egy véletlenszerű meghibásodás, valamint azt is, hogy mely hibákat kívánja kizárni a listáról. Kérjük, vegye figyelembe, hogy játék közben kézzel is előidézhet egy meghibásodást a 'failure' konzolparancs segítségével."
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresPercentage",
+    "Text": "A meghibásodás bekövetkezésének %-os esélye"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresToggleFailures",
+    "Text": "HIBÁK KAPCSOLÁSA"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftTitle",
+    "Text": "Giroszkóp sodródás"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftDesc",
+    "Text": "Ha engedélyezve van, a giroszkópok az idő múlásával hibát halmoznak fel, és korrekcióra szorulnak (Az LM-et nem érinti, mivel a P52 (Program) még nem került kifejlesztésre hozzá)"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Title",
+    "Text": "CO2 Kaniszter Csere"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Desc",
+    "Text": "Engedélyezés esetén a CO2 szűrőbetéteket az eljárásoknak megfelelően, kézzel kell kicserélni. A kézi csere a CSM-ben és hamarosan az LM-ben is támogatott."
+  },
+  {
+    "Identifier": "RealismSettings_RequireOceanLanding",
+    "Text": "Óceáni leszállási követelmény"
+  },
+  {
+    "Identifier": "RealismSettings_RequireOceanLandingDesc",
+    "Text": "Ezen beállítás engedélyezésével a küldetés befejezéséhez a vízre szállást az óceánban kell végrehajtani, nem pedig szárazföldön."
+  },
+  {
+    "Identifier": "MainMenuButton_Launch",
+    "Text": "INDÍTÁS"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson1",
+    "Text": "1. KIKÉPZÉS - INDÍTÁS ELŐTTI"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson2",
+    "Text": "2. KIKÉPZÉS - INDÍTÁS & FELSZÁLLÁS"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson3",
+    "Text": "3. KIKÉPZÉS - ELLENŐRZŐLISTÁK & ATLAS"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson4",
+    "Text": "4. KIKÉPZÉS - ELEKTROMOSSÁG"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson5",
+    "Text": "5. KIKÉPZÉS - HELYZETVEZÉRLÉS"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson6",
+    "Text": "6. KIKÉPZÉS - ÉLETBEN MARADÁS"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson7",
+    "Text": "7. KIKÉPZÉS - PROGRAMKAPCSOLÓ"
+  },
+  {
+    "Identifier": "Academy_Mercury_Exam",
+    "Text": "VIZSGA - TELJES KÜLDETÉS"
+  },
+  {
+    "Identifier": "Academy_Mercury_VR",
+    "Text": "VIRTUÁLIS VALÓSÁG"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson1",
+    "Text": "1. KIKÉPZÉS - INDÍTÁS ELŐKÉSZÍTÉS"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson2",
+    "Text": "2. KIKÉPZÉS - FELSZÁLLÁS"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson3",
+    "Text": "3. KIKÉPZÉS - ELEKTROMOSSÁG!"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson4",
+    "Text": "4. KIKÉPZÉS - NAVIGÁCIÓ!"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson5",
+    "Text": "5. KIKÉPZÉS - A SZÁMÍTÓGÉP"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson6",
+    "Text": "6. KIKÉPZÉS - LÉTFENNTARTÁS"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson7",
+    "Text": "7. KIKÉPZÉS - PROGRAMKAPCSOLÓ"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson8",
+    "Text": "8. KIKÉPZÉS - FÉKMANŐVER ÉS BELÉPÉS"
+  },
+  {
+    "Identifier": "Academy_Gemini_Exam",
+    "Text": "VIZSGA - TELJES KÜLDETÉS"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson10",
+    "Text": "9. KIKÉPZÉS - MANŐVEREZÉS & HAJTÓMŰINDÍTÁSOK"
+  },
+  {
+    "Identifier": "Academy_CSM_TheBasics",
+    "Text": "AZ ALAPOK"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson1",
+    "Text": "1. KIKÉPZÉS - INDÍTÁS ELŐTT"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson2",
+    "Text": "2. KIKÉPZÉS - PÁLYAEMELÉS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson3",
+    "Text": "3. KIKÉPZÉS - ELEKTROMOSSÁG"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson4",
+    "Text": "4. KIKÉPZÉS - RCS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson5",
+    "Text": "5. KIKÉPZÉS - SZÁMÍTÓGÉP"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson6",
+    "Text": "6. KIKÉPZÉS - SZERVIZ MEGHAJTÁS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson7",
+    "Text": "7. KIKÉPZÉS - AGC & AUTOMATA MANŐVEREZÉS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson8",
+    "Text": "8. KIKÉPZÉS - SPS Manővertervezés"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9",
+    "Text": "9A. KIKÉPZÉS - LÉGKÖRI BELÉPÉS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson10",
+    "Text": "10. KIKÉPZÉS - TRANSZP. & DOKKOLÁS"
+  },
+  {
+    "Identifier": "Academy_CSM_Exam",
+    "Text": "VIZSGA: TELJES FÖLD KÖRÜLI KÜLDETÉS"
+  },
+  {
+    "Identifier": "Academy_CSM_AdvancedTopics",
+    "Text": "HALADÓ TÉMAKÖRÖK"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson11",
+    "Text": "11. KIKÉPZÉS - TRANSZ-LUNÁRIS GYORSÍTÁS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson12",
+    "Text": "12. KIKÉPZÉS - OPTIKA"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson13",
+    "Text": "13. KIKÉPZÉS - TRANSZ-FÖLDI GYORSÍTÁS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson14",
+    "Text": "14. KIKÉPZÉS - ECS: Oxigén"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson15",
+    "Text": "15. KIKÉPZÉS - ECS: PSC"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson16",
+    "Text": "16. KIKÉPZÉS - ECS: H2O (Víz)"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson17",
+    "Text": "17. KIKÉPZÉS - ECS: Glikol"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson1",
+    "Text": "1. KIKÉPZÉS - BELÉPÉS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson2",
+    "Text": "2. KIKÉPZÉS - AKTIVÁLÁS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson3",
+    "Text": "3. KIKÉPZÉS - ELEKTROMOSSÁG"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson4",
+    "Text": "4. KIKÉPZÉS - REAKCIÓVEZÉRLÉS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson5",
+    "Text": "5. KIKÉPZÉS - IRÁNYÍTÓ SZÁMÍTÓGÉP"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson6",
+    "Text": "6. KIKÉPZÉS - REPÜLÉSI MÓDOK"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson7",
+    "Text": "7. KIKÉPZÉS - A LESZÁLLÓ HAJTÓMŰ"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson8",
+    "Text": "8. KIKÉPZÉS - RADAROK"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson9",
+    "Text": "9. KIKÉPZÉS - LEVÁLÁS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson10",
+    "Text": "10. KIKÉPZÉS - LESZÁLLÁS"
+  },
+  {
+    "Identifier": "Academy_LM_Exam",
+    "Text": "VIZSGA: HOLDRA SZÁLLÁS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson11",
+    "Text": "11. KIKÉPZÉS - ECS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson12",
+    "Text": "12. KIKÉPZÉS - FELSZÁLLÁS & DOKKOLÁS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson13",
+    "Text": "13. KIKÉPZÉS - HOLDI TARTÓZKODÁS & EVA"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson1",
+    "Text": "1. KIKÉPZÉS - BELÉPÉS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson2",
+    "Text": "2. KIKÉPZÉS - INDÍTÁS ELŐTTI"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson3",
+    "Text": "3. KIKÉPZÉS - FELSZÁLLÁS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson4",
+    "Text": "4. KIKÉPZÉS - OMS 2"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson5",
+    "Text": "5. KIKÉPZÉS - PÁLYÁRA ÁLLÁS UTÁN"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson6",
+    "Text": "6. KIKÉPZÉS - A LESZÁLLÓ MEGHAJTÓ RENDSZER ÁTTEKINTÉSE"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson7",
+    "Text": "7. KIKÉPZÉS - A MEDS ÉS A LESZÁLLÓ MEGHAJTÓ RENDSZER"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson8",
+    "Text": "8. KIKÉPZÉS - A LESZÁLLÓ MEGHAJTÓ RENDSZER (DPS) MŰVELETEI"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson9",
+    "Text": "9. KIKÉPZÉS - ELEKTROMOSSÁG"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson10",
+    "Text": "10. KIKÉPZÉS - RCS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson11",
+    "Text": "11. KIKÉPZÉS - GNC"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson18",
+    "Text": "18. KIKÉPZÉS - CANADARM"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson19",
+    "Text": "19. KIKÉPZÉS - HASZNOS TERHEK"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson20",
+    "Text": "20. KIKÉPZÉS - PÁLYAELHAGYÁS ELŐKÉSZÍTÉSE"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson21",
+    "Text": "21. KIKÉPZÉS - FÉKEZŐ HAJTÓMŰINDÍTÁS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson22",
+    "Text": "22. KIKÉPZÉS - BELÉPÉSTŐL A LESZÁLLÁSIG"
+  },
+  {
+    "Identifier": "ChallengeAccepted",
+    "Text": "KIHÍVÁS ELFOGADVA"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone",
+    "Text": "MERCURY-REDSTONE"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas",
+    "Text": "MERCURY-ATLAS"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone_CnD",
+    "Text": "MERCURY-REDSTONE - T-90 (C és D)"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas_CnD",
+    "Text": "MERCURY-ATLAS - T-90 (C és D)"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR3",
+    "Text": "MERCURY-REDSTONE 3"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR4",
+    "Text": "MERCURY-REDSTONE 4"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MA6",
+    "Text": "MERCURY-ATLAS 6"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_IngressPad",
+    "Text": "GEMINI TITAN - INDÍTÁS ELŐTTI (T-10)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_Orbit",
+    "Text": "GEMINI TITAN (Keringési Pályán)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_CnD",
+    "Text": "GEMINI TITAN - C&D (T-90)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario1",
+    "Text": "I - GEMINI RANDEVÚ"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario2",
+    "Text": "II - AGENA DOKKOLÁS"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario3",
+    "Text": "III - RANDEZVÚ ÉGÉS KIKÉPZÉS"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario4",
+    "Text": "IV - DOKKOLÁSI TRÉNING"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_HistoricGT3",
+    "Text": "GT-3: A MOLLY BROWN"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T2h",
+    "Text": "SATURN V - ÁRAMTALANÍTVA - FÖLDI SZEMÉLYZET (T-4h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_BackupCrewIngress",
+    "Text": "SATURN V - TARTALÉK LEGÉNYSÉG BELÉPÉS (T-2h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_PrimeCrewIngress",
+    "Text": "SATURN V - ELSŐDLEGES LEGÉNYSÉG BESZÁLLÁSA (T-1h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T25m",
+    "Text": "SATURN V - INDÍTÁS (T-25m)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_EarthOrbit",
+    "Text": "CSM/SIVB FÖLD KÖRÜLI PÁLYÁN"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_LMOrbit",
+    "Text": "HOLDKOMP (C&D) FÖLDKÖRÜLI PÁLYÁN"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario1",
+    "Text": "I - TRANSZ-LUNÁRIS GYORSÍTÁS"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario2",
+    "Text": "II - HOLD KÖRÜLI PÁLYÁRA ÁLLÁS"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario3",
+    "Text": "III - TRANSZ-FÖLDI GYORSÍTÁS"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario4",
+    "Text": "IV - HOLDKOMP DOKKOLÁSÁRÓL VALÓ LEVÁLÁS"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario5",
+    "Text": "V - HAJTÓMŰVES LESZÁLLÁS ÉS HOLDRA SZÁLLÁS"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario6",
+    "Text": "VI - HOLDI TARTÓZKODÁS ÉS FELSZÁLLÁS"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario7",
+    "Text": "VII - HAZA SODRÓDÁS"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario8",
+    "Text": "VIII - BELÉPÉS"
+  },
+  {
+    "Identifier": "RealismSettings_HideChecklistHighlighter",
+    "Text": "Kapcsolókiemelő keret elrejtése"
+  },
+  {
+    "Identifier": "RealismSettings_HideChecklistHighlighterDesc",
+    "Text": "Ennek engedélyezése elrejti az Ellenőrzőlista vagy a küldetésutasítás által kiemelt kapcsolót körülvevő keretet."
+  },
+  {
+    "Identifier": "Settings_TTS",
+    "Text": "szövegfelolvasás"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoad",
+    "Text": "G-terhelés letiltása"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoadDesc",
+    "Text": "Ennek átkapcsolása letiltja a belépés és a felszállás során fellépő nagy G-terhelés okozta szerkezeti sérülést és a játék végét."
+  },
+  {
+    "Identifier": "Academy_LM_FlightSchool",
+    "Text": "VIDEÓK: ŰRREPÜLÉSI AKADÉMIA: Holdkomp (YT)"
+  },
+  {
+    "Identifier": "Academy_CM_FlightSchool",
+    "Text": "VIDEÓK: ŰRREPÜLÉSI AKADÉMIA: PARANCSNOKI MODUL (YT)"
+  },
+  {
+    "Identifier": "Academy_Gemini_FlightSchool",
+    "Text": "VIDEÓK: ŰRREPÜLÉSI AKADÉMIA: GEMINI (YT)"
+  },
+  {
+    "Identifier": "Academy_Mercury_FlightSchool",
+    "Text": "VIDEÓK: ŰRREPÜLÉSI AKADÉMIA: MERCURY (YT)"
+  },
+  {
+    "Identifier": "Academy_Theory_FlightSchool",
+    "Text": "ŰRREPÜLÉSI AKADÉMIA (VIDEÓK, YT)"
+  },
+  {
+    "Identifier": "Academy_Videos",
+    "Text": "VIDEÓK"
+  },
+  {
+    "Identifier": "Academy_Lessons",
+    "Text": "KIKÉPZÉSEK"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecay",
+    "Text": "Pályasüllyedés engedélyezése"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecayDesc",
+    "Text": "Ez engedélyezi a Pályasüllyedést (Csak teszteléshez, csak Mercury esetén), ami azt jelenti, hogy a keringési pálya a légkör által okozott légellenállás függvényében fog süllyedni."
+  },
+  {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarm",
+    "Text": "Időgyórsítás leállítása Master Riasztás esetén"
+  },
+  {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarmDesc",
+    "Text": "Ez leállítja az Időgyórsítást, ha a Master Riasztás aktív (Apollo)."
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotation",
+    "Text": "Előre irányuló (pálya menti) forgatás engedélyezése"
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotationDesc",
+    "Text": "Ez automatikusan elfordítja az űrhajót prográd irányba, amíg Keringési Pályán van."
+  },
+  {
+    "Identifier": "Settings_LanguageContribute",
+    "Text": "Minden fordítás a közösség hozzájárulása, és nagyrészt részleges. Ha szeretne nyelvi fordításokkal hozzájárulni, kérjük, tekintse meg a Hozzájárulás oldalt a Főmenüben."
+  },
+  {
+    "Identifier": "Settings_VirtualRealityMoved",
+    "Text": "Megjegyzés: A VR áthelyezésre került – egy új VR megvalósítás fejlesztés alatt áll! A meglévő, előzetes VR támogatás átkerült egy Virtual Reality nevű dedikált ágra. Az új VR megvalósítás fejlesztése, amely az előzetes fázis tanulságait hasznosítja, le fogja váltani a régi megvalósítást. A régi megvalósítás kivezetésre kerül."
+  },
+  {
+    "Identifier": "Settings_AlphaFeatures",
+    "Text": "ALFA JELLEMZŐK"
+  },
+  {
+    "Identifier": "Settings_AlphaFeaturesDesc",
+    "Text": "Az Alfa Funkciók olyan különféle funkciók és játékmódok, amelyek jelenleg alfa/fejlesztés alatt állnak. Ebben a szekcióban engedélyezheti ezen funkciók bármelyikét. Ezek olyan funkciók, amelyek jelenleg Kutatási és Fejlesztési fázisban vannak. A Főmenüből elérhető ÚTITERV szekcióban minden egyes funkcióról részletesen olvashat.\nMindezen funkciók automatikusan engedélyezésre kerülnek, ha a Steam Béták fülről elérhető ALPHA-FLOOR *branch*-en (fejlesztési ágon) futtat bármilyen *build*-ot (programverziót).\n\nMegjegyzés: A lista módosításai a játék újraindítását igénylik."
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MCC",
+    "Text": "Többjátékos mód: Mercury Küldetésirányítás"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MOCR",
+    "Text": "Többjátékos mód: Apollo Küldetésirányítás"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Challenges",
+    "Text": "Kihívások Játéküzemmód"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_VR",
+    "Text": "Virtuális valóság"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Workshop",
+    "Text": "Műhely"
+  },
+  {
+    "Identifier": "GeneralCloseButton",
+    "Text": "ZÁRVA"
+  },
+  {
+    "Identifier": "MainMenuItem_Roadmap",
+    "Text": "ÚTITERV"
+  },
+  {
+    "Identifier": "Settings_EnableQuindarNoise",
+    "Text": "Quindar hangjelzés lejátszása (üzenet fogadva)"
+  },
+  {
+    "Identifier": "MainMenuItem_Career",
+    "Text": "KARRIER"
+  },
+  {
+    "Identifier": "SwitchCraftButton",
+    "Text": "ŰRHÁJÓ KIVÁLASZTÁS"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryFlightDirector",
+    "Text": "MERCURY FÖLDI IRÁNYÍTÁS IGAZGATÓ"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryCapCom",
+    "Text": "\"MERCURY CAPCOM\""
+  },
+  {
+    "Identifier": "Profile_SkillApolloFlightDirector",
+    "Text": "APOLLO FÖLDI IRÁNYÍTÁS IGAZGATÓ"
+  },
+  {
+    "Identifier": "Profile_SkillApolloCapCom",
+    "Text": "APOLLO CAPCOM"
+  },
+  {
+    "Identifier": "Profile_InsigniaPath",
+    "Text": "CUSTOM INSIGNIA GRAPHICS PATH (.png)"
+  },
+  {
+    "Identifier": "Rank_CandidateSpaced",
+    "Text": "J E L Ö L T"
+  },
+  {
+    "Identifier": "Rank_FlightGraduateSpaced",
+    "Text": "R E P Ü L É S I\nM I N Ő S Í T É S"
+  },
+  {
+    "Identifier": "Rank_EngineerSpaced",
+    "Text": "\"I R Á N Y Í T Ó\nM É R N Ö K\""
+  },
+  {
+    "Identifier": "Rank_MissionControllerSpaced",
+    "Text": "K Ü L D E T É S\nI R Á N Y Í T Ó"
+  },
+  {
+    "Identifier": "Rank_CapComSpaced",
+    "Text": "K A P S Z U L A\nK O M M U N I K Á T O R"
+  },
+  {
+    "Identifier": "Rank_FlightDirSpaced",
+    "Text": "R E P Ü L É S I\nI R Á N Y Í T Ó"
+  },
+  {
+    "Identifier": "Rank_CapComGraduateSpaced",
+    "Text": "C A P C O M\nM I N Ő S Í T E T T"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityInput",
+    "Text": "VR BEMENETI HOZZÁRENDELÉSEK"
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Title",
+    "Text": "Frissítések érhetők el az alapértelmezett ellenőrzőlistákhoz."
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Desc",
+    "Text": "Frissítések érhetők el az alapértelmezett ellenőrzőlistákhoz, és telepítésre készen állnak. Ezzel a művelettel az alapértelmezett ellenőrzőlistákon végrehajtott bármely módosítás felülírásra kerül, ezért a folytatás előtt készítsen biztonsági másolatot.\n\nEzen változtatások telepítéséhez nyomja meg a BEÁLLÍTÁSOK menüben az ALAPÉRTELMEZETT ELLENŐRZŐLISTÁK VISSZAÁLLÍTÁSA gombot, vagy az alábbi TELEPÍTÉS gombot.\n\nMEGJEGYZÉS: Amennyiben módosításokat hajtott végre bármely alapértelmezett ellenőrzőlistán, ez az üzenet jelenik meg. Javasoljuk, hogy az üzenet letiltásához kapcsolja ki a BEÁLLÍTÁSOK menüben az \"Ellenőrzőlisták változásainak automatikus ellenőrzése\" opciót, és kézzel használja az ALAPÉRTELMEZETT ELLENŐRZŐLISTÁK VISSZAÁLLÍTÁSA funkciót."
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Install",
+    "Text": "TELEPÍTÉS"
+  },
+  {
+    "Identifier": "GameTips_Tip1",
+    "Text": "A napfázis/pozíció az sp vagy setsunphase konzolparanccsal módosítható."
+  },
+  {
+    "Identifier": "GameTips_Tip2",
+    "Text": "Amennyiben visszajelzése van, kérjük, látogasson el a hivatalos Discord csatornánkra: discord.gg/reentrygame"
+  },
+  {
+    "Identifier": "GameTips_Tip3",
+    "Text": "Kerülje az 500x feletti időgyorsítást, mivel az a belső rendszerekben pontatlanságokat halmoz fel."
+  },
+  {
+    "Identifier": "GameTips_Tip4",
+    "Text": "A szövegfelolvasó rendszer valós időben kiolvassa a küldetési üzeneteket és a kiképzés utasításait. Ezt a beállításokban lehet kapcsolni."
+  },
+  {
+    "Identifier": "GameTips_Tip5",
+    "Text": "Minden Virtuális Asztronautát üdvözlünk a Hivatalos Reentry Közösségben, a Discord szerverünkön (discord.gg/reentrygame)!"
+  },
+  {
+    "Identifier": "GameTips_Tip6",
+    "Text": "Minden, a Reentry által támogatott űrhajó rendelkezik repülési kézikönyvvel. Javasolt ezeket áttanulmányozni. A kézikönyveket Az Akadémia szekcióban találja meg."
+  },
+  {
+    "Identifier": "GameTips_Tip7",
+    "Text": "Folyamatosan keresünk új Berepülőpilótákat (BP)! A BP-platform a Discord, és a hivatalos Reentry Discord csatorna része (discord.gg/reentrygame)"
+  },
+  {
+    "Identifier": "GameTips_Tip8",
+    "Text": "Saját ellenőrzőlistákat hozhat létre, vagy módosíthatja a meglévőket az Ellenőrzőlista Szerkesztő segítségével. Ellenőrzőlistákat hozhat létre és tölthet be a 'checklist' parancs használatával a játékon belüli KONZOL-ban."
+  },
+  {
+    "Identifier": "GameTips_Tip9",
+    "Text": "Kerülje az 500x feletti időgyorsítást, mivel az pontatlanságokat halmoz fel a belső rendszerekben."
+  },
+  {
+    "Identifier": "GameTips_Tip10",
+    "Text": "A szövegfelolvasó rendszer valós időben képes kiolvasni a küldetési üzeneteket és a kiképzési utasításokat. Ezt a beállításokban kapcsolhatja."
+  },
+  {
+    "Identifier": "GameTips_Tip11",
+    "Text": "A tükröződő felületek nagy számítási teljesítményt igényelnek. Próbálja meg csökkenteni a beállításukat, vagy kapcsolja KI őket, különösen az Apollo esetében."
+  },
+  {
+    "Identifier": "GameTips_Tip12",
+    "Text": "A játékban a Fedélzeti Számítógép és a DSKY (Kijelző & Billentyűzet Interfész) billentyűzetgombjai a Bemeneti Beállításokban hozzárendelhetők."
+  },
+  {
+    "Identifier": "GameTips_Tip13",
+    "Text": "Gyorsbillentyűt rendelhet a Holdkomp Leszálló Meghajtó Rendszerének Holdérintéskori leállításához."
+  },
+  {
+    "Identifier": "GameTips_Tip14",
+    "Text": "Kerülje az 500x feletti időgyorsítást, mivel az pontatlanságokat halmoz fel a belső rendszerekben."
+  },
+  {
+    "Identifier": "GameTips_Tip15",
+    "Text": "A szövegfelolvasó rendszer valós időben kiolvassa a küldetési üzeneteket és a kiképzés utasításait. Ez a beállításokban kapcsolható."
+  },
+  {
+    "Identifier": "GameTips_Tip16",
+    "Text": "Gyorsmentés: A Bemeneti leképezőben hozzárendelhet egy Gyorsmentés billentyűzet/joystick gombot."
+  },
+  {
+    "Identifier": "LoadingScreen_Program",
+    "Text": "PROGRAM"
+  },
+  {
+    "Identifier": "LoadingScreen_LV",
+    "Text": "HORDOZÓRAKÉTA"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto",
+    "Text": "BETÖLTÉSI CÉL"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Orbit",
+    "Text": "Pálya"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Pad",
+    "Text": "Pad"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures",
+    "Text": "VÉLETLENSZERŰ MEGHIBÁSODÁSOK"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures_No",
+    "Text": "Nem"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures_Yes",
+    "Text": "Igen, {0}%/Ciklus"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Mercury",
+    "Text": "Mercury"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Gemini",
+    "Text": "Gemini"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Apollo",
+    "Text": "Apollo"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_STS",
+    "Text": "Űrsikló (STS)"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_GeminiLV",
+    "Text": "Gemini-Titan II"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_ApolloLV",
+    "Text": "Saturn V"
+  },
+  {
+    "Identifier": "LoadingScreen_STSLV",
+    "Text": "STS"
+  },
+  {
+    "Identifier": "LoadingScreen_RedstoneLV",
+    "Text": "Mercury-Redstone"
+  },
+  {
+    "Identifier": "LoadingScreen_AtlasLV",
+    "Text": "Mercury-Atlas"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_VRCursorPitchOffset",
+    "Text": "VR Egérkurzor Bólintás Eltolás"
+  },
+  {
+    "Identifier": "RealismSettings_DisableCameraShake",
+    "Text": "Kamerarázkódás Letiltása"
+  },
+  {
+    "Identifier": "RealismSettings_DisableCameraShakeDesc",
+    "Text": "Ez kikapcsolja a kameraremegést minden pilótafülkében."
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedORDEAL",
+    "Text": "Egyszerűsített ORDEAL engedélyezése"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedORDEALDesc",
+    "Text": "Az ORDEAL-nek a PARANCSNOKI MODUL-ban és a Holdkomp-ban két üzemmódja van: KERINGÉSI SEBESSÉG és INERCIÁLIS. Az INERCIÁLIS üzemmód az IMU/GDC aktuális helyzetét jelzi ki az FDAI-n, míg a KERINGÉSI SEBESSÉG üzemmód a *Local Vertical Local Horizontal* (LVLH - Helyi Függőleges Helyi Vízszintes) tájolást mutatja az FDAI-n.\n\nEz a beállítás egy egyszerűsített ORDEAL Logikát aktivál, amikor az ORDEAL KERINGÉSI SEBESSÉG üzemmódba van állítva. Ez ideiglenesen hozzáigazítja az IMU/GDC inerciális platformjait az LVLH-hoz. Amikor az ORDEAL-t visszaállítják INERCIÁLIS üzemmódba, a módosított IMU/GDC platformok visszaállnak az eredeti beállításaikra.\nEz lehetővé teszi, hogy az automatikus manőverezés és a helyzetek (orientációk) a kiválasztott ORDEAL üzemmódhoz igazodjanak.\nNéhány akadémiai lecke feltételezi, hogy ez BE állásban van.\nHa ezt KI állásba kapcsolja, az ORDEAL csak az FDAI kijelző gömbjét fogja állítani, anélkül, hogy befolyásolná az IMU/GDC tájolását. Ez azt jelenti, hogy minden helyzetadat, az automatikus manőverezés és a célzás az IMU-hoz viszonyított lesz, a KERINGÉSI SEBESSÉG üzemmód pedig csak vizuális jellegű. Ez a legrealisztikusabb lehetőség, és ajánlom, hogy azok, akik jártasak az IMU, a *REFSMMATs* (a stabil referenciaplatformhoz viszonyított tájolási mátrixok), a P52 Program és a helyzetvezérlés terén, ezt állítsák KI állásba, az *Automatic Prograde Realism* (Automatikus Előre irányuló (pálya menti) Realizmus) beállítással együtt."
+  },
+  {
+    "Identifier": "GameTips_Tip17",
+    "Text": "Nyomja meg a SHIFT+M billentyűkombinációt a Repülési Dokumentumok megnyitásához. Ez lehetővé teszi Önnek, hogy olvassa a kézikönyveket, és játékon belüli böngészőt használjon pdf-ek, webhelyek stb. megnyitásához."
+  },
+  {
+    "Identifier": "GameTips_Tip18",
+    "Text": "Javaslom a Mercury teljes elsajátítását a Gemini-program megkezdése előtt. Ezután sajátítsa el a Geminit és a randevút/dokkolást, mielőtt megkísérli az Apollot. Így elsajátíthatja a játékmechanikát, és a technológia valós életbeli fejlődését."
+  },
+  {
+    "Identifier": "GameTips_Tip19",
+    "Text": "Az \"Apollo Számokban\" című könyv (a hivatkozás az Apollo Repülési Dokumentumok böngészőjében található (SHIFT+M a kapcsoláshoz)) kiváló referenciaként használható a hajtóműindítások tervezésekor, vagy a használandó LOI paraméterek (Holdkörüli Pályára Állás) meghatározásához."
+  },
+  {
+    "Identifier": "GameTips_Tip20",
+    "Text": "A Betöltőképernyő képeit megváltoztathatja/kibővítheti a fájlok lecserélésével vagy hozzáadásával a játék AppData mappájában található LoadingImages könyvtárba."
+  },
+  {
+    "Identifier": "GameTips_Tip21",
+    "Text": "Sötét terület van a pilótafülkében, vagy további fényre van szüksége? A Zseblámpát az [F] billentyűvel bármikor felkapcsolhatja, hogy megkönnyítse a látást a sötét területeken."
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9Full",
+    "Text": "9B. KIKÉPZÉS - LÉGKÖRI BELÉPÉS (TELJES)"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson18",
+    "Text": "18. KIKÉPZÉS - HOLDI BELÉPÉS (TELJES)"
+  },
+  {
+    "Identifier": "RealismSettings_MissionCompleteAutoPopup",
+    "Text": "A Küldetés Befejezve képernyő automatikus megjelenítése"
+  },
+  {
+    "Identifier": "RealismSettings_MissionCompleteAutoPopupDesc",
+    "Text": "Ez a kapcsoló automatikusan megjeleníti a Küldetés Befejezve képernyőt a küldetés befejezésekor / vízre szálláskor. Letiltás esetén az ESC -> Munkamenet Befejezése megnyomásával hívhatja elő."
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerTiltOffsetPitch",
+    "Text": "Mozgásvezérlő/Kézdöntés Eltolás Bólintás"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset",
+    "Text": "Mozgásvezérlő/Kézpozíció Eltolás"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_X",
+    "Text": "X"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_Y",
+    "Text": "Y"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_Z",
+    "Text": "Z"
+  },
+  {
+    "Identifier": "MissionsMenu_FlightPlanMode",
+    "Text": "REPÜLÉSI TERV ÜZEMMÓD"
+  },
+  {
+    "Identifier": "Settings_UDPDataRate",
+    "Text": "UDP Csomag Ráta (csomag/s)"
+  },
+  {
+    "Identifier": "Academy_Gemini_EntryVideo",
+    "Text": "VIDEÓ: PÁLYAELHAGYÁS & BELÉPÉS"
+  },
+  {
+    "Identifier": "RealismSettings_DisableLensFlare",
+    "Text": "Lencsebecsillanás letiltása"
+  },
+  {
+    "Identifier": "RealismSettings_DisableLensFlareDesc",
+    "Text": "Ez letiltja a lencsebecsillanás-effektust, és ehelyett a Napot egy fényes foltként jeleníti meg."
+  },
+  {
+    "Identifier": "MainMenuItem_DevMessage",
+    "Text": "FEJLESZTŐI MEGJEGYZÉS"
+  },
+  {
+    "Identifier": "RealismSettings_StopCockpitCamOnBorder",
+    "Text": "Kamera mozgásának korlátozása a pilótafülke belsejére"
+  },
+  {
+    "Identifier": "RealismSettings_StopCockpitCamOnBorderDesc",
+    "Text": "Megállítja a kamerát, amikor az eléri a pilótafülke falait, megakadályozva a belső téren túli mozgást."
+  },
+  {
+    "Identifier": "RealismSettings_StarIdentifyHelper",
+    "Text": "Csillagazonosítási segédeszközök engedélyezése"
+  },
+  {
+    "Identifier": "RealismSettings_StarIdentifyHelperDesc",
+    "Text": "Vizuális jelölőket jelenít meg a csillagok azonosításához. Az AGC-ben tárolt csillagok kék glóriával vannak kiemelve."
+  },
+  {
+    "Identifier": "Settings_CameraSettings",
+    "Text": "KAMERA BEÁLLÍTÁSOK"
+  },
+  {
+    "Identifier": "Settings_CameraSettings_DefaultFoV",
+    "Text": "Alapértelmezett Látómező"
+  },
+  {
+    "Identifier": "CameraSettings_InvertExternalViewXAxis",
+    "Text": "Külső nézet: Az X-tengely invertálása egérnézet során"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloCustomColorTint",
+    "Text": "Apollo: Kék színárnyalat az integrált világításon"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloCustomColorTintDesc",
+    "Text": "Az Apollo panelek eredeti, integrált színe fehér volt. Ez a beállítás ezt egy enyhe jégkék árnyalattal bírálja felül."
+  },
+  {
+    "Identifier": "Settings_TileSetStreamingPath",
+    "Text": "A mozaikkészletet tartalmazó mappa abszolút elérési útja:"
+  },
+  {
+    "Identifier": "Settings_SkipIntro",
+    "Text": "A bevezető jelenet átugrása"
+  },
+  {
+    "Identifier": "Settings_GeneralHeader",
+    "Text": "ÁLTALÁNOS"
+  }
+]
