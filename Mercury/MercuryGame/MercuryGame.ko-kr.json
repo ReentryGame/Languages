@@ -45,7 +45,7 @@
   },
   {
     "Identifier": "CommReq_SetRETROtoNextAP",
-    "Text": "다음 Ap에서 RETRO"
+    "Text": "다음 Ap에서 역분사"
   },
   {
     "Identifier": "CommReq_MessageCapCom",
@@ -89,7 +89,7 @@
   },
   {
     "Identifier": "Radio_RetroTimeUpdated",
-    "Text": "{0}, 레트로 시각(Time to Retro)이 갱신되었습니다. 다시 확인하고 조정하세요."
+    "Text": "{0}, 역분사 시각(Time to Retro)이 갱신되었습니다. 다시 확인하고 조정하세요."
   },
   {
     "Identifier": "Radio_TempCheck",
@@ -201,7 +201,7 @@
   },
   {
     "Identifier": "MissionObjective_State_RetroSequenceStarting",
-    "Text": "레트로 시퀀스 시작을 기다리세요."
+    "Text": "역분사 시퀀스 시작을 기다리세요."
   },
   {
     "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
@@ -221,7 +221,7 @@
   },
   {
     "Identifier": "MissionObjective_State_DrogueDeploy",
-    "Text": "드로그 낙하산 전개 대기 중."
+    "Text": "보조 낙하산 전개 대기 중."
   },
   {
     "Identifier": "MissionObjective_State_MainDeploy",
@@ -357,7 +357,7 @@
   },
   {
     "Identifier": "MissionTools_DataForms_RetroSeqMA6",
-    "Text": "MA-6: 레트로 시퀀스 시각"
+    "Text": "MA-6: 역분사 시퀀스 시각"
   },
   {
     "Identifier": "MissionTools_DataForms_30MinReport",
@@ -377,11 +377,11 @@
   },
   {
     "Identifier": "MissionTools_CockpitEq_MA6",
-    "Text": "Mercury-Atlas 6 장비\nMA-6 장비는 MA-6 미션 중 필요한 다양한 장비입니다. 시력 검사와 레트로 시퀀스 시각 양식이 있습니다. 각각 개별적으로 켜고 끌 수 있습니다."
+    "Text": "Mercury-Atlas 6 장비\nMA-6 장비는 MA-6 미션 중 필요한 다양한 장비입니다. 시력 검사와 역분사 시퀀스 시각 양식이 있습니다. 각각 개별적으로 켜고 끌 수 있습니다."
   },
   {
     "Identifier": "MissionTools_CockpitEq_MA6_RetroSeq",
-    "Text": "MA-6: 레트로 시퀀스 시각"
+    "Text": "MA-6: 역분사 시퀀스 시각"
   },
   {
     "Identifier": "MissionTools_CockpitEq_VisionTests",
@@ -433,7 +433,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_Staging_Retros",
-    "Text": "단 분리: 레트로 엔진"
+    "Text": "단 분리: 역분사 엔진"
   },
   {
     "Identifier": "Debrief_KeyMoment_MECO",
@@ -445,15 +445,15 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_RetroNo1",
-    "Text": "레트로 1번"
+    "Text": "역분사 1번"
   },
   {
     "Identifier": "Debrief_KeyMoment_RetroNo2",
-    "Text": "레트로 2번"
+    "Text": "역분사 2번"
   },
   {
     "Identifier": "Debrief_KeyMoment_RetroNo3",
-    "Text": "레트로 3번"
+    "Text": "역분사 3번"
   },
   {
     "Identifier": "Debrief_KeyMoment_MainChutes",
@@ -465,7 +465,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_DrogueChutes",
-    "Text": "드로그 낙하산"
+    "Text": "보조 낙하산"
   },
   {
     "Identifier": "Debrief_KeyMoment_Staging_RedstoneLV",

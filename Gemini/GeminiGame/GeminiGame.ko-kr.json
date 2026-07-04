@@ -29,7 +29,7 @@
   },
   {
     "Identifier": "CommReq_RetroAtNextApogee",
-    "Text": "다음 원지점에서 RETRO"
+    "Text": "다음 원지점에서 역분사"
   },
   {
     "Identifier": "CommReq_EVAButton",
@@ -37,7 +37,7 @@
   },
   {
     "Identifier": "CommReq_RequestRetroTime",
-    "Text": "레트로 시각 점검"
+    "Text": "역분사 시각 점검"
   },
   {
     "Identifier": "CommReq_OpenHatchButtonCdr",
@@ -73,7 +73,7 @@
   },
   {
     "Identifier": "CommReq_RetroAtTargetCursor",
-    "Text": "궤도 커서에서 RETRO"
+    "Text": "궤도 커서에서 역분사"
   },
   {
     "Identifier": "ViewSelector_CommandersSeat",
@@ -137,11 +137,11 @@
   },
   {
     "Identifier": "CommReq_UpdatedRetroTime",
-    "Text": "{0}, 레트로 시각이 {{timeToRetro}}(으)로 갱신되었습니다. Core 19를 다시 확인하고 필요하면 조정하세요."
+    "Text": "{0}, 역분사 시각이 {{timeToRetro}}(으)로 갱신되었습니다. Core 19를 다시 확인하고 필요하면 조정하세요."
   },
   {
     "Identifier": "CommReq_CheckRetroTime",
-    "Text": "{0}, 레트로까지 {{timeToRetro}} 남았습니다. Core 19로 조정하세요."
+    "Text": "{0}, 역분사까지 {{timeToRetro}} 남았습니다. Core 19로 조정하세요."
   },
   {
     "Identifier": "CommReq_RadiatorStatus1",
@@ -257,11 +257,11 @@
   },
   {
     "Identifier": "Cockpit_UpdateTTRetro",
-    "Text": "{0}, 레트로 시각이 {{timeToRetro}}(으)로 갱신되었습니다. Core 19를 다시 확인하고 필요하면 조정하세요."
+    "Text": "{0}, 역분사 시각이 {{timeToRetro}}(으)로 갱신되었습니다. Core 19를 다시 확인하고 필요하면 조정하세요."
   },
   {
     "Identifier": "Cockpit_UnableToUpdateTTRetro",
-    "Text": "{0}, 레트로 시각을 설정할 수 없습니다. 컴퓨터가 작동 중이고 DCS에 전원이 들어와 있는지 확인하세요."
+    "Text": "{0}, 역분사 시각을 설정할 수 없습니다. 컴퓨터가 작동 중이고 DCS에 전원이 들어와 있는지 확인하세요."
   },
   {
     "Identifier": "MissionObjective_None",
@@ -357,7 +357,7 @@
   },
   {
     "Identifier": "MissionObjective_State_RetroSequenceStarting",
-    "Text": "레트로 시퀀스 시작을 기다리세요."
+    "Text": "역분사 시퀀스 시작을 기다리세요."
   },
   {
     "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
@@ -377,7 +377,7 @@
   },
   {
     "Identifier": "MissionObjective_State_DrogueDeploy",
-    "Text": "드로그 낙하산 전개 대기 중."
+    "Text": "보조 낙하산 전개 대기 중."
   },
   {
     "Identifier": "MissionObjective_State_MainDeploy",
@@ -713,7 +713,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_DrogueChute",
-    "Text": "드로그 낙하산 전개"
+    "Text": "보조 낙하산 전개"
   },
   {
     "Identifier": "Debrief_KeyMoment_EVAStart",
@@ -725,19 +725,19 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_RetroNo1",
-    "Text": "레트로 1번"
+    "Text": "역분사 1번"
   },
   {
     "Identifier": "Debrief_KeyMoment_RetroNo2",
-    "Text": "레트로 2번"
+    "Text": "역분사 2번"
   },
   {
     "Identifier": "Debrief_KeyMoment_RetroNo3",
-    "Text": "레트로 3번"
+    "Text": "역분사 3번"
   },
   {
     "Identifier": "Debrief_KeyMoment_RetroNo4",
-    "Text": "레트로 4번"
+    "Text": "역분사 4번"
   },
   {
     "Identifier": "Debrief_KeyMoment_StagingTitanI",
@@ -753,7 +753,7 @@
   },
   {
     "Identifier": "Debrief_KeyMoment_StagingRetro",
-    "Text": "단 분리: 레트로"
+    "Text": "단 분리: 역분사"
   },
   {
     "Identifier": "BurnUplinkBrief",
@@ -761,6 +761,6 @@
   },
   {
     "Identifier": "RetroburnPlanner_GeminiTimeSet",
-    "Text": "레트로 시퀀스 시각이 {0}(으)로 설정되었습니다."
+    "Text": "역분사 시퀀스 시각이 {0}(으)로 설정되었습니다."
   }
 ]
