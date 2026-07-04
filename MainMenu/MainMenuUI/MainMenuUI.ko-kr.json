@@ -33,15 +33,15 @@
   },
   {
     "Identifier": "ContextMenu_Mercury",
-    "Text": "프로젝트 머큐리"
+    "Text": "머큐리 프로젝트"
   },
   {
     "Identifier": "ContextMenu_Gemini",
-    "Text": "프로젝트 제미니"
+    "Text": "제미니 프로젝트"
   },
   {
     "Identifier": "ContextMenu_Apollo",
-    "Text": "프로젝트 아폴로"
+    "Text": "아폴로 프로젝트"
   },
   {
     "Identifier": "ContextMenu_Credits",
@@ -121,15 +121,15 @@
   },
   {
     "Identifier": "AcademyMenu_ButtonMercuryTutorials",
-    "Text": "프로젝트 머큐리 레슨"
+    "Text": "머큐리 프로젝트 레슨"
   },
   {
     "Identifier": "AcademyMenu_ButtonGeminiTutorials",
-    "Text": "프로젝트 제미니 레슨"
+    "Text": "제미니 프로젝트 레슨"
   },
   {
     "Identifier": "AcademyMenu_ButtonApolloTutorials",
-    "Text": "프로젝트 아폴로 레슨"
+    "Text": "아폴로 프로젝트 레슨"
   },
   {
     "Identifier": "AcademyMenu_ButtonLunarModuleTutorials",
@@ -145,15 +145,15 @@
   },
   {
     "Identifier": "MissionsMenu_ButtonMercury",
-    "Text": "프로젝트 머큐리"
+    "Text": "머큐리 프로젝트"
   },
   {
     "Identifier": "MissionsMenu_ButtonGemini",
-    "Text": "프로젝트 제미니"
+    "Text": "제미니 프로젝트"
   },
   {
     "Identifier": "MissionsMenu_ButtonApollo",
-    "Text": "프로젝트 아폴로"
+    "Text": "아폴로 프로젝트"
   },
   {
     "Identifier": "MissionsMenu_FreePlay",
@@ -181,15 +181,15 @@
   },
   {
     "Identifier": "ProgramInfo_Mercury",
-    "Text": "프로젝트 머큐리는 우주비행사를 궤도에 안전하게 올려 보내고 지구로 무사히 귀환시키는 것을 목표로 한 미국 최초의 우주 프로그램입니다."
+    "Text": "머큐리 프로젝트는 우주비행사를 궤도에 안전하게 올려 보내고 지구로 무사히 귀환시키는 것을 목표로 한 미국 최초의 우주 프로그램입니다."
   },
   {
     "Identifier": "ProgramInfo_Gemini",
-    "Text": "프로젝트 제미니는 미국의 두 번째 우주 프로그램으로, 흔히 '달로 가는 다리'라고 불립니다."
+    "Text": "제미니 프로젝트는 미국의 두 번째 우주 프로그램으로, 흔히 '달로 가는 다리'라고 불립니다."
   },
   {
     "Identifier": "ProgramInfo_Apollo",
-    "Text": "프로젝트 아폴로는 마침내 인류를 달에 착륙시킨 프로그램입니다."
+    "Text": "아폴로 프로젝트는 마침내 인류를 달에 착륙시킨 프로그램입니다."
   },
   {
     "Identifier": "ProgramInfo_MCC",
@@ -1437,7 +1437,7 @@
   },
   {
     "Identifier": "GameTips_Tip18",
-    "Text": "프로젝트 제미니를 시작하기 전에 머큐리를 완전히 익히는 것을 권장합니다. 그다음 제미니와 랑데부/도킹을 익힌 뒤 아폴로에 도전하세요. 이렇게 하면 실제 역사에서 기술이 발전한 순서대로 게임 메커니즘과 기술을 익힐 수 있습니다."
+    "Text": "제미니 프로젝트를 시작하기 전에 머큐리를 완전히 익히는 것을 권장합니다. 그다음 제미니와 랑데부/도킹을 익힌 뒤 아폴로에 도전하세요. 이렇게 하면 실제 역사에서 기술이 발전한 순서대로 게임 메커니즘과 기술을 익힐 수 있습니다."
   },
   {
     "Identifier": "GameTips_Tip19",
