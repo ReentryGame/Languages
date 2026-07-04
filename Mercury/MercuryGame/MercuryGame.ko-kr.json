@@ -1,0 +1,474 @@
+[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "사령관 좌석"
+  },
+  {
+    "Identifier": "ViewSelector_LeftPanels",
+    "Text": "좌측 패널"
+  },
+  {
+    "Identifier": "ViewSelector_RightPanels",
+    "Text": "우측 패널"
+  },
+  {
+    "Identifier": "ViewSelector_UpperPanels",
+    "Text": "상단 패널"
+  },
+  {
+    "Identifier": "ViewSelector_Window",
+    "Text": "창문"
+  },
+  {
+    "Identifier": "ViewSelector_NavigationReticle",
+    "Text": "항법 조준선"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "무선 점검"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "고도 점검"
+  },
+  {
+    "Identifier": "CommReq_ClockReport",
+    "Text": "시계 시작"
+  },
+  {
+    "Identifier": "CommReq_BatteryCheck",
+    "Text": "배터리 점검"
+  },
+  {
+    "Identifier": "CommReq_TempCheck",
+    "Text": "온도 점검"
+  },
+  {
+    "Identifier": "CommReq_SetRETROtoNextAP",
+    "Text": "다음 Ap에서 RETRO"
+  },
+  {
+    "Identifier": "CommReq_MessageCapCom",
+    "Text": "CAPCOM에 메시지"
+  },
+  {
+    "Identifier": "CommReq_PadSwitchToInternalPower",
+    "Text": "내부 전원으로 전환"
+  },
+  {
+    "Identifier": "CommReq_RequestAbortCapability",
+    "Text": "중단 기능 테스트 요청"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "주크박스 켜고 끄기"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "수동 상승 데이터"
+  },
+  {
+    "Identifier": "CommReq_AttitudeInfo",
+    "Text": "자세 데이터"
+  },
+  {
+    "Identifier": "CommReq_CrewMembers",
+    "Text": "미션 도구"
+  },
+  {
+    "Identifier": "Radio_NegativeClockCheck",
+    "Text": "안 됩니다! 엄빌리컬이 아직 연결되어 있습니다."
+  },
+  {
+    "Identifier": "RadioCheck_HF",
+    "Text": "{0}, HF로 {1} 바이 5로 수신 중입니다."
+  },
+  {
+    "Identifier": "RadioCheck_UHF",
+    "Text": "{0}, UHF로 {1} 바이 5로 수신 중입니다."
+  },
+  {
+    "Identifier": "Radio_RetroTimeUpdated",
+    "Text": "{0}, 레트로 시각(Time to Retro)이 갱신되었습니다. 다시 확인하고 조정하세요."
+  },
+  {
+    "Identifier": "Radio_TempCheck",
+    "Text": "{0}, 온도는 정상입니다."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssues",
+    "Text": "{0}, 일부 온도가 범위를 벗어난 것 같습니다.{1}"
+  },
+  {
+    "Identifier": "Radio_AltCheck_OnPad",
+    "Text": "발사대"
+  },
+  {
+    "Identifier": "Radio_AltCheck_WeSeeYouAt",
+    "Text": "{0}에서 확인됩니다."
+  },
+  {
+    "Identifier": "Radio_AltCheck_NoTLM",
+    "Text": "텔레메트리를 확인할 수 없습니다."
+  },
+  {
+    "Identifier": "Radio_ClockOperational",
+    "Text": "확인, 시계가 정상 작동 중입니다."
+  },
+  {
+    "Identifier": "Radio_Staging",
+    "Text": "{0} 단 분리를 확인합니다."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "없음."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "미션을 진행할 준비가 되면 {0}을(를) 누르세요."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "미션을 진행할 준비가 되면 확인을 누르세요."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "이륙을 기다리는 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_SECO",
+    "Text": "SECO 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "카운트다운 정지(HOLD COUNTDOWN) 기능 버블을 누르세요."
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "카운트다운 재개(RESUME COUNTDOWN) 기능 버블을 누르세요."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Tower",
+    "Text": "타워 분리 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_LV",
+    "Text": "발사체 분리 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "패널 구성을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "ID {0} 체크리스트를 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "{0} km보다 높은 고도에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "{0} km보다 낮은 고도에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Ap 고도를 {0} 이상으로 올리세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Pe 고도를 {0} 이상으로 올리세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "궤도를 {0} Ap x {1} Pe 고도(km) 이상으로 조정하세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "무선국 {0}의 통신 범위 안으로 들어가세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "무선국 {0}의 경도 범위 안으로 들어가세요."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "경도 {0}도에서 {1}도 사이에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "위도 {0}도에서 {1}도 사이에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "레트로 시퀀스 시작을 기다리세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "궤도면 {0}에 도달하세요 (허용 오차 +/- {1})"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "부스터 분리 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "역추진부 분리 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "초기 대기 항력(0.05G) 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "드로그 낙하산 전개 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "메인 낙하산 전개 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "대기권 재진입 시작을 기다리는 중."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "체크리스트를 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "대기권을 통과하세요."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "역추진 엔진 점화 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "{0} 피트보다 낮은 고도로 내려가세요."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "착수."
+  },
+  {
+    "Identifier": "MissionObjective_PerformBloodCheck",
+    "Text": "혈압 검사를 실시하세요."
+  },
+  {
+    "Identifier": "RadioMessage_UmbilicalDisconnect",
+    "Text": "엄빌리컬 분리!"
+  },
+  {
+    "Identifier": "RadioMessage_SetSpacecraftToReady",
+    "Text": "{0}, 준비 상태가 확인되지 않습니다. LAUNCH CONTROL 스위치를 READY로 전환하세요. 카운트다운이 완료되었습니다!"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, 카운트다운 정지를 요청합니다."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, 카운트다운을 재개해 주세요."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, 카운트다운을 정지합니다."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, 카운트다운을 재개했습니다."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "카운트다운 재개"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "카운트다운 정지"
+  },
+  {
+    "Identifier": "RadioMessage_StartingAbortCapability",
+    "Text": "중단 기능 점검을 시작했습니다. ABORT 등이 켜지고 전류(암페어)가 급증해야 합니다."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityNotStarted",
+    "Text": "중단 기능 점검을 시작할 수 없습니다. 스퀴브가 준비(armed)되었는지 확인하세요."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityComplete",
+    "Text": "중단 기능 점검이 완료되었습니다."
+  },
+  {
+    "Identifier": "RadioMessage_SwitchToInternalPower",
+    "Text": "발사체를 엄빌리컬 전원에서 분리했습니다. 이제 내부 전원으로 작동합니다."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_EvapH2OLow",
+    "Text": "증발기 H2O 수위가 낮습니다."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitLow",
+    "Text": "슈트 온도가 낮습니다."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitHigh",
+    "Text": "슈트 온도가 높습니다."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinLow",
+    "Text": "선실 온도가 낮습니다."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinHigh",
+    "Text": "선실 온도가 높습니다."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinFanOff",
+    "Text": "선실 팬이 꺼져 있습니다. 켜서 열교환기로 공기를 보내세요."
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "무엇을 도와드릴까요?"
+  },
+  {
+    "Identifier": "MissionTools_Eq",
+    "Text": "장비"
+  },
+  {
+    "Identifier": "MissionTools_OpenEqMenu",
+    "Text": "장비 켜고 끄기"
+  },
+  {
+    "Identifier": "MissionTools_FormsSheets",
+    "Text": "양식/시트"
+  },
+  {
+    "Identifier": "MissionTools_OpenDataForms",
+    "Text": "데이터 양식"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Title",
+    "Text": "데이터 양식"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Desc",
+    "Text": "양식\n이 옵션은 선택한 양식이 담긴 UI를 엽니다. 연필 도구로 양식을 채워 데이터를 기록할 수 있습니다."
+  },
+  {
+    "Identifier": "MissionTools_DataForms_RetroSeqMA6",
+    "Text": "MA-6: 레트로 시퀀스 시각"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_30MinReport",
+    "Text": "MA-6: 30분 보고서"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Sheets",
+    "Text": "시트\n여러 시트를 사용해 메모하고, 그림을 그리고, 데이터를 수집할 수 있습니다."
+  },
+  {
+    "Identifier": "MissionTools_DataForms_BlankPaper",
+    "Text": "빈 종이"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "조종실 장비"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_MA6",
+    "Text": "Mercury-Atlas 6 장비\nMA-6 장비는 MA-6 미션 중 필요한 다양한 장비입니다. 시력 검사와 레트로 시퀀스 시각 양식이 있습니다. 각각 개별적으로 켜고 끌 수 있습니다."
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_MA6_RetroSeq",
+    "Text": "MA-6: 레트로 시퀀스 시각"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_VisionTests",
+    "Text": "MA-6: 시력 검사"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_FlightPlanMA6",
+    "Text": "MA-6: 비행 중 계획"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_NavRet",
+    "Text": "항법 조준선\n항법 조준선을 사용해 우주선을 수평선에 정렬할 수 있습니다."
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleNavRet",
+    "Text": "항법 조준선"
+  },
+  {
+    "Identifier": "Debrief_KPI_ManFuel",
+    "Text": "수동 연료"
+  },
+  {
+    "Identifier": "Debrief_KPI_AutoFuel",
+    "Text": "자동 연료"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2T1",
+    "Text": "O2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2T2",
+    "Text": "O2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_AutoFuel",
+    "Text": "자동 연료"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_ManualFuel",
+    "Text": "수동 연료"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StaginAtlasBooster",
+    "Text": "단 분리: 아틀라스 부스터"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_AtlasLV",
+    "Text": "단 분리: 아틀라스 LV"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_Retros",
+    "Text": "단 분리: 레트로 엔진"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MECO",
+    "Text": "MECO"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TowerJett",
+    "Text": "LES 분리"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "레트로 1번"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "레트로 2번"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "레트로 3번"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChutes",
+    "Text": "메인 낙하산"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_ReserveChutes",
+    "Text": "예비 낙하산"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChutes",
+    "Text": "드로그 낙하산"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_RedstoneLV",
+    "Text": "단 분리: 레드스톤 LV"
+  }
+]
