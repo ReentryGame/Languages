@@ -1,0 +1,1718 @@
+[
+  {
+    "Identifier": "CrewMember_CurrentOrbit",
+    "Text": "현재 궤도: {0} nmi x {1} nmi"
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnRequested",
+    "Text": "확인, {0}. {1} nmi에서 원형화 연소를 설정합니다."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCancelled",
+    "Text": "확인, {0}. 원형화 연소가 취소되었습니다."
+  },
+  {
+    "Identifier": "CrewMember_CircularizationBurnCompleted",
+    "Text": "확인, {0}. 원형화 연소가 완료되었습니다."
+  },
+  {
+    "Identifier": "ViewSelector_SwitchSpacecraftCSM",
+    "Text": "LM으로 전환"
+  },
+  {
+    "Identifier": "ViewSelector_SwitchSpacecraftLM",
+    "Text": "CM으로 전환"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LeftSeat",
+    "Text": "좌측 좌석"
+  },
+  {
+    "Identifier": "ViewSelector_CM_CenterSeat",
+    "Text": "중앙 좌석"
+  },
+  {
+    "Identifier": "ViewSelector_CM_RightSeat",
+    "Text": "우측 좌석"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LeftWindow",
+    "Text": "좌측 창문"
+  },
+  {
+    "Identifier": "ViewSelector_CM_RightWindow",
+    "Text": "우측 창문"
+  },
+  {
+    "Identifier": "ViewSelector_CM_Computer",
+    "Text": "AGC/DSKY"
+  },
+  {
+    "Identifier": "ViewSelector_CM_LEB",
+    "Text": "LEB"
+  },
+  {
+    "Identifier": "ViewSelector_LM_LeftStation",
+    "Text": "좌측 스테이션"
+  },
+  {
+    "Identifier": "ViewSelector_LM_CenterPanel",
+    "Text": "중앙 패널"
+  },
+  {
+    "Identifier": "ViewSelector_LM_RightStation",
+    "Text": "우측 스테이션"
+  },
+  {
+    "Identifier": "ViewSelector_LM_LeftWindow",
+    "Text": "좌측 창문"
+  },
+  {
+    "Identifier": "ViewSelector_LM_RightWindow",
+    "Text": "우측 창문"
+  },
+  {
+    "Identifier": "ViewSelector_LM_Computer",
+    "Text": "LGC/DSKY"
+  },
+  {
+    "Identifier": "ViewSelector_LM_ECS",
+    "Text": "ECS"
+  },
+  {
+    "Identifier": "ViewSelector_LM_OVHD",
+    "Text": "천장 창문"
+  },
+  {
+    "Identifier": "CommTools_ToggleCOAS",
+    "Text": "COAS\n토글"
+  },
+  {
+    "Identifier": "CommTools_ToggleHatch",
+    "Text": "해치 여닫기"
+  },
+  {
+    "Identifier": "CommTools_ToggleDockingTarget",
+    "Text": "도킹 타깃 켜고 끄기"
+  },
+  {
+    "Identifier": "CommTools_ReqWeightData",
+    "Text": "중량 데이터 요청"
+  },
+  {
+    "Identifier": "CommTools_ToggleJukebox",
+    "Text": "주크박스 켜고 끄기"
+  },
+  {
+    "Identifier": "CommTools_ReqSwitchInternalPwr",
+    "Text": "내부 전원으로 전환"
+  },
+  {
+    "Identifier": "CommTools_ToggleCountdown",
+    "Text": "카운트다운 정지"
+  },
+  {
+    "Identifier": "CommTools_ToggleSeats",
+    "Text": "좌석 표시 전환"
+  },
+  {
+    "Identifier": "CommTools_ReqCloseHatchPad",
+    "Text": "해치 여닫기"
+  },
+  {
+    "Identifier": "CommTools_ReplaceCanisterA",
+    "Text": "캐니스터 교체"
+  },
+  {
+    "Identifier": "CommTools_ReplaceCanisterB",
+    "Text": "캐니스터 교체"
+  },
+  {
+    "Identifier": "CommTools_LM_Exit",
+    "Text": "달 착륙선에서 나가기"
+  },
+  {
+    "Identifier": "CommTools_LM_ReplaceCanister",
+    "Text": "교체"
+  },
+  {
+    "Identifier": "PhysViewUITitle",
+    "Text": "궤도 뷰"
+  },
+  {
+    "Identifier": "PhysViewUIMoon",
+    "Text": "달"
+  },
+  {
+    "Identifier": "PhysViewUIEarth",
+    "Text": "지구"
+  },
+  {
+    "Identifier": "PhysViewUICM",
+    "Text": "CM"
+  },
+  {
+    "Identifier": "PhysViewUILM",
+    "Text": "LM"
+  },
+  {
+    "Identifier": "ViewOutOfBounds",
+    "Text": "\n\n\n\n\n\n\n범위를 벗어났습니다. 조종실로 돌아가세요.\n(시점을 바꾸면 초기화됩니다)"
+  },
+  {
+    "Identifier": "BurnPlanner_Title",
+    "Text": "기동 플래너"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Title",
+    "Text": "연소 파라미터"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_IgnitionPoint_Title",
+    "Text": "점화 지점"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_IgnitionPoint_Desc",
+    "Text": "궤도 파라미터를 사용해 연소를 시작할 궤도 위상을 설정하세요. 연소까지의 시간이 계산됩니다."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Title",
+    "Text": "Delta-V"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_dV_Desc",
+    "Text": "연소 delta-v를 피트/초 단위로 설정하세요. 궤적이 새 궤도의 추정치를 표시합니다."
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Direction_Title",
+    "Text": "연소 방향"
+  },
+  {
+    "Identifier": "BurnPlanner_Params_Direction_Desc",
+    "Text": "드롭다운으로 연소 방향을 설정하세요."
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Title",
+    "Text": "엔진 선택"
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Set",
+    "Text": "엔진 설정"
+  },
+  {
+    "Identifier": "BurnPlanner_Engine_Desc",
+    "Text": "드롭다운으로 연소에 사용할 엔진을 선택하세요. "
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_Title",
+    "Text": "연소 데이터"
+  },
+  {
+    "Identifier": "BurnPlanner_EI_Title",
+    "Text": "대기권 재진입"
+  },
+  {
+    "Identifier": "BurnPlanner_Exec",
+    "Text": "요청"
+  },
+  {
+    "Identifier": "BurnPlanner_AdditionalData_Title",
+    "Text": "추가 데이터"
+  },
+  {
+    "Identifier": "BurnPlanner_ToggleLines",
+    "Text": "예측 궤적 켜고 끄기"
+  },
+  {
+    "Identifier": "BurnPlanner_Reset",
+    "Text": "플래너 초기화"
+  },
+  {
+    "Identifier": "TLIPlanner_Title",
+    "Text": "TLI 연소 플래너"
+  },
+  {
+    "Identifier": "TLIPlanner_Exec",
+    "Text": "실행"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Title",
+    "Text": "시점 초점"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Earth",
+    "Text": "지구"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_BurnPoint",
+    "Text": "연소 지점"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_Moon",
+    "Text": "달"
+  },
+  {
+    "Identifier": "TLIPlanner_ViewFocus_CSM",
+    "Text": "CSM"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Title",
+    "Text": "연소 파라미터"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Time_Title",
+    "Text": "비행 시간 계수"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_Time_Desc",
+    "Text": "호만 전이 시간의 비율로 표현한 전이 시간입니다.\n범위 0.1 ~ 1.5"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Title",
+    "Text": "SOI 각도 (도)"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_SOI_Desc",
+    "Text": "이 값은 우주선이 달의 중력 영향권에 진입할 때의 도착 각도를 설정합니다."
+  },
+  {
+    "Identifier": "TLIPlanner_Params_TLIDept_Title",
+    "Text": "TLI 출발 각도"
+  },
+  {
+    "Identifier": "TLIPlanner_Params_TLIDept_Desc",
+    "Text": "TLI 연소의 출발 각도를 설정합니다."
+  },
+  {
+    "Identifier": "TLIPlanner_Data_Title",
+    "Text": "연소 데이터"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_Countdown",
+    "Text": "연소까지 시간:"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_TIG",
+    "Text": "점화 시각"
+  },
+  {
+    "Identifier": "TLIPlanner_Data_dV",
+    "Text": "dV"
+  },
+  {
+    "Identifier": "TLIPlanner_Traj_Data",
+    "Text": "궤적"
+  },
+  {
+    "Identifier": "TEIPlanner_Title",
+    "Text": "지구 전이 분사 (TEI)"
+  },
+  {
+    "Identifier": "TEIPlanner_Exec",
+    "Text": "요청"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Title",
+    "Text": "연소 파라미터"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Ve_Title",
+    "Text": "탈출 속도 비율"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_Ve_Desc",
+    "Text": "목표 TEI 속도를 탈출 속도의 비율로 설정하세요."
+  },
+  {
+    "Identifier": "TEIPlanner_BurnData_Title",
+    "Text": "연소 데이터"
+  },
+  {
+    "Identifier": "AdvancedCamera_Title",
+    "Text": "카메라 옵션"
+  },
+  {
+    "Identifier": "AdvancedCamera_Free_On",
+    "Text": "자유"
+  },
+  {
+    "Identifier": "AdvancedCamera_Free_Off",
+    "Text": "자유로 전환"
+  },
+  {
+    "Identifier": "AdvancedCamera_Orbit_On",
+    "Text": "궤도"
+  },
+  {
+    "Identifier": "AdvancedCamera_Orbit_Off",
+    "Text": "궤도로 전환"
+  },
+  {
+    "Identifier": "LRV_Handbrake",
+    "Text": "[핸드브레이크 작동 - SPACE를 눌러 해제]"
+  },
+  {
+    "Identifier": "LRV_EnterLRV",
+    "Text": "LRV 탑승"
+  },
+  {
+    "Identifier": "LRV_ExitLRV",
+    "Text": "차량에서 내리기"
+  },
+  {
+    "Identifier": "LM_ReturnInside",
+    "Text": "내부로 복귀"
+  },
+  {
+    "Identifier": "LM_DeployLRV",
+    "Text": "월면차(LRV) 조립"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, 카운트다운 정지를 요청합니다."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, 카운트다운을 재개해 주세요."
+  },
+  {
+    "Identifier": "RadioCommReq_LM_WeightData1",
+    "Text": "확인, {0}. LM 중량은 +{1} lbs, CSM 중량은 +{2} lbs입니다."
+  },
+  {
+    "Identifier": "RadioCommReq_LM_WeightData2",
+    "Text": "확인, {0}. LM 중량은 +{1} lbs입니다."
+  },
+  {
+    "Identifier": "RadioCommReq_CM_WeightData1",
+    "Text": "확인, {0}. CM 중량은 +{1} lbs, LM 중량은 +{2} lbs입니다."
+  },
+  {
+    "Identifier": "RadioCommReq_CM_WeightData2",
+    "Text": "확인, {0}. CM 중량은 +{1} lbs입니다."
+  },
+  {
+    "Identifier": "RadioCommReq_Mark",
+    "Text": "마크."
+  },
+  {
+    "Identifier": "RadioCommReq_RadioCheck",
+    "Text": "{0}, {1} 바이 5로 수신됩니다."
+  },
+  {
+    "Identifier": "RadioCommReq_InternalPower",
+    "Text": "{0}, 내부 전원으로 전환합니다."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, 카운트다운을 정지합니다."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, 카운트다운을 재개했습니다."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "카운트다운 재개"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "카운트다운 정지"
+  },
+  {
+    "Identifier": "RadioCommReq_CO2CanisterReplaced",
+    "Text": "CO2 캐니스터 {0} 교체됨."
+  },
+  {
+    "Identifier": "LunarAscent_BurnCalcData",
+    "Text": "TPI 호만 연소가 {0} MET에 예정되었으며 dV는 {1} fps입니다. LGC가 갱신되었습니다. P30으로 설정하고 P41로 실행하세요."
+  },
+  {
+    "Identifier": "LunarAscent_CSIError",
+    "Text": "{0}, 아직 상승 중입니다. 주차 궤도에 도달할 때까지 기다리세요."
+  },
+  {
+    "Identifier": "LunarAscent_CSIBurnCalc",
+    "Text": "CSI 연소가 {0} MET에 예정되었으며 dV는 {1} fps입니다. LGC가 갱신되었습니다. P30으로 설정하고 P41로 실행하세요."
+  },
+  {
+    "Identifier": "LunarAscent_CSI_N_BurnCalc",
+    "Text": "TPF 연소가 {0} MET에 예정되었으며 dV는 {1} fps입니다. LGC가 갱신되었습니다. P30으로 설정하고 P41로 실행하세요."
+  },
+  {
+    "Identifier": "LunarAscent_AscentCalc1",
+    "Text": "{0}, 달 상승 엔진 점화가 {1}(으)로 설정되었습니다. "
+  },
+  {
+    "Identifier": "LunarAscent_AscentCalc2",
+    "Text": "점화 시각 값이 LGC에 업로드되었습니다. V06N33E로 확인하세요."
+  },
+  {
+    "Identifier": "BurnPlanner_SPSDeorbitBurn",
+    "Text": "{0}, 궤도 이탈 연소를 위한 SPS 점화 시각은 {1}h {2}m {3}s, dV는 {4} fps {5}입니다. 현재 REFSMMAT 기준 연소 자세는 {6}입니다."
+  },
+  {
+    "Identifier": "BurnPlanner_SPSBurn",
+    "Text": "{0}, SPS 점화 시각은 {1}h {2}m {3}s, dV는 {4} fps {5}입니다. 현재 REFSMMAT 기준 연소 자세는 {6}입니다. P30을 쓴 뒤 V49E로 이 자세로 기동하거나, P52 옵션 1로 자세 0,0,0을 사용해 새로 업링크된 선호 REFSMMAT에 IMU를 정렬하세요."
+  },
+  {
+    "Identifier": "BurnPlanner_DPSBurn",
+    "Text": "{0}, DPS 점화 시각은 {1}h {2}m {3}s, dV는 {4} fps {5}입니다."
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttCurr",
+    "Text": "연소 자세 (현재):"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttPref",
+    "Text": "연소 자세 (선호):"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRetrograde",
+    "Text": "역행"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirPrograde",
+    "Text": "순행"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRadialIn",
+    "Text": "반경 안쪽"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnDirRadialOut",
+    "Text": "반경 바깥쪽"
+  },
+  {
+    "Identifier": "PDI_Requested",
+    "Text": "PDI 요청을 접수했습니다. 궤적을 계산 중이며 데이터가 완료되면 알려드리겠습니다. [최대 1분 정도 걸릴 수 있습니다]"
+  },
+  {
+    "Identifier": "PDI_Fail",
+    "Text": "달 궤도 데이터를 사용할 수 없습니다."
+  },
+  {
+    "Identifier": "PDI_Fail2",
+    "Text": "궤도가 동력 달 하강의 요건을 충족하지 않습니다. Pe를 약 50,000ft 고도로 낮추세요 [고도 8 nmi, 반경 946 nmi]."
+  },
+  {
+    "Identifier": "PDI_Info1",
+    "Text": "{0}, PDI가 {1}(으)로 설정되었으며 자세는 0°, 110°, 0°입니다."
+  },
+  {
+    "Identifier": "PDI_Info2",
+    "Text": "점화 시각 값이 LGC에 업로드되었습니다. V06N33E로 확인하세요."
+  },
+  {
+    "Identifier": "PDI_Info3",
+    "Text": "착륙 지점 위치를 확인하세요."
+  },
+  {
+    "Identifier": "PDI_SiteUpdate",
+    "Text": "PREFERRED 플래그가 착륙 지점 REFSMMAT로 설정되었습니다. P52 옵션 1로 정렬할 수 있습니다."
+  },
+  {
+    "Identifier": "TEI_BurnCalc",
+    "Text": "{0}, 점화 시각은 {1}h {2}m {3}s, dV는 {4} fps입니다"
+  },
+  {
+    "Identifier": "LM_ContactLight",
+    "Text": "접촉등 점등!"
+  },
+  {
+    "Identifier": "LM_Docking",
+    "Text": "접촉, 래칭."
+  },
+  {
+    "Identifier": "Stage_Staging",
+    "Text": "단 분리."
+  },
+  {
+    "Identifier": "TLIPlanner_LunarPe",
+    "Text": "근월점 = {0:0.0} nmi 고도."
+  },
+  {
+    "Identifier": "TLIPlanner_FreeReturnPe",
+    "Text": "귀환 근지점={0:0.0} nmi 고도"
+  },
+  {
+    "Identifier": "TLIPlanner_TimeToLOI",
+    "Text": "LOI 시 예상 GET: {0}"
+  },
+  {
+    "Identifier": "TLIPlanner_Warning1",
+    "Text": "자유 귀환 경로에서 지구 대기권 재진입 경로입니다. 이를 피하려면 근지점을 대기권 위로 올리세요 ({0} nmi 고도)"
+  },
+  {
+    "Identifier": "TLIPlanner_Warning2",
+    "Text": "달과 충돌 경로입니다. 근월점을 달 표면 위로 올리세요 ({0} nmi)"
+  },
+  {
+    "Identifier": "BurnPlanner_EIFlightPath",
+    "Text": "EI 비행 경로각: {0}°"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "EI 시각: {0}"
+  },
+  {
+    "Identifier": "BurnPlanner_VelAtEI",
+    "Text": "EI 시 속도: {0} fps"
+  },
+  {
+    "Identifier": "BurnPlanner_CurrentPhase",
+    "Text": "현재 단계: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_Date",
+    "Text": "날짜: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_MET",
+    "Text": "MET: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_ET",
+    "Text": "이벤트 타이머: "
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_EarthOrbit",
+    "Text": "지구 궤도"
+  },
+  {
+    "Identifier": "BurnPlanner_AddData_LunarOrbit",
+    "Text": "달 궤도"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TIG",
+    "Text": "TIG"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "점화까지 시간"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_EstBurnT",
+    "Text": "예상 연소 시간"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_OrbitData",
+    "Text": "궤도 데이터"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_ApLabel",
+    "Text": "Ap: "
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_PeLabel",
+    "Text": "Pe: "
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_NmiLabel",
+    "Text": "nmi"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_NmiAltLabel",
+    "Text": "nmi 고도"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning1",
+    "Text": "TEI 연소가 달/행성 SOI에 도달하지 못합니다"
+  },
+  {
+    "Identifier": "TEIPlanner_Calc",
+    "Text": "근점: {0:0.00} nmi 고도 ({4} nmi)\nEI까지 시간={1}\nΔV={2} ft/s\n연소까지 시간={3}"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning2",
+    "Text": "없음"
+  },
+  {
+    "Identifier": "TEIPlanner_Warning3",
+    "Text": "탈출 속도 비율 입력의 구두점을 확인하세요."
+  },
+  {
+    "Identifier": "TEIPlanner_Warning4",
+    "Text": "궤도 이심률을 확인하세요. TEI 기동에는 원 궤도가 필요합니다."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "없음."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "미션을 진행할 준비가 되면 {0}을(를) 누르세요."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "미션을 진행할 준비가 되면 확인을 누르세요."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "이륙을 기다리는 중."
+  },
+  {
+    "Identifier": "MissionObjective_TowerSep",
+    "Text": "타워 분리 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteLaunchAscent",
+    "Text": "상승과 궤도 진입을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CECO",
+    "Text": "중앙 엔진 정지를 기다리는 중."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration_CM",
+    "Text": "사령선 패널 구성을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration_LM",
+    "Text": "달 착륙선 패널 구성을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LunarContact",
+    "Text": "달 표면에 착륙하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_LOS",
+    "Text": "LOS를 기다리세요"
+  },
+  {
+    "Identifier": "MissionObjective_CM_AOS",
+    "Text": "AOS를 기다리세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_DPSIgnite",
+    "Text": "DPS 엔진을 점화하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DPSShutoff",
+    "Text": "DPS 연소를 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_APSIgnite",
+    "Text": "APS 엔진을 점화하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_APSShutoff",
+    "Text": "APS 연소를 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_SwitchedToLunarStayArea",
+    "Text": "달 표면에 접근하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet1",
+    "Text": "달 착륙선을 사령/기계선에서 도킹 해제하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet2",
+    "Text": "{0} 피트 이내로 접근하세요. {1} ft 남았습니다."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_True",
+    "Text": "달 착륙선에서 {0} ft/s보다 빠른 속도에 도달하세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_False",
+    "Text": "달 착륙선에서 {0} ft/s보다 느린 속도에 도달하세요"
+  },
+  {
+    "Identifier": "MissionObjective_CM_AltitudeGreater_Value1",
+    "Text": "{0} nmi보다 높은 고도에 도달하세요"
+  },
+  {
+    "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
+    "Text": "CM에서 {0} nmi보다 낮은 고도에 도달하세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
+    "Text": "LM에서 {0} nmi보다 낮은 고도에 도달하세요"
+  },
+  {
+    "Identifier": "MissionObjective_CM_CheckIfAGC_Program_Value1_IsRunning",
+    "Text": "AGC 프로그램 실행: "
+  },
+  {
+    "Identifier": "MissionObjective_AGCCheck_VerbValue1_NounValue2",
+    "Text": "AGC DSKY에 Verb {0}, Noun {1}을(를) 표시하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LGCCheck_VerbValue1_NounValue2",
+    "Text": "LGC DSKY에 Verb {0}, Noun {1}을(를) 표시하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1",
+    "Text": "CM Ap 고도를 {0} 이상으로 올리세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsPeGreaterThan_Value1",
+    "Text": "CM Pe 고도를 {0} 이상으로 올리세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "CS 궤도를 {0} Ap x {1} Pe 고도(nmi) 이상으로 조정하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsAtRadioStation_String1",
+    "Text": "무선국의 통신 범위 안으로 들어가세요: "
+  },
+  {
+    "Identifier": "MissionObjective_CM_Longitude_Between_Value1_Value2",
+    "Text": "경도 {0}도에서 {1}도 사이에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Latitude_Between_Value1_Value2",
+    "Text": "위도 {0}도에서 {1}도 사이에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_IsInclination_Value1_ThresholdValue2",
+    "Text": "궤도면 {0}에 도달하세요 (허용 오차 +/- {1})"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageIC",
+    "Text": "S-IC 분리를 기다리세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageII",
+    "Text": "S-II 분리를 기다리세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageIVB",
+    "Text": "S-IVB 분리를 기다리세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Separation_StageSM",
+    "Text": "SM 분리를 기다리세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_GravityInfluencer_Earth",
+    "Text": "지구의 중력 영향권에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_GravityInfluencer_Moon",
+    "Text": "달의 중력 영향권에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DrogueDeploy",
+    "Text": "보조 낙하산 전개 대기 중"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_MainDeploy",
+    "Text": "메인 낙하산 전개 대기 중"
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_InHiDragZone",
+    "Text": "대기권 재진입 시작을 기다리는 중."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_OutsideHighDragZone",
+    "Text": "대기권을 통과하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_SPSBurning",
+    "Text": "SPS 엔진 점화 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_SPSNotBurning",
+    "Text": "SPS 연소를 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_AnyEngineBurning",
+    "Text": "엔진 점화 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_NoEnginesBurning",
+    "Text": "엔진 정지 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "{0} 피트보다 낮은 고도로 내려가세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_Splashdown",
+    "Text": "착수."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToAp_Value1",
+    "Text": "Ap 도달까지 T-{0}초 대기. 남은 시간: {1}초."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToPe_Value1",
+    "Text": "Pe 도달까지 T-{0}초 대기. 남은 시간: {1}초."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_TimeToRetro_Value1Seconds",
+    "Text": "역추진 연소까지 T -{0}초 도달 대기. 남은 시간: {1}초."
+  },
+  {
+    "Identifier": "MissionObjective_CM_TimeToSPSBurn_Value1Seconds",
+    "Text": "연소까지 T -{0}초 도달 대기. 남은 시간: {1}초."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Velocity_GreaterThan_Value1_FPS",
+    "Text": "사령선에서 {0} ft/s보다 빠른 속도에 도달하세요"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Velocity_LessThan_Value1_FPS",
+    "Text": "사령선에서 {0} ft/s보다 느린 속도에 도달하세요"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_AdjustPeriluneTo_Value1km_Value2ThresholdKm",
+    "Text": "근월점 {0} +/- {1} nmi에 도달하도록 TLI를 계획하세요."
+  },
+  {
+    "Identifier": "MissionObjective_TLI_OpenPlanner",
+    "Text": "TLI 플래너를 여세요"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_RequestTB6",
+    "Text": "TLI 연소를 요청하세요"
+  },
+  {
+    "Identifier": "MissionObjective_TLI_BurnComplete",
+    "Text": "TLI 연소를 완료하세요"
+  },
+  {
+    "Identifier": "MissionObjective_CSM_OpenBurnPlanner",
+    "Text": "CSM용 연소 플래너를 여세요"
+  },
+  {
+    "Identifier": "MissionObjective_CSM_BurnRequested",
+    "Text": "CSM 연소를 계획하고 요청하세요"
+  },
+  {
+    "Identifier": "MissionObjective_TEI_OpenBurnPlanner",
+    "Text": "TEI 연소 플래너를 여세요"
+  },
+  {
+    "Identifier": "MissionObjective_TEI_BurnRequested",
+    "Text": "TEI 연소를 계획하고 요청하세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_CheckIfLGC_Program_Value1_IsRunning",
+    "Text": "LGC 프로그램 실행: "
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P12Guidance",
+    "Text": "LGC P12 유도를 완료하세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P63Guidance",
+    "Text": "LGC P63 유도를 완료하세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P64Guidance",
+    "Text": "LGC P64 유도를 완료하세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarDescent",
+    "Text": "달 하강을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarAscent",
+    "Text": "달 상승을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CSI",
+    "Text": "CSI 기동을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_PC",
+    "Text": "PC 기동을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CDH",
+    "Text": "CDH 기동을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPI",
+    "Text": "TPI 기동을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPM",
+    "Text": "TPM 기동을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPF",
+    "Text": "TPF 기동을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Sequencer_IsComplete_DockedWithCSMAfterAscent",
+    "Text": "달 착륙선을 사령/기계선과 도킹하세요."
+  },
+  {
+    "Identifier": "MissionObjective_LM_State_IsComplete_LandingLegsDeployed",
+    "Text": "달 착륙선을 활성화하고 착륙 다리를 전개하세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_WalkingOnLunarSurface",
+    "Text": "달 위를 걸으세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_OutsideLunarModule",
+    "Text": "EVA를 수행하세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_EVA_InsideLunarModule",
+    "Text": "LM 내부로 돌아가세요"
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "체크리스트를 완료하세요: "
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DockedWithLunarModule",
+    "Text": "달 착륙선과 도킹하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_UndockedWithTheLunarModule",
+    "Text": "달 착륙선에서 도킹 해제하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_State_DockedWithLunarModuleInSIVB",
+    "Text": "S-IVB에 있는 달 착륙선과 도킹하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "CSM을 {0} +/- {1} nmi의 원 궤도에 진입시키세요"
+  },
+  {
+    "Identifier": "MissionObjective_CM_Orbit_IsCircular_ThresholdValue1",
+    "Text": "CSM을 허용 오차 {0} nmi의 임의 원 궤도에 진입시키세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "LM을 {0} +/- {1} nmi의 원 궤도에 진입시키세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_IsCircular_ThresholdValue1",
+    "Text": "LM을 허용 오차 {0} nmi의 임의 원 궤도에 진입시키세요"
+  },
+  {
+    "Identifier": "MissionObjective_LM_TimeToDPSBurn_Value1Seconds",
+    "Text": "DPS 연소까지 T -{0}초 도달 대기. 남은 시간: {1}초."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_TimeToAp_Value1",
+    "Text": "Ap 도달까지 T-{0}초 대기. 남은 시간: {1}초."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
+    "Text": "Pe 도달까지 T-{0}초 대기. 남은 시간: {1}초."
+  },
+  {
+    "Identifier": "MissionObjective_CM_DockingAlignmentWithLM_Value1",
+    "Text": "LM 도킹 콘 기준 {0}° 이내로 정렬하세요. 현재 {1}°입니다."
+  },
+  {
+    "Identifier": "MCC_SetTLMToAccept",
+    "Text": "업링크 텔레메트리를 Accept(패널 2)로, AGC를 P00으로 설정하고 다시 시도하세요."
+  },
+  {
+    "Identifier": "MCC_REFSMMATUplinked",
+    "Text": "REFSMMAT를 업링크 중입니다. Uplink Acty 등이 꺼지면 P52 옵션 1로 정렬하세요."
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "무선 점검"
+  },
+  {
+    "Identifier": "RadioCommMenu_TLI",
+    "Text": "S-IVB 연소 플래너"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "연소 플래너"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestPDI",
+    "Text": "PDI 요청"
+  },
+  {
+    "Identifier": "RadioCommMenu_Request",
+    "Text": "요청"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestTEI",
+    "Text": "TEI 요청"
+  },
+  {
+    "Identifier": "RadioCommMenu_RequestCSI2",
+    "Text": "TPF 요청"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewMembers",
+    "Text": "승무원"
+  },
+  {
+    "Identifier": "RadioCommMenu_CAPCOM",
+    "Text": "CAPCOM"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseAscent",
+    "Text": "상승"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCDH",
+    "Text": "CDH"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseCSI",
+    "Text": "CSI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhasePC",
+    "Text": "PC"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPF",
+    "Text": "TPF"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPI",
+    "Text": "TPI"
+  },
+  {
+    "Identifier": "RadioCommMenu_PhaseTPM",
+    "Text": "TPM"
+  },
+  {
+    "Identifier": "RadioCommMessage_TooHighGLoads",
+    "Text": "G-부하가 너무 높습니다."
+  },
+  {
+    "Identifier": "GameOverReason_TooHighGLoads",
+    "Text": "과도한 G-포스로 인한 구조 및 승무원 손상."
+  },
+  {
+    "Identifier": "GameOverReason_Crashed",
+    "Text": "착륙 중 추락."
+  },
+  {
+    "Identifier": "GameOverReason_NonCMEntry",
+    "Text": "단이 부착된 상태로 대기권 재진입을 시도했습니다. CM만 재진입할 수 있습니다."
+  },
+  {
+    "Identifier": "GameOverReason_LMEntry",
+    "Text": "LM이 CM에 부착된 상태로 대기권 재진입을 시도했습니다."
+  },
+  {
+    "Identifier": "BurnPlanner_UplinkPreferred",
+    "Text": "(선택) IMU: 선호 설정"
+  },
+  {
+    "Identifier": "BurnPlanner_CommsPreferredSet",
+    "Text": "선호 연소 방향이 설정되었습니다. 연소를 요청하기 전에 P52 옵션 1로 자이로를 토크하세요. 이를 위해 ORDEAL을 INRTL로 설정하고 V37E 52E V22E +1E PRO PRO를 입력하세요."
+  },
+  {
+    "Identifier": "RadioCommReq_MissionTimeSync",
+    "Text": "미션 타이머가 지상 미션 시간과 동기화되었습니다."
+  },
+  {
+    "Identifier": "CommTools_SyncMetTimers",
+    "Text": "MET 타이머 동기화"
+  },
+  {
+    "Identifier": "UI_CloseHatch",
+    "Text": "해치 닫기"
+  },
+  {
+    "Identifier": "UI_OpenHatch",
+    "Text": "해치 열기"
+  },
+  {
+    "Identifier": "CrewMembers_Title",
+    "Text": "승무원"
+  },
+  {
+    "Identifier": "ViewSelector_HowHelp",
+    "Text": "무엇을 도와드릴까요?"
+  },
+  {
+    "Identifier": "ViewSelector_Crew",
+    "Text": "승무원"
+  },
+  {
+    "Identifier": "ViewSelector_ManageCrew",
+    "Text": "승무원 관리"
+  },
+  {
+    "Identifier": "CrewMembers_OnBoard",
+    "Text": "탑승 중"
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc",
+    "Text": "CSM 자동 원형화"
+  },
+  {
+    "Identifier": "CrewMembers_CSMPower",
+    "Text": "CMP에 LMP 전원 공급 요청"
+  },
+  {
+    "Identifier": "CrewMembers_LandingAid",
+    "Text": "착륙 지점 지정기 (LPD)"
+  },
+  {
+    "Identifier": "CrewMembers_SlewAid",
+    "Text": "랑데부 레이더 슬루"
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid",
+    "Text": "CSM/LM 도킹"
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr",
+    "Text": "LM 승무원: 기동"
+  },
+  {
+    "Identifier": "CrewMembers_Ground",
+    "Text": "지상"
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT",
+    "Text": "REFSMMAT 요청"
+  },
+  {
+    "Identifier": "CrewMembers_PADs",
+    "Text": "PAD & 차트 요청"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Info",
+    "Text": "이 페이지에서 승무원을 관리할 수 있습니다. 로드한 상태가 0.84보다 오래된 경우, 오버라이드 토글이 기본으로 켜져 있어 CSM/LM이 해치를 연 채 도킹되어 있지 않아도 승무원을 이동할 수 있습니다."
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Override",
+    "Text": "이동 강제 실행"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Commander",
+    "Text": "사령관"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheCSM",
+    "Text": "CSM 내부"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheLM",
+    "Text": "LM 내부"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InEVASuit",
+    "Text": "EVA 슈트 착용"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_CMP",
+    "Text": "사령선 조종사"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_LMP",
+    "Text": "달 착륙선 조종사"
+  },
+  {
+    "Identifier": "CrewMembers_LPD_Desc",
+    "Text": "달 하강의 마지막 단계에서 중요한 하강 정보를 제공하겠습니다. P64부터 접지까지 고도, 하강률, 선택한 탱크의 연료량, 그리고 착륙 지점 지정기(LPD)를 이용한 착륙 지점 위치를 계속 알려드리겠습니다.\n\nLPD 피치각은 착륙 지점이 창문의 수직 눈금 어디에 있는지를, LPD 요는 수평축 어디에 있는지를 나타냅니다. 위 창문의 빨간 점은 LPD 피치각 10도, 요각 0도입니다.\n\n정보는 10초마다 갱신됩니다."
+  },
+  {
+    "Identifier": "CrewMembers_Toggle",
+    "Text": "토글"
+  },
+  {
+    "Identifier": "CrewMembers_RR_Desc",
+    "Text": "CSM을 겨냥하도록 RR을 슬루하는 것을 돕습니다. RR 모드 선택기가 SLEW로 설정되어 있으면, LMP가 CSM을 보기 위해 샤프트와 트러니언을 몇 도 슬루해야 하는지 알려줍니다."
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid_Desc",
+    "Text": "이 도킹 보조 기능은 LM/CSM까지의 거리를 알려줍니다."
+  },
+  {
+    "Identifier": "CrewMembers_PowerLM_Desc",
+    "Text": "CMP가 도킹 엄빌리컬을 통해 LM에 전원을 공급하도록 CSM을 구성합니다."
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc_Desc",
+    "Text": "CMP가 현재 Pe와 Ap 사이의 값으로 궤도를 자동 원형화합니다."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_Desc",
+    "Text": "LM 승무원에게 상대 각도로 LM이 CSM을 향하도록 기동을 요청합니다."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_CsmAtt_Desc",
+    "Text": "LM 승무원에게 LM 자세를 CSM 자세에 맞추도록 요청합니다."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_Desc",
+    "Text": "이 기능들은 지상에 REFSMMAT 업링크를 요청합니다. 업링크 텔레메트리가 Accept(패널 2)로 설정되었는지 확인하세요. 업링크되면 P52 옵션 1로 IMU를 정렬하세요."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Desc",
+    "Text": "PTC REFSMMAT:\nIMU를 황도면과 TEI 노드의 달-지구 선에 정렬합니다."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Request",
+    "Text": "PTC REFSMMAT 요청"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Desc",
+    "Text": "사전 참고 데이터(PAD) & 양식"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Forms",
+    "Text": "양식\n이 옵션은 선택한 양식이 담긴 UI를 엽니다. PAD/데이터를 요청하면 데이터 순서가 선택한 양식과 일치합니다. 연필 도구로 양식을 채워 데이터를 기록할 수 있습니다."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CommandModule",
+    "Text": "사령선:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P52",
+    "Text": "P52 IMU 재정렬 양식 열기"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P30",
+    "Text": "P30 기동 PAD 양식 열기"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P37",
+    "Text": "P37 블록 데이터 PAD 양식 열기"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_TLI",
+    "Text": "TLI PAD 양식 열기"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_Entry",
+    "Text": "재진입 PAD 양식 열기"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM",
+    "Text": "달 착륙선:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_P30",
+    "Text": "P30 기동 PAD 양식 열기"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_Ascent",
+    "Text": "달 상승 PAD 양식 열기"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_DockedIMUCoarseAlign",
+    "Text": "LM 도킹 상태 IMU 개략 정렬 열기"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_General",
+    "Text": "일반:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_BlankPaper",
+    "Text": "시트 열기: 빈 종이"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_IMURealign",
+    "Text": "IMU 재정렬\nP52는 IMU를 재정렬하는 데 사용됩니다. 현재 미션 시간에 IMU 재정렬을 요청할 때 사용하세요."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RequestIMURealign",
+    "Text": "P52: IMU 재정렬"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_Desc",
+    "Text": "CSM SPS 궤도 원형화 연소 PAD\n이 PAD는 Ap 또는 Pe에서 원형화 연소를 계획하도록 설계되었습니다."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqPeBurn",
+    "Text": "P30 기동: Pe에서 원형화"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqApBurn",
+    "Text": "P30 기동: Ap에서 원형화"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Desc",
+    "Text": "스카이랩 랑데부 PAD\nSkylab과의 랑데부 연소 계산에 필요한 PAD입니다."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Request",
+    "Text": "P30 기동: Skylab과 랑데부"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Desc",
+    "Text": "달/지구 재진입 PAD\n이 PAD는 우주선이 대기권을 통과해 지구로 안전하게 돌아가도록 설계되었으며, 대기권 재진입 준비에 필요한 모든 데이터를 담고 있습니다."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Request",
+    "Text": "재진입 PAD 요청"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts",
+    "Text": "차트"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMSkylabRndzPlot",
+    "Text": "랑데부 플롯: CSM / Skylab"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMLMRndzPlot",
+    "Text": "랑데부 플롯: CSM / LM (달 궤도)"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_PDI",
+    "Text": "PDI PAD 양식 열기"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T1",
+    "Text": "극저온 O2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T2",
+    "Text": "극저온 O2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T1",
+    "Text": "극저온 H2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T2",
+    "Text": "극저온 H2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGvsIV",
+    "Text": "하강 G x IV"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGs",
+    "Text": "하강 G"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentAlt",
+    "Text": "하강 고도"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVI",
+    "Text": "PDI VI"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVIfts",
+    "Text": "PDI VI (ft/s)"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIAlt",
+    "Text": "PDI 고도 (ft)"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentWT",
+    "Text": "상승 중량"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentPitch",
+    "Text": "상승 피치"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentGs",
+    "Text": "상승 G"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "메인 낙하산 전개됨"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "보조 낙하산 전개됨"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMIngress",
+    "Text": "최초 달 착륙선 진입"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Maxq",
+    "Text": "max-q"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsIECO",
+    "Text": "S-IC: 내측 엔진 정지"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsOECO",
+    "Text": "S-IC: 외측 엔진 정지"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsIECO",
+    "Text": "S-II: 내측 엔진 정지"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsOECO",
+    "Text": "S-II: 외측 엔진 정지"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_TowerJettison",
+    "Text": "발사 탈출 타워 분리"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_DockedWithCSM",
+    "Text": "달 상승: CSM과 도킹"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_APSBurnComplete",
+    "Text": "달 상승: APS 연소 완료"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarStay_WalkOnMoon",
+    "Text": "달 체류: EVA"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarLanding",
+    "Text": "달 표면 접지"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryEarthSOI",
+    "Text": "지구 영향권 진입"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryLunarSOI",
+    "Text": "달 영향권 진입"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLICompleted",
+    "Text": "달 전이 분사(TLI) 완료"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscentStarted",
+    "Text": "달 상승: APS 점화"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnPlanned",
+    "Text": "SPS 연소 계획: TIG {0}, dV={1} ft/s"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnPlanned",
+    "Text": "DPS 연소 계획: TIG {0}, dV={1} ft/s"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnCompleted",
+    "Text": "SPS 연소: dV={0} ft/s, Ap={1} nmi R, Pe={2} nmi R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnCompleted",
+    "Text": "SPS 연소: dV={0} ft/s, Ap={1} nmi R, Pe={2} nmi R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLIIgnition",
+    "Text": "달 전이 분사(TLI) 연소 점화"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockedWithLM",
+    "Text": "LM에서 도킹 해제"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMDocking",
+    "Text": "LM과 도킹: T&D 완료"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockedWithLM",
+    "Text": "LM과 도킹"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_PDIStarted",
+    "Text": "동력 달 하강 시작"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RollProgram",
+    "Text": "롤 프로그램"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIC",
+    "Text": "단 분리: S-IC"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SII",
+    "Text": "단 분리: S-II"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIVB",
+    "Text": "단 분리: S-IVB"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SM",
+    "Text": "단 분리: SM/CM"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit",
+    "Text": "조종실"
+  },
+  {
+    "Identifier": "CrewMembers_CockpitEq_Title",
+    "Text": "조종실 장비"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_CueCards",
+    "Text": "큐 카드"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_1",
+    "Text": "AC PWR 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_2",
+    "Text": "SM 장비 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_3",
+    "Text": "Saturn V 부스트 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_4",
+    "Text": "CDR 부스트 중단 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_5",
+    "Text": "LMP 부스트 중단 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_6",
+    "Text": "TLI 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_7",
+    "Text": "표준 TLI 1 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_8",
+    "Text": "TnD 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_9",
+    "Text": "TnD 계속 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_10",
+    "Text": "도킹 해제 분리 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_11",
+    "Text": "SPS 연소 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_12",
+    "Text": "SPS 연소 계속 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_13",
+    "Text": "재진입 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_14",
+    "Text": "SPS 연소 규칙 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_15",
+    "Text": "LOI 한계 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_16",
+    "Text": "EPS ECS 중단 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_17",
+    "Text": "CM 착륙 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_18",
+    "Text": "CM 착륙 10K 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_19",
+    "Text": "CSM DAP 설정 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_20",
+    "Text": "CSM 궤도 진입 토글"
+  },
+  {
+    "Identifier": "CrewMembers_A13NoSign",
+    "Text": "아폴로 13 NO 표지판 토글"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_LM_1",
+    "Text": "LM 경고등 토글"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleVelcro",
+    "Text": "벨크로 토글"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions1",
+    "Text": "{0}/{1}: 광학계 슬루"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions2",
+    "Text": "{0}: 광학 스코프 나가기"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions3",
+    "Text": "{0}: 광학 접안렌즈 전환"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions4",
+    "Text": "{0}: 마크"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions5",
+    "Text": "{0}: 마크 거부"
+  },
+  {
+    "Identifier": "VROptics_MotionControllerInstructions1",
+    "Text": "오른손 엄지: 스코프 이동\nToggle Comms: 스코프 전환\n왼쪽 트리거: 스코프 나가기\nInteract Left: 마크\nInteract Right: 마크 거부"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_WindowShields",
+    "Text": "창문 셰이드"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_LH",
+    "Text": "좌측 RNDZ 창문 (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_RH",
+    "Text": "우측 RNDZ 창문 (CMP)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_LH",
+    "Text": "좌측 측면 창문 (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_RH",
+    "Text": "우측 측면 창문 (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Hatch",
+    "Text": "해치 창문"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeOfSMSep",
+    "Text": "CM/SM 분리 시각: {0}"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffset",
+    "Text": "궤도 오프셋 (0 ~ 5 궤도)"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetNext",
+    "Text": "다음 통과"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetFuture",
+    "Text": "+{0} 궤도"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceA",
+    "Text": "CO2 흡수 소자 A 교체됨"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceB",
+    "Text": "CO2 흡수 소자 B 교체됨"
+  }
+]
