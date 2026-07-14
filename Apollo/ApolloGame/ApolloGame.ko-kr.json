@@ -997,11 +997,11 @@
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_TimeToAp_Value1",
-    "Text": "Ap 도달까지 T-{0}초 대기. 남은 시간: {1}초."
+    "Text": "Ap (Apogee, 원지점) 도달까지 T-{0}초 대기. 남은 시간: {1}초."
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
-    "Text": "Pe 도달까지 T-{0}초 대기. 남은 시간: {1}초."
+    "Text": "Pe (Perigee, 근지점) 도달까지 T-{0}초 대기. 남은 시간: {1}초."
   },
   {
     "Identifier": "MissionObjective_CM_DockingAlignmentWithLM_Value1",
@@ -1105,11 +1105,11 @@
   },
   {
     "Identifier": "BurnPlanner_CommsPreferredSet",
-    "Text": "선호 연소 방향이 설정되었습니다. 연소를 요청하기 전에 P52 옵션 1로 자이로를 토크하세요. 이를 위해 ORDEAL을 INRTL로 설정하고 V37E 52E V22E +1E PRO PRO를 입력하세요."
+    "Text": "선호 연소 방향 설정. 연소를 요청하기 전에 P52 옵션 1로 자이로를 조정하세요. 이를 위해 ORDEAL을 INRTL로 설정하고 V37E 52E V22E +1E PRO PRO를 입력하세요."
   },
   {
     "Identifier": "RadioCommReq_MissionTimeSync",
-    "Text": "미션 타이머가 지상 미션 시간과 동기화되었습니다."
+    "Text": "미션 타이머가 지상의 미션 시간과 동기화되었습니다."
   },
   {
     "Identifier": "CommTools_SyncMetTimers",
@@ -1325,11 +1325,11 @@
   },
   {
     "Identifier": "CrewMembers_PADs_Circulation_ReqPeBurn",
-    "Text": "P30 기동: Pe에서 원형화"
+    "Text": "P30 기동: Pe (Perigee, 근지점)에서 원형화"
   },
   {
     "Identifier": "CrewMembers_PADs_Circulation_ReqApBurn",
-    "Text": "P30 기동: Ap에서 원형화"
+    "Text": "P30 기동: Ap (Apogee, 원지점)에서 원형화"
   },
   {
     "Identifier": "CrewMembers_PADs_RndzSkylab_Desc",
@@ -1669,7 +1669,7 @@
   },
   {
     "Identifier": "CrewMembers_Cockpit_WindowShields",
-    "Text": "창문 셰이드"
+    "Text": "창문 가리개"
   },
   {
     "Identifier": "CrewMembers_WindowShield_RNDZ_LH",
