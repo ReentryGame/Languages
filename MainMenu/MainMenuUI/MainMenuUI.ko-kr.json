@@ -121,23 +121,23 @@
   },
   {
     "Identifier": "AcademyMenu_ButtonMercuryTutorials",
-    "Text": "머큐리 프로젝트 레슨"
+    "Text": "머큐리 프로젝트 교육"
   },
   {
     "Identifier": "AcademyMenu_ButtonGeminiTutorials",
-    "Text": "제미니 프로젝트 레슨"
+    "Text": "제미니 프로젝트 교육"
   },
   {
     "Identifier": "AcademyMenu_ButtonApolloTutorials",
-    "Text": "아폴로 프로젝트 레슨"
+    "Text": "아폴로 프로젝트 교육"
   },
   {
     "Identifier": "AcademyMenu_ButtonLunarModuleTutorials",
-    "Text": "달 착륙선 레슨"
+    "Text": "달 착륙선 교육"
   },
   {
     "Identifier": "AcademyMenu_ButtonSpaceShuttleTutorials",
-    "Text": "스페이스 셔틀 레슨"
+    "Text": "스페이스 셔틀 교육"
   },
   {
     "Identifier": "AcademyMenu_ButtonDiscord",
@@ -681,31 +681,31 @@
   },
   {
     "Identifier": "Academy_Mercury_Lesson1",
-    "Text": "레슨 1 - 발사 전"
+    "Text": "교육 1 - 발사 전"
   },
   {
     "Identifier": "Academy_Mercury_Lesson2",
-    "Text": "레슨 2 - 발사 및 상승"
+    "Text": "교육 2 - 발사 및 상승"
   },
   {
     "Identifier": "Academy_Mercury_Lesson3",
-    "Text": "레슨 3 - 체크리스트 및 아틀라스"
+    "Text": "교육 3 - 체크리스트 및 아틀라스"
   },
   {
     "Identifier": "Academy_Mercury_Lesson4",
-    "Text": "레슨 4 - 전기"
+    "Text": "교육 4 - 전기"
   },
   {
     "Identifier": "Academy_Mercury_Lesson5",
-    "Text": "레슨 5 - 자세 제어"
+    "Text": "교육 5 - 자세 제어"
   },
   {
     "Identifier": "Academy_Mercury_Lesson6",
-    "Text": "레슨 6 - 생존"
+    "Text": "교육 6 - 생존"
   },
   {
     "Identifier": "Academy_Mercury_Lesson7",
-    "Text": "레슨 7 - 시퀀서"
+    "Text": "교육 7 - 시퀀서"
   },
   {
     "Identifier": "Academy_Mercury_Exam",
@@ -717,35 +717,35 @@
   },
   {
     "Identifier": "Academy_Gemini_Lesson1",
-    "Text": "레슨 1 - 발사 전"
+    "Text": "교육 1 - 발사 전"
   },
   {
     "Identifier": "Academy_Gemini_Lesson2",
-    "Text": "레슨 2 - 상승"
+    "Text": "교육 2 - 상승"
   },
   {
     "Identifier": "Academy_Gemini_Lesson3",
-    "Text": "레슨 3 - 전기!"
+    "Text": "교육 3 - 전기!"
   },
   {
     "Identifier": "Academy_Gemini_Lesson4",
-    "Text": "레슨 4 - 항법!"
+    "Text": "교육 4 - 항법!"
   },
   {
     "Identifier": "Academy_Gemini_Lesson5",
-    "Text": "레슨 5 - 컴퓨터"
+    "Text": "교육 5 - 컴퓨터"
   },
   {
     "Identifier": "Academy_Gemini_Lesson6",
-    "Text": "레슨 6 - 생명 유지"
+    "Text": "교육 6 - 생명 유지"
   },
   {
     "Identifier": "Academy_Gemini_Lesson7",
-    "Text": "레슨 7 - 시퀀서"
+    "Text": "교육 7 - 시퀀서"
   },
   {
     "Identifier": "Academy_Gemini_Lesson8",
-    "Text": "레슨 8 - 궤도 이탈 및 재진입"
+    "Text": "교육 8 - 궤도 이탈 및 재진입"
   },
   {
     "Identifier": "Academy_Gemini_Exam",
@@ -753,7 +753,7 @@
   },
   {
     "Identifier": "Academy_Gemini_Lesson10",
-    "Text": "레슨 9 - 기동 및 연소"
+    "Text": "교육 9 - 기동 및 연소"
   },
   {
     "Identifier": "Academy_CSM_TheBasics",
@@ -761,43 +761,43 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson1",
-    "Text": "레슨 1 - 발사 전"
+    "Text": "교육 1 - 발사 전"
   },
   {
     "Identifier": "Academy_CSM_Lesson2",
-    "Text": "레슨 2 - 부스트"
+    "Text": "교육 2 - 부스트"
   },
   {
     "Identifier": "Academy_CSM_Lesson3",
-    "Text": "레슨 3 - 전기"
+    "Text": "교육 3 - 전기"
   },
   {
     "Identifier": "Academy_CSM_Lesson4",
-    "Text": "레슨 4 - RCS"
+    "Text": "교육 4 - RCS"
   },
   {
     "Identifier": "Academy_CSM_Lesson5",
-    "Text": "레슨 5 - 컴퓨터"
+    "Text": "교육 5 - 컴퓨터"
   },
   {
     "Identifier": "Academy_CSM_Lesson6",
-    "Text": "레슨 6 - 서비스 추진"
+    "Text": "교육 6 - 서비스 추진"
   },
   {
     "Identifier": "Academy_CSM_Lesson7",
-    "Text": "레슨 7 - AGC 및 자동 기동"
+    "Text": "교육 7 - AGC 및 자동 기동"
   },
   {
     "Identifier": "Academy_CSM_Lesson8",
-    "Text": "레슨 8 - SPS 연소 계획"
+    "Text": "교육 8 - SPS 연소 계획"
   },
   {
     "Identifier": "Academy_CSM_Lesson9",
-    "Text": "레슨 9A - 대기권 재진입"
+    "Text": "교육 9A - 대기권 재진입"
   },
   {
     "Identifier": "Academy_CSM_Lesson10",
-    "Text": "레슨 10 - 전위 및 도킹"
+    "Text": "교육 10 - 전위 및 도킹"
   },
   {
     "Identifier": "Academy_CSM_Exam",
@@ -809,71 +809,71 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson11",
-    "Text": "레슨 11 - 달 전이 분사 (TLI)"
+    "Text": "교육 11 - 달 전이 분사 (TLI)"
   },
   {
     "Identifier": "Academy_CSM_Lesson12",
-    "Text": "레슨 12 - 광학"
+    "Text": "교육 12 - 광학"
   },
   {
     "Identifier": "Academy_CSM_Lesson13",
-    "Text": "레슨 13 - 지구 전이 분사 (TEI)"
+    "Text": "교육 13 - 지구 전이 분사 (TEI)"
   },
   {
     "Identifier": "Academy_CSM_Lesson14",
-    "Text": "레슨 14 - ECS: O2"
+    "Text": "교육 14 - ECS: O2"
   },
   {
     "Identifier": "Academy_CSM_Lesson15",
-    "Text": "레슨 15 - ECS: PSC"
+    "Text": "교육 15 - ECS: PSC"
   },
   {
     "Identifier": "Academy_CSM_Lesson16",
-    "Text": "레슨 16 - ECS: H2O"
+    "Text": "교육 16 - ECS: H2O"
   },
   {
     "Identifier": "Academy_CSM_Lesson17",
-    "Text": "레슨 17 - ECS: 글리콜"
+    "Text": "교육 17 - ECS: 글리콜"
   },
   {
     "Identifier": "Academy_LM_Lesson1",
-    "Text": "레슨 1 - 진입"
+    "Text": "교육 1 - 진입"
   },
   {
     "Identifier": "Academy_LM_Lesson2",
-    "Text": "레슨 2 - 활성화"
+    "Text": "교육 2 - 활성화"
   },
   {
     "Identifier": "Academy_LM_Lesson3",
-    "Text": "레슨 3 - 전기"
+    "Text": "교육 3 - 전기"
   },
   {
     "Identifier": "Academy_LM_Lesson4",
-    "Text": "레슨 4 - 반작용 제어"
+    "Text": "교육 4 - 반작용 제어"
   },
   {
     "Identifier": "Academy_LM_Lesson5",
-    "Text": "레슨 5 - 유도 컴퓨터"
+    "Text": "교육 5 - 유도 컴퓨터"
   },
   {
     "Identifier": "Academy_LM_Lesson6",
-    "Text": "레슨 6 - 비행 모드"
+    "Text": "교육 6 - 비행 모드"
   },
   {
     "Identifier": "Academy_LM_Lesson7",
-    "Text": "레슨 7 - 하강 엔진"
+    "Text": "교육 7 - 하강 엔진"
   },
   {
     "Identifier": "Academy_LM_Lesson8",
-    "Text": "레슨 8 - 레이더"
+    "Text": "교육 8 - 레이더"
   },
   {
     "Identifier": "Academy_LM_Lesson9",
-    "Text": "레슨 9 - 도킹 해제"
+    "Text": "교육 9 - 도킹 해제"
   },
   {
     "Identifier": "Academy_LM_Lesson10",
-    "Text": "레슨 10 - 하강"
+    "Text": "교육 10 - 하강"
   },
   {
     "Identifier": "Academy_LM_Exam",
@@ -881,91 +881,91 @@
   },
   {
     "Identifier": "Academy_LM_Lesson11",
-    "Text": "레슨 11 - ECS"
+    "Text": "교육 11 - ECS"
   },
   {
     "Identifier": "Academy_LM_Lesson12",
-    "Text": "레슨 12 - 상승 및 도킹"
+    "Text": "교육 12 - 상승 및 도킹"
   },
   {
     "Identifier": "Academy_LM_Lesson13",
-    "Text": "레슨 13 - 달 체류 및 EVA"
+    "Text": "교육 13 - 달 체류 및 EVA"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson1",
-    "Text": "레슨 1 - 진입"
+    "Text": "교육 1 - 진입"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson2",
-    "Text": "레슨 2 - 발사 전"
+    "Text": "교육 2 - 발사 전"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson3",
-    "Text": "레슨 3 - 상승"
+    "Text": "교육 3 - 상승"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson4",
-    "Text": "레슨 4 - OMS 2"
+    "Text": "교육 4 - OMS 2"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson5",
-    "Text": "레슨 5 - 궤도 진입 후"
+    "Text": "교육 5 - 궤도 진입 후"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson6",
-    "Text": "레슨 6 - DPS 개요"
+    "Text": "교육 6 - DPS 개요"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson7",
-    "Text": "레슨 7 - MEDS와 DPS"
+    "Text": "교육 7 - MEDS와 DPS"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson8",
-    "Text": "레슨 8 - DPS 운용"
+    "Text": "교육 8 - DPS 운용"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson9",
-    "Text": "레슨 9 - 전기"
+    "Text": "교육 9 - 전기"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson10",
-    "Text": "레슨 10 - RCS"
+    "Text": "교육 10 - RCS"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson11",
-    "Text": "레슨 11 - GNC"
+    "Text": "교육 11 - GNC"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson14",
-    "Text": "레슨 14 - 호만 랑데부"
+    "Text": "교육 14 - 호만 랑데부"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson15",
-    "Text": "레슨 15 - 램버트 랑데부"
+    "Text": "교육 15 - 램버트 랑데부"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson16",
-    "Text": "레슨 16 - 도킹"
+    "Text": "교육 16 - 도킹"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson18",
-    "Text": "레슨 18 - 캐나담"
+    "Text": "교육 18 - 캐나담"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson19",
-    "Text": "레슨 19 - 페이로드"
+    "Text": "교육 19 - 페이로드"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson20",
-    "Text": "레슨 20 - 궤도 이탈 준비"
+    "Text": "교육 20 - 궤도 이탈 준비"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson21",
-    "Text": "레슨 21 - 궤도 이탈 연소"
+    "Text": "교육 21 - 궤도 이탈 연소"
   },
   {
     "Identifier": "Academy_Shuttle_Lesson22",
-    "Text": "레슨 22 - 재진입에서 착륙까지"
+    "Text": "교육 22 - 재진입에서 착륙까지"
   },
   {
     "Identifier": "ChallengeAccepted",
@@ -1133,7 +1133,7 @@
   },
   {
     "Identifier": "Academy_Lessons",
-    "Text": "레슨"
+    "Text": "교육"
   },
   {
     "Identifier": "RealismSettings_EnableOrbitalDecay",
@@ -1293,7 +1293,7 @@
   },
   {
     "Identifier": "GameTips_Tip4",
-    "Text": "텍스트 음성 변환(TTS) 시스템은 미션 메시지와 레슨 지시를 실시간으로 읽어 줄 수 있습니다. 설정에서 켜고 끌 수 있습니다."
+    "Text": "텍스트 음성 변환(TTS) 시스템은 미션 메시지와 교육 지시를 실시간으로 읽어 줄 수 있습니다. 설정에서 켜고 끌 수 있습니다."
   },
   {
     "Identifier": "GameTips_Tip5",
@@ -1317,7 +1317,7 @@
   },
   {
     "Identifier": "GameTips_Tip10",
-    "Text": "텍스트 음성 변환(TTS) 시스템은 미션 메시지와 레슨 지시를 실시간으로 읽어 줄 수 있습니다. 설정에서 켜고 끌 수 있습니다."
+    "Text": "텍스트 음성 변환(TTS) 시스템은 미션 메시지와 교육 지시를 실시간으로 읽어 줄 수 있습니다. 설정에서 켜고 끌 수 있습니다."
   },
   {
     "Identifier": "GameTips_Tip11",
@@ -1337,7 +1337,7 @@
   },
   {
     "Identifier": "GameTips_Tip15",
-    "Text": "텍스트 음성 변환(TTS) 시스템은 미션 메시지와 레슨 지시를 실시간으로 읽어 줄 수 있습니다. 설정에서 켜고 끌 수 있습니다."
+    "Text": "텍스트 음성 변환(TTS) 시스템은 미션 메시지와 교육 지시를 실시간으로 읽어 줄 수 있습니다. 설정에서 켜고 끌 수 있습니다."
   },
   {
     "Identifier": "GameTips_Tip16",
@@ -1429,7 +1429,7 @@
   },
   {
     "Identifier": "RealismSettings_SimplifiedORDEALDesc",
-    "Text": "사령선과 달 착륙선의 ORDEAL에는 ORB RATE와 INERTIAL 두 가지 모드가 있습니다. INERTIAL은 현재 IMU/GDC 자세를 FDAI에 표시하고, ORB RATE는 지역 수직 지역 수평(LVLH)을 FDAI에 표시합니다.\n\n이 설정은 ORDEAL이 ORB RATE로 설정되었을 때 간소화된 ORDEAL 로직을 활성화합니다. IMU/GDC 관성 플랫폼을 일시적으로 조정하여 LVLH에 맞춥니다. ORDEAL을 INERTIAL 모드로 되돌리면 조정된 IMU/GDC 플랫폼이 원래 설정으로 복원됩니다.\n이를 통해 자동 기동과 자세가 선택한 ORDEAL 모드에 맞춰집니다.\n일부 아카데미 레슨은 이 설정이 ON이라고 가정합니다.\n이 설정을 OFF로 하면 ORDEAL이 IMU/GDC의 방향에 영향을 주지 않고 FDAI 볼만 조정합니다. 즉, 모든 자세 정보, 자동 기동, 타기팅이 IMU를 기준으로 하며 ORB RATE 모드는 시각적 표시에 그칩니다. 이것이 가장 사실적인 옵션이며, IMU, REFSMMAT, P52, 자세 제어에 익숙한 분들은 자동 순행 리얼리즘 설정과 함께 이 설정을 OFF로 하는 것을 권장합니다."
+    "Text": "사령선과 달 착륙선의 ORDEAL에는 ORB RATE와 INERTIAL 두 가지 모드가 있습니다. INERTIAL은 현재 IMU/GDC 자세를 FDAI에 표시하고, ORB RATE는 지역 수직 지역 수평(LVLH)을 FDAI에 표시합니다.\n\n이 설정은 ORDEAL이 ORB RATE로 설정되었을 때 간소화된 ORDEAL 로직을 활성화합니다. IMU/GDC 관성 플랫폼을 일시적으로 조정하여 LVLH에 맞춥니다. ORDEAL을 INERTIAL 모드로 되돌리면 조정된 IMU/GDC 플랫폼이 원래 설정으로 복원됩니다.\n이를 통해 자동 기동과 자세가 선택한 ORDEAL 모드에 맞춰집니다.\n일부 아카데미 교육은 이 설정이 ON이라고 가정합니다.\n이 설정을 OFF로 하면 ORDEAL이 IMU/GDC의 방향에 영향을 주지 않고 FDAI 볼만 조정합니다. 즉, 모든 자세 정보, 자동 기동, 타기팅이 IMU를 기준으로 하며 ORB RATE 모드는 시각적 표시에 그칩니다. 이것이 가장 사실적인 옵션이며, IMU, REFSMMAT, P52, 자세 제어에 익숙한 분들은 자동 순행 리얼리즘 설정과 함께 이 설정을 OFF로 하는 것을 권장합니다."
   },
   {
     "Identifier": "GameTips_Tip17",
@@ -1453,11 +1453,11 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson9Full",
-    "Text": "레슨 9B - 대기권 재진입 (전체)"
+    "Text": "교육 9B - 대기권 재진입 (전체)"
   },
   {
     "Identifier": "Academy_CSM_Lesson18",
-    "Text": "레슨 18 - 달 재진입 (전체)"
+    "Text": "교육 18 - 달 재진입 (전체)"
   },
   {
     "Identifier": "RealismSettings_MissionCompleteAutoPopup",
@@ -1561,6 +1561,6 @@
   },
   {
     "Identifier": "Academy_CSM_Lesson19",
-    "Text": "레슨 19 - 정리 작업"
+    "Text": "교육 19 - 정리 작업"
   }
 ]
