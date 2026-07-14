@@ -293,7 +293,7 @@
   },
   {
     "Identifier": "RadioMessage_AbortCapabilityNotStarted",
-    "Text": "중단 기능 점검을 시작할 수 없습니다. 스퀴브가 준비(armed)되었는지 확인하세요."
+    "Text": "중단 기능 점검을 시작할 수 없습니다. 스큅이 준비(armed)되었는지 확인하세요."
   },
   {
     "Identifier": "RadioMessage_AbortCapabilityComplete",

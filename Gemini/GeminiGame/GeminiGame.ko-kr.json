@@ -69,7 +69,7 @@
   },
   {
     "Identifier": "CommReq_AbortCapabilityTest",
-    "Text": "ABORT\n& 스퀴브 점검"
+    "Text": "ABORT\n& 스큅 점검"
   },
   {
     "Identifier": "CommReq_RetroAtTargetCursor",
@@ -225,27 +225,27 @@
   },
   {
     "Identifier": "Cockpit_AbortCapabilityTest",
-    "Text": "{0}, ABORT & 스퀴브 기능 점검을 시작합니다."
+    "Text": "{0}, ABORT & 스큅 기능 점검을 시작합니다."
   },
   {
     "Identifier": "Cockpit_SquibTestFailed",
-    "Text": "{0}, 스퀴브 점검 실패. 스퀴브 버스 전원과 스퀴브 배터리가 UMB에 있는지 확인하세요."
+    "Text": "{0}, 스큅 점검 실패. 스큅 버스 전원과 스큅 배터리가 UMB에 있는지 확인하세요."
   },
   {
     "Identifier": "Cockpit_SquibTestComplete",
-    "Text": "{0}, 스퀴브 점검 완료. ABORT 등이 켜졌는지 확인하세요."
+    "Text": "{0}, 스큅 점검 완료. ABORT 등이 켜졌는지 확인하세요."
   },
   {
     "Identifier": "Cockpit_AbortSquibTestFailed",
-    "Text": "{0}, ABORT & 스퀴브 점검이 성공적으로 완료되었습니다."
+    "Text": "{0}, ABORT & 스큅 점검이 성공적으로 완료되었습니다."
   },
   {
     "Identifier": "Cockpit_AbortSquibTestComplete",
-    "Text": "{0}, ABORT & 스퀴브 기능 점검을 완료하지 못했습니다."
+    "Text": "{0}, ABORT & 스큅 기능 점검을 완료하지 못했습니다."
   },
   {
     "Identifier": "Cockpit_AbortSquibTestInProgress",
-    "Text": "{0}, ABORT & 스퀴브 기능 점검이 이미 진행 중입니다."
+    "Text": "{0}, ABORT & 스큅 기능 점검이 이미 진행 중입니다."
   },
   {
     "Identifier": "Cockpit_InternalPower",
