@@ -1714,6 +1714,9 @@
   {
     "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceB",
     "Text": "Replaced CO2 Absorber Element B"
+  },
+  {
+    "Identifier": "PDI_LandingRadarNotPowered",
+    "Text": "It seems there is an issue with the Landing Radar. Is it powered? Verify the PGNS: LDG RDR cbs is closed."
   }
-  
 ]
