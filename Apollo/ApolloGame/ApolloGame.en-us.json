@@ -1717,6 +1717,6 @@
   },
   {
     "Identifier": "PDI_LandingRadarNotPowered",
-    "Text": "It seems there is an issue with the Landing Radar. Is it powered? Verify the PGNS: LDG RDR cbs is closed."
+    "Text": "Please check the landing radar; it is not working correctly. Is it powered? Verify the PGNS: LDG RDR circuit breaker on Panel 11 is closed."
   }
 ]
