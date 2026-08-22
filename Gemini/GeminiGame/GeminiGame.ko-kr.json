@@ -1,0 +1,766 @@
+[
+  {
+    "Identifier": "CommReq_ReadyToLaunch",
+    "Text": "발사 준비 완료"
+  },
+  {
+    "Identifier": "CommReq_RadioCheck",
+    "Text": "무선 점검"
+  },
+  {
+    "Identifier": "CommReq_AltitudeCheck",
+    "Text": "고도 점검"
+  },
+  {
+    "Identifier": "CommReq_RadiatorTemperature",
+    "Text": "라디에이터 온도"
+  },
+  {
+    "Identifier": "CommReq_OrbitInfo",
+    "Text": "궤도 정보"
+  },
+  {
+    "Identifier": "CommReq_FCTempCheck",
+    "Text": "연료 전지 온도"
+  },
+  {
+    "Identifier": "CommReq_RequestTargetManeuver",
+    "Text": "타깃\n연소\n요청"
+  },
+  {
+    "Identifier": "CommReq_RetroAtNextApogee",
+    "Text": "다음 원지점에서 역분사"
+  },
+  {
+    "Identifier": "CommReq_EVAButton",
+    "Text": "EVA"
+  },
+  {
+    "Identifier": "CommReq_RequestRetroTime",
+    "Text": "역분사 시각 점검"
+  },
+  {
+    "Identifier": "CommReq_OpenHatchButtonCdr",
+    "Text": "해치\n여닫기"
+  },
+  {
+    "Identifier": "CommReq_OpenHatchButtonPilot",
+    "Text": "해치\n여닫기"
+  },
+  {
+    "Identifier": "CommReq_ToggleJukebox",
+    "Text": "주크박스 켜고 끄기"
+  },
+  {
+    "Identifier": "CommReq_ManualAscentData",
+    "Text": "수동 상승 데이터"
+  },
+  {
+    "Identifier": "CommReq_AttitudeData",
+    "Text": "자세 데이터"
+  },
+  {
+    "Identifier": "CommReq_ToggleDRing",
+    "Text": "D-RING 토글"
+  },
+  {
+    "Identifier": "CommReq_SwitchToInternalPower",
+    "Text": "내부 전원으로 전환"
+  },
+  {
+    "Identifier": "CommReq_AbortCapabilityTest",
+    "Text": "ABORT\n& 스큅 점검"
+  },
+  {
+    "Identifier": "CommReq_RetroAtTargetCursor",
+    "Text": "궤도 커서에서 역분사"
+  },
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "사령관 좌석"
+  },
+  {
+    "Identifier": "ViewSelector_CommanderPanel",
+    "Text": "사령관 패널"
+  },
+  {
+    "Identifier": "ViewSelector_CenterPanel",
+    "Text": "중앙 패널"
+  },
+  {
+    "Identifier": "ViewSelector_CenterPedestal",
+    "Text": "중앙 페디스털"
+  },
+  {
+    "Identifier": "ViewSelector_CoPilotSeat",
+    "Text": "파일럿 좌석"
+  },
+  {
+    "Identifier": "ViewSelector_CoPilotPanel",
+    "Text": "파일럿 패널"
+  },
+  {
+    "Identifier": "ViewSelector_RoofPanel",
+    "Text": "천장 패널"
+  },
+  {
+    "Identifier": "OrbitalCursor_Title",
+    "Text": "궤도 커서"
+  },
+  {
+    "Identifier": "OrbitalCursor_Move",
+    "Text": "궤도 포인터 이동"
+  },
+  {
+    "Identifier": "OrbitalCursor_Time",
+    "Text": "통과까지 시간:"
+  },
+  {
+    "Identifier": "EVA_RemainingFuel",
+    "Text": "남은 연료"
+  },
+  {
+    "Identifier": "EVA_Enter",
+    "Text": "탑승"
+  },
+  {
+    "Identifier": "EVA_GetBackpack",
+    "Text": "장착"
+  },
+  {
+    "Identifier": "CommReq_AstroReadyToLaunch",
+    "Text": "{0} {1} 발사 준비 완료!"
+  },
+  {
+    "Identifier": "CommReq_RadioVoiceCheck",
+    "Text": "{0}, 5 바이 5로 수신됩니다."
+  },
+  {
+    "Identifier": "CommReq_UpdatedRetroTime",
+    "Text": "{0}, 역분사 시각이 {{timeToRetro}}(으)로 갱신되었습니다. Core 19를 다시 확인하고 필요하면 조정하세요."
+  },
+  {
+    "Identifier": "CommReq_CheckRetroTime",
+    "Text": "{0}, 역분사까지 {{timeToRetro}} 남았습니다. Core 19로 조정하세요."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus1",
+    "Text": "라디에이터 출구 온도 양호, 입구 {0}. RADIATOR를 FLOW로 설정하세요."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus2",
+    "Text": "라디에이터 출구 온도 괜찮음, 입구 {0}. RADIATOR를 FLOW로 설정해도 됩니다."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus3",
+    "Text": "라디에이터 출구 온도 다소 높음, 입구 {0}. RADIATOR가 BY-PASS로 설정되었는지 확인하세요."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus4",
+    "Text": "라디에이터 출구 온도 높음, 입구 {0}. RADIATOR가 BY-PASS로 설정되었는지 확인하세요."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus5",
+    "Text": "라디에이터 출구 온도 범위 초과, 입구 {0}. RADIATOR가 BY-PASS로 설정되었는지 확인하세요."
+  },
+  {
+    "Identifier": "CommReq_RadiatorStatus6",
+    "Text": "어댑터 분리됨, 사용 가능한 라디에이터 없음."
+  },
+  {
+    "Identifier": "CommReq_FCStatus1",
+    "Text": "연료 전지 1 온도 정상."
+  },
+  {
+    "Identifier": "CommReq_FCStatus2",
+    "Text": "연료 전지 1 온도 낮음, WARMUP으로 설정하세요."
+  },
+  {
+    "Identifier": "CommReq_FCStatus3",
+    "Text": "연료 전지 2 온도 정상."
+  },
+  {
+    "Identifier": "CommReq_FCStatus4",
+    "Text": "연료 전지 2 온도 낮음, WARMUP으로 설정하세요."
+  },
+  {
+    "Identifier": "CommReq_FCStatus5",
+    "Text": "어댑터 분리됨, 사용 가능한 연료 전지 없음."
+  },
+  {
+    "Identifier": "CommReq_AltStatus1",
+    "Text": "0 (해수면)"
+  },
+  {
+    "Identifier": "CommReq_AltStatus2",
+    "Text": "9 미만"
+  },
+  {
+    "Identifier": "CommReq_AltStatus3",
+    "Text": "고도 {0} nmi로 확인됩니다."
+  },
+  {
+    "Identifier": "CommReq_NoTelemetry",
+    "Text": "텔레메트리를 확인할 수 없습니다."
+  },
+  {
+    "Identifier": "CommReq_Acknowledged",
+    "Text": "확인했습니다!"
+  },
+  {
+    "Identifier": "CommReq_StageSep",
+    "Text": "{0} 분리됨."
+  },
+  {
+    "Identifier": "ReqBurn_Response",
+    "Text": "{0}, 연소가 {1}에 예정됨, delta-V {2}"
+  },
+  {
+    "Identifier": "ReqBurnResponse_NotCircular",
+    "Text": "{0}, 연소를 계산할 수 없습니다. 원 궤도가 아닙니다. 랑데부 연소를 요청하기 전에 궤도를 원형화하세요."
+  },
+  {
+    "Identifier": "ReqBurnResponse_NotIncl",
+    "Text": "{0}, 연소를 계산할 수 없습니다. 타깃과 궤도면이 일치하지 않습니다. 랑데부 연소를 요청하기 전에 궤도면을 정렬해야 합니다."
+  },
+  {
+    "Identifier": "Cockpit_AbortCapabilityTest",
+    "Text": "{0}, ABORT & 스큅 기능 점검을 시작합니다."
+  },
+  {
+    "Identifier": "Cockpit_SquibTestFailed",
+    "Text": "{0}, 스큅 점검 실패. 스큅 버스 전원과 스큅 배터리가 UMB에 있는지 확인하세요."
+  },
+  {
+    "Identifier": "Cockpit_SquibTestComplete",
+    "Text": "{0}, 스큅 점검 완료. ABORT 등이 켜졌는지 확인하세요."
+  },
+  {
+    "Identifier": "Cockpit_AbortSquibTestFailed",
+    "Text": "{0}, ABORT & 스큅 점검이 성공적으로 완료되었습니다."
+  },
+  {
+    "Identifier": "Cockpit_AbortSquibTestComplete",
+    "Text": "{0}, ABORT & 스큅 기능 점검을 완료하지 못했습니다."
+  },
+  {
+    "Identifier": "Cockpit_AbortSquibTestInProgress",
+    "Text": "{0}, ABORT & 스큅 기능 점검이 이미 진행 중입니다."
+  },
+  {
+    "Identifier": "Cockpit_InternalPower",
+    "Text": "{0}, 내부 전원으로 전환합니다."
+  },
+  {
+    "Identifier": "Cockpit_EVA",
+    "Text": "{0}, 지금은 EVA를 수행할 수 없습니다."
+  },
+  {
+    "Identifier": "Cockpit_UpdateTTRetro",
+    "Text": "{0}, 역분사 시각이 {{timeToRetro}}(으)로 갱신되었습니다. Core 19를 다시 확인하고 필요하면 조정하세요."
+  },
+  {
+    "Identifier": "Cockpit_UnableToUpdateTTRetro",
+    "Text": "{0}, 역분사 시각을 설정할 수 없습니다. 컴퓨터가 작동 중이고 DCS에 전원이 들어와 있는지 확인하세요."
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "없음."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "미션을 진행할 준비가 되면 {0}을(를) 누르세요."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "미션을 진행할 준비가 되면 확인을 누르세요."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteActivity",
+    "Text": "활동을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "이륙을 기다리는 중."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_StageI",
+    "Text": "1단 분리를 기다리세요."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_StageII",
+    "Text": "2단 분리를 기다리세요."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Adapter",
+    "Text": "어댑터부를 분리하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "패널 구성을 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_Rendezvous_DistanceToTarget_LessThanValue1Feet",
+    "Text": "타깃까지 {0} 피트 이내로 접근하세요"
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "ID {0} 체크리스트를 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "체크리스트를 완료하세요."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "{0} km보다 높은 고도에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "{0} km보다 낮은 고도에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1_ft",
+    "Text": "{0} ft보다 높은 고도에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1_ft",
+    "Text": "{0} ft보다 낮은 고도에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1",
+    "Text": "Ap 고도를 {0} 이상으로 올리세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
+    "Text": "Pe 고도를 {0} 이상으로 올리세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
+    "Text": "궤도를 {0} Ap x {1} Pe 고도(km) 이상으로 조정하세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "무선국 {0}의 통신 범위 안으로 들어가세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
+    "Text": "무선국 {0}의 경도 범위 안으로 들어가세요."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "경도 {0}도에서 {1}도 사이에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "위도 {0}도에서 {1}도 사이에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroSequenceStarting",
+    "Text": "역분사 시퀀스 시작을 기다리세요."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "궤도면 {0}에 도달하세요 (허용 오차 +/- {1})"
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Booster",
+    "Text": "부스터 분리 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_Retro",
+    "Text": "역추진부 분리 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "초기 대기 항력(0.05G) 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_DrogueDeploy",
+    "Text": "보조 낙하산 전개 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_MainDeploy",
+    "Text": "메인 낙하산 전개 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "대기권 재진입 시작을 기다리는 중."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "대기권을 통과하세요."
+  },
+  {
+    "Identifier": "MissionObjective_State_SSECO",
+    "Text": "SSECO 대기 중."
+  },
+  {
+    "Identifier": "State_InCockpit",
+    "Text": "조종실에 탑승하세요."
+  },
+  {
+    "Identifier": "State_RCSEnabled",
+    "Text": "RCS를 활성화하세요."
+  },
+  {
+    "Identifier": "State_InEVA",
+    "Text": "EVA를 수행하세요."
+  },
+  {
+    "Identifier": "MissionObjective_CheckComputerProgramRunning_ComputerMode",
+    "Text": "{0} OBC 프로그램을 실행하세요."
+  },
+  {
+    "Identifier": "MissionObjective_State_RetroBurning",
+    "Text": "역추진 엔진 점화 대기 중."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "{0} 피트보다 낮은 고도로 내려가세요."
+  },
+  {
+    "Identifier": "MissionObjective_State_Splashdown",
+    "Text": "착수."
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToAp_Value1",
+    "Text": "Ap 도달 대기 - {0}초. 남은 시간: {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToPe_Value1",
+    "Text": "Pe 도달 대기 - {0}초. 남은 시간: {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToTargetBurn_Value1Seconds",
+    "Text": "랑데부 연소까지 T - {0}초 도달 대기. 남은 시간: {1}"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
+    "Text": "고도 {0} km +/- {1}의 원 궤도에 도달하세요"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_IsCircular_ThresholdValue1",
+    "Text": "Ap와 Pe의 고도 차이가 {0} km 미만인 원 궤도에 도달하세요"
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_IsOnTarget_ThresholdValue1",
+    "Text": "Ap {0} x Pe {1} km 고도의 목표 궤도에 도달하세요."
+  },
+  {
+    "Identifier": "MissionObjective_Radio_SuccessRequestTargetBurn",
+    "Text": "랑데부 연소를 성공적으로 요청하세요."
+  },
+  {
+    "Identifier": "MissionObjective_Radio_TimeToTargetBurn_Value1",
+    "Text": "랑데부 연소까지 T - {0}초 도달 대기. 남은 시간: {1}"
+  },
+  {
+    "Identifier": "MissionObjective_State_Docked",
+    "Text": "타깃과 도킹하세요."
+  },
+  {
+    "Identifier": "MissionObjective_State_Undocked",
+    "Text": "타깃과 도킹을 해제하세요."
+  },
+  {
+    "Identifier": "MissionObjective_Orbit_TimeToRetro_Value1Seconds",
+    "Text": "역추진 연소까지 T -{0}초에 도달하세요. 남은 시간: {1}"
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown",
+    "Text": "MCC, 카운트다운 정지를 요청합니다."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown",
+    "Text": "MCC, 카운트다운을 재개해 주세요."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdown2",
+    "Text": "{0}, 카운트다운을 정지합니다."
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdown2",
+    "Text": "{0}, 카운트다운을 재개했습니다."
+  },
+  {
+    "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
+    "Text": "카운트다운 재개"
+  },
+  {
+    "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
+    "Text": "카운트다운 정지"
+  },
+  {
+    "Identifier": "CommReq_RequestCircPe",
+    "Text": "원형화\nPe"
+  },
+  {
+    "Identifier": "CommReq_RequestCircAp",
+    "Text": "원형화\nAp"
+  },
+  {
+    "Identifier": "CommReq_RequestRndz",
+    "Text": "랑데부"
+  },
+  {
+    "Identifier": "CommReq_ToggleTHC",
+    "Text": "THC\n토글"
+  },
+  {
+    "Identifier": "CommReq_RequestBurnAndMissionTools",
+    "Text": "미션 도구"
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "무엇을 도와드릴까요?"
+  },
+  {
+    "Identifier": "MissionTools_Ground",
+    "Text": "지상"
+  },
+  {
+    "Identifier": "MissionTools_RequestBurns",
+    "Text": "연소 요청"
+  },
+  {
+    "Identifier": "MissionTools_Forms",
+    "Text": "양식/시트"
+  },
+  {
+    "Identifier": "MissionTools_DataForms",
+    "Text": "데이터 양식 & 차트"
+  },
+  {
+    "Identifier": "MissionTools_Cockpit",
+    "Text": "조종실"
+  },
+  {
+    "Identifier": "MissionTools_CockpitFunctions",
+    "Text": "조종실 기능"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_Charts",
+    "Text": "차트"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_RndzPlot",
+    "Text": "랑데부 플롯: GEMINI/AGENA"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataForms",
+    "Text": "데이터 양식"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataFormsDesc",
+    "Text": "양식\n이 옵션은 선택한 양식이 담긴 UI를 엽니다. 연필 도구로 양식을 채워 데이터를 기록할 수 있습니다."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenCatchUpPadForm",
+    "Text": "따라잡기 기동 PAD"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_TextSheets",
+    "Text": "시트\n여러 시트를 사용해 메모하고, 그림을 그리고, 데이터를 수집할 수 있습니다."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenBlankPaper",
+    "Text": "빈 종이"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Title",
+    "Text": "사전 참고 데이터 (PAD)"
+  },
+  {
+    "Identifier": "MissionTools_PADs_CircBurns",
+    "Text": "원형화 연소\n이 PAD는 Ap 또는 Pe에서 원형화 연소를 계획하도록 설계되었습니다."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircPeBurn",
+    "Text": "Pe 원형화 연소 요청"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircApBurn",
+    "Text": "Ap 원형화 연소 요청"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Rendezvous",
+    "Text": "랑데부 연소\n랑데부 연소를 하려면 원 궤도에 있어야 합니다. 원 궤도에 있을 때 랑데부 연소를 요청하면 타깃 기체와 랑데부하는 연소가 계획됩니다. 초기 랑데부 연소를 완료한 후, 알맞은 원형화 연소를 요청하여 랑데부를 마무리하세요."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestRendezvous",
+    "Text": "랑데부 연소 요청"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChange",
+    "Text": "궤도면 변경 연소\n궤도면 변경 연소는 승교점 또는 강교점에서 이루어집니다(적도를 남에서 북으로, 또는 북에서 남으로 지날 때). 속도가 가장 낮은 교점을 이용해 아래에 설정한 목표 경사에 도달하는 데 필요한 dV를 계획합니다.\n1) 도달하려는 경사를 입력하세요\n2) 궤도면 변경(PLANE CHANGE) 기동을 요청하세요"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChangeInc",
+    "Text": "목표 경사"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestPlaneChange",
+    "Text": "궤도면 변경 연소 요청"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "조종실 장비"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleOptics",
+    "Text": "광학 조준경 켜고 끄기"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleGT3FlightPlan",
+    "Text": "GT-3: 비행 계획 켜고 끄기"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleSandwitch",
+    "Text": "GT-3: 콘드비프 샌드위치 켜고 끄기"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_DET",
+    "Text": "디지털 이벤트 타이머 (DET)"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ResetDET",
+    "Text": "이벤트 타이머 초기화"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2",
+    "Text": "극저온 O2"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2",
+    "Text": "극저온 H2"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT1",
+    "Text": "O2: SEC T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT2",
+    "Text": "O2: SEC T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropOAMS",
+    "Text": "추진제: OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSA",
+    "Text": "추진제: RCS A"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSB",
+    "Text": "추진제: RCS B"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_OAMS",
+    "Text": "OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_RCS",
+    "Text": "RCS"
+  },
+  {
+    "Identifier": "Debrief_KPI_Descent",
+    "Text": "하강"
+  },
+  {
+    "Identifier": "Debrief_KPI_GLoad",
+    "Text": "G-부하"
+  },
+  {
+    "Identifier": "Debrief_KPI_Altitude",
+    "Text": "고도"
+  },
+  {
+    "Identifier": "Debrief_KPI_Orbit",
+    "Text": "궤도"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitAp",
+    "Text": "Ap"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitPe",
+    "Text": "Pe"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ejected",
+    "Text": "사출됨"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EI",
+    "Text": "재진입 계면 (고도 400k ft)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockAgena",
+    "Text": "아제나와 도킹"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockAgena",
+    "Text": "아제나와 도킹 해제"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_AgenaPPA",
+    "Text": "아제나 PPA: 점화됨"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "메인 낙하산 전개"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "보조 낙하산 전개"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAStart",
+    "Text": "EVA 시작"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAEnd",
+    "Text": "EVA 종료"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "역분사 1번"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "역분사 2번"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "역분사 3번"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo4",
+    "Text": "역분사 4번"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanI",
+    "Text": "단 분리: 타이탄 1단"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanII",
+    "Text": "단 분리: 타이탄 2단"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingAdapter",
+    "Text": "단 분리: 어댑터"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingRetro",
+    "Text": "단 분리: 역분사"
+  },
+  {
+    "Identifier": "BurnUplinkBrief",
+    "Text": "DCS 업링크 브리핑: 연소 시각 {0}, dV {1} ft/s."
+  },
+  {
+    "Identifier": "RetroburnPlanner_GeminiTimeSet",
+    "Text": "역분사 시퀀스 시각이 {0}(으)로 설정되었습니다."
+  }
+]

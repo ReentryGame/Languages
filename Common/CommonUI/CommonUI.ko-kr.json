@@ -1,0 +1,386 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "확인"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "거부"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "확인"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "현재 목표"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ 조종실 상태 준비 중 ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] 시점 선택"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "외부 시점"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "궤도 시점"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "미션 패드"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "메뉴"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "세션 재개"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "실패"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "오디오"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "입력 설정"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "상태 저장"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "실시간 미션 컨트롤"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "콘솔"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "미션 에디터"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "세션 종료"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "그래픽"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "체크리스트 생성"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] 통신"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "무선 점검"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "미션"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "브리핑"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "지도"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "체크리스트"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "통신 기록"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "메모"
+  },
+  {
+    "Identifier": "MissionPad_VR",
+    "Text": "VR"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "오디오 설정"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "마스터"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "조종실"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "외부"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "음악"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "기타 효과음"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "우주비행사\n통신"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "미션 컨트롤 통신"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "상태 저장"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "현재 진행 상황을 상태 저장으로 저장합니다.\n\n아래에 파일 이름을 입력하고 저장을 누르세요.\n\n참고: 1.0 범위 내의 대부분의 핵심 상태, 궤도 파라미터, 시스템 데이터가 저장됩니다. 상태 저장 기능은 게임이 2.0으로 발전하고 시스템이 더욱 개발됨에 따라 계속 발전하고 개선될 예정입니다."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "경고: 지금은 저장할 수 없습니다. 추력 기동 또는 중요 미션 단계에서는 상태 저장이 비활성화됩니다."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "저장"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "닫기"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "상태 저장 이름:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "덮어쓸까요?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "모두 지우기"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "지우기"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "UI 배율"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "사용자 인터페이스의 크기 배율입니다."
+  },
+  {
+    "Identifier": "Debrief_End",
+    "Text": "미션 종료"
+  },
+  {
+    "Identifier": "Debrief_Resume",
+    "Text": "미션 재개"
+  },
+  {
+    "Identifier": "Debrief_Reload",
+    "Text": "미션 다시 로드"
+  },
+  {
+    "Identifier": "MissionPad_RunChecklist",
+    "Text": "실행:"
+  },
+  {
+    "Identifier": "MissionPad_CloseChecklist",
+    "Text": "< 뒤로"
+  },
+  {
+    "Identifier": "MissionPad_EditChecklist",
+    "Text": "편집"
+  },
+  {
+    "Identifier": "Debrief_Title",
+    "Text": "미션 디브리핑"
+  },
+  {
+    "Identifier": "Debrief_Goals",
+    "Text": "목표"
+  },
+  {
+    "Identifier": "Debrief_Accomplished",
+    "Text": "미션 성공"
+  },
+  {
+    "Identifier": "Debrief_NotAccomplished",
+    "Text": "미션 미완료"
+  },
+  {
+    "Identifier": "Debrief_KeyMoments",
+    "Text": "주요 순간"
+  },
+  {
+    "Identifier": "LoadingPanelState",
+    "Text": "패널 상태 로드 중"
+  },
+  {
+    "Identifier": "TimeToLaunch",
+    "Text": "발사까지 T"
+  },
+  {
+    "Identifier": "TimeScale",
+    "Text": "시간 배속"
+  },
+  {
+    "Identifier": "Paused",
+    "Text": "일시정지"
+  },
+  {
+    "Identifier": "ViewSelector_Photocamera",
+    "Text": "사진 카메라"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxVel",
+    "Text": "최대 속도"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxAlt",
+    "Text": "최대 고도"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxGs",
+    "Text": "최대 G"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentAltitude",
+    "Text": "상승 고도"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption",
+    "Text": "연료 소비량"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Splashdown",
+    "Text": "착수"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Abort",
+    "Text": "중단"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_InsertionData",
+    "Text": "궤도 진입 ({0} nmi x {1} nmi, {2}° 경사)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ignition",
+    "Text": "점화"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun",
+    "Text": "재미"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo1",
+    "Text": "사진: photo1.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo2",
+    "Text": "사진: photo2.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo3",
+    "Text": "사진: photo3.png"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleAllCockpitEq",
+    "Text": "모두 숨기기"
+  },
+  {
+    "Identifier": "CrewMembers_TogglePADs",
+    "Text": "조종실 내 패드"
+  },
+  {
+    "Identifier": "SlowMode",
+    "Text": "저속 모드"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Title",
+    "Text": "역추진 플래너"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Hours",
+    "Text": "시"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Minutes",
+    "Text": "분"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "초"
+  },
+  {
+    "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
+    "Text": "예상 착륙 지점"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Lat",
+    "Text": "위도"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Long",
+    "Text": "경도"
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Gemini",
+    "Text": "\n제한 사항 (1.0):\n-계획된 연소를 요청한 뒤 실행하기 전에 상태를 저장하는 경우. 계획된 연소를 요청했다면 저장하기 전에 연소를 완료하세요. 그렇지 않으면 연소를 다시 계획해야 합니다."
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Apollo",
+    "Text": "\n제한 사항 (1.0):\n-계획된 연소를 요청한 뒤 실행하기 전에 상태를 저장하는 경우. 계획된 연소를 요청했다면 저장하기 전에 연소를 완료하세요. 그렇지 않으면 연소를 다시 계획해야 합니다.\n-실행된 TEI 연소와 지구 SOI 사이에 상태를 저장하는 경우."
+  },
+  {
+    "Identifier": "Debrief_Failure",
+    "Text": "실패: "
+  },
+  {
+    "Identifier": "MissionPad_DragToReposition",
+    "Text": "드래그하여 위치 이동"
+  },
+  {
+    "Identifier": "MissionPad_DragToRepositionVertical",
+    "Text": "드\n래\n그\n하\n여\n \n이\n동"
+  },
+  {
+    "Identifier": "VR_ToggleCurrentObjective",
+    "Text": "현재 목표 표시 전환"
+  },
+  {
+    "Identifier": "VR_TriggerAbort",
+    "Text": "중단"
+  },
+  {
+    "Identifier": "VR_ToggleMissionPad",
+    "Text": "미션 패드 전환"
+  }
+]

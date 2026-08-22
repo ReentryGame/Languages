@@ -1,0 +1,1566 @@
+[
+  {
+    "Identifier": "ContextMenu_MainMenu",
+    "Text": "메인 메뉴"
+  },
+  {
+    "Identifier": "ContextMenu_Academy",
+    "Text": "아카데미"
+  },
+  {
+    "Identifier": "ContextMenu_MissionControl",
+    "Text": "미션 컨트롤"
+  },
+  {
+    "Identifier": "ContextMenu_Profile",
+    "Text": "프로필"
+  },
+  {
+    "Identifier": "ContextMenu_LoadState",
+    "Text": "상태 불러오기"
+  },
+  {
+    "Identifier": "ContextMenu_Settings",
+    "Text": "설정"
+  },
+  {
+    "Identifier": "ContextMenu_Missions",
+    "Text": "미션"
+  },
+  {
+    "Identifier": "ContextMenu_Campaigns",
+    "Text": "캠페인"
+  },
+  {
+    "Identifier": "ContextMenu_Mercury",
+    "Text": "머큐리 프로젝트"
+  },
+  {
+    "Identifier": "ContextMenu_Gemini",
+    "Text": "제미니 프로젝트"
+  },
+  {
+    "Identifier": "ContextMenu_Apollo",
+    "Text": "아폴로 프로젝트"
+  },
+  {
+    "Identifier": "ContextMenu_Credits",
+    "Text": "프로젝트 크레딧"
+  },
+  {
+    "Identifier": "ContextMenu_WorkshopMission",
+    "Text": "워크숍 미션"
+  },
+  {
+    "Identifier": "MainMenuItem_Academy",
+    "Text": "아카데미"
+  },
+  {
+    "Identifier": "MainMenuItem_Missions",
+    "Text": "미션"
+  },
+  {
+    "Identifier": "MainMenuItem_Campaigns",
+    "Text": "캠페인"
+  },
+  {
+    "Identifier": "MainMenuItem_LoadState",
+    "Text": "상태 불러오기"
+  },
+  {
+    "Identifier": "MainMenuItem_MissionControl",
+    "Text": "미션 컨트롤"
+  },
+  {
+    "Identifier": "MainMenuItem_Challenges",
+    "Text": "챌린지"
+  },
+  {
+    "Identifier": "MainMenuItem_Exhibitions",
+    "Text": "전시"
+  },
+  {
+    "Identifier": "MainMenuItem_Profile",
+    "Text": "프로필"
+  },
+  {
+    "Identifier": "MainMenuItem_Settings",
+    "Text": "설정"
+  },
+  {
+    "Identifier": "MainMenuItem_Credits",
+    "Text": "크레딧"
+  },
+  {
+    "Identifier": "MainMenuItem_Workshop",
+    "Text": "워크숍"
+  },
+  {
+    "Identifier": "MainMenuItem_Contribute",
+    "Text": "기여하기"
+  },
+  {
+    "Identifier": "MainMenuItem_DevJournal",
+    "Text": "개발 일지"
+  },
+  {
+    "Identifier": "MainMenuItem_UpdateNotes",
+    "Text": "업데이트 노트"
+  },
+  {
+    "Identifier": "MainMenuItem_Exit",
+    "Text": "종료"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonManuals",
+    "Text": "매뉴얼 (웹)"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonBasicTheory",
+    "Text": "기초 이론"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonMercuryTutorials",
+    "Text": "머큐리 프로젝트 교육"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonGeminiTutorials",
+    "Text": "제미니 프로젝트 교육"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonApolloTutorials",
+    "Text": "아폴로 프로젝트 교육"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonLunarModuleTutorials",
+    "Text": "달 착륙선 교육"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonSpaceShuttleTutorials",
+    "Text": "스페이스 셔틀 교육"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonDiscord",
+    "Text": "디스코드에서 함께하기"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonMercury",
+    "Text": "머큐리 프로젝트"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonGemini",
+    "Text": "제미니 프로젝트"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonApollo",
+    "Text": "아폴로 프로젝트"
+  },
+  {
+    "Identifier": "MissionsMenu_FreePlay",
+    "Text": "자유 비행"
+  },
+  {
+    "Identifier": "MissionsMenu_Scenarios",
+    "Text": "시나리오"
+  },
+  {
+    "Identifier": "MissionsMenu_Historic",
+    "Text": "역사적 미션"
+  },
+  {
+    "Identifier": "MissionsMenu_MissionControlLive",
+    "Text": "실시간 미션 컨트롤"
+  },
+  {
+    "Identifier": "MissionsMenu_Custom",
+    "Text": "커스텀 미션"
+  },
+  {
+    "Identifier": "MissionsMenu_Create",
+    "Text": "새 미션 만들기"
+  },
+  {
+    "Identifier": "ProgramInfo_Mercury",
+    "Text": "머큐리 프로젝트는 우주비행사를 궤도에 안전하게 올려 보내고 지구로 무사히 귀환시키는 것을 목표로 한 미국 최초의 우주 프로그램입니다."
+  },
+  {
+    "Identifier": "ProgramInfo_Gemini",
+    "Text": "제미니 프로젝트는 미국의 두 번째 우주 프로그램으로, 흔히 '달로 가는 다리'라고 불립니다."
+  },
+  {
+    "Identifier": "ProgramInfo_Apollo",
+    "Text": "아폴로 프로젝트는 마침내 인류를 달에 착륙시킨 프로그램입니다."
+  },
+  {
+    "Identifier": "ProgramInfo_MCC",
+    "Text": "Mercury Control Center Live는 여러 관제사가 함께 머큐리 미션을 지원할 수 있는 멀티플레이어 모듈입니다."
+  },
+  {
+    "Identifier": "ProgramInfo_MOCR",
+    "Text": "Mission Operations Control Center Live는 여러 관제사가 MOCR을 통해 아폴로 미션을 지원할 수 있게 해 줍니다."
+  },
+  {
+    "Identifier": "Profile_PlayerName",
+    "Text": "플레이어 이름"
+  },
+  {
+    "Identifier": "Profile_CapsuleName",
+    "Text": "캡슐 이름"
+  },
+  {
+    "Identifier": "Profile_CharacterEditor",
+    "Text": "캐릭터 편집기"
+  },
+  {
+    "Identifier": "Profile_FlightTime",
+    "Text": "비행 시간"
+  },
+  {
+    "Identifier": "Profile_Online",
+    "Text": "멀티플레이어 랭킹"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryAstonaut",
+    "Text": "머큐리 우주비행사"
+  },
+  {
+    "Identifier": "Profile_SkillCSMAstonaut",
+    "Text": "사령선 우주비행사"
+  },
+  {
+    "Identifier": "Profile_SkillLMAstonaut",
+    "Text": "달 착륙선 우주비행사"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryController",
+    "Text": "머큐리 관제사"
+  },
+  {
+    "Identifier": "Profile_SkillApolloController",
+    "Text": "아폴로 관제사"
+  },
+  {
+    "Identifier": "GeneralBackButton",
+    "Text": "뒤로"
+  },
+  {
+    "Identifier": "Settings_Effects",
+    "Text": "그래픽"
+  },
+  {
+    "Identifier": "Settings_Language",
+    "Text": "언어"
+  },
+  {
+    "Identifier": "Settings_RealismSettings",
+    "Text": "리얼리즘 설정"
+  },
+  {
+    "Identifier": "Settings_Checklists",
+    "Text": "체크리스트"
+  },
+  {
+    "Identifier": "Settings_ChecklistsDesc",
+    "Text": "경고: 모든 기본 체크리스트를 공장 초기 설정으로 되돌립니다. 기본 체크리스트를 수정한 적이 있다면 먼저 백업을 만드세요.\n직접 만든 체크리스트는 영향을 받지 않습니다."
+  },
+  {
+    "Identifier": "Settings_ResetDefaultChecklists",
+    "Text": "기본 체크리스트 초기화"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoChecklistReset",
+    "Text": "기본 체크리스트 변경 사항을 자동으로 확인합니다."
+  },
+  {
+    "Identifier": "Settings_CameraPoints",
+    "Text": "카메라 포인트"
+  },
+  {
+    "Identifier": "Settings_CameraPointsDesc",
+    "Text": "조종실 카메라 포인트/시점 스냅 포인트는 (AppData 아래 Reentry 영구 데이터 경로)/Cameras에 복사됩니다. 원한다면 이 파일을 수정하여 각 카메라 포인트를 변경할 수 있습니다. 게임 업데이트 시 새로운 카메라 포인트가 추가되거나 기존 포인트가 변경될 수 있으므로, 업데이트에 맞춰 이 파일을 갱신하는 것이 중요합니다.\n\n경고: 모든 기본 카메라 스냅 포인트를 공장 초기 설정으로 되돌립니다. 수정한 적이 있다면 먼저 백업을 만들고 갱신된 파일에 다시 병합하세요."
+  },
+  {
+    "Identifier": "Settings_ResetDefaultCameraPoints",
+    "Text": "카메라 포인트 초기화"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoCameraReset",
+    "Text": "기본 카메라 포인트 변경 사항을 자동으로 확인합니다."
+  },
+  {
+    "Identifier": "Settings_PanelStates",
+    "Text": "패널 상태"
+  },
+  {
+    "Identifier": "Settings_PanelStatesDesc",
+    "Text": "경고: 모든 기본 패널 상태를 공장 초기 설정으로 되돌립니다. 기본 패널 상태를 수정한 적이 있다면 먼저 백업을 만드세요.\n직접 만든 패널 상태는 영향을 받지 않습니다."
+  },
+  {
+    "Identifier": "Settings_PanelStatesReset",
+    "Text": "기본 패널 상태 초기화"
+  },
+  {
+    "Identifier": "Settings_InputControls",
+    "Text": "입력 설정 (키보드, 마우스, 조이스틱)"
+  },
+  {
+    "Identifier": "Settings_EarthTextures",
+    "Text": "지구 텍스처"
+  },
+  {
+    "Identifier": "Settings_MoonTextures",
+    "Text": "달 텍스처"
+  },
+  {
+    "Identifier": "Settings_AnalyticsCollection",
+    "Text": "분석 데이터"
+  },
+  {
+    "Identifier": "Settings_Audio",
+    "Text": "오디오"
+  },
+  {
+    "Identifier": "Settings_AudioMusic",
+    "Text": "음악"
+  },
+  {
+    "Identifier": "Settings_AudioSFX",
+    "Text": "효과음"
+  },
+  {
+    "Identifier": "Settings_AudioCabinNoise",
+    "Text": "선실 환경 소음"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableSFXDSKYRelayClicking",
+    "Text": "DSKY 릴레이 클릭음"
+  },
+  {
+    "Identifier": "Settings_TrackIR",
+    "Text": "TRACKIR"
+  },
+  {
+    "Identifier": "Settings_Autosave",
+    "Text": "자동 저장"
+  },
+  {
+    "Identifier": "Settings_AutosaveDesc",
+    "Text": "궤도 진입, 달 SOI, PDI 등 일부 중요한 시점에 자동 저장 상태를 생성합니다."
+  },
+  {
+    "Identifier": "Settings_ToggleAutosave",
+    "Text": "자동 저장 활성화"
+  },
+  {
+    "Identifier": "Settings_ToggleTrackIR",
+    "Text": "NaturalPoint TrackIR 사용"
+  },
+  {
+    "Identifier": "Settings_VirtualReality",
+    "Text": "가상 현실 (실험적)"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityDesc",
+    "Text": ""
+  },
+  {
+    "Identifier": "Settings_VirtualRealityGaze",
+    "Text": "VR 마우스 커서는 현재 개발 중인 완전히 새로운 기능입니다. 이 기능은 VR 모션 컨트롤러를 비활성화하고, 마우스 커서와 시선 방향을 결합하여 조종실 패널과 UI를 조작합니다. UI 인식은 아직 그리 좋지 않으며 현재 집중적으로 개선하고 있는 부분입니다."
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVirtualReality",
+    "Text": "VR 활성화"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRBurnHaptics",
+    "Text": "연소 중 VR 컨트롤러 진동 활성화"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRGazeCursor",
+    "Text": "모션 컨트롤러 대신 VR 마우스 커서 사용"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRSubtitles",
+    "Text": "미션 대사를 자막으로 표시합니다."
+  },
+  {
+    "Identifier": "Settings_Data",
+    "Text": "데이터"
+  },
+  {
+    "Identifier": "Settings_DataDesc",
+    "Text": "경고: 설정, 진행도, 우주 체류 시간 등 모든 사용자 데이터를 삭제하며 복구할 수 없습니다."
+  },
+  {
+    "Identifier": "Settings_ClearData",
+    "Text": "모든 플레이어 데이터 삭제"
+  },
+  {
+    "Identifier": "Settings_OutputLive",
+    "Text": "컴퓨터 출력 실시간 피드"
+  },
+  {
+    "Identifier": "Settings_OutputLiveDesc",
+    "Text": "OBC, AGC, LGC 패널 데이터를 실시간으로 Exports 폴더(Reentry의 AppData 폴더 내)의 전용 파일로 내보냅니다. 이를 통해 외부 기기(예: IoT)에 데이터를 표시할 수 있습니다."
+  },
+  {
+    "Identifier": "Settings_ToggleOutputLive",
+    "Text": "실시간 피드 활성화"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursor",
+    "Text": "조종실 커서"
+  },
+  {
+    "Identifier": "Settings_Toggle3DClouds",
+    "Text": "실험적 3D 구름 활성화"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursorDesc",
+    "Text": "조종실 커서는 마우스 커서를 대체하며, 스위치 위에 올렸을 때 색이 바뀌는 등 게임 내 기능을 제공합니다. 단점은 일반 렌더 루프에서 렌더링된다는 점입니다."
+  },
+  {
+    "Identifier": "Settings_ToggleFunctionalCursor",
+    "Text": "조종실 커서 활성화"
+  },
+  {
+    "Identifier": "Settings_Configure",
+    "Text": "구성"
+  },
+  {
+    "Identifier": "Settings_ResetControls",
+    "Text": "기본값으로 초기화"
+  },
+  {
+    "Identifier": "MissionControlLive_MCC",
+    "Text": "머큐리 관제 센터"
+  },
+  {
+    "Identifier": "MissionControlLive_MOCR",
+    "Text": "아폴로 미션 컨트롤"
+  },
+  {
+    "Identifier": "MissionControlLive_LFG",
+    "Text": "디스코드에서 팀원 모집"
+  },
+  {
+    "Identifier": "GraphicsSettings_Title",
+    "Text": "그래픽 설정"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityTitle",
+    "Text": "반사 프로브 품질"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityDesc",
+    "Text": "반사 프로브는 모든 종류의 반사를 렌더링하는 데 사용됩니다. 궤도에 있을 때 행성이 비추는 반사광(일반 프로브)부터 계기, 창문, 반사 재질에 보이는 조종실 내부 반사(핵심 프로브)까지 담당합니다. 시스템 부하가 매우 큽니다.\n갱신 빈도를 낮게 설정한다면 창문 글레어(WINDOW GLARE)도 끄는 것을 권장합니다."
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityInfo",
+    "Text": "OFF: 모든 반사 프로브가 꺼집니다\nLOW: 핵심 프로브가 14프레임에 걸쳐 갱신됩니다, 최대 해상도: 256\nMEDIUM: 핵심 프로브가 9프레임에 걸쳐 갱신됩니다, 최대 해상도: 512\nHIGH: 핵심 프로브가 1프레임 내에 갱신됩니다.\nULTIMATE: TESTING 중에는 비권장이며 HIGH와 동일한 로직입니다.\nTESTING: 모든 프로브가 1프레임 내에 갱신됩니다."
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingTitle",
+    "Text": "후처리"
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingDesc",
+    "Text": "여러 후처리 효과가 시각적 경험을 향상하는 데 사용됩니다. GPU와 CPU 자원을 소모하므로 프레임률을 높이려면(또는 마음에 들지 않으면) 끄는 것을 고려하세요. 효과에는 블룸, 컬러 그레이딩, AO 등이 있습니다."
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAOTitle",
+    "Text": "화면 공간 주변광 차폐 (SSAO Pro)"
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAODesc",
+    "Text": "향상된 SSAO는 모서리, 구멍 등 좁은 기하학적 공간의 그림자와 어두운 영역을 렌더링하는 방식입니다. 자원을 다른 곳에 써야 한다면 끄는 것을 고려하세요."
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareTitle",
+    "Text": "메인 창 글레어 렌더링"
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareDesc",
+    "Text": "메인 조종실 창에 내부 반사를 렌더링합니다. 조종실이 어두울수록 반사가 덜 보입니다. 따라서 창밖을 보는 것이 중요한 작업을 할 때는 조명을 끄는 것을 권장합니다.\n위의 반사 프로브 설정이 낮은 단계 중 하나로 설정되어 있다면(OFF 제외), 반사 갱신에 지연이 생기므로 이 기능을 끄는 것을 권장합니다."
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelTitle",
+    "Text": "승무원 모델 렌더링"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelDesc",
+    "Text": "이 기능을 켜면 CSM과 LM 내부에 승무원의 3D 모델이 렌더링됩니다. 머큐리 &\n제미니 모델과 제대로 된 얼굴/아바타 생성기는 개발 중입니다."
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksTitle",
+    "Text": "달 암석 렌더링"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksDesc",
+    "Text": "달 암석은 하강 마지막 단계의 일부로 달 표면에 렌더링됩니다. 일부 시스템에는 부하가 상당하므로 느리다면 이 옵션을 해제해 보세요."
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesTitle",
+    "Text": "LRV 바퀴 입자 렌더링"
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesDesc",
+    "Text": "LRV를 운전하면 바퀴가 모래를 튀깁니다. 이는 입자로 시뮬레이션됩니다. 부하가 클 수 있으므로 운전 중 느리다면 이 옵션을 해제해 보세요."
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorTitle",
+    "Text": "사령선 내부"
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorDesc",
+    "Text": "사령선 내부 업그레이드는 기존의 저폴리곤 내부를 대체합니다. 패널은 동일하게 유지되지만 내부가 더 사실적으로 바뀌며, 그만큼 렌더링 비용도 매우 큽니다."
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationTitle",
+    "Text": "달 테셀레이션"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationDesc",
+    "Text": "달 궤도에 있을 때 테셀레이션이라는 기법이 달의 세부 지형을 생성합니다. 이는 GPU에서 처리되며 렌더링 비용이 상당히 클 수 있습니다. 세 가지 파라미터로 테셀레이션을 제어합니다: Factor, 최소 거리, 최대 거리.\nFactor는 얼마나 세분화할지를 정합니다. 일반적인 값은 1, 8, 16, 32 등입니다. 최소 및 최대 거리는 무엇을 테셀레이션할지의 범위를 정합니다. 최소 거리보다 가까운 대상은 100% 테셀레이션됩니다. 최대 거리보다 먼 대상은 0% 테셀레이션됩니다. 최소보다 멀고 최대보다 가까운 대상은 보간을 기반으로 테셀레이션됩니다."
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_Factor",
+    "Text": "Factor:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MinDist",
+    "Text": "최소 거리:"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MaxDist",
+    "Text": "최대 거리:"
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BTitle",
+    "Text": "아폴로: 고급 발사 단지 39A 렌더링"
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BDesc",
+    "Text": "초고해상도 모델로 아폴로 발사 단지 39A를 렌더링합니다."
+  },
+  {
+    "Identifier": "RealismSettings_Title",
+    "Text": "리얼리즘 & 도우미 설정"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterTitle",
+    "Text": "스위치 호버 하이라이터"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterDesc",
+    "Text": "이 기능을 켜면 마우스 커서가 가리키는 계기나 스위치 주위에 큐브가 그려집니다."
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorTitle",
+    "Text": "화면 밖 스위치 표시기"
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorDesc",
+    "Text": "이 기능을 켜면 강조된 스위치가 플레이어 시야 밖에 있을 때 해당 스위치 방향으로 표시기가 그려집니다."
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistTitle",
+    "Text": "체크리스트 자동 진행"
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistDesc",
+    "Text": "체크리스트에서 RUN 기능을 사용하면, 주의가 필요한 단계에 도달할 때까지 가이드가 자동으로 진행됩니다. 이 기능을 끄면 다음 단계로 넘어가기 위해 PRO를 눌러야 합니다."
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingTitle",
+    "Text": "간소화된 연소 & 랑데부"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingDesc",
+    "Text": "이 기능을 켜면 랑데부와 궤도 기동 연소가 다소 간단해지며, 로직이 누적된 오차나 목표 편차를 감지하면 자동 유도 보정이 이루어집니다. 특히 유도 컴퓨터가 아직 초기 단계인 만큼 켜 두는 것을 권장합니다. 게임 로직이 중요한 구간에서 이를 무시할 수 있습니다."
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeTitle",
+    "Text": "아폴로 발사 카메라 흔들림 감소"
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeDesc",
+    "Text": "이 기능을 켜면 아폴로 새턴 V 상승(SIC 및 SII) 중 카메라 흔들림의 정도가 줄어듭니다."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleTitle",
+    "Text": "달 착륙 지점 깃발 렌더링"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleDesc",
+    "Text": "이 기능을 켜면 달 착륙 구역으로 전환될 때 선택한 착륙 지점에 깃대가 렌더링됩니다."
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionTitle",
+    "Text": "달 착륙 지점을 자동으로 향하기"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionDesc",
+    "Text": "이 기능을 켜면 달 착륙 구역으로 전환될 때 달 착륙선이 착륙 지점 방향을 자동으로 향합니다."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresTitle",
+    "Text": "무작위 고장: 머큐리"
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
+    "Text": "이를 허용하는 미션(자유 비행 또는 커스텀 미션)에서 무작위 고장을 활성화합니다. 무작위 고장 시스템은 25~35분마다 한 번(주기) 주사위를 굴리며, 이때 무작위 고장이 발생할 확률이 있습니다. 아래에서 각 주기마다 무작위 고장이 발생할 확률과 목록에서 제외할 고장을 설정할 수 있습니다. 게임 내에서 failure 콘솔 명령으로 고장을 수동으로 발생시킬 수도 있습니다."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresPercentage",
+    "Text": "각 주기마다 고장이 발생할 확률(%)입니다."
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresToggleFailures",
+    "Text": "고장 켜고 끄기"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresTitle",
+    "Text": "무작위 고장: 제미니"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresDesc",
+    "Text": "이를 허용하는 미션(자유 비행 또는 커스텀 미션)에서 무작위 고장을 활성화합니다. 무작위 고장 시스템은 25~35분마다 한 번(주기) 주사위를 굴리며, 이때 무작위 고장이 발생할 확률이 있습니다. 아래에서 각 주기마다 무작위 고장이 발생할 확률과 목록에서 제외할 고장을 설정할 수 있습니다. 게임 내에서 failure 콘솔 명령으로 고장을 수동으로 발생시킬 수도 있습니다."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresPercentage",
+    "Text": "각 주기마다 고장이 발생할 확률(%)입니다."
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresToggleFailures",
+    "Text": "고장 켜고 끄기"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresTitle",
+    "Text": "무작위 고장: 아폴로"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresDesc",
+    "Text": "이를 허용하는 미션(자유 비행 또는 커스텀 미션)에서 무작위 고장을 활성화합니다. 무작위 고장 시스템은 25~35분마다 한 번(주기) 주사위를 굴리며, 이때 무작위 고장이 발생할 확률이 있습니다. 아래에서 각 주기마다 무작위 고장이 발생할 확률과 목록에서 제외할 고장을 설정할 수 있습니다. 게임 내에서 failure 콘솔 명령으로 고장을 수동으로 발생시킬 수도 있습니다."
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresPercentage",
+    "Text": "각 주기마다 고장이 발생할 확률(%)입니다."
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresToggleFailures",
+    "Text": "고장 켜고 끄기"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftTitle",
+    "Text": "자이로 드리프트"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftDesc",
+    "Text": "활성화하면 자이로가 시간이 지남에 따라 오차를 누적하여 보정이 필요합니다(P52가 아직 개발되지 않아 LM에는 영향을 주지 않음)."
+  },
+  {
+    "Identifier": "RealismSettings_CO2Title",
+    "Text": "CO2 캐니스터 교체"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Desc",
+    "Text": "활성화하면 절차에 따라 CO2 캐니스터를 수동으로 교체해야 합니다. 수동 교체는 CSM에서 지원되며 곧 LM에서도 지원됩니다."
+  },
+  {
+    "Identifier": "RealismSettings_RequireOceanLanding",
+    "Text": "해상 착륙 필수"
+  },
+  {
+    "Identifier": "RealismSettings_RequireOceanLandingDesc",
+    "Text": "이 설정을 켜면 미션을 완료하기 위해 육지가 아닌 바다에 착수해야 합니다."
+  },
+  {
+    "Identifier": "MainMenuButton_Launch",
+    "Text": "시작"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson1",
+    "Text": "교육 1 - 발사 전"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson2",
+    "Text": "교육 2 - 발사 및 상승"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson3",
+    "Text": "교육 3 - 체크리스트 및 아틀라스"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson4",
+    "Text": "교육 4 - 전기"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson5",
+    "Text": "교육 5 - 자세 제어"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson6",
+    "Text": "교육 6 - 생존"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson7",
+    "Text": "교육 7 - 시퀀서"
+  },
+  {
+    "Identifier": "Academy_Mercury_Exam",
+    "Text": "시험 - 전체 미션"
+  },
+  {
+    "Identifier": "Academy_Mercury_VR",
+    "Text": "가상 현실"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson1",
+    "Text": "교육 1 - 발사 전"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson2",
+    "Text": "교육 2 - 상승"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson3",
+    "Text": "교육 3 - 전기!"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson4",
+    "Text": "교육 4 - 항법!"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson5",
+    "Text": "교육 5 - 컴퓨터"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson6",
+    "Text": "교육 6 - 생명 유지"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson7",
+    "Text": "교육 7 - 시퀀서"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson8",
+    "Text": "교육 8 - 궤도 이탈 및 재진입"
+  },
+  {
+    "Identifier": "Academy_Gemini_Exam",
+    "Text": "시험 - 전체 미션"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson10",
+    "Text": "교육 9 - 기동 및 연소"
+  },
+  {
+    "Identifier": "Academy_CSM_TheBasics",
+    "Text": "기초"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson1",
+    "Text": "교육 1 - 발사 전"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson2",
+    "Text": "교육 2 - 부스트"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson3",
+    "Text": "교육 3 - 전기"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson4",
+    "Text": "교육 4 - RCS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson5",
+    "Text": "교육 5 - 컴퓨터"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson6",
+    "Text": "교육 6 - 서비스 추진"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson7",
+    "Text": "교육 7 - AGC 및 자동 기동"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson8",
+    "Text": "교육 8 - SPS 연소 계획"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9",
+    "Text": "교육 9A - 대기권 재진입"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson10",
+    "Text": "교육 10 - 전위 및 도킹"
+  },
+  {
+    "Identifier": "Academy_CSM_Exam",
+    "Text": "시험: 전체 지구 미션"
+  },
+  {
+    "Identifier": "Academy_CSM_AdvancedTopics",
+    "Text": "심화 주제"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson11",
+    "Text": "교육 11 - 달 전이 분사 (TLI)"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson12",
+    "Text": "교육 12 - 광학"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson13",
+    "Text": "교육 13 - 지구 전이 분사 (TEI)"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson14",
+    "Text": "교육 14 - ECS: O2"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson15",
+    "Text": "교육 15 - ECS: PSC"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson16",
+    "Text": "교육 16 - ECS: H2O"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson17",
+    "Text": "교육 17 - ECS: 글리콜"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson1",
+    "Text": "교육 1 - 진입"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson2",
+    "Text": "교육 2 - 활성화"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson3",
+    "Text": "교육 3 - 전기"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson4",
+    "Text": "교육 4 - 반작용 제어"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson5",
+    "Text": "교육 5 - 유도 컴퓨터"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson6",
+    "Text": "교육 6 - 비행 모드"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson7",
+    "Text": "교육 7 - 하강 엔진"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson8",
+    "Text": "교육 8 - 레이더"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson9",
+    "Text": "교육 9 - 도킹 해제"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson10",
+    "Text": "교육 10 - 하강"
+  },
+  {
+    "Identifier": "Academy_LM_Exam",
+    "Text": "시험: 달 착륙"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson11",
+    "Text": "교육 11 - ECS"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson12",
+    "Text": "교육 12 - 상승 및 도킹"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson13",
+    "Text": "교육 13 - 달 체류 및 EVA"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson1",
+    "Text": "교육 1 - 진입"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson2",
+    "Text": "교육 2 - 발사 전"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson3",
+    "Text": "교육 3 - 상승"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson4",
+    "Text": "교육 4 - OMS 2"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson5",
+    "Text": "교육 5 - 궤도 진입 후"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson6",
+    "Text": "교육 6 - DPS 개요"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson7",
+    "Text": "교육 7 - MEDS와 DPS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson8",
+    "Text": "교육 8 - DPS 운용"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson9",
+    "Text": "교육 9 - 전기"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson10",
+    "Text": "교육 10 - RCS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson11",
+    "Text": "교육 11 - GNC"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson14",
+    "Text": "교육 14 - 호만 랑데부"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson15",
+    "Text": "교육 15 - 램버트 랑데부"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson16",
+    "Text": "교육 16 - 도킹"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson18",
+    "Text": "교육 18 - 캐나담"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson19",
+    "Text": "교육 19 - 페이로드"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson20",
+    "Text": "교육 20 - 궤도 이탈 준비"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson21",
+    "Text": "교육 21 - 궤도 이탈 연소"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson22",
+    "Text": "교육 22 - 재진입에서 착륙까지"
+  },
+  {
+    "Identifier": "ChallengeAccepted",
+    "Text": "챌린지 수락"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone",
+    "Text": "MERCURY-REDSTONE"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas",
+    "Text": "MERCURY-ATLAS"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone_CnD",
+    "Text": "MERCURY-REDSTONE - T-90 (C & D)"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas_CnD",
+    "Text": "MERCURY-ATLAS - T-90 (C & D)"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR3",
+    "Text": "MERCURY-REDSTONE 3"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR4",
+    "Text": "MERCURY-REDSTONE 4"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MA6",
+    "Text": "MERCURY-ATLAS 6"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_IngressPad",
+    "Text": "GEMINI TITAN - 비행 전 (T-10)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_Orbit",
+    "Text": "GEMINI TITAN (궤도상)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_CnD",
+    "Text": "GEMINI TITAN - C&D (T-90)"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario1",
+    "Text": "I - 제미니 랑데부"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario2",
+    "Text": "II - 아제나 도킹"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario3",
+    "Text": "III - 랑데부 연소 훈련"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario4",
+    "Text": "IV - 도킹 훈련"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_HistoricGT3",
+    "Text": "GT-3: 몰리 브라운"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T2h",
+    "Text": "SATURN V - 콜드 & 다크 - 지상 요원 (T-4h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_BackupCrewIngress",
+    "Text": "SATURN V - 예비 승무원 탑승 (T-2h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_PrimeCrewIngress",
+    "Text": "SATURN V - 주 승무원 탑승 (T-1h)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T25m",
+    "Text": "SATURN V - 발사 (T-25m)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_EarthOrbit",
+    "Text": "CSM/SIVB 지구 궤도상"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_LMOrbit",
+    "Text": "달 착륙선 (C&D) 지구 궤도상"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario1",
+    "Text": "I - 달 전이 분사 (TLI)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario2",
+    "Text": "II - 달 궤도 진입 (LOI)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario3",
+    "Text": "III - 지구 전이 분사 (TEI)"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario4",
+    "Text": "IV - 달 착륙선 도킹 해제"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario5",
+    "Text": "V - 동력 하강 및 달 착륙"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario6",
+    "Text": "VI - 달 체류 및 상승"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario7",
+    "Text": "VII - 귀환 항해"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario8",
+    "Text": "VIII - 재진입"
+  },
+  {
+    "Identifier": "RealismSettings_HideChecklistHighlighter",
+    "Text": "스위치 하이라이터 박스 숨기기"
+  },
+  {
+    "Identifier": "RealismSettings_HideChecklistHighlighterDesc",
+    "Text": "이 기능을 켜면 체크리스트나 미션 명령이 강조하는 스위치를 둘러싼 하이라이터 박스가 숨겨집니다."
+  },
+  {
+    "Identifier": "Settings_TTS",
+    "Text": "텍스트 음성 변환 (TTS)"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoad",
+    "Text": "G-부하 비활성화"
+  },
+  {
+    "Identifier": "RealismSettings_DisableGLoadDesc",
+    "Text": "이 옵션을 켜면 재진입 및 상승 중 과도한 G-부하로 인한 구조적 손상과 게임 오버가 비활성화됩니다."
+  },
+  {
+    "Identifier": "Academy_LM_FlightSchool",
+    "Text": "영상: SPACE FLIGHT ACADEMY: 달 착륙선 (YT)"
+  },
+  {
+    "Identifier": "Academy_CM_FlightSchool",
+    "Text": "영상: SPACE FLIGHT ACADEMY: 사령선 (YT)"
+  },
+  {
+    "Identifier": "Academy_Gemini_FlightSchool",
+    "Text": "영상: SPACE FLIGHT ACADEMY: 제미니 (YT)"
+  },
+  {
+    "Identifier": "Academy_Mercury_FlightSchool",
+    "Text": "영상: SPACE FLIGHT ACADEMY: 머큐리 (YT)"
+  },
+  {
+    "Identifier": "Academy_Theory_FlightSchool",
+    "Text": "SPACE FLIGHT ACADEMY (영상, YT)"
+  },
+  {
+    "Identifier": "Academy_Videos",
+    "Text": "영상"
+  },
+  {
+    "Identifier": "Academy_Lessons",
+    "Text": "교육"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecay",
+    "Text": "궤도 감쇠 활성화"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecayDesc",
+    "Text": "궤도 감쇠를 활성화합니다(테스트 전용, 머큐리 전용). 즉, 대기가 만들어내는 항력에 따라 궤도가 감쇠합니다."
+  },
+  {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarm",
+    "Text": "마스터 경보 시 시간 배속 정지"
+  },
+  {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarmDesc",
+    "Text": "마스터 경보가 활성화되면 시간 배속을 정지합니다(아폴로)."
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotation",
+    "Text": "순행 회전 활성화"
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotationDesc",
+    "Text": "궤도에 있는 동안 우주선을 순행 방향으로 자동 회전시킵니다."
+  },
+  {
+    "Identifier": "Settings_LanguageContribute",
+    "Text": "모든 번역은 커뮤니티가 기여한 것이며 대부분 부분적입니다. 언어 번역에 기여하고 싶다면 메인 메뉴의 CONTRIBUTE 페이지를 참고하세요."
+  },
+  {
+    "Identifier": "Settings_VirtualRealityMoved",
+    "Text": "참고: VR이 이동했습니다 - 새로운 VR 구현이 개발 중입니다! 기존의 초기 VR 지원은 Virtual Reality라는 전용 브랜치로 옮겨졌습니다. 초기 단계에서 배운 것을 활용한 새로운 VR 구현이 기존 구현을 대체할 예정입니다. 기존 구현은 폐기됩니다."
+  },
+  {
+    "Identifier": "Settings_AlphaFeatures",
+    "Text": "알파 기능"
+  },
+  {
+    "Identifier": "Settings_AlphaFeaturesDesc",
+    "Text": "알파 기능은 현재 알파/개발 단계에 있는 다양한 기능과 게임 모드입니다. 이 섹션에서 이러한 기능을 선택적으로 활성화할 수 있습니다. 현재 연구 개발(R&D) 단계에 있는 기능들입니다. 각 기능에 대한 자세한 내용은 메인 메뉴에서 접근할 수 있는 ROADMAP 섹션에서 읽을 수 있습니다.\n이 기능들은 Steam 베타 탭에서 접근할 수 있는 ALPHA-FLOOR 브랜치의 빌드를 실행하면 모두 자동으로 활성화됩니다.\n\n참고: 이 목록을 변경하려면 게임을 다시 시작해야 합니다."
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MCC",
+    "Text": "멀티플레이어: 머큐리 미션 컨트롤"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MOCR",
+    "Text": "멀티플레이어: 아폴로 미션 컨트롤"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Challenges",
+    "Text": "챌린지 게임 모드"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_VR",
+    "Text": "가상 현실"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Workshop",
+    "Text": "워크숍"
+  },
+  {
+    "Identifier": "GeneralCloseButton",
+    "Text": "닫기"
+  },
+  {
+    "Identifier": "MainMenuItem_Roadmap",
+    "Text": "로드맵"
+  },
+  {
+    "Identifier": "Settings_EnableQuindarNoise",
+    "Text": "퀸다 톤 재생 (메시지 수신 시)"
+  },
+  {
+    "Identifier": "MainMenuItem_Career",
+    "Text": "커리어"
+  },
+  {
+    "Identifier": "SwitchCraftButton",
+    "Text": "우주선 선택"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryFlightDirector",
+    "Text": "머큐리 비행 감독관"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryCapCom",
+    "Text": "머큐리 CAPCOM"
+  },
+  {
+    "Identifier": "Profile_SkillApolloFlightDirector",
+    "Text": "아폴로 비행 감독관"
+  },
+  {
+    "Identifier": "Profile_SkillApolloCapCom",
+    "Text": "아폴로 CAPCOM"
+  },
+  {
+    "Identifier": "Profile_InsigniaPath",
+    "Text": "커스텀 엠블럼 그래픽 경로 (.png)"
+  },
+  {
+    "Identifier": "Rank_CandidateSpaced",
+    "Text": "후보생"
+  },
+  {
+    "Identifier": "Rank_FlightGraduateSpaced",
+    "Text": "비행\n수료생"
+  },
+  {
+    "Identifier": "Rank_EngineerSpaced",
+    "Text": "관제\n엔지니어"
+  },
+  {
+    "Identifier": "Rank_MissionControllerSpaced",
+    "Text": "미션\n관제사"
+  },
+  {
+    "Identifier": "Rank_CapComSpaced",
+    "Text": "캡슐\n교신관"
+  },
+  {
+    "Identifier": "Rank_FlightDirSpaced",
+    "Text": "비행\n감독관"
+  },
+  {
+    "Identifier": "Rank_CapComGraduateSpaced",
+    "Text": "CAPCOM\n수료생"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityInput",
+    "Text": "VR 입력 바인딩"
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Title",
+    "Text": "기본 체크리스트 업데이트 사용 가능"
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Desc",
+    "Text": "기본 체크리스트에 대한 업데이트가 준비되어 설치할 수 있습니다. 이를 진행하면 기본 체크리스트에 가한 변경 사항이 덮어써지므로, 진행하기 전에 백업을 만드세요.\n\n이 변경 사항을 설치하려면 설정(SETTINGS)에서 기본 체크리스트 초기화(RESET DEFAULT CHECKLISTS) 버튼을 누르거나 아래의 설치(INSTALL)를 누르세요.\n\n참고: 기본 체크리스트를 수정한 적이 있다면 이 메시지가 표시됩니다. 이 메시지를 끄려면 설정에서 \"체크리스트 변경 사항 자동 확인\"을 해제하고, 기본 체크리스트 초기화 기능을 수동으로 사용하는 것을 권장합니다."
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Install",
+    "Text": "설치"
+  },
+  {
+    "Identifier": "GameTips_Tip1",
+    "Text": "콘솔 명령 sp 또는 setsunphase로 태양의 위상/위치를 변경할 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip2",
+    "Text": "피드백이 있다면 공식 디스코드 채널 discord.gg/reentrygame를 방문해 주세요."
+  },
+  {
+    "Identifier": "GameTips_Tip3",
+    "Text": "내부 시스템에 오차가 누적되므로 시간 배속을 500배 이상으로 올리지 마세요."
+  },
+  {
+    "Identifier": "GameTips_Tip4",
+    "Text": "텍스트 음성 변환(TTS) 시스템은 미션 메시지와 교육 지시를 실시간으로 읽어 줄 수 있습니다. 설정에서 켜고 끌 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip5",
+    "Text": "디스코드 서버(discord.gg/reentrygame)의 공식 Reentry 커뮤니티에 모든 가상 우주비행사를 환영합니다!"
+  },
+  {
+    "Identifier": "GameTips_Tip6",
+    "Text": "Reentry가 지원하는 모든 우주선에는 비행 매뉴얼이 있습니다. 이에 익숙해지는 것을 권장합니다. 아카데미 섹션에서 찾을 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip7",
+    "Text": "우리는 새로운 테스트 파일럿(TP)을 자주 찾고 있습니다! TP 플랫폼은 디스코드이며 공식 Reentry 디스코드 채널(discord.gg/reentrygame)의 일부입니다."
+  },
+  {
+    "Identifier": "GameTips_Tip8",
+    "Text": "체크리스트 편집기로 나만의 체크리스트를 만들거나 기존 것을 수정할 수 있습니다. 게임 내 콘솔에서 'checklist' 명령으로 체크리스트를 만들고 불러올 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip9",
+    "Text": "내부 시스템에 오차가 누적되므로 시간 배속을 500배 이상으로 올리지 마세요."
+  },
+  {
+    "Identifier": "GameTips_Tip10",
+    "Text": "텍스트 음성 변환(TTS) 시스템은 미션 메시지와 교육 지시를 실시간으로 읽어 줄 수 있습니다. 설정에서 켜고 끌 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip11",
+    "Text": "반사 프로브는 많은 처리 능력을 필요로 합니다. 특히 아폴로에서는 설정을 낮추거나 OFF로 끄는 것을 권장합니다."
+  },
+  {
+    "Identifier": "GameTips_Tip12",
+    "Text": "OBC와 DSKY의 게임 내 키보드 버튼은 입력 설정에서 매핑할 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip13",
+    "Text": "달 접촉 시 달 착륙선 DPS를 차단하는 단축키를 매핑할 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip14",
+    "Text": "내부 시스템에 오차가 누적되므로 시간 배속을 500배 이상으로 올리지 마세요."
+  },
+  {
+    "Identifier": "GameTips_Tip15",
+    "Text": "텍스트 음성 변환(TTS) 시스템은 미션 메시지와 교육 지시를 실시간으로 읽어 줄 수 있습니다. 설정에서 켜고 끌 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip16",
+    "Text": "퀵세이브: 입력 매퍼에서 퀵세이브 키보드/조이스틱 버튼을 지정할 수 있습니다."
+  },
+  {
+    "Identifier": "LoadingScreen_Program",
+    "Text": "프로그램"
+  },
+  {
+    "Identifier": "LoadingScreen_LV",
+    "Text": "발사체"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto",
+    "Text": "로드 위치"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Orbit",
+    "Text": "궤도"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Pad",
+    "Text": "발사대"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures",
+    "Text": "무작위 고장"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures_No",
+    "Text": "아니요"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures_Yes",
+    "Text": "예, {0}%/주기"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Mercury",
+    "Text": "머큐리"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Gemini",
+    "Text": "제미니"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Apollo",
+    "Text": "아폴로"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_STS",
+    "Text": "스페이스 셔틀"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_GeminiLV",
+    "Text": "Gemini-Titan II"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_ApolloLV",
+    "Text": "Saturn V"
+  },
+  {
+    "Identifier": "LoadingScreen_STSLV",
+    "Text": "STS"
+  },
+  {
+    "Identifier": "LoadingScreen_RedstoneLV",
+    "Text": "Mercury-Redstone"
+  },
+  {
+    "Identifier": "LoadingScreen_AtlasLV",
+    "Text": "Mercury-Atlas"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_VRCursorPitchOffset",
+    "Text": "VR 마우스 커서 피치 오프셋"
+  },
+  {
+    "Identifier": "RealismSettings_DisableCameraShake",
+    "Text": "카메라 흔들림 비활성화"
+  },
+  {
+    "Identifier": "RealismSettings_DisableCameraShakeDesc",
+    "Text": "모든 조종실에서 카메라 흔들림을 비활성화합니다."
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedORDEAL",
+    "Text": "간소화된 ORDEAL 활성화"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedORDEALDesc",
+    "Text": "사령선과 달 착륙선의 ORDEAL에는 ORB RATE와 INERTIAL 두 가지 모드가 있습니다. INERTIAL은 현재 IMU/GDC 자세를 FDAI에 표시하고, ORB RATE는 지역 수직 지역 수평(LVLH)을 FDAI에 표시합니다.\n\n이 설정은 ORDEAL이 ORB RATE로 설정되었을 때 간소화된 ORDEAL 로직을 활성화합니다. IMU/GDC 관성 플랫폼을 일시적으로 조정하여 LVLH에 맞춥니다. ORDEAL을 INERTIAL 모드로 되돌리면 조정된 IMU/GDC 플랫폼이 원래 설정으로 복원됩니다.\n이를 통해 자동 기동과 자세가 선택한 ORDEAL 모드에 맞춰집니다.\n일부 아카데미 교육은 이 설정이 ON이라고 가정합니다.\n이 설정을 OFF로 하면 ORDEAL이 IMU/GDC의 방향에 영향을 주지 않고 FDAI 볼만 조정합니다. 즉, 모든 자세 정보, 자동 기동, 타기팅이 IMU를 기준으로 하며 ORB RATE 모드는 시각적 표시에 그칩니다. 이것이 가장 사실적인 옵션이며, IMU, REFSMMAT, P52, 자세 제어에 익숙한 분들은 자동 순행 리얼리즘 설정과 함께 이 설정을 OFF로 하는 것을 권장합니다."
+  },
+  {
+    "Identifier": "GameTips_Tip17",
+    "Text": "SHIFT+M을 눌러 비행 문서를 엽니다. 이를 통해 매뉴얼을 읽고 게임 내 브라우저로 PDF, 웹 사이트 등을 열 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip18",
+    "Text": "제미니 프로젝트를 시작하기 전에 머큐리를 완전히 익히는 것을 권장합니다. 그다음 제미니와 랑데부/도킹을 익힌 뒤 아폴로에 도전하세요. 이렇게 하면 실제 역사에서 기술이 발전한 순서대로 게임 메커니즘과 기술을 익힐 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip19",
+    "Text": "\"Apollo By The Numbers\" 책(아폴로 비행 문서 브라우저의 링크, SHIFT+M으로 토글)은 연소를 계획하거나 어떤 LOI 파라미터를 쓸지 파악할 때 훌륭한 참고 자료입니다."
+  },
+  {
+    "Identifier": "GameTips_Tip20",
+    "Text": "게임 AppData 폴더의 LoadingImages 디렉터리에 파일을 교체하거나 추가하여 로딩 화면 이미지를 변경/추가할 수 있습니다."
+  },
+  {
+    "Identifier": "GameTips_Tip21",
+    "Text": "조종실에 어두운 곳이 있거나 추가 조명이 필요한가요? 언제든 [F]로 손전등을 켜서 어두운 곳을 더 잘 볼 수 있습니다."
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9Full",
+    "Text": "교육 9B - 대기권 재진입 (전체)"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson18",
+    "Text": "교육 18 - 달 재진입 (전체)"
+  },
+  {
+    "Identifier": "RealismSettings_MissionCompleteAutoPopup",
+    "Text": "미션 완료 화면 자동 표시"
+  },
+  {
+    "Identifier": "RealismSettings_MissionCompleteAutoPopupDesc",
+    "Text": "이 토글을 켜면 미션 완료/착수 시 미션 완료 화면이 자동으로 나타납니다. 끄면 ESC -> 세션 종료를 눌러 불러올 수 있습니다."
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerTiltOffsetPitch",
+    "Text": "모션 컨트롤러/손 기울기 오프셋 피치"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset",
+    "Text": "모션 컨트롤러/손 위치 오프셋"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_X",
+    "Text": "X"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_Y",
+    "Text": "Y"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_Z",
+    "Text": "Z"
+  },
+  {
+    "Identifier": "MissionsMenu_FlightPlanMode",
+    "Text": "비행 계획 모드"
+  },
+  {
+    "Identifier": "Settings_UDPDataRate",
+    "Text": "UDP 패킷 전송률 (패킷/초)"
+  },
+  {
+    "Identifier": "Academy_Gemini_EntryVideo",
+    "Text": "영상: 궤도 이탈 및 재진입"
+  },
+  {
+    "Identifier": "RealismSettings_DisableLensFlare",
+    "Text": "렌즈 플레어 비활성화"
+  },
+  {
+    "Identifier": "RealismSettings_DisableLensFlareDesc",
+    "Text": "렌즈 플레어 효과를 비활성화하고 대신 태양을 밝은 덩어리로 렌더링합니다."
+  },
+  {
+    "Identifier": "MainMenuItem_DevMessage",
+    "Text": "개발자의 노트"
+  },
+  {
+    "Identifier": "RealismSettings_StopCockpitCamOnBorder",
+    "Text": "카메라 이동을 조종실 내부로 제한"
+  },
+  {
+    "Identifier": "RealismSettings_StopCockpitCamOnBorderDesc",
+    "Text": "카메라가 조종실 벽에 닿으면 정지시켜 내부 밖으로 이동하지 못하게 합니다."
+  },
+  {
+    "Identifier": "RealismSettings_StarIdentifyHelper",
+    "Text": "별 식별 도우미 활성화"
+  },
+  {
+    "Identifier": "RealismSettings_StarIdentifyHelperDesc",
+    "Text": "별을 식별하는 데 도움이 되는 시각적 표식을 표시합니다. AGC에 저장된 별은 파란색 후광으로 강조됩니다."
+  },
+  {
+    "Identifier": "Settings_CameraSettings",
+    "Text": "카메라 설정"
+  },
+  {
+    "Identifier": "Settings_CameraSettings_DefaultFoV",
+    "Text": "기본 시야각(FoV)"
+  },
+  {
+    "Identifier": "CameraSettings_InvertExternalViewXAxis",
+    "Text": "외부 시점: 마우스 룩 중 X축 반전"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloCustomColorTint",
+    "Text": "아폴로: 인테그럴 조명에 파란 색조"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloCustomColorTintDesc",
+    "Text": "아폴로 패널의 원래 인테그럴 조명 색은 흰색이었습니다. 이 설정은 이를 약간의 얼음빛 파란 색조로 덮어씁니다."
+  },
+  {
+    "Identifier": "Settings_TileSetStreamingPath",
+    "Text": "타일 세트가 들어 있는 폴더의 절대 경로:"
+  },
+  {
+    "Identifier": "Settings_SkipIntro",
+    "Text": "인트로 컷신 건너뛰기"
+  },
+  {
+    "Identifier": "Settings_GeneralHeader",
+    "Text": "일반"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson19",
+    "Text": "교육 19 - 정리 작업"
+  }
+]
