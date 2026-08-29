@@ -1,0 +1,230 @@
+[
+  {
+    "Identifier": "BurnPlanner_BurnData_TIG",
+    "Text": "TIG"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
+    "Text": "Tiempo hasta la ignición"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_EstBurnT",
+    "Text": "Duración estimada del encendido"
+  },
+  {
+    "Identifier": "BurnPlanner_EIFlightPath",
+    "Text": "Ángulo de trayectoria de vuelo en EI:\r\r\r\r\r\r\r\r\n{0}°"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeToEI",
+    "Text": "Tiempo hasta EI:\r\r\r\r\r\r\r\r\r\r\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_VelAtEI",
+    "Text": "Velocidad en EI:\r\r\r\r\r\r\r\r\n{0} fps"
+  },
+  {
+    "Identifier": "BurnPlanner_EI_MET",
+    "Text": "MET:\r\r\r\r\r\r\r\r\n{0}"
+  },
+  {
+    "Identifier": "BurnPlanner_DistToRunway",
+    "Text": "Distancia de EI a la pista:\r\r\r\r\r\r\r\r\n{0} nmi"
+  },
+  {
+    "Identifier": "RadioCommMenu_RadioCheck",
+    "Text": "COMPROBACIÓN DE RADIO"
+  },
+  {
+    "Identifier": "RadioCommMenu_BurnPlanner",
+    "Text": "PLANIFICADOR DE MANIOBRAS"
+  },
+  {
+    "Identifier": "RadioCommMenu_CrewOps",
+    "Text": "OPERACIONES DE TRIPULACIÓN"
+  },
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "ASIENTO DEL COMANDANTE"
+  },
+  {
+    "Identifier": "ViewSelector_MidConsole",
+    "Text": "CONSOLA CENTRAL"
+  },
+  {
+    "Identifier": "ViewSelector_PilotSeat",
+    "Text": "ASIENTO DEL PILOTO"
+  },
+  {
+    "Identifier": "ViewSelector_OverheadLeft",
+    "Text": "PANEL SUPERIOR IZQ."
+  },
+  {
+    "Identifier": "ViewSelector_OverheadRight",
+    "Text": "PANEL SUPERIOR DER."
+  },
+  {
+    "Identifier": "ViewSelector_CommanderWindow",
+    "Text": "VENTANA DEL COMANDANTE"
+  },
+  {
+    "Identifier": "ViewSelector_OrbitStation",
+    "Text": "ESTACIÓN EN ÓRBITA"
+  },
+  {
+    "Identifier": "ViewSelector_MissionStation",
+    "Text": "MÓDULO DE MISIÓN"
+  },
+  {
+    "Identifier": "MissionObjective_None",
+    "Text": "Nada."
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "Presiona DETENER CUENTA ATRÁS."
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "Presiona REANUDAR CUENTA ATRÁS."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceed",
+    "Text": "Presiona {0} cuando estés listo para proceder con la misión."
+  },
+  {
+    "Identifier": "MissionObjective_RogerToProceedDefault",
+    "Text": "Presiona ROGER cuando estés listo para proceder con la misión."
+  },
+  {
+    "Identifier": "MissionObjective_UmbilicalDisconnect",
+    "Text": "Esperando el despegue."
+  },
+  {
+    "Identifier": "MissionObjective_CompletePanelConfiguration",
+    "Text": "Completa la configuración de los paneles."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
+    "Text": "Completa la lista de verificación con ID {0}."
+  },
+  {
+    "Identifier": "MissionObjective_ExecuteChecklistComplete",
+    "Text": "Completa la lista de verificación."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeGreater_Value1",
+    "Text": "Alcanza una altura mayor a {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_AltitudeLess_Value1",
+    "Text": "Alcanza una altitud menor a {0} km."
+  },
+  {
+    "Identifier": "MissionObjective_IsAtRadioStation_String1",
+    "Text": "Entra en el alcance de la estación de radio {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
+    "Text": "Alcanza una longitud entre {0} y {1} grados."
+  },
+  {
+    "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
+    "Text": "Alcanza una latitud entre {0} y {1} grados."
+  },
+  {
+    "Identifier": "MissionObjective_State_Dot05GDetected",
+    "Text": "Esperando el arrastre atmosférico inicial (0.05G)."
+  },
+  {
+    "Identifier": "MissionObjective_State_InHiDragZone",
+    "Text": "Esperando el inicio de la entrada atmosférica."
+  },
+  {
+    "Identifier": "MissionObjective_State_OutsideHighDragZone",
+    "Text": "Atravieza la atmósfera."
+  },
+  {
+    "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
+    "Text": "Obtén una altitud menor a {0} pies."
+  },
+  {
+    "Identifier": "MissionObjective_ApAbove_Value1",
+    "Text": "Lleva el apogeo por encima de {0} nmi de altitud."
+  },
+  {
+    "Identifier": "MissionObjective_PeAbove_Value1",
+    "Text": "Lleva el perigeo por encima de {0} nmi de altitud."
+  },
+  {
+    "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
+    "Text": "Alcanza un plano orbital de {0} grados de inclinación con una tolerancia de +/- {1}\r grados."
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_GreaterThan_Value1",
+    "Text": "Alcanza una velocidad inercial mayor a {0}."
+  },
+  {
+    "Identifier": "MissionObjective_State_LandingAreaGuidance_Value1",
+    "Text": "Alcanza la fase de aterrizaje: {0}."
+  },
+  {
+    "Identifier": "MissionObjective_GForces_GreaterThan_Value1",
+    "Text": "Esperando a que las fuerzas G superen {0}."
+  },
+  {
+    "Identifier": "MissionObjective_InertialVelocity_LessThan_Value1",
+    "Text": "Alcanza una velocidad inercial menor a {0}."
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_GreaterThan_Value1",
+    "Text": "Alcanza una velocidad relativa mayor a {0}."
+  },
+  {
+    "Identifier": "MissionObjective_VRelVelocity_LessThan_Value1",
+    "Text": "Alcanza una velocidad relativa menor a {0}."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_SRBs",
+    "Text": "Esperando a la separación de los SRB."
+  },
+  {
+    "Identifier": "MissionObjective_Separation_ET",
+    "Text": "Esperando la separación del tanque externo."
+  },
+  {
+    "Identifier": "MissionObjective_CompleteMPSDump",
+    "Text": "Esperando la finalización del vaciado del MPS"
+  },
+  {
+    "Identifier": "MissionObjective_State_MECO",
+    "Text": "Esperando MECO"
+  },
+  {
+    "Identifier": "MissionObjective_State_Landing",
+    "Text": "Dirígete al área de aterrizaje."
+  },
+  {
+    "Identifier": "MissionObjective_State_OMS_Both_EnginesBurning_Equals_Bool1",
+    "Text": "Ambos motores OMS encendidos: {0}."
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsOpen",
+    "Text": "Abre las Puertas de la Bahía de Carga\r."
+  },
+  {
+    "Identifier": "MissionObjective_State_PayloadBayDoors_IsClosed",
+    "Text": "Cierra las Puertas de la Bahía de Carga."
+  },
+  {
+    "Identifier": "MissionObjective_IsGPCId_Value1_RunningOPS_Value2",
+    "Text": "Ejecutar OPS {1} en el GPC {0}."
+  },
+  {
+    "Identifier": "Payload_Title",
+    "Text": "MONITOR DE CARGA ÚTIL"
+  },
+  {
+    "Identifier": "CommTools_EndEffectorCapture",
+    "Text": "EE: CAPTURA"
+  }
+]
