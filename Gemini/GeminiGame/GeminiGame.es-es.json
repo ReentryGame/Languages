@@ -1,31 +1,31 @@
 [
   {
     "Identifier": "CommReq_ReadyToLaunch",
-    "Text": "Lista para lanzamiento"
+    "Text": "LISTO PARA LANZAMIENTO"
   },
   {
     "Identifier": "CommReq_RadioCheck",
-    "Text": "COMPROBACION DE RADIO"
+    "Text": "COMPROBACIÓN DE RADIO"
   },
   {
     "Identifier": "CommReq_AltitudeCheck",
-    "Text": "COMPROBACION DE ALTITUD"
+    "Text": "COMPROBACIÓN DE ALTITUD"
   },
   {
     "Identifier": "CommReq_RadiatorTemperature",
-    "Text": "TEMPERATURA RADIADOR"
+    "Text": "TEMPERATURA DEL RADIADOR"
   },
   {
     "Identifier": "CommReq_OrbitInfo",
-    "Text": "INFORMACION ORBITA"
+    "Text": "INFORMACIÓN DE ÓRBITA"
   },
   {
     "Identifier": "CommReq_FCTempCheck",
-    "Text": "TEMPERATURA CELULA DE COMBUSTIBLE"
+    "Text": "TEMPERATURA DE CÉLULA DE COMBUSTIBLE"
   },
   {
     "Identifier": "CommReq_RequestTargetManeuver",
-    "Text": "SOLICITAR\nOBJETIVO\nCOMBUSTION"
+    "Text": "SOLICITAR\r\nOBJETIVO\r\nCOMBUSTIÓN"
   },
   {
     "Identifier": "CommReq_RetroAtNextApogee",
@@ -41,27 +41,27 @@
   },
   {
     "Identifier": "CommReq_OpenHatchButtonCdr",
-    "Text": "PALANCA\nESCOTILLA"
+    "Text": "ABRIR/CERRAR\nESCOTILLA"
   },
   {
     "Identifier": "CommReq_OpenHatchButtonPilot",
-    "Text": "PALANCA\nESCOTILLA"
+    "Text": "ABRIR/CERRAR\r\nESCOTILLA"
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
-    "Text": "PALANCA MUSICA"
+    "Text": "ALTERNAR CASETERA"
   },
   {
     "Identifier": "CommReq_ManualAscentData",
-    "Text": "DATOS ASCENSO MANUAL"
+    "Text": "DATOS DE ASCENSO MANUAL"
   },
   {
     "Identifier": "CommReq_AttitudeData",
-    "Text": "DATOS ALTITUD"
+    "Text": "DATOS DE ALTITUD"
   },
   {
     "Identifier": "CommReq_ToggleDRing",
-    "Text": "PALANCA D-RING"
+    "Text": "ALTERNAR D-RING"
   },
   {
     "Identifier": "CommReq_SwitchToInternalPower",
@@ -69,7 +69,7 @@
   },
   {
     "Identifier": "CommReq_AbortCapabilityTest",
-    "Text": "ABORTAR\n& COMPROBACIÓN DE SQUIBS"
+    "Text": "ABORTAR\r\n& COMPROBACIÓN DE SQUIBS"
   },
   {
     "Identifier": "CommReq_RetroAtTargetCursor",
@@ -129,11 +129,11 @@
   },
   {
     "Identifier": "CommReq_AstroReadyToLaunch",
-    "Text": "{0} {1} Esta listo para lanzamiento!"
+    "Text": "!{0} {1} Está listo para lanzamiento!"
   },
   {
     "Identifier": "CommReq_RadioVoiceCheck",
-    "Text": "{0}, te hemos leido 5/5."
+    "Text": "{0}, te hemos leído 5/5."
   },
   {
     "Identifier": "CommReq_UpdatedRetroTime",
@@ -169,19 +169,19 @@
   },
   {
     "Identifier": "CommReq_FCStatus1",
-    "Text": "Celula de Combustible 1 Temperatura OK."
+    "Text": "Celula de Combustible 1, Temperatura OK."
   },
   {
     "Identifier": "CommReq_FCStatus2",
-    "Text": "Celula de Combustible Temperatura Baja, establecer en CALENTAMIENTO."
+    "Text": "Celula de Combustible, Temperatura Baja, establecer en CALENTAMIENTO."
   },
   {
     "Identifier": "CommReq_FCStatus3",
-    "Text": "Celula de Combustible Temperatura OK."
+    "Text": "Celula de Combustible, Temperatura OK."
   },
   {
     "Identifier": "CommReq_FCStatus4",
-    "Text": "Celula de Combustible Temperatura Baja, establecer en CALENTAMIENTO."
+    "Text": "Celula de Combustible, Temperatura Baja, establecer en CALENTAMIENTO."
   },
   {
     "Identifier": "CommReq_FCStatus5",
@@ -189,11 +189,11 @@
   },
   {
     "Identifier": "CommReq_AltStatus1",
-    "Text": "nivel del mar."
+    "Text": "Nivel del mar."
   },
   {
     "Identifier": "CommReq_AltStatus2",
-    "Text": "menos de 9 millas náuticas de altitud."
+    "Text": "Menos de 9 millas náuticas de altitud."
   },
   {
     "Identifier": "CommReq_AltStatus3",
@@ -205,7 +205,7 @@
   },
   {
     "Identifier": "CommReq_Acknowledged",
-    "Text": "Admitido!"
+    "Text": "¡Confirmado!"
   },
   {
     "Identifier": "CommReq_StageSep",
@@ -213,15 +213,15 @@
   },
   {
     "Identifier": "ReqBurn_Response",
-    "Text": "{0}, Combustion programada a las {1} con delta-V {2}"
+    "Text": "{0}, Combustión programada a las {1} con delta-V {2}"
   },
   {
     "Identifier": "ReqBurnResponse_NotCircular",
-    "Text": "{0}, incapaz de calcular la combustion. No estás en una órbita circular. Circularice la órbita antes de solicitar una combustion de encuentro."
+    "Text": "{0}, incapaz de calcular la combustión. No estás en una órbita circular. Circularice la órbita antes de solicitar una combustión de encuentro."
   },
   {
     "Identifier": "ReqBurnResponse_NotIncl",
-    "Text": "{0}, incapaz de calcular la quema. No está en el plano con el objetivo, debe alinearlo antes de solicitar una quemadura de encuentro."
+    "Text": "{0}, incapaz de calcular la combustión. No está en el plano con el objetivo, debe alinearlo antes de solicitar una combustión de encuentro."
   },
   {
     "Identifier": "Cockpit_AbortCapabilityTest",
@@ -241,7 +241,7 @@
   },
   {
     "Identifier": "Cockpit_AbortSquibTestFailed",
-    "Text": "{0}, La prueba de Cancelacion & Detonador se completó con éxito."
+    "Text": "{0}, La prueba de Cancelación & Detonación se completó con éxito."
   },
   {
     "Identifier": "Cockpit_AbortSquibTestComplete",
@@ -265,7 +265,7 @@
   },
   {
     "Identifier": "Cockpit_UnableToUpdateTTRetro",
-    "Text": "{0}, incapaz de establecer el tiempo en retro. Verifique que la computadora esté funcionando y que el DCS esté encendido."
+    "Text": "{0}, incapaz de establecer el tiempo hasta retro. Verifique que la computadora esté funcionando y que el DCS esté encendido."
   },
   {
     "Identifier": "MissionObjective_None",
@@ -289,11 +289,11 @@
   },
   {
     "Identifier": "MissionObjective_Separation_StageI",
-    "Text": "Esperar a la etapa I de separación."
+    "Text": "Esperando la separación de la Etapa I\r\r\r\r."
   },
   {
     "Identifier": "MissionObjective_Separation_StageII",
-    "Text": "Esperar a la etapa II de separación."
+    "Text": "Esperando la separación de la Etapa II\r\r\r."
   },
   {
     "Identifier": "MissionObjective_Separation_Adapter",
@@ -301,11 +301,11 @@
   },
   {
     "Identifier": "MissionObjective_Separation_Retro",
-    "Text": "Waiting for Retrograde section separation"
+    "Text": "Esperando a la separación de la sección Retrógrada"
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration",
-    "Text": "Configuración completa de paneles."
+    "Text": "Complete la configueración de paneles."
   },
   {
     "Identifier": "MissionObjective_Rendezvous_DistanceToTarget_LessThanValue1Feet",
@@ -313,7 +313,7 @@
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "Lista de verificación completa con identificación {0}."
+    "Text": "Completa la lista de verificación con identificación {0}."
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistComplete",
@@ -345,7 +345,7 @@
   },
   {
     "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
-    "Text": "Ajuste la órbita a {0} Ap x {1} Pe altitud (km) o mayor."
+    "Text": "Ajuste la órbita a {0} Ap x {1} Pe de altitud (km) o mayor."
   },
   {
     "Identifier": "MissionObjective_IsAtRadioStation_String1",
@@ -353,7 +353,7 @@
   },
   {
     "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
-    "Text": "Entrar en el rango longitudinal de la estación de radio {0}."
+    "Text": "Entra en el rango longitudinal de la estación de radio {0}."
   },
   {
     "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
@@ -373,31 +373,31 @@
   },
   {
     "Identifier": "MissionObjective_Separation_Booster",
-    "Text": "Esperando separación Cohetes."
+    "Text": "Esperando separación Propulsores."
   },
   {
     "Identifier": "MissionObjective_Separation_Retro",
-    "Text": "Esperando la separación de la sección retrógrada."
+    "Text": "Esperando a la separación de la sección Retrógrada"
   },
   {
     "Identifier": "MissionObjective_State_Dot05GDetected",
-    "Text": "En espera de arrastre atmosférico inicial (0.05G)."
+    "Text": "En espera del arrastre atmosférico inicial (0.05G)."
   },
   {
     "Identifier": "MissionObjective_State_DrogueDeploy",
-    "Text": "En espera de despliegue de el drogue."
+    "Text": "En espera del despliegue del paracaídas piloto."
   },
   {
     "Identifier": "MissionObjective_State_MainDeploy",
-    "Text": "En espera de despliegue principal."
+    "Text": "En espera del despliegue del paracaídas principal."
   },
   {
     "Identifier": "MissionObjective_State_InHiDragZone",
-    "Text": "Esperando a que comience la entrada atmosférica."
+    "Text": "En espera de que comience la entrada atmosférica."
   },
   {
     "Identifier": "MissionObjective_State_InHiDragZone",
-    "Text": "Esperando a que comience la entrada atmosférica."
+    "Text": "En espera de que comience la entrada atmosférica."
   },
   {
     "Identifier": "MissionObjective_State_OutsideHighDragZone",
@@ -425,11 +425,11 @@
   },
   {
     "Identifier": "MissionObjective_State_RetroBurning",
-    "Text": "En espera de encendido de los motores retrógrados."
+    "Text": "En espera del encendido de los motores retrógrados."
   },
   {
     "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
-    "Text": "Llegar a una altitud inferior a {0} pies."
+    "Text": "Llega a una altitud inferior a {0} pies."
   },
   {
     "Identifier": "MissionObjective_State_Splashdown",
@@ -445,7 +445,7 @@
   },
   {
     "Identifier": "MissionObjective_Orbit_TimeToTargetBurn_Value1Seconds",
-    "Text": "Esperando a llegar a T - {0} segundos para combustion de encuentro. Tiempo restante: {1}"
+    "Text": "Esperando a llegar a T - {0} segundos para combustión de encuentro. Tiempo restante: {1}"
   },
   {
     "Identifier": "MissionObjective_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
@@ -461,46 +461,318 @@
   },
   {
     "Identifier": "MissionObjective_Radio_SuccessRequestTargetBurn",
-    "Text": "Solicitar con éxito una combustion de encuentro."
+    "Text": "Se solicitó con éxito una combustión de encuentro."
   },
   {
     "Identifier": "MissionObjective_Radio_TimeToTargetBurn_Value1",
-    "Text": "Esperando a llegar a T - {0} segundos para quemar el encuentro. Tiempo restante: {1}"
+    "Text": "Esperando a llegar a T - {0} segundos para combustión de encuentro. Tiempo restante: {1}"
   },
   {
     "Identifier": "MissionObjective_State_Docked",
-    "Text": "Acoplar a Objetivo."
+    "Text": "Acoplar al Objetivo."
   },
   {
     "Identifier": "MissionObjective_State_Undocked",
-    "Text": "Desacoplar de Objetivo."
+    "Text": "Desacoplar del Objetivo."
   },
   {
     "Identifier": "MissionObjective_Orbit_TimeToRetro_Value1Seconds",
-    "Text": "Alcance T - {0} segundos para quemar retrógrado. Tiempo restante: {1}"
+    "Text": "Alcance T - {0} segundos para combustión retrógrada. Tiempo restante: {1}"
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown",
-    "Text": "MCC, solicitando retención de cuenta atras."
+    "Text": "MCC, solicitando retención de cuenta atrás."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown",
-    "Text": "MCC, por favor reanude la cuenta atras."
+    "Text": "MCC, por favor reanude la cuenta atrás."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown2",
-    "Text": "{0}, parando cuenta atras."
+    "Text": "{0}, parando cuenta atrás."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown2",
-    "Text": "{0}, cuenta atras continudada."
+    "Text": "{0}, cuenta atrás reanudada."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
-    "Text": "CONTINUAR CUENTA ATRAS"
+    "Text": "REANUDAR CUENTA ATRÁS"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
-    "Text": "PARAR CUENTA ATRAS"
+    "Text": "PARAR CUENTA ATRÁS"
+  },
+  {
+    "Identifier": "CommReq_RequestCircPe",
+    "Text": "CIRC\r\r\nPe"
+  },
+  {
+    "Identifier": "CommReq_RequestCircAp",
+    "Text": "CIRC\r\r\nAp"
+  },
+  {
+    "Identifier": "CommReq_RequestRndz",
+    "Text": "RNDZ"
+  },
+  {
+    "Identifier": "CommReq_ToggleTHC",
+    "Text": "ALTERNAR\nTHC"
+  },
+  {
+    "Identifier": "CommReq_RequestBurnAndMissionTools",
+    "Text": "HERRAMIENTAS DE MISIÓN"
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "¿Cómo te puedo ayudar?"
+  },
+  {
+    "Identifier": "MissionTools_Ground",
+    "Text": "TIERRA"
+  },
+  {
+    "Identifier": "MissionTools_RequestBurns",
+    "Text": "SOLICITAR MANIOBRAS"
+  },
+  {
+    "Identifier": "MissionTools_Forms",
+    "Text": "FORMULARIOS/HOJAS"
+  },
+  {
+    "Identifier": "MissionTools_DataForms",
+    "Text": "FORMULARIOS Y GRÁFICOS"
+  },
+  {
+    "Identifier": "MissionTools_Cockpit",
+    "Text": "CABINA"
+  },
+  {
+    "Identifier": "MissionTools_CockpitFunctions",
+    "Text": "FUNCIONES DE LA CABINA"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_Charts",
+    "Text": "GRÁFICOS"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_RndzPlot",
+    "Text": "GRÁFICO DE ENCUENTRO: GEMINI/AGENA"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataForms",
+    "Text": "Hojas de datos"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataFormsDesc",
+    "Text": "FORMULARIOS\nEstas opciones abrirán una interfaz con el formulario seleccionado. Una herramienta de lápiz te permitirá completarlo para registrar los datos."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenCatchUpPadForm",
+    "Text": "PANEL DE MANIOBRA CATCH UP"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_TextSheets",
+    "Text": "HOJAS\nVarias hojas pueden ser usadas para tomar notas, dibujar y recolectar datos."
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenBlankPaper",
+    "Text": "HOJA EN BLANCO"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Title",
+    "Text": "Datos de Asesoramiento Preliminar (PADs)"
+  },
+  {
+    "Identifier": "MissionTools_PADs_CircBurns",
+    "Text": "COMBUSTIONES DE CIRCULARIZACIÓN\nEstos PADs están diseñados para planear una combustión de circularización en el Ap o Pe."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircPeBurn",
+    "Text": "SOLICITAR COMBUSTIÓN DE CIRCULARIZACIÓN EN PE"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircApBurn",
+    "Text": "SOLICITAR COMBUSTIÓN DE CIRCULARIZACIÓN EN AP"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Rendezvous",
+    "Text": "COMBUSTIÓN DE ENCUENTRO ORBITAL (RENDEZVOUS)\r\nUn encendido de encuentro orbital requiere estar en una órbita circular. Cuando te encuentres en órbita circular, al solicitar un encendido de encuentro orbital se planificará una maniobra para encontrarte con el vehículo objetivo. Tras completar el encendido inicial de encuentro orbital, solicita el encendido de circularización adecuado para finalizar el encuentro."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestRendezvous",
+    "Text": "SOLICITAR COMBUSTIÓN DE ENCUENTRO ORBITAL (RENDEZVOUS)"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChange",
+    "Text": "COMBUSTIÓN DE CAMBIO DE PLANO\nLos encendidos de cambio de plano ocurren en el nodo ascendente o descendente (cuando cruzas el ecuador, de sur a norte o de norte a sur). Se utiliza el nodo con menor velocidad para planificar el ΔV necesario para alcanzar la inclinación objetivo indicada a continuación.\n\n1) Introduce la inclinación que deseas alcanzar\n2) Solicita la maniobra de CAMBIO DE PLANO"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChangeInc",
+    "Text": "Inclinación objetivo"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestPlaneChange",
+    "Text": "SOLICITAR LA COMBUSTIÓN DE CAMBIO DE PLANO"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "Equipo de cabina"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleOptics",
+    "Text": "ALTERNAR VISOR ÓPTICO"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleGT3FlightPlan",
+    "Text": "ALTERNAR GT-3: PLAN DE VUELO"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleSandwitch",
+    "Text": "ALTERNAR GT-3: SÁNDWITCH DE CORNER BEEF"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_DET",
+    "Text": "DIGITAL EVENT TIMER (DET)"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ResetDET",
+    "Text": "REINICIAR EVENT TIMER"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2",
+    "Text": "CRYO O2"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2",
+    "Text": "CRYO H2"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT1",
+    "Text": "O2: SEC T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT2",
+    "Text": "O2: SEC T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropOAMS",
+    "Text": "PROP: OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSA",
+    "Text": "PROP: RCS A"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSB",
+    "Text": "PROP: RCS B"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_OAMS",
+    "Text": "OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_RCS",
+    "Text": "RCS"
+  },
+  {
+    "Identifier": "Debrief_KPI_Descent",
+    "Text": "Descenso"
+  },
+  {
+    "Identifier": "Debrief_KPI_GLoad",
+    "Text": "Cargas-G"
+  },
+  {
+    "Identifier": "Debrief_KPI_Altitude",
+    "Text": "Altitud"
+  },
+  {
+    "Identifier": "Debrief_KPI_Orbit",
+    "Text": "Órbit\ra"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitAp",
+    "Text": "Ap"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitPe",
+    "Text": "Pe"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ejected",
+    "Text": "Ejectado"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EI",
+    "Text": "Interfaz de Entrada (400k ft. alt.)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockAgena",
+    "Text": "Acoplado con Agena"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockAgena",
+    "Text": "Desacoplado de Agena"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_AgenaPPA",
+    "Text": "Agena PPA: Encendido"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "Paracaídas principal desplegado"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "Paracaídas piloto desplegado"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAStart",
+    "Text": "EVA\r iniciada"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAEnd",
+    "Text": "EVA\r finalizada"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "Retro No. 1"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "Retro No. 2"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "Retro No. 3"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo4",
+    "Text": "Retro No. 4"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanI",
+    "Text": "Separación de etapa: Titan Etapa I"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanII",
+    "Text": "Separación de etapa: Titan Etapa II"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingAdapter",
+    "Text": "Separación de etapa: Adaptador"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingRetro",
+    "Text": "Separación de etapa: Retro"
+  },
+  {
+    "Identifier": "BurnUplinkBrief",
+    "Text": "DCS Uplink brief: La hora del encendido es {0}, con un ΔV de {1} ft/s."
+  },
+  {
+    "Identifier": "RetroburnPlanner_GeminiTimeSet",
+    "Text": "Tiempo de secuencia retro ajustado a {0}."
   }
 ]
