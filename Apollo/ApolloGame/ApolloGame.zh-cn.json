@@ -1,19 +1,19 @@
 [
   {
     "Identifier": "CrewMember_CurrentOrbit",
-    "Text": "当前轨道: {0} nmi x {1} nmi"
+    "Text": "当前轨道：{0} 海里 × {1} 海里"
   },
   {
     "Identifier": "CrewMember_CircularizationBurnRequested",
-    "Text": "收到, {0}. 在 {1} nmi 建立轨道圆化燃烧."
+    "Text": "收到，{0}。正在准备在 {1} 海里处进行圆化点火。"
   },
   {
     "Identifier": "CrewMember_CircularizationBurnCancelled",
-    "Text": "收到, {0}. 圆化燃烧取消."
+    "Text": "收到，{0}。圆化点火已取消。"
   },
   {
     "Identifier": "CrewMember_CircularizationBurnCompleted",
-    "Text": "收到, {0}. 圆化燃烧完成."
+    "Text": "收到，{0}。圆化点火已完成。"
   },
   {
     "Identifier": "ViewSelector_SwitchSpacecraftCSM",
@@ -25,43 +25,43 @@
   },
   {
     "Identifier": "ViewSelector_CM_LeftSeat",
-    "Text": "左侧座位"
+    "Text": "左座椅"
   },
   {
     "Identifier": "ViewSelector_CM_CenterSeat",
-    "Text": "中央座位"
+    "Text": "中座椅"
   },
   {
     "Identifier": "ViewSelector_CM_RightSeat",
-    "Text": "右侧座位"
+    "Text": "右座椅"
   },
   {
     "Identifier": "ViewSelector_CM_LeftWindow",
-    "Text": "左侧舷窗"
+    "Text": "左舷窗"
   },
   {
     "Identifier": "ViewSelector_CM_RightWindow",
-    "Text": "右侧舷窗"
+    "Text": "右舷窗"
   },
   {
     "Identifier": "ViewSelector_CM_Computer",
-    "Text": "AGC/数字键盘"
+    "Text": "AGC/DSKY"
   },
   {
     "Identifier": "ViewSelector_CM_LEB",
-    "Text": "左侧板"
+    "Text": "下部设备舱"
   },
   {
     "Identifier": "ViewSelector_LM_LeftStation",
-    "Text": "左面板"
+    "Text": "左工作站"
   },
   {
     "Identifier": "ViewSelector_LM_CenterPanel",
-    "Text": "中央面板"
+    "Text": "中控制面板"
   },
   {
     "Identifier": "ViewSelector_LM_RightStation",
-    "Text": "右面板"
+    "Text": "右工作站"
   },
   {
     "Identifier": "ViewSelector_LM_LeftWindow",
@@ -73,27 +73,27 @@
   },
   {
     "Identifier": "ViewSelector_LM_Computer",
-    "Text": "LGC/数字键盘"
+    "Text": "LGC/DSKY"
   },
   {
     "Identifier": "ViewSelector_LM_ECS",
-    "Text": "退出"
+    "Text": "环境控制系统"
   },
   {
     "Identifier": "ViewSelector_LM_OVHD",
-    "Text": "天窗"
+    "Text": "顶部舷窗"
   },
   {
     "Identifier": "CommTools_ToggleCOAS",
-    "Text": "开关\nCOAS"
+    "Text": "切换\n瞄准镜"
   },
   {
     "Identifier": "CommTools_ToggleHatch",
-    "Text": "开关 舱门"
+    "Text": "开关舱门"
   },
   {
     "Identifier": "CommTools_ToggleDockingTarget",
-    "Text": "开关 对接目标"
+    "Text": "开关对接靶标"
   },
   {
     "Identifier": "CommTools_ReqWeightData",
@@ -101,11 +101,11 @@
   },
   {
     "Identifier": "CommTools_ToggleJukebox",
-    "Text": "开关唱片机"
+    "Text": "开关点唱机"
   },
   {
     "Identifier": "CommTools_ReqSwitchInternalPwr",
-    "Text": "切换至内部供能"
+    "Text": "切换至内部电源"
   },
   {
     "Identifier": "CommTools_ToggleCountdown",
@@ -113,7 +113,7 @@
   },
   {
     "Identifier": "CommTools_ToggleSeats",
-    "Text": "开关座位"
+    "Text": "切换座椅"
   },
   {
     "Identifier": "CommTools_ReqCloseHatchPad",
@@ -121,11 +121,11 @@
   },
   {
     "Identifier": "CommTools_ReplaceCanisterA",
-    "Text": "重置气罐"
+    "Text": "更换滤罐"
   },
   {
     "Identifier": "CommTools_ReplaceCanisterB",
-    "Text": "重置气罐"
+    "Text": "更换滤罐"
   },
   {
     "Identifier": "CommTools_LM_Exit",
@@ -133,11 +133,11 @@
   },
   {
     "Identifier": "CommTools_LM_ReplaceCanister",
-    "Text": "替换"
+    "Text": "更换"
   },
   {
     "Identifier": "PhysViewUITitle",
-    "Text": "轨道视角"
+    "Text": "轨道视图"
   },
   {
     "Identifier": "PhysViewUIMoon",
@@ -157,23 +157,23 @@
   },
   {
     "Identifier": "ViewOutOfBounds",
-    "Text": "\n\n\n\n\n\n\n超出边界，请返回座舱.\n(重置视角)"
+    "Text": "\n\n\n\n\n\n\n超出范围，返回驾驶舱。\n（切换视角以重置）"
   },
   {
     "Identifier": "BurnPlanner_Title",
-    "Text": "机动计划器"
+    "Text": "机动规划器"
   },
   {
     "Identifier": "BurnPlanner_Params_Title",
-    "Text": "燃烧参数"
+    "Text": "点火参数"
   },
   {
     "Identifier": "BurnPlanner_Params_IgnitionPoint_Title",
-    "Text": "点火时机"
+    "Text": "点火点"
   },
   {
     "Identifier": "BurnPlanner_Params_IgnitionPoint_Desc",
-    "Text": "设置燃烧启动为变轨阶段, 试用轨道参数. 计算燃烧时间."
+    "Text": "使用轨道参数设定点火开始的轨道相位。点火时间将被计算得出。"
   },
   {
     "Identifier": "BurnPlanner_Params_dV_Title",
@@ -181,39 +181,35 @@
   },
   {
     "Identifier": "BurnPlanner_Params_dV_Desc",
-    "Text": "设定速度增量为 英尺/秒. 将会显示新轨道的轨迹."
-  },
-  {
-    "Identifier": "BurnPlanner_Params_dV_Desc",
-    "Text": "设定速度增量为 英尺/秒. 将会显示新轨道的轨迹."
+    "Text": "以英尺/秒为单位设定点火速度增量。弹道将显示新轨道的估算值。"
   },
   {
     "Identifier": "BurnPlanner_Params_Direction_Title",
-    "Text": "燃烧方向"
+    "Text": "点火方向"
   },
   {
     "Identifier": "BurnPlanner_Params_Direction_Desc",
-    "Text": "使用下拉设置燃烧方向."
+    "Text": "使用下拉菜单设定点火方向。"
   },
   {
     "Identifier": "BurnPlanner_Engine_Title",
-    "Text": "引擎选择"
+    "Text": "发动机选择"
   },
   {
     "Identifier": "BurnPlanner_Engine_Set",
-    "Text": "设置引擎"
+    "Text": "设定发动机"
   },
   {
     "Identifier": "BurnPlanner_Engine_Desc",
-    "Text": "使用下拉选择使用的引擎. "
+    "Text": "使用下拉菜单选择点火所需的发动机。"
   },
   {
     "Identifier": "BurnPlanner_BurnData_Title",
-    "Text": "燃烧数据"
+    "Text": "点火数据"
   },
   {
     "Identifier": "BurnPlanner_EI_Title",
-    "Text": "进入大气层"
+    "Text": "大气层再入"
   },
   {
     "Identifier": "BurnPlanner_Exec",
@@ -221,23 +217,19 @@
   },
   {
     "Identifier": "BurnPlanner_AdditionalData_Title",
-    "Text": "其他数据"
+    "Text": "附加数据"
   },
   {
     "Identifier": "BurnPlanner_ToggleLines",
-    "Text": "开关 轨道预测."
+    "Text": "开关预测弹道"
   },
   {
     "Identifier": "BurnPlanner_Reset",
-    "Text": "重置 计划器"
+    "Text": "重置规划器"
   },
   {
     "Identifier": "TLIPlanner_Title",
-    "Text": "TLI 轨道转移燃烧计划"
-  },
-  {
-    "Identifier": "TLIPlanner_Title",
-    "Text": "TLI 轨道转移燃烧计划"
+    "Text": "地月转移入射规划器"
   },
   {
     "Identifier": "TLIPlanner_Exec",
@@ -245,7 +237,7 @@
   },
   {
     "Identifier": "TLIPlanner_ViewFocus_Title",
-    "Text": "视角聚焦"
+    "Text": "视图焦点"
   },
   {
     "Identifier": "TLIPlanner_ViewFocus_Earth",
@@ -253,7 +245,7 @@
   },
   {
     "Identifier": "TLIPlanner_ViewFocus_BurnPoint",
-    "Text": "燃烧时机"
+    "Text": "点火点"
   },
   {
     "Identifier": "TLIPlanner_ViewFocus_Moon",
@@ -265,47 +257,43 @@
   },
   {
     "Identifier": "TLIPlanner_Params_Title",
-    "Text": "燃烧参数"
+    "Text": "点火参数"
   },
   {
     "Identifier": "TLIPlanner_Params_Time_Title",
-    "Text": "飞行时间因子"
+    "Text": "飞行时间系数"
   },
   {
     "Identifier": "TLIPlanner_Params_Time_Desc",
-    "Text": "转移时间用分数表示， 霍曼转移时间.\n距离 0.1 至 1.5"
+    "Text": "转移时间，以霍曼转移时间的比值表示。\n范围 0.1 至 1.5"
   },
   {
     "Identifier": "TLIPlanner_Params_SOI_Title",
-    "Text": "SOI 焦点角度"
+    "Text": "影响球角度"
   },
   {
     "Identifier": "TLIPlanner_Params_SOI_Desc",
-    "Text": "当飞船进入月球重力影响范围时设定接近角度."
-  },
-  {
-    "Identifier": "TLIPlanner_Params_SOI_Desc",
-    "Text": "当飞船进入月球重力影响范围时设定接近角度."
+    "Text": "该值设定航天器进入月球引力影响时的到达角度。"
   },
   {
     "Identifier": "TLIPlanner_Params_TLIDept_Title",
-    "Text": "TLI分离角度"
+    "Text": "地月转移入射出发角"
   },
   {
     "Identifier": "TLIPlanner_Params_TLIDept_Desc",
-    "Text": "设置TLI燃烧分离角度."
+    "Text": "设定地月转移入射点火的出发角度。"
   },
   {
     "Identifier": "TLIPlanner_Data_Title",
-    "Text": "燃烧数据"
+    "Text": "点火数据"
   },
   {
     "Identifier": "TLIPlanner_Data_Countdown",
-    "Text": "距离燃烧时间:"
+    "Text": "点火倒计时："
   },
   {
     "Identifier": "TLIPlanner_Data_TIG",
-    "Text": "距离点火时间"
+    "Text": "点火时间"
   },
   {
     "Identifier": "TLIPlanner_Data_dV",
@@ -313,11 +301,11 @@
   },
   {
     "Identifier": "TLIPlanner_Traj_Data",
-    "Text": "轨迹"
+    "Text": "弹道"
   },
   {
     "Identifier": "TEIPlanner_Title",
-    "Text": "地球转移轨道"
+    "Text": "返回地球入射"
   },
   {
     "Identifier": "TEIPlanner_Exec",
@@ -325,103 +313,99 @@
   },
   {
     "Identifier": "TEIPlanner_BurnParams_Title",
-    "Text": "燃烧参数"
+    "Text": "点火参数"
   },
   {
     "Identifier": "TEIPlanner_BurnParams_Ve_Title",
-    "Text": "逃逸速度分数"
+    "Text": "逃逸速度比"
   },
   {
     "Identifier": "TEIPlanner_BurnParams_Ve_Desc",
-    "Text": "设定目标 TEI 速度作为逃逸速度分数."
+    "Text": "将目标返回地球入射速度设定为逃逸速度的比值。"
   },
   {
     "Identifier": "TEIPlanner_BurnData_Title",
-    "Text": "燃烧数据"
+    "Text": "点火数据"
   },
   {
     "Identifier": "AdvancedCamera_Title",
-    "Text": "镜头设置"
+    "Text": "摄像机选项"
   },
   {
     "Identifier": "AdvancedCamera_Free_On",
-    "Text": "自由模式"
+    "Text": "自由视角"
   },
   {
     "Identifier": "AdvancedCamera_Free_Off",
-    "Text": "切换至自由模式"
+    "Text": "切换至自由视角"
   },
   {
     "Identifier": "AdvancedCamera_Orbit_On",
-    "Text": "轨道模式"
+    "Text": "轨道视角"
   },
   {
     "Identifier": "AdvancedCamera_Orbit_Off",
-    "Text": "切换至轨道模式"
+    "Text": "切换至轨道视角"
   },
   {
     "Identifier": "LRV_Handbrake",
-    "Text": "[手刹开启 - 按空格键释放]"
-  },
-  {
-    "Identifier": "LRV_Handbrake",
-    "Text": "[手刹开启 - 按空格键释放]"
+    "Text": "[手刹已拉紧 - 按空格键释放]"
   },
   {
     "Identifier": "LRV_EnterLRV",
-    "Text": "进入 月球车"
+    "Text": "进入月球车"
   },
   {
     "Identifier": "LM_ReturnInside",
-    "Text": "返回登月舱"
+    "Text": "返回舱内"
   },
   {
     "Identifier": "LM_DeployLRV",
-    "Text": "安装月球车"
+    "Text": "组装月球车"
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown",
-    "Text": "指令中心, 请求暂停倒计时."
+    "Text": "任务控制中心，请求暂停倒计时。"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown",
-    "Text": "指令中心, 请继续倒计时."
+    "Text": "任务控制中心，请继续倒计时。"
   },
   {
     "Identifier": "RadioCommReq_LM_WeightData1",
-    "Text": "收到, {0}. 登月舱重量为 +{1} 磅 ，指令服务舱重量为 +{2} 磅."
+    "Text": "收到，{0}。登月舱重量为 +{1} 磅，指令服务舱重量为 +{2} 磅。"
   },
   {
     "Identifier": "RadioCommReq_LM_WeightData2",
-    "Text": "收到, {0}. 登月舱重量为 +{1} 磅."
+    "Text": "收到，{0}。登月舱重量为 +{1} 磅。"
   },
   {
     "Identifier": "RadioCommReq_CM_WeightData1",
-    "Text": "收到, {0}. 指令舱重量为 +{1} 磅， 登月舱重量为 +{2} 磅."
+    "Text": "收到，{0}。指令舱重量为 +{1} 磅，登月舱重量为 +{2} 磅。"
   },
   {
     "Identifier": "RadioCommReq_CM_WeightData2",
-    "Text": "收到, {0}. 指令舱重量为 +{1} 磅."
+    "Text": "收到，{0}。指令舱重量为 +{1} 磅。"
   },
   {
     "Identifier": "RadioCommReq_Mark",
-    "Text": "标记."
+    "Text": "标记。"
   },
   {
     "Identifier": "RadioCommReq_RadioCheck",
-    "Text": "{0}, 通讯信号收到 {1}/5."
+    "Text": "{0}，我们听到你的信号，强度 {1}（满格5）。"
   },
   {
     "Identifier": "RadioCommReq_InternalPower",
-    "Text": "{0}, 切换至内部电源."
+    "Text": "{0}，正在切换至内部电源。"
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown2",
-    "Text": "{0}, 暂停倒计时."
+    "Text": "{0}，倒计时已暂停。"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown2",
-    "Text": "{0}, 继续倒计时."
+    "Text": "{0}，倒计时已恢复。"
   },
   {
     "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
@@ -433,47 +417,55 @@
   },
   {
     "Identifier": "RadioCommReq_CO2CanisterReplaced",
-    "Text": "二氧化碳气罐 {0} 重置."
+    "Text": "二氧化碳滤罐 {0} 已更换。"
   },
   {
     "Identifier": "LunarAscent_BurnCalcData",
-    "Text": "TPI 霍曼燃烧预定于 {0} MET ，速度增量 {1} 英尺每秒. LGC 已经更新. 运行 P30 设置并运行 P41执行."
+    "Text": "最终阶段点火霍曼点火已安排在任务时间 {0}，速度增量 {1} 英尺/秒。登月制导计算机已更新。运行 P30 进行设置，P41 执行。"
   },
   {
     "Identifier": "LunarAscent_CSIError",
-    "Text": "{0}, 还在进行上升. 请等待直到进入停泊轨道."
+    "Text": "{0}，你仍在上升中。请等待进入初始停泊轨道。"
   },
   {
     "Identifier": "LunarAscent_CSIBurnCalc",
-    "Text": "CSI 燃烧预定于 {0} MET ，速度增量 {1} 英尺每秒.LGC 已经更新. 运行 P30 设置并运行 P41执行."
+    "Text": "共椭圆序列启动点火已安排在任务时间 {0}，速度增量 {1} 英尺/秒。登月制导计算机已更新。运行 P30 进行设置，P41 执行。"
   },
   {
     "Identifier": "LunarAscent_AscentCalc1",
-    "Text": "{0},  月球上升引擎设置为 {1}"
+    "Text": "{0}，登月上升发动机点火时间设定为 {1}。"
   },
   {
     "Identifier": "LunarAscent_AscentCalc2",
-    "Text": "点火之间更新至LGC. 变更为 V06N33E."
+    "Text": "点火时间值已上传至登月制导计算机。通过 V06N33E 进行验证。"
   },
   {
     "Identifier": "BurnPlanner_SPSDeorbitBurn",
-    "Text": "{0}, 脱离轨道助推器点火设置为 {1}小时 {2}分 {3}秒, 速度增量 {4}英尺每秒 {5}"
+    "Text": "{0}，离轨点火的服务推进系统点火时间为 {1} 时 {2} 分 {3} 秒，速度增量 {4} 英尺/秒 {5}。当前参考稳定成员矩阵下的点火姿态为 {6}。"
   },
   {
     "Identifier": "BurnPlanner_SPSBurn",
-    "Text": "{0}, 助推器点火设置为 {1}小时 {2}分 {3}秒, 速度增量 {4}英尺每秒 {5}."
+    "Text": "{0}，服务推进系统点火时间为 {1} 时 {2} 分 {3} 秒，速度增量 {4} 英尺/秒 {5}。当前参考稳定成员矩阵下的点火姿态为 {6}。使用 P30，然后 V49E 机动至此姿态，或使用 P52 选项1将惯性测量单元对准新上传的优选参考稳定成员矩阵，姿态为 0,0,0。"
   },
   {
     "Identifier": "BurnPlanner_DPSBurn",
-    "Text": "{0}, DPS点火设置为 {1}小时 {2}分 {3}秒, 速度增量 {4}英尺每秒 {5}."
+    "Text": "{0}，下降推进系统点火时间为 {1} 时 {2} 分 {3} 秒，速度增量 {4} 英尺/秒 {5}。"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttCurr",
+    "Text": "点火姿态（当前）："
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttPref",
+    "Text": "点火姿态（优选）："
   },
   {
     "Identifier": "BurnPlanner_BurnDirRetrograde",
-    "Text": "轨道逆向"
+    "Text": "逆向"
   },
   {
     "Identifier": "BurnPlanner_BurnDirPrograde",
-    "Text": "轨道顺向"
+    "Text": "正向"
   },
   {
     "Identifier": "BurnPlanner_BurnDirRadialIn",
@@ -484,88 +476,96 @@
     "Text": "径向向外"
   },
   {
+    "Identifier": "PDI_Requested",
+    "Text": "动力下降启动请求已收到。我们正在计算弹道，数据完成后将通知你。[这可能需要最多一分钟]"
+  },
+  {
     "Identifier": "PDI_Fail",
-    "Text": "月球轨道数据不可用."
+    "Text": "月球轨道数据不可用。"
   },
   {
     "Identifier": "PDI_Fail2",
-    "Text": "当前轨道无法进行动力下降登月. 请降低近地点高度至 50.000英尺 [8 nmi 高度, 946 nmi 半径]."
+    "Text": "你的轨道不符合动力月球下降的要求。请将近心点降至约 50,000 英尺 [8 海里高度，946 海里半径]。"
   },
   {
     "Identifier": "PDI_Info1",
-    "Text": "{0}, PDI设置为{1}, 高度 0, 110, 0."
+    "Text": "{0}，动力下降启动设定为 {1}，姿态 0°、110°、0°。"
   },
   {
     "Identifier": "PDI_Info2",
-    "Text": "点火时间更新至 LGC. 变更为 V06N33E. "
+    "Text": "点火时间值已上传至登月制导计算机。通过 V06N33E 进行验证。"
   },
   {
     "Identifier": "PDI_Info3",
-    "Text": "请输入着陆地点."
+    "Text": "请注意你的着陆点位置。"
+  },
+  {
+    "Identifier": "PDI_SiteUpdate",
+    "Text": "优选标志已设为着陆点参考稳定成员矩阵。你可以使用 P52 选项1与其对准。"
   },
   {
     "Identifier": "TEI_BurnCalc",
-    "Text": "{0}, 点火时间为 {1}小时 {2}分 {3}秒, 速度增量 {4} 英尺每秒"
+    "Text": "{0}，点火时间为 {1} 时 {2} 分 {3} 秒，速度增量 {4} 英尺/秒"
   },
   {
     "Identifier": "LM_ContactLight",
-    "Text": "着陆灯!"
+    "Text": "接触灯亮！"
   },
   {
     "Identifier": "LM_Docking",
-    "Text": "对接, 开始闭锁."
+    "Text": "接触，正在锁紧。"
   },
   {
     "Identifier": "Stage_Staging",
-    "Text": "出现."
+    "Text": "级间分离。"
   },
   {
     "Identifier": "TLIPlanner_LunarPe",
-    "Text": "近月点 = {0:0.0} nmi 高度."
+    "Text": "近月点 = {0:0.0} 海里高度"
   },
   {
     "Identifier": "TLIPlanner_FreeReturnPe",
-    "Text": "返回近月点 ={0:0.0} nmi 高度"
+    "Text": "返回轨道近地点 = {0:0.0} 海里高度"
   },
   {
     "Identifier": "TLIPlanner_TimeToLOI",
-    "Text": "至LOI时间: {0}"
+    "Text": "月球轨道入射预计任务时间：{0}"
   },
   {
     "Identifier": "TLIPlanner_Warning1",
-    "Text": "即将进入地球大气层. 提升近地点高度高于大气层 ({0} nmi 高度)"
+    "Text": "自由返回轨道上存在地球大气层再入路线。为避免，请将近地点升至大气层以上（{0} 海里高度）"
   },
   {
     "Identifier": "TLIPlanner_Warning2",
-    "Text": "即将与月球碰撞, 提升近月点高度高于月面 ({0} nmi)"
+    "Text": "与月球存在碰撞路线，请将近月点升至月球表面以上（{0} 海里）"
   },
   {
     "Identifier": "BurnPlanner_EIFlightPath",
-    "Text": "EI航路角度: {0}°"
+    "Text": "再入界面飞行路径角：{0}°"
   },
   {
     "Identifier": "BurnPlanner_TimeToEI",
-    "Text": "距离 EI时间: {0}"
+    "Text": "再入界面时间：{0}"
   },
   {
     "Identifier": "BurnPlanner_VelAtEI",
-    "Text": "EI速度: {0} 英尺每秒"
+    "Text": "再入界面速度：{0} 英尺/秒"
   },
   {
     "Identifier": "BurnPlanner_CurrentPhase",
-    "Text": "当前阶段: "
+    "Text": "当前阶段："
   },
   {
     "Identifier": "BurnPlanner_AddData_Date",
-    "Text": "日期: "
+    "Text": "日期："
   },
   {
     "Identifier": "BurnPlanner_AddData_MET",
-    "Text": "任务经过时间: "
+    "Text": "任务时间："
   },
   {
     "Identifier": "BurnPlanner_AddData_ET",
-    "Text": "事件计时器: "
+    "Text": "事件计时器："
   },
   {
     "Identifier": "BurnPlanner_AddData_EarthOrbit",
@@ -577,19 +577,15 @@
   },
   {
     "Identifier": "BurnPlanner_BurnData_TIG",
-    "Text": "地面逃逸点火"
+    "Text": "点火时间"
   },
   {
     "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
-    "Text": "距离点火时间"
-  },
-  {
-    "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
-    "Text": "距离点火时间"
+    "Text": "点火倒计时"
   },
   {
     "Identifier": "BurnPlanner_BurnData_EstBurnT",
-    "Text": "预计燃烧时长"
+    "Text": "预估点火时长"
   },
   {
     "Identifier": "BurnPlanner_BurnData_OrbitData",
@@ -597,27 +593,27 @@
   },
   {
     "Identifier": "BurnPlanner_BurnData_ApLabel",
-    "Text": "远地点: "
+    "Text": "远地点："
   },
   {
     "Identifier": "BurnPlanner_BurnData_PeLabel",
-    "Text": "近地点: "
+    "Text": "近地点："
   },
   {
     "Identifier": "BurnPlanner_BurnData_NmiLabel",
-    "Text": "nmi"
+    "Text": "海里"
   },
   {
     "Identifier": "BurnPlanner_BurnData_NmiAltLabel",
-    "Text": "nmi 高度"
+    "Text": "海里高度"
   },
   {
     "Identifier": "TEIPlanner_Warning1",
-    "Text": "TEI燃烧未能到达月球/行星焦点"
+    "Text": "返回地球入射点火未达到月球/行星影响球"
   },
   {
     "Identifier": "TEIPlanner_Calc",
-    "Text": "远地点: {0:0.00} nmi 高度 ({4} nmi)\n至 EI时间={1}\n速度增量={2} 英尺每秒\n距燃烧时间={3}"
+    "Text": "近心点：{0:0.00} 海里高度（{4} 海里）\n再入界面时间={1}\n速度增量={2} 英尺/秒\n点火倒计时={3}"
   },
   {
     "Identifier": "TEIPlanner_Warning2",
@@ -625,387 +621,407 @@
   },
   {
     "Identifier": "TEIPlanner_Warning3",
-    "Text":"检查逃逸速度分数 输入点."
+    "Text": "请检查逃逸速度比输入的标点符号。"
   },
   {
     "Identifier": "TEIPlanner_Warning4",
-    "Text":"检查轨道偏心率. 圆化轨道需要TEI 机动."
+    "Text": "请检查轨道偏心率。返回地球入射机动需要圆形轨道。"
   },
   {
     "Identifier": "MissionObjective_None",
-    "Text":"无."
+    "Text": "无。"
   },
   {
     "Identifier": "MissionObjective_RogerToProceed",
-    "Text": "按下{0}继续进行任务."
+    "Text": "准备好继续执行任务时按 {0}。"
   },
   {
     "Identifier": "MissionObjective_RogerToProceedDefault",
-    "Text": "准备完成后按下ROGER（收到）继续任务."
+    "Text": "准备好继续执行任务时按“收到”。"
   },
   {
     "Identifier": "MissionObjective_UmbilicalDisconnect",
-    "Text": "等待点火升空."
+    "Text": "等待升空。"
   },
   {
     "Identifier": "MissionObjective_TowerSep",
-    "Text": "等待逃逸塔分离."
+    "Text": "等待逃逸塔分离。"
   },
   {
     "Identifier": "MissionObjective_CompleteLaunchAscent",
-    "Text": "完成上升和轨道交会."
+    "Text": "完成上升段及入轨。"
   },
   {
     "Identifier": "MissionObjective_CECO",
-    "Text": "等待中央引擎关闭."
+    "Text": "等待中心发动机关机。"
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration_CM",
-    "Text": "完成指令舱面板设置."
+    "Text": "完成指令舱面板配置。"
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration_LM",
-    "Text": "完成登月舱面板设置."
+    "Text": "完成登月舱面板配置。"
   },
   {
     "Identifier": "MissionObjective_LunarContact",
-    "Text": "在月面登陆."
+    "Text": "着陆于月球表面。"
   },
   {
     "Identifier": "MissionObjective_CM_LOS",
-    "Text": "等待 LOS"
+    "Text": "等待信号丢失"
   },
   {
     "Identifier": "MissionObjective_CM_AOS",
-    "Text": "等待 AOS"
+    "Text": "等待信号捕获"
   },
   {
     "Identifier": "MissionObjective_LM_DPSIgnite",
-    "Text": "DPS 引擎点火."
+    "Text": "点燃下降推进系统发动机。"
   },
   {
     "Identifier": "MissionObjective_LM_DPSShutoff",
-    "Text": "完成 DPS 燃烧."
+    "Text": "完成下降推进系统点火。"
   },
   {
     "Identifier": "MissionObjective_LM_APSIgnite",
-    "Text": "APS 引擎点火."
+    "Text": "点燃上升推进系统发动机。"
   },
   {
     "Identifier": "MissionObjective_LM_APSShutoff",
-    "Text": "完成 APS 燃烧."
+    "Text": "完成上升推进系统点火。"
   },
   {
     "Identifier": "MissionObjective_SwitchedToLunarStayArea",
-    "Text": "接近月面."
+    "Text": "接近月球表面。"
   },
   {
     "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet1",
-    "Text": "从指令服务舱上分离登月舱."
+    "Text": "使登月舱与指令服务舱分离。"
   },
   {
     "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet2",
-    "Text": "距离 {0} 英尺. 还有{1} 英尺."
+    "Text": "接近至 {0} 英尺以内。还剩 {1} 英尺。"
   },
   {
     "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_True",
-    "Text": "登月舱速度达到 {0} ft./s. 以上"
+    "Text": "在登月舱中达到大于 {0} 英尺/秒的速度"
   },
   {
     "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_False",
-    "Text": "登月舱速度达到 {0} ft./s. 以下"
+    "Text": "在登月舱中达到小于 {0} 英尺/秒的速度"
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeGreater_Value1",
-    "Text": "到达高度高于 {0} 公里"
+    "Text": "达到大于 {0} 海里的高度"
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
-    "Text": "指令舱到达高度低于 {0} 英尺"
+    "Text": "在指令舱中达到小于 {0} 海里的高度"
   },
   {
     "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
-    "Text": "登月舱到达高度低于 {0} 英尺"
+    "Text": "在登月舱中达到小于 {0} 海里的高度"
   },
   {
     "Identifier": "MissionObjective_CM_CheckIfAGC_Program_Value1_IsRunning",
-    "Text": "运行 AGC 程序: "
+    "Text": "运行阿波罗制导计算机程序："
+  },
+  {
+    "Identifier": "MissionObjective_AGCCheck_VerbValue1_NounValue2",
+    "Text": "在阿波罗制导计算机显示键盘上显示 Verb {0}、Noun {1}。"
+  },
+  {
+    "Identifier": "MissionObjective_LGCCheck_VerbValue1_NounValue2",
+    "Text": "在登月制导计算机显示键盘上显示 Verb {0}、Noun {1}。"
   },
   {
     "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1",
-    "Text": "移动指令舱 远地点高度至{0}以上."
+    "Text": "将指令舱远地点高度提升至 {0} 或更高。"
   },
   {
     "Identifier": "MissionObjective_CM_IsPeGreaterThan_Value1",
-    "Text": "移动指令舱 近地点高度至{0}以上."
+    "Text": "将指令舱近地点高度提升至 {0} 或更高。"
   },
   {
     "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
-    "Text": "调整指令服务舱轨道至远地点 {0} x 近地点{1}公里或以上高度."
+    "Text": "将指令服务舱轨道调整至远地点 {0} × 近地点 {1} 高度（海里）或更优。"
   },
   {
     "Identifier": "MissionObjective_CM_IsAtRadioStation_String1",
-    "Text": "进入通讯站范围: "
+    "Text": "进入无线电站通信范围："
   },
   {
     "Identifier": "MissionObjective_CM_Longitude_Between_Value1_Value2",
-    "Text": "到达经度 {0} 至 {1} 度."
+    "Text": "到达经度 {0} 至 {1} 度之间。"
   },
   {
     "Identifier": "MissionObjective_CM_Latitude_Between_Value1_Value2",
-    "Text": "到达纬度 {0} 至 {1} 度."
+    "Text": "到达纬度 {0} 至 {1} 度之间。"
   },
   {
     "Identifier": "MissionObjective_CM_IsInclination_Value1_ThresholdValue2",
-    "Text": "到达轨道面 {0}  +/- {1}"
+    "Text": "到达轨道倾角 {0}，容差 +/- {1}"
   },
   {
     "Identifier": "MissionObjective_CM_Separation_StageIC",
-    "Text": "等待 S-IC 分离."
+    "Text": "等待 S-IC 分离。"
   },
   {
     "Identifier": "MissionObjective_CM_Separation_StageII",
-    "Text": "等待 S-II 分离."
+    "Text": "等待 S-II 分离。"
   },
   {
     "Identifier": "MissionObjective_CM_Separation_StageIVB",
-    "Text": "等待S-IVB 推进器分离."
+    "Text": "等待 S-IVB 分离。"
   },
   {
     "Identifier": "MissionObjective_CM_Separation_StageSM",
-    "Text": "等待服务舱分离."
+    "Text": "等待服务舱分离。"
   },
   {
     "Identifier": "MissionObjective_CM_GravityInfluencer_Earth",
-    "Text": "到达地球重力影响范围."
+    "Text": "进入地球引力影响范围。"
   },
   {
     "Identifier": "MissionObjective_CM_GravityInfluencer_Moon",
-    "Text": "到达月球重力影响范围."
+    "Text": "进入月球引力影响范围。"
   },
   {
     "Identifier": "MissionObjective_CM_State_DrogueDeploy",
-    "Text": "等待减速伞就绪"
+    "Text": "等待减速伞展开"
   },
   {
     "Identifier": "MissionObjective_CM_State_MainDeploy",
-    "Text": "等待主系统就绪"
+    "Text": "等待主伞展开"
   },
   {
     "Identifier": "MissionObjective_CM_State_InHiDragZone",
-    "Text": "等待再入大气层."
+    "Text": "等待大气层再入开始。"
   },
   {
     "Identifier": "MissionObjective_CM_State_OutsideHighDragZone",
-    "Text": "通过大气层."
+    "Text": "穿越大气层。"
   },
   {
     "Identifier": "MissionObjective_CM_State_SPSBurning",
-    "Text": "等待 SPS 引擎点火."
+    "Text": "等待服务推进系统发动机点火。"
   },
   {
     "Identifier": "MissionObjective_CM_State_SPSNotBurning",
-    "Text": "完成 SPS 燃烧."
+    "Text": "完成服务推进系统点火。"
   },
   {
     "Identifier": "MissionObjective_CM_State_AnyEngineBurning",
-    "Text": "等待引擎点火."
+    "Text": "等待发动机点火。"
   },
   {
     "Identifier": "MissionObjective_CM_State_NoEnginesBurning",
-    "Text": "等待引擎关闭."
+    "Text": "等待发动机关机。"
   },
   {
     "Identifier": "MissionObjective_CM_Altitude_Landing_Feet_LessThan_Value1",
-    "Text": "到达高度低于 {0} 英尺."
+    "Text": "下降至 {0} 英尺以下高度。"
   },
   {
     "Identifier": "MissionObjective_CM_State_Splashdown",
-    "Text": "落水."
+    "Text": "溅落。"
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_TimeToAp_Value1",
-    "Text": "等待倒计时 T -{0} 秒 到达远地点. 剩余时间: {1} 秒."
+    "Text": "等待到达远地点 T-{0} 秒。剩余时间：{1} 秒。"
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_TimeToPe_Value1",
-    "Text": "等待倒计时 T -{0} 秒 到达近地点. 剩余时间: {1} 秒."
+    "Text": "等待到达近地点 T-{0} 秒。剩余时间：{1} 秒。"
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_TimeToRetro_Value1Seconds",
-    "Text": "等待倒计时 T -{0} 秒进行 逆向轨道燃烧. 剩余时间: {1} 秒."
+    "Text": "等待到达逆向点火前 T-{0} 秒。剩余时间：{1} 秒。"
   },
   {
     "Identifier": "MissionObjective_CM_TimeToSPSBurn_Value1Seconds",
-    "Text": "等待倒计时 T -{0} 秒进行 SPS 燃烧. 剩余时间: {1} 秒."
+    "Text": "等待到达点火前 T-{0} 秒。剩余时间：{1} 秒。"
   },
   {
     "Identifier": "MissionObjective_CM_Velocity_GreaterThan_Value1_FPS",
-    "Text": "速度达到 {0} 英尺./秒以上. 来自指令舱"
+    "Text": "在指令舱中达到大于 {0} 英尺/秒的速度"
   },
   {
     "Identifier": "MissionObjective_CM_Velocity_LessThan_Value1_FPS",
-    "Text": "速度达到 {0} 英尺./秒以下. 来自指令舱"
+    "Text": "在指令舱中达到小于 {0} 英尺/秒的速度"
   },
   {
     "Identifier": "MissionObjective_TLI_AdjustPeriluneTo_Value1km_Value2ThresholdKm",
-    "Text": "计划 TLI 到达近月点 {0} +/- {1}."
+    "Text": "规划地月转移入射以达到近月点 {0} +/- {1} 海里。"
   },
   {
     "Identifier": "MissionObjective_TLI_OpenPlanner",
-    "Text": "开启 TLI 计划器"
+    "Text": "打开地月转移入射规划器"
   },
   {
     "Identifier": "MissionObjective_TLI_RequestTB6",
-    "Text": "请求 TLI 燃烧"
+    "Text": "请求地月转移入射点火"
   },
   {
     "Identifier": "MissionObjective_TLI_BurnComplete",
-    "Text": "完成 TLI 燃烧"
+    "Text": "完成地月转移入射点火"
   },
   {
     "Identifier": "MissionObjective_CSM_OpenBurnPlanner",
-    "Text": "开启 CSM 燃烧计划器"
+    "Text": "打开指令服务舱点火规划器"
   },
   {
     "Identifier": "MissionObjective_CSM_BurnRequested",
-    "Text": "计划和请求 CSM 燃烧"
+    "Text": "规划并请求指令服务舱点火"
   },
   {
     "Identifier": "MissionObjective_TEI_OpenBurnPlanner",
-    "Text": "开启 TEI 燃烧计划器"
+    "Text": "打开返回地球入射规划器"
   },
   {
     "Identifier": "MissionObjective_TEI_BurnRequested",
-    "Text": "计划和请求TEI 燃烧"
+    "Text": "规划并请求返回地球入射点火"
   },
   {
     "Identifier": "MissionObjective_LM_CheckIfLGC_Program_Value1_IsRunning",
-    "Text": "运行 LGC 程序: "
+    "Text": "运行登月制导计算机程序："
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P12Guidance",
-    "Text": "完成 LGC P12流程"
+    "Text": "完成登月制导计算机 P12 制导"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P63Guidance",
-    "Text": "完成 LGC P63流程"
+    "Text": "完成登月制导计算机 P63 制导"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P64Guidance",
-    "Text": "完成 LGC P63流程"
+    "Text": "完成登月制导计算机 P64 制导"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarDescent",
-    "Text": "完成月面下降."
+    "Text": "完成月球下降。"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarAscent",
-    "Text": "完成月面上升."
+    "Text": "完成月球上升。"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CSI",
-    "Text": "完成 CSI 机动."
+    "Text": "完成共椭圆序列启动机动。"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_PC",
-    "Text": "完成 PC 机动."
+    "Text": "完成相位系数机动。"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_CDH",
-    "Text": "完成 CDH 机动."
+    "Text": "完成恒定高度差机动。"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPI",
-    "Text": "完成 TPF 机动."
+    "Text": "完成最终阶段启动机动。"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPM",
-    "Text": "完成 TPF 机动."
+    "Text": "完成转移阶段中途机动。"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_TPF",
-    "Text": "完成 TPF 机动."
+    "Text": "完成转移阶段最终机动。"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_DockedWithCSMAfterAscent",
-    "Text": "指令服务舱对接登月舱."
+    "Text": "使登月舱与指令服务舱对接。"
   },
   {
     "Identifier": "MissionObjective_LM_State_IsComplete_LandingLegsDeployed",
-    "Text": "激活登月舱并开启起落支架"
+    "Text": "激活登月舱并展开着陆腿"
   },
   {
     "Identifier": "MissionObjective_LM_EVA_WalkingOnLunarSurface",
-    "Text": "月面行走"
+    "Text": "在月球上行走"
   },
   {
     "Identifier": "MissionObjective_LM_EVA_OutsideLunarModule",
-    "Text": "舱外行走"
+    "Text": "执行舱外活动"
   },
   {
     "Identifier": "MissionObjective_LM_EVA_InsideLunarModule",
-    "Text": "返回登月舱"
+    "Text": "返回登月舱内"
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "完成检查单: "
+    "Text": "完成检查单："
   },
   {
     "Identifier": "MissionObjective_CM_State_DockedWithLunarModule",
-    "Text": "与登月舱对接."
+    "Text": "与登月舱对接。"
   },
   {
     "Identifier": "MissionObjective_CM_State_UndockedWithTheLunarModule",
-    "Text": "与登月舱分离."
+    "Text": "与登月舱分离。"
   },
   {
     "Identifier": "MissionObjective_CM_State_DockedWithLunarModuleInSIVB",
-    "Text": "与S-IVB推进器上的登月舱对接."
+    "Text": "与 S-IVB 上的登月舱对接。"
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
-    "Text": "指令服务舱进入圆形轨道 {0} +/- {1} 公里"
+    "Text": "将指令服务舱送入 {0} +/- {1} 海里的圆形轨道"
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_IsCircular_ThresholdValue1",
-    "Text": "指令服务舱进入圆形轨道约{0} 公里"
+    "Text": "将指令服务舱送入任意圆形轨道，容差 {0} 海里"
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
-    "Text": "登月舱进入圆形轨道 {0} +/- {1} 公里"
+    "Text": "将登月舱送入 {0} +/- {1} 海里的圆形轨道"
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_IsCircular_ThresholdValue1",
-    "Text": "登月舱进入圆形轨道约{0} 公里"
+    "Text": "将登月舱送入任意圆形轨道，容差 {0} 海里"
   },
   {
     "Identifier": "MissionObjective_LM_TimeToDPSBurn_Value1Seconds",
-    "Text": "等待倒计时 T -{0} 秒进行 DPS 燃烧. 剩余时间: {1} 秒."
+    "Text": "等待到达下降推进系统点火前 T-{0} 秒。剩余时间：{1} 秒。"
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_TimeToAp_Value1",
-    "Text": "等待倒计时 远地点 T-{0} 秒. 剩余时间: {1} 秒."
+    "Text": "等待到达远地点 T-{0} 秒。剩余时间：{1} 秒。"
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_TimeToPe_Value1",
-    "Text": "等待倒计时 近地点 T-{0} 秒. 剩余时间: {1} 秒."
-   },
+    "Text": "等待到达近地点 T-{0} 秒。剩余时间：{1} 秒。"
+  },
+  {
+    "Identifier": "MissionObjective_CM_DockingAlignmentWithLM_Value1",
+    "Text": "对准至登月舱对接锥体 {0}° 以内。当前为 {1}°。"
+  },
+  {
+    "Identifier": "MCC_SetTLMToAccept",
+    "Text": "将上行遥测设为“接收”（面板2），阿波罗制导计算机设为 P00，然后重试。"
+  },
+  {
+    "Identifier": "MCC_REFSMMATUplinked",
+    "Text": "正在上传参考稳定成员矩阵。当上行活动灯熄灭后，使用 P52 选项1与之对准。"
+  },
   {
     "Identifier": "RadioCommMenu_RadioCheck",
-    "Text": "通讯检查"
+    "Text": "无线电检查"
   },
   {
     "Identifier": "RadioCommMenu_TLI",
-    "Text": "S-IVB 燃烧计划器"
+    "Text": "S-IVB 点火规划器"
   },
   {
     "Identifier": "RadioCommMenu_BurnPlanner",
-    "Text": "燃烧计划器"
+    "Text": "点火规划器"
   },
   {
     "Identifier": "RadioCommMenu_RequestPDI",
-    "Text": "请求 PDI"
+    "Text": "请求动力下降启动"
   },
   {
     "Identifier": "RadioCommMenu_Request",
@@ -1013,11 +1029,11 @@
   },
   {
     "Identifier": "RadioCommMenu_RequestTEI",
-    "Text": "请求 TEI"
+    "Text": "请求返回地球入射"
   },
   {
     "Identifier": "RadioCommMenu_RequestCSI2",
-    "Text": "请求 CSI-2"
+    "Text": "请求转移阶段最终"
   },
   {
     "Identifier": "RadioCommMenu_CrewMembers",
@@ -1025,7 +1041,7 @@
   },
   {
     "Identifier": "RadioCommMenu_CAPCOM",
-    "Text": "CAPCOM"
+    "Text": "舱通讯员"
   },
   {
     "Identifier": "RadioCommMenu_PhaseAscent",
@@ -1033,50 +1049,662 @@
   },
   {
     "Identifier": "RadioCommMenu_PhaseCDH",
-    "Text": "CDH"
+    "Text": "恒定高度差"
   },
   {
     "Identifier": "RadioCommMenu_PhaseCSI",
-    "Text": "CSI"
+    "Text": "共椭圆序列启动"
   },
   {
     "Identifier": "RadioCommMenu_PhasePC",
-    "Text": "PC"
+    "Text": "相位系数"
   },
   {
     "Identifier": "RadioCommMenu_PhaseTPF",
-    "Text": "TPF"
+    "Text": "转移阶段最终"
   },
   {
     "Identifier": "RadioCommMenu_PhaseTPI",
-    "Text": "TPI"
+    "Text": "最终阶段启动"
   },
   {
     "Identifier": "RadioCommMenu_PhaseTPM",
-    "Text": "TPM"
+    "Text": "转移阶段中途"
   },
   {
     "Identifier": "RadioCommMessage_TooHighGLoads",
-    "Text": "重力过载超出限制."
+    "Text": "你的过载太高。"
   },
   {
     "Identifier": "GameOverReason_TooHighGLoads",
-    "Text": "由于过高的重力过载, 造成飞船和船员损伤."
+    "Text": "因过载过大导致结构及机组人员受损。"
   },
   {
     "Identifier": "GameOverReason_Crashed",
-    "Text": "着陆过程中坠毁."
+    "Text": "着陆过程中坠毁。"
   },
   {
     "Identifier": "GameOverReason_NonCMEntry",
-    "Text": "在到达对应阶段时执行大气层再入. 只有指令舱能够再入."
+    "Text": "试图在连接着火箭级的情况下进行大气层再入。只有指令舱可以再入。"
   },
   {
     "Identifier": "GameOverReason_LMEntry",
-    "Text": "登月舱和指令舱连接状态下执行大气层再入."
+    "Text": "试图在登月舱连接在指令舱上的情况下进行大气层再入。"
   },
   {
-    "Identifier": "GameOverReason_LMEntry",
-    "Text": "登月舱和指令舱连接状态下执行大气层再入."
+    "Identifier": "BurnPlanner_UplinkPreferred",
+    "Text": "（可选）惯性测量单元：设定优选"
+  },
+  {
+    "Identifier": "BurnPlanner_CommsPreferredSet",
+    "Text": "优选点火方向已设定，在请求点火前使用 P52 选项1转动陀螺仪。将 ORDEAL 设为 INRTL，然后按键 V37E 52E V22E +1E PRO PRO 执行此操作。"
+  },
+  {
+    "Identifier": "RadioCommReq_MissionTimeSync",
+    "Text": "任务计时器已与地面任务时间同步。"
+  },
+  {
+    "Identifier": "CommTools_SyncMetTimers",
+    "Text": "同步任务时间计时器"
+  },
+  {
+    "Identifier": "UI_CloseHatch",
+    "Text": "关闭舱门"
+  },
+  {
+    "Identifier": "UI_OpenHatch",
+    "Text": "打开舱门"
+  },
+  {
+    "Identifier": "CrewMembers_Title",
+    "Text": "机组成员"
+  },
+  {
+    "Identifier": "ViewSelector_HowHelp",
+    "Text": "需要什么帮助？"
+  },
+  {
+    "Identifier": "ViewSelector_Crew",
+    "Text": "机组"
+  },
+  {
+    "Identifier": "ViewSelector_ManageCrew",
+    "Text": "管理机组"
+  },
+  {
+    "Identifier": "CrewMembers_OnBoard",
+    "Text": "在舱"
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc",
+    "Text": "指令服务舱自动圆化"
+  },
+  {
+    "Identifier": "CrewMembers_CSMPower",
+    "Text": "请求指令舱驾驶员为登月舱供电"
+  },
+  {
+    "Identifier": "CrewMembers_LandingAid",
+    "Text": "着陆点指示器"
+  },
+  {
+    "Identifier": "CrewMembers_SlewAid",
+    "Text": "交会雷达转动"
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid",
+    "Text": "指令服务舱/登月舱对接"
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr",
+    "Text": "登月舱机组：机动"
+  },
+  {
+    "Identifier": "CrewMembers_Ground",
+    "Text": "地面"
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT",
+    "Text": "请求参考稳定成员矩阵"
+  },
+  {
+    "Identifier": "CrewMembers_PADs",
+    "Text": "请求初步咨询数据与图表"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Info",
+    "Text": "此页面允许你管理机组人员。如果你的存档版本早于 0.84，覆盖开关默认启用，允许你在指令服务舱/登月舱未对接且舱门未打开的情况下移动机组人员。"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Override",
+    "Text": "覆盖转移"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Commander",
+    "Text": "指令长"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheCSM",
+    "Text": "在指令服务舱中"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheLM",
+    "Text": "在登月舱中"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InEVASuit",
+    "Text": "穿着舱外活动服"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_CMP",
+    "Text": "指令舱驾驶员"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_LMP",
+    "Text": "登月舱驾驶员"
+  },
+  {
+    "Identifier": "CrewMembers_LPD_Desc",
+    "Text": "我将在月球下降的最后阶段为你提供重要的下降信息。从 P64 到着陆，我将持续告知你高度、下降速率、选定油箱的燃料量，以及使用着陆点指示器（LPD）标示的着陆点位置。\n\nLPD 俯仰角表示着陆点在舷窗垂直标记上的位置，LPD 偏航角表示其在水平轴上的位置。上方舷窗上的红色圆点对应的 LPD 俯仰角为 10 度，偏航角为 0 度。\n\n信息将每 10 秒更新一次。"
+  },
+  {
+    "Identifier": "CrewMembers_Toggle",
+    "Text": "切换"
+  },
+  {
+    "Identifier": "CrewMembers_RR_Desc",
+    "Text": "这将帮助你转动交会雷达以瞄准指令服务舱。如果交会雷达模式选择器设为“转动”（SLEW），登月舱驾驶员将告诉你需要转动雷达轴和耳轴多少度才能对准指令服务舱。"
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid_Desc",
+    "Text": "此对接辅助工具将告诉你与登月舱/指令服务舱的距离。"
+  },
+  {
+    "Identifier": "CrewMembers_PowerLM_Desc",
+    "Text": "指令舱驾驶员将配置指令服务舱，通过对接脐带为登月舱供电。"
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc_Desc",
+    "Text": "指令舱驾驶员将自动将轨道圆化至当前近地点和远地点之间的某个值。"
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_Desc",
+    "Text": "请求登月舱机组将登月舱机动至面向指令服务舱的相对角度。"
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_CsmAtt_Desc",
+    "Text": "请求登月舱机组将登月舱姿态与指令服务舱姿态对准。"
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_Desc",
+    "Text": "这些功能将请求地面任务控制中心上传参考稳定成员矩阵。确保上行遥测设为“接收”（面板2）。上传完成后，使用 P52 选项1对准惯性测量单元。"
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Desc",
+    "Text": "被动热控制参考稳定成员矩阵：\n这将使惯性测量单元与黄道面及返回地球入射节点处的月球-地球连线对准。"
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Request",
+    "Text": "请求被动热控制参考稳定成员矩阵"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Desc",
+    "Text": "初步咨询数据与表格"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Forms",
+    "Text": "表格\n这些选项将打开包含所选表格的界面。请求初步咨询数据时，数据的顺序将与所选表格相匹配。铅笔工具可让你填写表格以记录数据。"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CommandModule",
+    "Text": "指令舱："
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P52",
+    "Text": "打开 P52 惯性测量单元重对准表格"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P30",
+    "Text": "打开 P30 机动初步咨询数据表格"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P37",
+    "Text": "打开 P37 区块数据初步咨询数据表格"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_TLI",
+    "Text": "打开地月转移入射初步咨询数据表格"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_Entry",
+    "Text": "打开再入初步咨询数据表格"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM",
+    "Text": "登月舱："
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_P30",
+    "Text": "打开 P30 机动初步咨询数据表格"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_Ascent",
+    "Text": "打开月球上升初步咨询数据表格"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_DockedIMUCoarseAlign",
+    "Text": "打开登月舱对接惯性测量单元粗对准"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_General",
+    "Text": "通用："
+  },
+  {
+    "Identifier": "CrewMembers_PADs_BlankPaper",
+    "Text": "打开纸张：空白"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_IMURealign",
+    "Text": "惯性测量单元重对准\nP52 用于重对准惯性测量单元。使用此功能在当前任务时间请求惯性测量单元重对准。"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RequestIMURealign",
+    "Text": "P52：惯性测量单元重对准"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_Desc",
+    "Text": "指令服务舱服务推进系统轨道圆化点火初步咨询数据\n这些数据用于规划在远地点或近地点进行圆化点火。"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqPeBurn",
+    "Text": "P30 机动：在近地点圆化"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqApBurn",
+    "Text": "P30 机动：在远地点圆化"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Desc",
+    "Text": "天空实验室交会初步咨询数据\n与天空实验室交会点火计算所需的初步咨询数据。"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Request",
+    "Text": "P30 机动：与天空实验室交会"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Desc",
+    "Text": "月球/地球再入初步咨询数据\n此数据用于使航天器安全穿越大气层返回地球，包含准备大气层再入所需的所有数据。"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Request",
+    "Text": "请求再入初步咨询数据"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts",
+    "Text": "图表"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMSkylabRndzPlot",
+    "Text": "交会图表：指令服务舱/天空实验室"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMLMRndzPlot",
+    "Text": "交会图表：指令服务舱/登月舱（月球轨道）"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_PDI",
+    "Text": "打开动力下降启动初步咨询数据表格"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T1",
+    "Text": "低温氧罐 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T2",
+    "Text": "低温氧罐 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T1",
+    "Text": "低温氢罐 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T2",
+    "Text": "低温氢罐 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGvsIV",
+    "Text": "下降过载 × 四号仪表"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGs",
+    "Text": "下降过载"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentAlt",
+    "Text": "下降高度"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVI",
+    "Text": "动力下降启动初始速度"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVIfts",
+    "Text": "动力下降启动初始速度（英尺/秒）"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIAlt",
+    "Text": "动力下降启动高度（英尺）"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentWT",
+    "Text": "上升重量"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentPitch",
+    "Text": "上升俯仰角"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentGs",
+    "Text": "上升过载"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "主伞已展开"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "减速伞已展开"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMIngress",
+    "Text": "首次进入登月舱"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Maxq",
+    "Text": "最大动压"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsIECO",
+    "Text": "S-IC：内侧发动机关机"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsOECO",
+    "Text": "S-IC：外侧发动机关机"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsIECO",
+    "Text": "S-II：内侧发动机关机"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsOECO",
+    "Text": "S-II：外侧发动机关机"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_TowerJettison",
+    "Text": "发射逃逸塔抛离"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_DockedWithCSM",
+    "Text": "月球上升：与指令服务舱对接"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_APSBurnComplete",
+    "Text": "月球上升：上升推进系统点火完成"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarStay_WalkOnMoon",
+    "Text": "月球停留：舱外活动"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarLanding",
+    "Text": "着陆于月球表面"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryEarthSOI",
+    "Text": "进入地球影响球"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryLunarSOI",
+    "Text": "进入月球影响球"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLICompleted",
+    "Text": "地月转移入射完成"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscentStarted",
+    "Text": "月球上升：上升推进系统点火"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnPlanned",
+    "Text": "已规划服务推进系统点火，点火时间 {0}，速度增量={1} 英尺/秒"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnPlanned",
+    "Text": "已规划下降推进系统点火，点火时间 {0}，速度增量={1} 英尺/秒"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnCompleted",
+    "Text": "服务推进系统点火：速度增量={0} 英尺/秒，远地点={1} 海里 R，近地点={2} 海里 R，倾角={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnCompleted",
+    "Text": "下降推进系统点火：速度增量={0} 英尺/秒，远地点={1} 海里 R，近地点={2} 海里 R，倾角={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLIIgnition",
+    "Text": "地月转移入射点火"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockedWithLM",
+    "Text": "已与登月舱分离"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMDocking",
+    "Text": "已与登月舱对接：转位与对接完成"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockedWithLM",
+    "Text": "已与登月舱对接"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_PDIStarted",
+    "Text": "月球动力下降已开始"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RollProgram",
+    "Text": "滚转程序"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIC",
+    "Text": "级间分离：S-IC"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SII",
+    "Text": "级间分离：S-II"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIVB",
+    "Text": "级间分离：S-IVB"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SM",
+    "Text": "级间分离：服务舱/指令舱"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit",
+    "Text": "驾驶舱"
+  },
+  {
+    "Identifier": "CrewMembers_CockpitEq_Title",
+    "Text": "驾驶舱设备"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_CueCards",
+    "Text": "提示卡"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_1",
+    "Text": "切换交流电源"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_2",
+    "Text": "切换服务舱设备"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_3",
+    "Text": "切换土星五号助推"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_4",
+    "Text": "切换指令长助推中止"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_5",
+    "Text": "切换登月舱驾驶员助推中止"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_6",
+    "Text": "切换地月转移入射"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_7",
+    "Text": "切换标称地月转移入射 1"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_8",
+    "Text": "切换转位与对接"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_9",
+    "Text": "切换转位与对接持续"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_10",
+    "Text": "切换分离"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_11",
+    "Text": "切换服务推进系统点火"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_12",
+    "Text": "切换服务推进系统点火持续"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_13",
+    "Text": "切换再入"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_14",
+    "Text": "切换服务推进系统点火规则"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_15",
+    "Text": "切换月球轨道入射限制"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_16",
+    "Text": "切换电力系统/环境控制系统中止"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_17",
+    "Text": "切换指令舱着陆"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_18",
+    "Text": "切换指令舱着陆 10K"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_19",
+    "Text": "切换指令服务舱数字自动驾驶仪设置"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_20",
+    "Text": "切换指令服务舱入轨"
+  },
+  {
+    "Identifier": "CrewMembers_A13NoSign",
+    "Text": "切换阿波罗13号“NO”标志"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_LM_1",
+    "Text": "切换登月舱警告灯"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleVelcro",
+    "Text": "切换魔术贴"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions1",
+    "Text": "{0}/{1}：转动光学瞄准镜"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions2",
+    "Text": "{0}：退出光学瞄准镜"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions3",
+    "Text": "{0}：切换光学瞄准镜目镜"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions4",
+    "Text": "{0}：标记"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions5",
+    "Text": "{0}：拒绝标记"
+  },
+  {
+    "Identifier": "VROptics_MotionControllerInstructions1",
+    "Text": "右摇杆：移动瞄准镜\n切换通信：切换瞄准镜\n左扳机：退出瞄准镜\n交互左：标记\n交互右：拒绝标记"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_WindowShields",
+    "Text": "舷窗遮光帘"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_LH",
+    "Text": "左侧交会舷窗（指令长）"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_RH",
+    "Text": "右侧交会舷窗（指令舱驾驶员）"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_LH",
+    "Text": "左侧舷窗（指令长）"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_RH",
+    "Text": "右侧舷窗（指令长）"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Hatch",
+    "Text": "舱门舷窗"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeOfSMSep",
+    "Text": "指令舱/服务舱分离时间：{0}"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffset",
+    "Text": "轨道偏移（0 - 5 圈）"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetNext",
+    "Text": "下一次经过"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetFuture",
+    "Text": "+{0} 圈"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceA",
+    "Text": "已更换二氧化碳吸收器元件 A"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceB",
+    "Text": "已更换二氧化碳吸收器元件 B"
   }
 ]

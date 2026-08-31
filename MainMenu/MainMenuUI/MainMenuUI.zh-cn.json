@@ -1,994 +1,1554 @@
 [
-    {
-      "Identifier": "ContextMenu_MainMenu",
-      "Text": "主菜单"
-    },
-    {
-      "Identifier": "ContextMenu_Academy",
-      "Text": "入门教程"
-    },
-    {
-      "Identifier": "ContextMenu_MissionControl",
-      "Text": "任务控制中心（多人在线模式）"
-    },
-    {
-      "Identifier": "ContextMenu_Profile",
-      "Text": "宇航员档案"
-    },
-    {
-      "Identifier": "ContextMenu_LoadState",
-      "Text": "载入存档"
-    },
-    {
-      "Identifier": "ContextMenu_Settings",
-      "Text": "系统设置"
-    },
-    {
-      "Identifier": "ContextMenu_Missions",
-      "Text": "航天任务（单次）"
-    },
-    {
-      "Identifier": "ContextMenu_Campaigns",
-      "Text": "航天任务（连续）"
-    },
-    {
-      "Identifier": "ContextMenu_Mercury",
-      "Text": "水星计划"
-    },
-    {
-      "Identifier": "ContextMenu_Gemini",
-      "Text": "双子星计划"
-    },
-    {
-      "Identifier": "ContextMenu_Apollo",
-      "Text": "阿波罗计划"
-    },
-    {
-      "Identifier": "ContextMenu_Credits",
-      "Text": "制作组"
-    },
-    {
-      "Identifier": "ContextMenu_WorkshopMission",
-      "Text": "创意工坊任务"
-    },
-    {
-      "Identifier": "MainMenuItem_Academy",
-      "Text": "入门教程"
-    },
-    {
-      "Identifier": "MainMenuItem_Missions",
-      "Text": "航天任务（单次）"
-    },
-    {
-      "Identifier": "MainMenuItem_Campaigns",
-      "Text": "航天任务（连续）"
-    },
-    {
-      "Identifier": "MainMenuItem_LoadState",
-      "Text": "载入存档"
-    },
-    {
-      "Identifier": "MainMenuItem_MissionControl",
-      "Text": "任务控制中心（多人在线模式）"
-    },
-    {
-      "Identifier": "MainMenuItem_Challenges",
-      "Text": "挑战特定任务"
-    },
-    {
-      "Identifier": "MainMenuItem_Exhibitions",
-      "Text": "航天器展馆"
-    },
-    {
-      "Identifier": "MainMenuItem_Profile",
-      "Text": "宇航员档案"
-    },
-    {
-      "Identifier": "MainMenuItem_Settings",
-      "Text": "设置"
-    },
-    {
-      "Identifier": "MainMenuItem_Credits",
-      "Text": "制作组"
-    },
-    {
-      "Identifier": "MainMenuItem_Workshop",
-      "Text": "创意工坊"
-    },
-    {
-      "Identifier": "MainMenuItem_Contribute",
-      "Text": "志愿者贡献"
-    },
-    {
-      "Identifier": "MainMenuItem_DevJournal",
-      "Text": "开发日志"
-    },
-    {
-      "Identifier": "MainMenuItem_UpdateNotes",
-      "Text": "升级日志"
-    },
-    {
-      "Identifier": "MainMenuItem_Exit",
-      "Text": "退出"
-    },
-    {
-      "Identifier": "AcademyMenu_ButtonManuals",
-      "Text": "手册（网页版）\n"
-    },
-    {
-      "Identifier": "AcademyMenu_ButtonBasicTheory",
-      "Text": "基础理论"
-    },
-    {
-      "Identifier": "AcademyMenu_ButtonMercuryTutorials",
-      "Text": "水星计划教程"
-    },
-    {
-      "Identifier": "AcademyMenu_ButtonGeminiTutorials",
-      "Text": "双子星计划教程"
-    },
-    {
-      "Identifier": "AcademyMenu_ButtonApolloTutorials",
-      "Text": "阿波罗计划教程"
-    },
-    {
-      "Identifier": "AcademyMenu_ButtonLunarModuleTutorials",
-      "Text": "登月舱任务教程"
-    },
-    {
-      "Identifier": "AcademyMenu_ButtonDiscord",
-      "Text": "加入我们的DISCORD"
-    },
-    {
-      "Identifier": "MissionsMenu_ButtonMercury",
-      "Text": "水星计划"
-    },
-    {
-      "Identifier": "MissionsMenu_ButtonGemini",
-      "Text": "双子座计划"
-    },
-    {
-      "Identifier": "MissionsMenu_ButtonApollo",
-      "Text": "阿波罗计划"
-    },
-    {
-      "Identifier": "MissionsMenu_FreePlay",
-      "Text": "自由游玩"
-    },
-    {
-      "Identifier": "MissionsMenu_Scenarios",
-      "Text": "特定剧本"
-    },
-    {
-      "Identifier": "MissionsMenu_Historic",
-      "Text": "历史任务"
-    },
-    {
-      "Identifier": "MissionsMenu_MissionControlLive",
-      "Text": "联机任务控制中心"
-    },
-    {
-      "Identifier": "MissionsMenu_Custom",
-      "Text": "自定义任务"
-    },
-    {
-      "Identifier": "MissionsMenu_Create",
-      "Text": "创建新任务"
-    },
-    {
-      "Identifier": "ProgramInfo_Mercury",
-      "Text": "水星计划是美国的第一个太空计划，旨在安全的将宇航员送入轨道并返回地球。\n"
-    },
-    {
-      "Identifier": "ProgramInfo_Gemini",
-      "Text": "双子星计划是美国的第二个航天项目，并为登月创造条件。"
-    },
-    {
-      "Identifier": "ProgramInfo_Apollo",
-      "Text": "阿波罗计划是最终将人类送上月球的太空计划。"
-    },
-    {
-      "Identifier": "ProgramInfo_MCC",
-      "Text": "水星计划联机任务控制中心是多人参与的任务控制模组。"
-    },
-    {
-      "Identifier": "ProgramInfo_MOCR",
-      "Text": "联机任务控制中心是支持多人参与阿波罗任务的模式。\n"
-    },
-    {
-      "Identifier": "Profile_PlayerName",
-      "Text": "宇航员名称"
-    },
-    {
-      "Identifier": "Profile_CapsuleName",
-      "Text": "太空舱名称"
-    },
-    {
-      "Identifier": "Profile_CharacterEditor",
-      "Text": "角色编辑器"
-    },
-    {
-      "Identifier": "Profile_FlightTime",
-      "Text": "飞行时间"
-    },
-    {
-      "Identifier": "Profile_Online",
-      "Text": "多人游戏得分"
-    },
-    {
-      "Identifier": "Profile_SkillMercuryAstonaut",
-      "Text": "水星计划 航天员"
-    },
-    {
-      "Identifier": "Profile_SkillCSMAstonaut",
-      "Text": "指令舱 航天员"
-    },
-    {
-      "Identifier": "Profile_SkillLMAstonaut",
-      "Text": "登月舱 航天员"
-    },
-    {
-      "Identifier": "Profile_SkillMercuryController",
-      "Text": "水星计划 地面指挥员"
-    },
-    {
-      "Identifier": "Profile_SkillApolloController",
-      "Text": "阿波罗计划 地面指挥员"
-    },
-    {
-      "Identifier": "GeneralBackButton",
-      "Text": "返回"
-    },
-    {
-      "Identifier": "Settings_Effects",
-      "Text": "特效"
-    },
-    {
-      "Identifier": "Settings_Language",
-      "Text": "语言"
-    },
-    {
-      "Identifier": "Settings_RealismSettings",
-      "Text": "真实性设置"
-    },
-    {
-      "Identifier": "Settings_Checklists",
-      "Text": "检查清单"
-    },
-    {
-      "Identifier": "Settings_ChecklistsDesc",
-      "Text": "警告: 此操作将恢复检查清单至默认状态。如果你对默认检查单做过调整，请提前进行备份。\n你的自建检查单将会受到影响."
-    },
-    {
-      "Identifier": "Settings_ResetDefaultChecklists",
-      "Text": "重置默认清单"
-    },
-    {
-      "Identifier": "Settings_ToggleAutoChecklistReset",
-      "Text": "自动检查默认清单变更"
-    },
-    {
-      "Identifier": "Settings_PanelStates",
-      "Text": "仪表面板设置"
-    },
-    {
-      "Identifier": "Settings_PanelStatesDesc",
-      "Text": "警告：所有默认面板设置将恢复初始设定。如果默认面板设定有所更改，请提前进行备份。玩家自建面板设置将不受影响。"
-    },
-    {
-      "Identifier": "Settings_PanelStatesReset",
-      "Text": "重置默认仪表面板设置"
-    },
-    {
-      "Identifier": "Settings_InputControls",
-      "Text": "输入控制器（键盘，鼠标，摇杆）"
-    },
-    {
-      "Identifier": "Settings_EarthTextures",
-      "Text": "地表纹理"
-    },
-    {
-      "Identifier": "Settings_Audio",
-      "Text": "音频"
-    },
-    {
-      "Identifier": "Settings_AudioMusic",
-      "Text": "音乐"
-    },
-    {
-      "Identifier": "Settings_AudioSFX",
-      "Text": "音效"
-    },
-    {
-      "Identifier": "Settings_AudioCabinNoise",
-      "Text": "舱内噪音"
-    },
-    {
-      "Identifier": "Settings_ToggleEnableSFXDSKYRelayClicking",
-      "Text": "DSKY 连续点击"
-    },
-    {
-      "Identifier": "Settings_TrackIR",
-      "Text": "头瞄"
-    },
-    {
-      "Identifier": "Settings_Autosave",
-      "Text": "自动保存"
-    },
-    {
-      "Identifier": "Settings_AutosaveDesc",
-      "Text": "在轨道交汇，登月SOI和PDI阶段进行自动保存"
-    },
-    {
-      "Identifier": "Settings_ToggleAutosave",
-      "Text": "启用自动保存"
-    },
-    {
-      "Identifier": "Settings_ToggleTrackIR",
-      "Text": "使用 NaturalPoint 头瞄"
-    },
-    {
-      "Identifier": "Settings_VirtualReality",
-      "Text": "虚拟现实（试验性）"
-    },
-    {
-      "Identifier": "Settings_VirtualRealityDesc",
-      "Text": "当前的虚拟现实技术支持仍然是试验性的。阿波罗计划在运行时仍然不完善且受到硬件限制。"
-    },
-    {
-      "Identifier": "Settings_ToggleEnableVirtualReality",
-      "Text": "开启 VR"
-    },
-    {
-      "Identifier": "Settings_ToggleEnableVRBurnHaptics",
-      "Text": "开启VR控制器震动（点火燃烧时）"
-    },
-    {
-      "Identifier": "Settings_ToggleEnableVRGazeCursor",
-      "Text": "使用凝视光标而非运动控制器（早期开发测试）\n"
-    },
-    {
-      "Identifier": "Settings_ToggleEnableVRSubtitles",
-      "Text": "开启任务对话字幕"
-    },
-    {
-      "Identifier": "Settings_Data",
-      "Text": "数据"
-    },
-    {
-      "Identifier": "Settings_DataDesc",
-      "Text": "警告：将会清除所有用户数据，例如设置、进度、在空时间等，并无法恢复。"
-    },
-    {
-      "Identifier": "Settings_ClearData",
-      "Text": "清除所有玩家数据"
-    },
-    {
-      "Identifier": "Settings_OutputLive",
-      "Text": "计算机实时输出反馈"
-    },
-    {
-      "Identifier": "Settings_OutputLiveDesc",
-      "Text": "将实时输出OBC，AGC和LGC面板数据至输出文件夹的指定文件（位于Reentry的AppData文件夹内）。能够在外部显示器上显示数据（例如loT）"
-    },
-    {
-      "Identifier": "Settings_ToggleOutputLive",
-      "Text": "开启实况反馈"
-    },
-    {
-      "Identifier": "Settings_FunctionalCursor",
-      "Text": "座舱光标"
-    },
-    {
-      "Identifier": "Settings_Toggle3DClouds",
-      "Text": "启用试验性的3D云层"
-    },
-    {
-      "Identifier": "Settings_FunctionalCursorDesc",
-      "Text": "座舱光标将取代鼠标光标，并提供游戏内悬停开关时的颜色变化功能。 缺点是它将在正常的渲染循环中渲染。"
-    },
-    {
-      "Identifier": "Settings_ToggleFunctionalCursor",
-      "Text": "开启座舱光标"
-    },
-    {
-      "Identifier": "Settings_Configure",
-      "Text": "配置"
-    },
-    {
-      "Identifier": "Settings_ResetControls",
-      "Text": "恢复至默认状态"
-    },
-    {
-      "Identifier": "MissionControlLive_MCC",
-      "Text": "水星计划任务中心"
-    },
-    {
-      "Identifier": "MissionControlLive_MOCR",
-      "Text": "阿波罗计划任务中心"
-    },
-    {
-      "Identifier": "MissionControlLive_LFG",
-      "Text": "在DISCORD\r上加入公会 "
-    },
-    {
-      "Identifier": "GraphicsSettings_Title",
-      "Text": "图像设置"
-    },
-    {
-      "Identifier": "GraphicsSettings_ProbeQualityTitle",
-      "Text": "反射探头质量"
-    },
-    {
-      "Identifier": "GraphicsSettings_ProbeQualityDesc",
-      "Text": "反射探头用于渲染所有类型的反射。 从在轨道上时行星投射的反射光（一般探测器），到仪表、窗户和反射材料（关键探测器）中看到的内部驾驶舱反射。 它们对您的系统造成很大负担。\r\n如果您使用较慢的更新频率，建议关闭 WINDOW GLARE。"
-    },
-    {
-      "Identifier": "GraphicsSettings_ProbeQualityInfo",
-      "Text": "关闭：所有的反射探头将会关闭\n低：重要探头将会达到14帧，最大分辨率：256\n中：重要探头将会达到9帧，最大分辨率512\n高：重要探头将会达到1帧\n最高：所有探头将会达到1帧"
-    },
-    {
-      "Identifier": "GraphicsSettings_PostProcessingTitle",
-      "Text": "后处理"
-    },
-    {
-      "Identifier": "GraphicsSettings_PostProcessingDesc",
-      "Text": "多重后处理效果能够用来提升视觉经验。要求GPU和CPU循环，可以考虑关闭来提高帧率（如果你不喜欢的话）。效果包括色彩渐变，AO等。"
-    },
-    {
-      "Identifier": "GraphicsSettings_SSAOTitle",
-      "Text": "高级屏幕空间环境光遮挡"
-    },
-    {
-      "Identifier": "GraphicsSettings_SSAODesc",
-      "Text": "增强型屏幕空间环境光遮挡是一种在紧凑的几何点（例如角落、孔洞等）中渲染阴影和暗区的方法。如果您在其他地方需要额外的循环，请考虑将其关闭"
-    },
-    {
-      "Identifier": "GraphicsSettings_WindowGlareTitle",
-      "Text": "主窗口强光"
-    },
-    {
-      "Identifier": "GraphicsSettings_WindowGlareDesc",
-      "Text": "这将在主驾驶舱窗口呈现内部反射。驾驶舱越暗，您看到的反射就越少。 因此，如果您将执行需要看窗外的任务，建议您关灯。\r\n如果上面的反射探针设置设置为较低的设置之一（关闭除外），我建议将其关闭，因为反射会延迟更新"
-    },
-    {
-      "Identifier": "GraphicsSettings_RenderCrewModelTitle",
-      "Text": "乘员模型"
-    },
-    {
-      "Identifier": "GraphicsSettings_RenderCrewModelDesc",
-      "Text": "启用此功能将渲染 CSM 和 LM 内的乘员的 3D 模型。 水星和双子座计划模型以及适当的面部/头像生成器正在开发中。"
-    },
-    {
-      "Identifier": "GraphicsSettings_RenderLunarRocksTitle",
-      "Text": "开启月球岩石显示"
-    },
-    {
-      "Identifier": "GraphicsSettings_RenderLunarRocksDesc",
-      "Text": "月球岩石是下降的最后阶段的一部分，并呈现在月球表面。 这些对于某些系统来说是相当繁重的，所以如果速度很慢，请尝试取消选中此选项。"
-    },
-    {
-      "Identifier": "GraphicsSettings_LRVWheelParticlesTitle",
-      "Text": "开启月球车车轮颗粒"
-    },
-    {
-      "Identifier": "GraphicsSettings_LRVWheelParticlesDesc",
-      "Text": "当您驾驶 LRV 时，车轮会带走沙子。 这些是由粒子模拟的。 这可能会很费力，所以如果开车时速度很慢，请尝试取消选中此选项。"
-    },
-    {
-      "Identifier": "GraphicsSettings_CMInteriorTitle",
-      "Text": "指令舱内部"
-    },
-    {
-      "Identifier": "GraphicsSettings_CMInteriorDesc",
-      "Text": "命令模块内部升级将取代现有的低多边形内部。 面板将保持不变，但内部会更逼真，但渲染成本也很高。"
-    },
-    {
-      "Identifier": "GraphicsSettings_MoonTessellationTitle",
-      "Text": "月球镶嵌"
-    },
-    {
-      "Identifier": "GraphicsSettings_MoonTessellationDesc",
-      "Text": "在绕月轨道运行时，一种名为镶嵌的方法会生成月球细节。这是在 GPU上完成的，渲染起来可能非常复杂。三个参数可让您控制曲面细分：因子、最小距离和最大距离。因子定义了镶嵌多少。常见值为1、8、16、32等。最小和最大距离定义了要细分的窗口。比最小距离更靠近您的事物将被100%镶嵌。距离最大距离更远的东西将被 0% 镶嵌。 如果某物比最小值更远但比最大值更近，它将基于插值进行细分。"
-    },
-    {
-      "Identifier": "GraphicsSettings_MoonTessellation_Factor",
-      "Text": "因子："
-    },
-    {
-      "Identifier": "GraphicsSettings_MoonTessellation_MinDist",
-      "Text": "最小距离："
-    },
-    {
-      "Identifier": "GraphicsSettings_MoonTessellation_MaxDist",
-      "Text": "最大距离："
-    },
-    {
-      "Identifier": "GraphicsSettings_HighendLC39BTitle",
-      "Text": "阿波罗计划: 渲染高端发射综合体39A"
-    },
-    {
-      "Identifier": "GraphicsSettings_HighendLC39BDesc",
-      "Text": "这将为 Apollo Launch Complex 39A 渲染超高细节模型。"
-    },
-    {
-      "Identifier": "RealismSettings_Title",
-      "Text": "真实性 和 帮助设置"
-    },
-    {
-      "Identifier": "RealismSettings_SwitchHighlighterTitle",
-      "Text": "切换悬停高亮"
-    },
-    {
-      "Identifier": "RealismSettings_SwitchHighlighterDesc",
-      "Text": "启用此功能将在仪器周围绘制一个立方体或切换鼠标光标悬停。"
-    },
-    {
-      "Identifier": "RealismSettings_OffscreenSwitchIndicatorTitle",
-      "Text": "屏幕外切换指示器"
-    },
-    {
-      "Identifier": "RealismSettings_OffscreenSwitchIndicatorDesc",
-      "Text": "如果此开关位于播放器视图之外，启用此选项将在突出显示的开关的方向上绘制一个指示器."
-    },
-    {
-      "Identifier": "RealismSettings_AutoProceedChecklistTitle",
-      "Text": "自动执行检查清单"
-    },
-    {
-      "Identifier": "RealismSettings_AutoProceedChecklistDesc",
-      "Text": "如果您在清单中使用 RUN 功能，检查单将自动继续，直到您到达需要您注意的步骤。 如果禁用，则需要按 PRO 进入下一步."
-    },
-    {
-      "Identifier": "RealismSettings_SimplifiedDockingTitle",
-      "Text": "简化 燃烧和交会"
-    },
-    {
-      "Identifier": "RealismSettings_SimplifiedDockingDesc",
-      "Text": "当逻辑检测到累积误差或目标偏移时，启用此功能将使交会和轨道机动燃烧变得更简单，并进行一些自动引导校正。 我建议保留此功能，尤其是在导航计算机处于早期阶段的情况下。 游戏逻辑可以在关键位置覆盖它。"
-    },
-    {
-      "Identifier": "RealismSettings_ReduceApolloLaunchShakeTitle",
-      "Text": "减少阿波罗计划发射摄像头抖动"
-    },
-    {
-      "Identifier": "RealismSettings_ReduceApolloLaunchShakeDesc",
-      "Text": "启用此功能将减少阿波罗土星五号上升期间相机上的抖动量(SIC and SII)."
-    },
-    {
-      "Identifier": "RealismSettings_LunarLandingPoleTitle",
-      "Text": "渲染登月点标志"
-    },
-    {
-      "Identifier": "RealismSettings_LunarLandingPoleDesc",
-      "Text": "启用此功能将在过渡到月球着陆区时在所选着陆点呈现旗杆."
-    },
-    {
-      "Identifier": "RealismSettings_LunarLandingDirectionTitle",
-      "Text": "自动朝向登月点"
-    },
-    {
-      "Identifier": "RealismSettings_LunarLandingDirectionDesc",
-      "Text": "启用此功能将在过渡到登月区域时自动将登月舱定向为面向着陆点的方向."
-    },
-    {
-      "Identifier": "RealismSettings_MercuryRandomFailuresTitle",
-      "Text": "随机故障: 水星计划"
-    },
-    {
-      "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
-      "Text": "这将在允许此操作的任务（自由游玩或自定义任务）中启用随机失败。 随机故障系统每2-5分钟（周期）掷一次骰子，随机故障有可能发生。 您可以在下面配置每个周期发生随机故障的可能性，以及您希望从列表中排除的故障。 请注意，您可以使用失败控制台命令在游戏中手动触发失败."
-    },
-    {
-      "Identifier": "RealismSettings_MercuryRandomFailuresPercentage",
-      "Text": "每次循环的故障发生几率 % ."
-    },
-    {
-      "Identifier": "RealismSettings_MercuryRandomFailuresToggleFailures",
-      "Text": "开关故障"
-    },
-    {
-      "Identifier": "RealismSettings_GeminiRandomFailuresTitle",
-      "Text": "随机故障: 双子星计划"
-    },
-    {
-      "Identifier": "RealismSettings_GeminiRandomFailuresDesc",
-      "Text": "这将在允许此操作的任务（自由游玩或自定义任务）中启用随机失败。 随机故障系统每2-5分钟（周期）掷一次骰子，随机故障有可能发生。 您可以在下面配置每个周期发生随机故障的可能性，以及您希望从列表中排除的故障。 请注意，您可以使用失败控制台命令在游戏中手动触发失败."
-    },
-    {
-      "Identifier": "RealismSettings_GeminiRandomFailuresPercentage",
-      "Text": "每次循环的故障发生几率 % ."
-    },
-    {
-      "Identifier": "RealismSettings_GeminiRandomFailuresToggleFailures",
-      "Text": "开关故障"
-    },
-    {
-      "Identifier": "RealismSettings_ApolloRandomFailuresTitle",
-      "Text": "随机故障: 阿波罗计划"
-    },
-    {
-      "Identifier": "RealismSettings_ApolloRandomFailuresDesc",
-      "Text": "这将在允许此操作的任务（自由游玩或自定义任务）中启用随机失败。 随机故障系统每2-5分钟（周期）掷一次骰子，随机故障有可能发生。 您可以在下面配置每个周期发生随机故障的可能性，以及您希望从列表中排除的故障。 请注意，您可以使用失败控制台命令在游戏中手动触发失败."
-    },
-    {
-      "Identifier": "RealismSettings_ApolloRandomFailuresPercentage",
-      "Text": "每次循环的故障发生几率 % "
-    },
-    {
-      "Identifier": "RealismSettings_ApolloRandomFailuresToggleFailures",
-      "Text": "开关故障"
-    },
-    {
-      "Identifier": "RealismSettings_GyroDriftTitle",
-      "Text": "陀螺漂移"
-    },
-    {
-      "Identifier": "RealismSettings_GyroDriftDesc",
-      "Text": "如果启用，陀螺仪会随着时间的推移累积错误并需要更正（登月舱不受影响，因为尚未为它开发 P52）"
-    },
-    {
-      "Identifier": "RealismSettings_CO2Title",
-      "Text": "二氧化碳罐更换"
-    },
-    {
-      "Identifier": "RealismSettings_CO2Desc",
-      "Text": "如果启用，您将需要按照程序手动更换二氧化碳罐。 指令舱和登月舱很快支持手动替换。"
-    },
-    {
-      "Identifier": "MainMenuButton_Launch",
-      "Text": "启动"
-    },
-    {
-      "Identifier": "Academy_Mercury_Lesson1",
-      "Text": "教程 1 - 发射前准备"
-    },
-    {
-      "Identifier": "Academy_Mercury_Lesson2",
-      "Text": "教程 2 - 发射和上升"
-    },
-    {
-      "Identifier": "Academy_Mercury_Lesson3",
-      "Text": "教程 3 - 检查清单和发射阿特拉斯"
-    },
-    {
-      "Identifier": "Academy_Mercury_Lesson4",
-      "Text": "教程 4 - 电力系统"
-    },
-    {
-      "Identifier": "Academy_Mercury_Lesson5",
-      "Text": "教程 5 - 高度控制"
-    },
-    {
-      "Identifier": "Academy_Mercury_Lesson6",
-      "Text": "教程 6 - 生命维持系统"
-    },
-    {
-      "Identifier": "Academy_Mercury_Lesson7",
-      "Text": "教程 7 - 任务序列器"
-    },
-    {
-      "Identifier": "Academy_Mercury_Exam",
-      "Text": "考试 - 完整任务"
-    },
-    {
-      "Identifier": "Academy_Mercury_VR",
-      "Text": "虚拟现实"
-    },
-    {
-      "Identifier": "Academy_Gemini_Lesson1",
-      "Text": "教程 1 - 发射前准备"
-    },
-    {
-      "Identifier": "Academy_Gemini_Lesson2",
-      "Text": "教程 2 - 上升"
-    },
-    {
-      "Identifier": "Academy_Gemini_Lesson3",
-      "Text": "教程 3 - 电力系统"
-    },
-    {
-      "Identifier": "Academy_Gemini_Lesson4",
-      "Text": "教程 4 - 导航系统"
-    },
-    {
-      "Identifier": "Academy_Gemini_Lesson5",
-      "Text": "教程 5 - 船载计算机"
-    },
-    {
-      "Identifier": "Academy_Gemini_Lesson6",
-      "Text": "教程 6 - 生命维持系统"
-    },
-    {
-      "Identifier": "Academy_Gemini_Lesson7",
-      "Text": "教程 7 - 任务序列器"
-    },
-    {
-      "Identifier": "Academy_Gemini_Lesson8",
-      "Text": "教程 8 - 离轨 & 再入"
-    },
-    {
-      "Identifier": "Academy_Gemini_Exam",
-      "Text": "考试 - 完整任务"
-    },
-    {
+  {
+    "Identifier": "ContextMenu_MainMenu",
+    "Text": "主菜单"
+  },
+  {
+    "Identifier": "ContextMenu_Academy",
+    "Text": "学院"
+  },
+  {
+    "Identifier": "ContextMenu_MissionControl",
+    "Text": "任务控制"
+  },
+  {
+    "Identifier": "ContextMenu_Profile",
+    "Text": "个人档案"
+  },
+  {
+    "Identifier": "ContextMenu_LoadState",
+    "Text": "加载状态"
+  },
+  {
+    "Identifier": "ContextMenu_Settings",
+    "Text": "设置"
+  },
+  {
+    "Identifier": "ContextMenu_Missions",
+    "Text": "任务"
+  },
+  {
+    "Identifier": "ContextMenu_Campaigns",
+    "Text": "任务系列"
+  },
+  {
+    "Identifier": "ContextMenu_Mercury",
+    "Text": "水星计划"
+  },
+  {
+    "Identifier": "ContextMenu_Gemini",
+    "Text": "双子座计划"
+  },
+  {
+    "Identifier": "ContextMenu_Apollo",
+    "Text": "阿波罗计划"
+  },
+  {
+    "Identifier": "ContextMenu_Credits",
+    "Text": "制作人员"
+  },
+  {
+    "Identifier": "ContextMenu_WorkshopMission",
+    "Text": "工坊任务"
+  },
+  {
+    "Identifier": "MainMenuItem_Academy",
+    "Text": "学院"
+  },
+  {
+    "Identifier": "MainMenuItem_Missions",
+    "Text": "任务"
+  },
+  {
+    "Identifier": "MainMenuItem_Campaigns",
+    "Text": "任务系列"
+  },
+  {
+    "Identifier": "MainMenuItem_LoadState",
+    "Text": "加载状态"
+  },
+  {
+    "Identifier": "MainMenuItem_MissionControl",
+    "Text": "任务控制"
+  },
+  {
+    "Identifier": "MainMenuItem_Challenges",
+    "Text": "挑战"
+  },
+  {
+    "Identifier": "MainMenuItem_Exhibitions",
+    "Text": "展览"
+  },
+  {
+    "Identifier": "MainMenuItem_Profile",
+    "Text": "个人档案"
+  },
+  {
+    "Identifier": "MainMenuItem_Settings",
+    "Text": "设置"
+  },
+  {
+    "Identifier": "MainMenuItem_Credits",
+    "Text": "制作人员"
+  },
+  {
+    "Identifier": "MainMenuItem_Workshop",
+    "Text": "工坊"
+  },
+  {
+    "Identifier": "MainMenuItem_Contribute",
+    "Text": "贡献翻译"
+  },
+  {
+    "Identifier": "MainMenuItem_DevJournal",
+    "Text": "开发日志"
+  },
+  {
+    "Identifier": "MainMenuItem_UpdateNotes",
+    "Text": "更新说明"
+  },
+  {
+    "Identifier": "MainMenuItem_Exit",
+    "Text": "退出"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonManuals",
+    "Text": "飞行手册（网页）"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonBasicTheory",
+    "Text": "基础理论"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonMercuryTutorials",
+    "Text": "水星计划课程"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonGeminiTutorials",
+    "Text": "双子座计划课程"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonApolloTutorials",
+    "Text": "阿波罗计划课程"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonLunarModuleTutorials",
+    "Text": "登月舱课程"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonSpaceShuttleTutorials",
+    "Text": "航天飞机课程"
+  },
+  {
+    "Identifier": "AcademyMenu_ButtonDiscord",
+    "Text": "加入我们的 Discord"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonMercury",
+    "Text": "水星计划"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonGemini",
+    "Text": "双子座计划"
+  },
+  {
+    "Identifier": "MissionsMenu_ButtonApollo",
+    "Text": "阿波罗计划"
+  },
+  {
+    "Identifier": "MissionsMenu_FreePlay",
+    "Text": "自由模式"
+  },
+  {
+    "Identifier": "MissionsMenu_Scenarios",
+    "Text": "场景"
+  },
+  {
+    "Identifier": "MissionsMenu_Historic",
+    "Text": "历史任务"
+  },
+  {
+    "Identifier": "MissionsMenu_MissionControlLive",
+    "Text": "任务控制直播"
+  },
+  {
+    "Identifier": "MissionsMenu_Custom",
+    "Text": "自定义任务"
+  },
+  {
+    "Identifier": "MissionsMenu_Create",
+    "Text": "创建新任务"
+  },
+  {
+    "Identifier": "ProgramInfo_Mercury",
+    "Text": "水星计划是美国首个载人航天计划，目标是将宇航员安全送入轨道并安全返回地球。"
+  },
+  {
+    "Identifier": "ProgramInfo_Gemini",
+    "Text": "双子座计划是美国第二个载人航天计划，常被称为通往月球的桥梁。"
+  },
+  {
+    "Identifier": "ProgramInfo_Apollo",
+    "Text": "阿波罗计划最终实现了人类登陆月球的壮举。"
+  },
+  {
+    "Identifier": "ProgramInfo_MCC",
+    "Text": "水星控制中心直播是一个多人模式，允许多个任务控制员共同支持一次水星任务。"
+  },
+  {
+    "Identifier": "ProgramInfo_MOCR",
+    "Text": "任务操作控制室直播允许多个任务控制员通过MOCR支持阿波罗任务。"
+  },
+  {
+    "Identifier": "Profile_PlayerName",
+    "Text": "玩家姓名"
+  },
+  {
+    "Identifier": "Profile_CapsuleName",
+    "Text": "太空舱名称"
+  },
+  {
+    "Identifier": "Profile_CharacterEditor",
+    "Text": "角色编辑器"
+  },
+  {
+    "Identifier": "Profile_FlightTime",
+    "Text": "飞行时长"
+  },
+  {
+    "Identifier": "Profile_Online",
+    "Text": "多人排行榜"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryAstonaut",
+    "Text": "水星宇航员"
+  },
+  {
+    "Identifier": "Profile_SkillCSMAstonaut",
+    "Text": "指令舱宇航员"
+  },
+  {
+    "Identifier": "Profile_SkillLMAstonaut",
+    "Text": "登月舱宇航员"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryController",
+    "Text": "水星控制员"
+  },
+  {
+    "Identifier": "Profile_SkillApolloController",
+    "Text": "阿波罗控制员"
+  },
+  {
+    "Identifier": "GeneralBackButton",
+    "Text": "返回"
+  },
+  {
+    "Identifier": "Settings_Effects",
+    "Text": "图像"
+  },
+  {
+    "Identifier": "Settings_Language",
+    "Text": "语言"
+  },
+  {
+    "Identifier": "Settings_RealismSettings",
+    "Text": "真实度设置"
+  },
+  {
+    "Identifier": "Settings_Checklists",
+    "Text": "检查单"
+  },
+  {
+    "Identifier": "Settings_ChecklistsDesc",
+    "Text": "警告：此操作将所有默认检查单重置为出厂设置。如果您对默认检查单做过任何修改，请先创建备份。\n您自己的检查单将不受影响。"
+  },
+  {
+    "Identifier": "Settings_ResetDefaultChecklists",
+    "Text": "重置默认检查单"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoChecklistReset",
+    "Text": "自动检查默认检查单的更改。"
+  },
+  {
+    "Identifier": "Settings_CameraPoints",
+    "Text": "摄像机位"
+  },
+  {
+    "Identifier": "Settings_CameraPointsDesc",
+    "Text": "驾驶舱摄像机视角/快照点已复制到(Reentry持久数据路径，位于AppData下)/Cameras。此文件可修改以自定义每个摄像机位。建议随游戏更新同步更新此文件，因为新增功能可能会添加新的摄像机位或更改现有的摄像机位。\n\n警告：此操作将所有默认摄像机快照点重置为出厂设置。如果您对这些做过任何修改，请先创建备份，并在更新后合并回新文件。"
+  },
+  {
+    "Identifier": "Settings_ResetDefaultCameraPoints",
+    "Text": "重置摄像机位"
+  },
+  {
+    "Identifier": "Settings_ToggleAutoCameraReset",
+    "Text": "自动检查默认摄像机位的更改。"
+  },
+  {
+    "Identifier": "Settings_PanelStates",
+    "Text": "面板状态"
+  },
+  {
+    "Identifier": "Settings_PanelStatesDesc",
+    "Text": "警告：此操作将所有默认面板状态重置为出厂设置。如果您对默认面板状态做过任何修改，请先创建备份。\n您自己的面板状态将不受影响。"
+  },
+  {
+    "Identifier": "Settings_PanelStatesReset",
+    "Text": "重置默认面板状态"
+  },
+  {
+    "Identifier": "Settings_InputControls",
+    "Text": "输入控制（键盘、鼠标、摇杆）"
+  },
+  {
+    "Identifier": "Settings_EarthTextures",
+    "Text": "地球纹理"
+  },
+  {
+    "Identifier": "Settings_MoonTextures",
+    "Text": "月球纹理"
+  },
+  {
+    "Identifier": "Settings_AnalyticsCollection",
+    "Text": "数据分析"
+  },
+  {
+    "Identifier": "Settings_Audio",
+    "Text": "音频"
+  },
+  {
+    "Identifier": "Settings_AudioMusic",
+    "Text": "音乐"
+  },
+  {
+    "Identifier": "Settings_AudioSFX",
+    "Text": "音效"
+  },
+  {
+    "Identifier": "Settings_AudioCabinNoise",
+    "Text": "舱内环境噪音"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableSFXDSKYRelayClicking",
+    "Text": "DSKY 继电器咔嗒声"
+  },
+  {
+    "Identifier": "Settings_TrackIR",
+    "Text": "TrackIR"
+  },
+  {
+    "Identifier": "Settings_Autosave",
+    "Text": "自动保存"
+  },
+  {
+    "Identifier": "Settings_AutosaveDesc",
+    "Text": "这将自动保存任务中的关键节点，如入轨、月球影响球、动力下降点火等时刻。"
+  },
+  {
+    "Identifier": "Settings_ToggleAutosave",
+    "Text": "启用自动保存"
+  },
+  {
+    "Identifier": "Settings_ToggleTrackIR",
+    "Text": "使用 NaturalPoint TrackIR"
+  },
+  {
+    "Identifier": "Settings_VirtualReality",
+    "Text": "虚拟现实（实验性功能）"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityDesc",
+    "Text": ""
+  },
+  {
+    "Identifier": "Settings_VirtualRealityGaze",
+    "Text": "VR鼠标光标是我正在开发的全新功能。此模式将禁用VR运动控制器，改用鼠标光标结合视线方向来操作驾驶舱面板和UI。目前UI检测效果还不够理想，这也是我当前的重点改进方向。"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVirtualReality",
+    "Text": "启用 VR"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRBurnHaptics",
+    "Text": "发动机点火时启用VR控制器震动"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRGazeCursor",
+    "Text": "使用VR鼠标光标替代运动控制器"
+  },
+  {
+    "Identifier": "Settings_ToggleEnableVRSubtitles",
+    "Text": "任务对话显示为字幕"
+  },
+  {
+    "Identifier": "Settings_Data",
+    "Text": "数据"
+  },
+  {
+    "Identifier": "Settings_DataDesc",
+    "Text": "警告：此操作将清除所有用户数据，包括设置、进度、太空时长等，且不可恢复。"
+  },
+  {
+    "Identifier": "Settings_ClearData",
+    "Text": "清除所有玩家数据"
+  },
+  {
+    "Identifier": "Settings_OutputLive",
+    "Text": "计算机输出实时数据流"
+  },
+  {
+    "Identifier": "Settings_OutputLiveDesc",
+    "Text": "此功能将实时导出OBC、AGC和LGC面板数据到Exports文件夹（位于Reentry的AppData文件夹中）。可用于在外部设备（如物联网设备）上显示数据。"
+  },
+  {
+    "Identifier": "Settings_ToggleOutputLive",
+    "Text": "启用实时数据流"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursor",
+    "Text": "驾驶舱光标"
+  },
+  {
+    "Identifier": "Settings_Toggle3DClouds",
+    "Text": "启用实验性3D云层"
+  },
+  {
+    "Identifier": "Settings_FunctionalCursorDesc",
+    "Text": "驾驶舱光标将替换鼠标光标，并提供游戏内功能，例如悬停在开关上时变色。缺点是其将在正常渲染循环中渲染。"
+  },
+  {
+    "Identifier": "Settings_ToggleFunctionalCursor",
+    "Text": "启用驾驶舱光标"
+  },
+  {
+    "Identifier": "Settings_Configure",
+    "Text": "配置"
+  },
+  {
+    "Identifier": "Settings_ResetControls",
+    "Text": "重置为默认"
+  },
+  {
+    "Identifier": "MissionControlLive_MCC",
+    "Text": "水星控制中心"
+  },
+  {
+    "Identifier": "MissionControlLive_MOCR",
+    "Text": "阿波罗任务控制"
+  },
+  {
+    "Identifier": "MissionControlLive_LFG",
+    "Text": "在 Discord 寻找队友"
+  },
+  {
+    "Identifier": "GraphicsSettings_Title",
+    "Text": "图像设置"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityTitle",
+    "Text": "反射探针质量"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityDesc",
+    "Text": "反射探针用于渲染所有类型的反射效果，从轨道上行星投射的反射光（常规探针），到仪表、窗户和反光材料中的驾驶舱内部反射（关键探针）。它们对系统性能消耗很大。\n如果使用较低的更新频率，建议同时关闭窗户眩光效果。"
+  },
+  {
+    "Identifier": "GraphicsSettings_ProbeQualityInfo",
+    "Text": "关闭：所有反射探针将被关闭\n低：关键探针将在十四帧内更新，最高分辨率：256\n中：关键探针将在九帧内更新，最高分辨率：512\n高：关键探针将在单帧内更新\n极致：测试中，逻辑与高相同\n测试模式：所有探针将在单帧内更新"
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingTitle",
+    "Text": "后处理"
+  },
+  {
+    "Identifier": "GraphicsSettings_PostProcessingDesc",
+    "Text": "多种后处理效果用于提升视觉体验。它们需要消耗一些GPU和CPU资源，如果以提高帧率为优先（或不喜欢这些效果），可以考虑关闭。效果包括泛光、色调映射、环境光遮蔽等。"
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAOTitle",
+    "Text": "屏幕空间环境光遮蔽增强版"
+  },
+  {
+    "Identifier": "GraphicsSettings_SSAODesc",
+    "Text": "增强型SSAO用于在狭窄几何空间（如角落、孔洞等）中渲染阴影和暗部。如果需要在其他地方节省性能，可考虑关闭此选项。"
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareTitle",
+    "Text": "渲染主窗眩光"
+  },
+  {
+    "Identifier": "GraphicsSettings_WindowGlareDesc",
+    "Text": "此项将在驾驶舱主窗户上渲染内部反射。驾驶舱越暗，反射越不明显。因此，如果执行需要观察窗外的关键任务，建议关闭舱内灯光。\n如果上方的反射探针设置为较级别（除关闭外），建议关闭此选项，因为反射会有更新延迟。"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelTitle",
+    "Text": "渲染乘员模型"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderCrewModelDesc",
+    "Text": "启用此选项将在CSM和LM内渲染乘员的3D模型。水星和双子座模型，以及逼真的面部/头像生成器正在开发中。"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksTitle",
+    "Text": "渲染月球岩石"
+  },
+  {
+    "Identifier": "GraphicsSettings_RenderLunarRocksDesc",
+    "Text": "月球岩石是下降最后阶段的一部分，渲染在月球表面。这对某些系统来说消耗较大，如果运行缓慢，请尝试取消勾选此选项。"
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesTitle",
+    "Text": "渲染月球车车轮粒子"
+  },
+  {
+    "Identifier": "GraphicsSettings_LRVWheelParticlesDesc",
+    "Text": "驾驶月球车时，车轮会扬起沙尘，通过粒子系统模拟。这可能消耗较大，如果驾驶时运行缓慢，请尝试取消勾选此选项。"
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorTitle",
+    "Text": "指令舱内饰"
+  },
+  {
+    "Identifier": "GraphicsSettings_CMInteriorDesc",
+    "Text": "指令舱内饰升级将替换现有的低多边形内饰。面板保持不变，但内饰将更加逼真，同时渲染消耗也更高。"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationTitle",
+    "Text": "月球曲面细分"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellationDesc",
+    "Text": "在月球轨道时，一种名为曲面细分（Tessellation）的方法生成月球表面细节。此过程在GPU上完成，渲染消耗较大。三个参数控制曲面细分：因子、最小距离和最大距离。\n因子定义细分程度，常用值为1、8、16、32等。最小和最大距离定义了细分范围。距离小于最小距离的物体将100%细分，距离大于最大距离的物体将0%细分。介于两者之间的将按插值进行细分。"
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_Factor",
+    "Text": "因子："
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MinDist",
+    "Text": "最小距离："
+  },
+  {
+    "Identifier": "GraphicsSettings_MoonTessellation_MaxDist",
+    "Text": "最大距离："
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BTitle",
+    "Text": "阿波罗：渲染高精度39A发射台"
+  },
+  {
+    "Identifier": "GraphicsSettings_HighendLC39BDesc",
+    "Text": "此项将以超高精细度模型渲染阿波罗39A发射复合体。"
+  },
+  {
+    "Identifier": "RealismSettings_Title",
+    "Text": "真实度与辅助设置"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterTitle",
+    "Text": "开关悬停高亮"
+  },
+  {
+    "Identifier": "RealismSettings_SwitchHighlighterDesc",
+    "Text": "启用后，将在鼠标光标悬停的仪表或开关周围绘制一个方框。"
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorTitle",
+    "Text": "屏幕外开关指示"
+  },
+  {
+    "Identifier": "RealismSettings_OffscreenSwitchIndicatorDesc",
+    "Text": "启用后，若高亮开关位于玩家视角之外，将在其方向绘制指示标记。"
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistTitle",
+    "Text": "检查单自动推进"
+  },
+  {
+    "Identifier": "RealismSettings_AutoProceedChecklistDesc",
+    "Text": "使用检查单的自动执行功能时，向导将自动推进直到遇到需要您注意的步骤。如果禁用，您需要手动按继续按钮前进到下一步。"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingTitle",
+    "Text": "简化交会与变轨"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedDockingDesc",
+    "Text": "启用后，当系统检测到累积误差或目标偏移时，将提供一些自动制导修正，使交会和轨道机动变轨更简单。建议保持开启，尤其是在制导计算机尚处早期阶段时。游戏逻辑在关键节点可覆盖此设置。"
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeTitle",
+    "Text": "减少阿波罗发射相机抖动"
+  },
+  {
+    "Identifier": "RealismSettings_ReduceApolloLaunchShakeDesc",
+    "Text": "启用后将减少阿波罗土星五号上升阶段（S-IC和S-II）的相机抖动。"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleTitle",
+    "Text": "显示月球着陆点标志旗"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingPoleDesc",
+    "Text": "启用后，进入月球着陆区域时将在选定着陆点显示旗杆。"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionTitle",
+    "Text": "自动面向月球着陆点"
+  },
+  {
+    "Identifier": "RealismSettings_LunarLandingDirectionDesc",
+    "Text": "启用后，进入月球着陆区域时将自动调整登月舱朝向着陆点方向。"
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresTitle",
+    "Text": "随机故障：水星"
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
+    "Text": "启用后，在允许随机故障的任务（自由模式或自定义任务）中，系统将每隔25至35分钟（一个周期）进行一次判定，有一定概率触发随机故障。您可以在下方配置每个周期发生故障的概率，以及希望排除的故障类型。请注意，您可以在游戏中使用故障控制台命令手动触发故障。"
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresPercentage",
+    "Text": "每个周期发生故障的概率百分比。"
+  },
+  {
+    "Identifier": "RealismSettings_MercuryRandomFailuresToggleFailures",
+    "Text": "切换故障列表"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresTitle",
+    "Text": "随机故障：双子座"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresDesc",
+    "Text": "启用后，在允许随机故障的任务（自由模式或自定义任务）中，系统将每隔25至35分钟（一个周期）进行一次判定，有一定概率触发随机故障。您可以在下方配置每个周期发生故障的概率，以及希望排除的故障类型。请注意，您可以在游戏中使用故障控制台命令手动触发故障。"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresPercentage",
+    "Text": "每个周期发生故障的概率百分比。"
+  },
+  {
+    "Identifier": "RealismSettings_GeminiRandomFailuresToggleFailures",
+    "Text": "切换故障列表"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresTitle",
+    "Text": "随机故障：阿波罗"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresDesc",
+    "Text": "启用后，在允许随机故障的任务（自由模式或自定义任务）中，系统将每隔25至35分钟（一个周期）进行一次判定，有一定概率触发随机故障。您可以在下方配置每个周期发生故障的概率，以及希望排除的故障类型。请注意，您可以在游戏中使用故障控制台命令手动触发故障。"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresPercentage",
+    "Text": "每个周期发生故障的概率百分比。"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloRandomFailuresToggleFailures",
+    "Text": "切换故障列表"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftTitle",
+    "Text": "陀螺漂移"
+  },
+  {
+    "Identifier": "RealismSettings_GyroDriftDesc",
+    "Text": "启用后，陀螺仪会随时间累积误差，需要手动校正（暂不影响登月舱，因其P52功能尚未开发完成）。"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Title",
+    "Text": "二氧化碳滤罐更换"
+  },
+  {
+    "Identifier": "RealismSettings_CO2Desc",
+    "Text": "启用后，您需要按照程序手动更换二氧化碳滤罐。指令舱已支持手动更换，登月舱即将支持。"
+  },
+  {
+    "Identifier": "RealismSettings_RequireOceanLanding",
+    "Text": "强制海洋溅落"
+  },
+  {
+    "Identifier": "RealismSettings_RequireOceanLandingDesc",
+    "Text": "启用此设置后，任务要求必须在海洋中溅落着陆（而非陆地）才能完成任务。"
+  },
+  {
+    "Identifier": "MainMenuButton_Launch",
+    "Text": "发射"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson1",
+    "Text": "第1课 - 发射前准备"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson2",
+    "Text": "第2课 - 发射与上升"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson3",
+    "Text": "第3课 - 检查单与宇宙神火箭"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson4",
+    "Text": "第4课 - 电力系统"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson5",
+    "Text": "第5课 - 姿态控制"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson6",
+    "Text": "第6课 - 生命维持"
+  },
+  {
+    "Identifier": "Academy_Mercury_Lesson7",
+    "Text": "第7课 - 序列器"
+  },
+  {
+    "Identifier": "Academy_Mercury_Exam",
+    "Text": "考试 - 完整任务"
+  },
+  {
+    "Identifier": "Academy_Mercury_VR",
+    "Text": "虚拟现实"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson1",
+    "Text": "第1课 - 发射前准备"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson2",
+    "Text": "第2课 - 上升"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson3",
+    "Text": "第3课 - 电力系统！"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson4",
+    "Text": "第4课 - 导航！"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson5",
+    "Text": "第5课 - 计算机"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson6",
+    "Text": "第6课 - 生命保障"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson7",
+    "Text": "第7课 - 序列器"
+  },
+  {
+    "Identifier": "Academy_Gemini_Lesson8",
+    "Text": "第8课 - 离轨与再入"
+  },
+  {
+    "Identifier": "Academy_Gemini_Exam",
+    "Text": "考试 - 完整任务"
+  },
+  {
     "Identifier": "Academy_Gemini_Lesson10",
-    "Text": "教程 10 - 机动和燃烧"
-    },
-    {
-      "Identifier": "Academy_CSM_TheBasics",
-      "Text": "基础"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson1",
-      "Text": "教程 1 - 发射前准备"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson2",
-      "Text": "教程 2 - 发射升空"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson3",
-      "Text": "教程 3 - 电力系统"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson4",
-      "Text": "教程 4 - RCS姿态控制系统"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson5",
-      "Text": "教程 5 - 船载计算机"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson6",
-      "Text": "教程 6 - 推进部分"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson7",
-      "Text": "教程 7 - AGC 和自动机动"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson8",
-      "Text": "教程 8 - 助推器燃烧计划"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson9",
-      "Text": "教程 9 - 再入大气层"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson10",
-      "Text": "教程 10 - 变轨和对接"
-    },
-    {
-      "Identifier": "Academy_CSM_Exam",
-      "Text": "考试: 完整指令-服务舱任务"
-    },
-    {
-      "Identifier": "Academy_CSM_AdvancedTopics",
-      "Text": "进阶教程"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson11",
-      "Text": "教程 11 - 月球转移轨道"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson12",
-      "Text": "教程 12 - 光学系统"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson13",
-      "Text": "教程 13 - 地球转移轨道"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson14",
-      "Text": "教程 14 - 环境控制系统: 氧气"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson15",
-      "Text": "教程 15 - 环境控制系统: PSC"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson16",
-      "Text": "教程 16 - 环境控制系统: 水"
-    },
-    {
-      "Identifier": "Academy_CSM_Lesson17",
-      "Text": "教程 17 - 环境控制系统: 乙二醇"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson1",
-      "Text": "教程 1 - 进入登月舱"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson2",
-      "Text": "教程 2 - 启动登月舱"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson3",
-      "Text": "教程 3 - 电力系统"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson4",
-      "Text": "教程 4 - 反应控制"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson5",
-      "Text": "教程 5 - 辅助计算机"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson6",
-      "Text": "教程 6 - 飞行模式"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson7",
-      "Text": "教程 7 - 下降引擎"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson8",
-      "Text": "教程 8 - 雷达"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson9",
-      "Text": "教程 9 - 脱离指令舱"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson10",
-      "Text": "教程 10 - 下降"
-    },
-    {
-      "Identifier": "Academy_LM_Exam",
-      "Text": "考试: 月面着陆"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson11",
-      "Text": "教程 11 - 环境控制系统"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson12",
-      "Text": "教程 12 - 上升和对接"
-    },
-    {
-      "Identifier": "Academy_LM_Lesson13",
-      "Text": "教程 13 - 月面停留与舱外活动"
-    },
-    {
-      "Identifier": "ChallengeAccepted",
-      "Text": "已接受挑战"
-    },
-    {
-      "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone",
-      "Text": "水星计划-红石"
-    },
-    {
-      "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas",
-      "Text": "水星计划-大力神"
-    },
-    {
-      "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone_CnD",
-      "Text": "水星计划-红石 - 发射前倒计时90秒 (C & D)"
-    },
-    {
-      "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas_CnD",
-      "Text": "水星计划-大力神 - 发射前倒计时90秒(C & D)"
-    },
-    {
-      "Identifier": "MissionsMenu_Mercury_Historic_MR3",
-      "Text": "水星计划-红石 3"
-    },
-    {
-      "Identifier": "MissionsMenu_Mercury_Historic_MR4",
-      "Text": "水星计划-红石 4"
-    },
-    {
-      "Identifier": "MissionsMenu_Mercury_Historic_MA6",
-      "Text": "水星计划-大力神 6"
-    },
-    {
-      "Identifier": "MissionsMenu_Gemini_FreePlay_IngressPad",
-      "Text": "双子星计划 泰坦 - 飞行前倒计时10秒 (T-10)"
-    },
-    {
-      "Identifier": "MissionsMenu_Gemini_FreePlay_Orbit",
-      "Text": "双子星计划 泰坦 (在轨飞行)"
-    },
-    {
-      "Identifier": "MissionsMenu_Gemini_FreePlay_CnD",
-      "Text": "双子星计划 泰坦 - C&D（发射前倒计时90秒） "
-    },
-    {
-      "Identifier": "MissionsMenu_Gemini_Scenario1",
-      "Text": "I - 双子星计划 会合"
-    },
-    {
-      "Identifier": "MissionsMenu_Gemini_Scenario2",
-      "Text": "II - AGENA 对接"
-    },
-    {
-      "Identifier": "MissionsMenu_Gemini_Scenario3",
-      "Text": "III - 会合燃烧训练"
-    },
-    {
-      "Identifier": "MissionsMenu_Gemini_Scenario4",
-      "Text": "IV - 对接训练"
-    },
-    {
-      "Identifier": "MissionsMenu_Gemini_HistoricGT3",
-      "Text": "GT-3: 救援任务"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_FreePlay_T2h",
-      "Text": "土星 V 号 - 冷舱 - 地面成员 (前4小时)"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_BackupCrewIngress",
-      "Text": "土星 V 号 - 后备成员进入 (前2小时)"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_PrimeCrewIngress",
-      "Text": "土星 V 号 - 主要成员进入 (前1小时)"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_FreePlay_T25m",
-      "Text": "土星 V 号 - 发射 (前25分钟)"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_FreePlay_EarthOrbit",
-      "Text": "指令-服务舱/SIVB 位于地球轨道"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_FreePlay_LMOrbit",
-      "Text": "登月舱 (C&D) 位于地球轨道"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_Scenario1",
-      "Text": "I - 月球转移轨道"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_Scenario2",
-      "Text": "II - 月球轨道交会"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_Scenario3",
-      "Text": "III - 地球轨道交会"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_Scenario4",
-      "Text": "IV - 登月舱脱离"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_Scenario5",
-      "Text": "V - 动力下降和登月"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_Scenario6",
-      "Text": "VI - 月面停留和上升"
-    },
-    {
-      "Identifier": "MissionsMenu_Apollo_Scenario7",
-      "Text": "VII - 回家"
-    },
-    {
+    "Text": "第9课 - 机动与变轨"
+  },
+  {
+    "Identifier": "Academy_CSM_TheBasics",
+    "Text": "基础入门"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson1",
+    "Text": "第1课 - 发射前准备"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson2",
+    "Text": "第2课 - 助推升空"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson3",
+    "Text": "第3课 - 电力系统"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson4",
+    "Text": "第4课 - 反作用控制系统"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson5",
+    "Text": "第5课 - 计算机"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson6",
+    "Text": "第6课 - 服务推进系统"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson7",
+    "Text": "第7课 - AGC与自动机动"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson8",
+    "Text": "第8课 - SPS变轨规划"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9",
+    "Text": "第9A课 - 大气层再入"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson10",
+    "Text": "第10课 - 转移与对接"
+  },
+  {
+    "Identifier": "Academy_CSM_Exam",
+    "Text": "考试：完整地球任务"
+  },
+  {
+    "Identifier": "Academy_CSM_AdvancedTopics",
+    "Text": "进阶主题"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson11",
+    "Text": "第11课 - 地月转移轨道注入"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson12",
+    "Text": "第12课 - 光学系统"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson13",
+    "Text": "第13课 - 返回地球轨道注入"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson14",
+    "Text": "第14课 - 环境控制系统：氧气"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson15",
+    "Text": "第15课 - 环境控制系统：PSC"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson16",
+    "Text": "第16课 - 环境控制系统：水"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson17",
+    "Text": "第17课 - 环境控制系统：乙二醇"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson1",
+    "Text": "第1课 - 进入登月舱"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson2",
+    "Text": "第2课 - 激活"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson3",
+    "Text": "第3课 - 电力系统"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson4",
+    "Text": "第4课 - 反作用控制"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson5",
+    "Text": "第5课 - 制导计算机"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson6",
+    "Text": "第6课 - 飞行模式"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson7",
+    "Text": "第7课 - 下降发动机"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson8",
+    "Text": "第8课 - 雷达"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson9",
+    "Text": "第9课 - 分离"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson10",
+    "Text": "第10课 - 下降"
+  },
+  {
+    "Identifier": "Academy_LM_Exam",
+    "Text": "考试：月球着陆"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson11",
+    "Text": "第11课 - 环境控制系统"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson12",
+    "Text": "第12课 - 上升与对接"
+  },
+  {
+    "Identifier": "Academy_LM_Lesson13",
+    "Text": "第13课 - 月面停留与舱外活动"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson1",
+    "Text": "第1课 - 进入航天飞机"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson2",
+    "Text": "第2课 - 发射前准备"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson3",
+    "Text": "第3课 - 上升"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson4",
+    "Text": "第4课 - OMS-2"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson5",
+    "Text": "第5课 - 入轨后"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson6",
+    "Text": "第6课 - DPS概述"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson7",
+    "Text": "第7课 - MEDS与DPS"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson8",
+    "Text": "第8课 - DPS操作"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson9",
+    "Text": "第9课 - 电力系统"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson10",
+    "Text": "第10课 - 反作用控制系统"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson11",
+    "Text": "第11课 - 制导、导航与控制"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson18",
+    "Text": "第18课 - 加拿大机械臂"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson19",
+    "Text": "第19课 - 有效载荷"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson20",
+    "Text": "第20课 - 离轨准备"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson21",
+    "Text": "第21课 - 离轨点火"
+  },
+  {
+    "Identifier": "Academy_Shuttle_Lesson22",
+    "Text": "第22课 - 再入至着陆"
+  },
+  {
+    "Identifier": "ChallengeAccepted",
+    "Text": "接受挑战"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone",
+    "Text": "水星-红石火箭"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas",
+    "Text": "水星-宇宙神火箭"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Redstone_CnD",
+    "Text": "水星-红石火箭 - T-90（冷暗状态）"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_FreePlay_Atlas_CnD",
+    "Text": "水星-宇宙神火箭 - T-90（冷暗状态）"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR3",
+    "Text": "水星-红石3号"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MR4",
+    "Text": "水星-红石4号"
+  },
+  {
+    "Identifier": "MissionsMenu_Mercury_Historic_MA6",
+    "Text": "水星-宇宙神6号"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_IngressPad",
+    "Text": "双子座-大力神 - 发射前（T-10）"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_Orbit",
+    "Text": "双子座-大力神（在轨）"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_FreePlay_CnD",
+    "Text": "双子座-大力神 - 检查与交付阶段（T-90）"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario1",
+    "Text": "I - 双子座交会"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario2",
+    "Text": "II - 阿金纳对接"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario3",
+    "Text": "III - 交会变轨训练"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_Scenario4",
+    "Text": "IV - 对接训练"
+  },
+  {
+    "Identifier": "MissionsMenu_Gemini_HistoricGT3",
+    "Text": "GT-3：莫莉·布朗号"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T2h",
+    "Text": "土星五号 - 冷暗状态 - 地面人员（T-4h）"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_BackupCrewIngress",
+    "Text": "土星五号 - 备用乘员进舱（T-2h）"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_SLV_PrimeCrewIngress",
+    "Text": "土星五号 - 主乘员进舱（T-1h）"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_T25m",
+    "Text": "土星五号 - 发射（T-25m）"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_EarthOrbit",
+    "Text": "CSM/S-IVB 在地球轨道"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_FreePlay_LMOrbit",
+    "Text": "登月舱（检查与交付阶段）在地球轨道"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario1",
+    "Text": "I - 地月转移轨道注入"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario2",
+    "Text": "II - 月球轨道注入"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario3",
+    "Text": "III - 返回地球轨道注入"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario4",
+    "Text": "IV - 登月舱分离"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario5",
+    "Text": "V - 动力下降与月球着陆"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario6",
+    "Text": "VI - 月面停留与上升"
+  },
+  {
+    "Identifier": "MissionsMenu_Apollo_Scenario7",
+    "Text": "VII - 返航 coasting"
+  },
+  {
     "Identifier": "MissionsMenu_Apollo_Scenario8",
     "Text": "VIII - 再入"
-    },
-    {
+  },
+  {
     "Identifier": "RealismSettings_HideChecklistHighlighter",
-    "Text": "隐藏 打开高亮提示"
-    },
-    {
+    "Text": "隐藏开关高亮框"
+  },
+  {
     "Identifier": "RealismSettings_HideChecklistHighlighterDesc",
-    "Text": "选择此项目将会在检查单或者任务指挥时关闭高亮提示."
-    },
-    {
+    "Text": "启用后将隐藏检查单或任务命令高亮开关时显示的方框。"
+  },
+  {
     "Identifier": "Settings_TTS",
-    "Text": "朗读文本"
-    },
-    {
+    "Text": "文字转语音"
+  },
+  {
     "Identifier": "RealismSettings_DisableGLoad",
-    "Text": "禁用 重力过载"
+    "Text": "禁用过载"
   },
   {
     "Identifier": "RealismSettings_DisableGLoadDesc",
-    "Text": "开/关 再入和上升过程中由于重力过载对于飞船结构的损伤甚至任务失败."
+    "Text": "启用后将禁用因再入和上升期间过载导致的结构损坏和游戏结束。"
+  },
+  {
+    "Identifier": "Academy_LM_FlightSchool",
+    "Text": "视频：太空飞行学院 - 登月舱（YouTube）"
+  },
+  {
+    "Identifier": "Academy_CM_FlightSchool",
+    "Text": "视频：太空飞行学院 - 指令舱（YouTube）"
+  },
+  {
+    "Identifier": "Academy_Gemini_FlightSchool",
+    "Text": "视频：太空飞行学院 - 双子座（YouTube）"
+  },
+  {
+    "Identifier": "Academy_Mercury_FlightSchool",
+    "Text": "视频：太空飞行学院 - 水星（YouTube）"
+  },
+  {
+    "Identifier": "Academy_Theory_FlightSchool",
+    "Text": "太空飞行学院（视频，YouTube）"
+  },
+  {
+    "Identifier": "Academy_Videos",
+    "Text": "视频"
+  },
+  {
+    "Identifier": "Academy_Lessons",
+    "Text": "课程"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecay",
+    "Text": "启用轨道衰减"
+  },
+  {
+    "Identifier": "RealismSettings_EnableOrbitalDecayDesc",
+    "Text": "启用轨道衰减（仅测试阶段，仅水星计划），轨道将根据大气阻力衰减。"
+  },
+  {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarm",
+    "Text": "主警报时暂停时间加速"
+  },
+  {
+    "Identifier": "RealismSettings_StopTimescaleWhenMasterAlarmDesc",
+    "Text": "主警报（阿波罗）激活时将暂停时间加速。"
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotation",
+    "Text": "启用顺向旋转"
+  },
+  {
+    "Identifier": "RealismSettings_EnableProgradeRotationDesc",
+    "Text": "在轨道上时，航天器将自动保持顺向方向旋转。"
+  },
+  {
+    "Identifier": "Settings_LanguageContribute",
+    "Text": "所有翻译均由社区贡献，且大多为部分翻译。如果您希望参与语言翻译，请查看主菜单上的贡献页面。"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityMoved",
+    "Text": "注意：VR已迁移——全新的VR实现正在开发中！现有的初步VR支持已移至名为Virtual Reality的独立分支。基于初步阶段经验开发的全新VR实现将替换旧的实现。旧的实现将被废弃。"
+  },
+  {
+    "Identifier": "Settings_AlphaFeatures",
+    "Text": "Alpha 功能"
+  },
+  {
+    "Identifier": "Settings_AlphaFeaturesDesc",
+    "Text": "Alpha功能是当前处于开发初期的各种功能和游戏模式。您可以在此部分选择启用这些功能。这些功能目前处于研发阶段。您可以在主菜单的路线图部分阅读关于每个功能的详细介绍。\n如果您在Steam测试版选项卡的ALPHA-FLOOR分支上运行任何版本，所有这些功能将自动启用。\n\n注意：对此列表的更改需要重启游戏。"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MCC",
+    "Text": "多人：水星任务控制"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_MOCR",
+    "Text": "多人：阿波罗任务控制"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Challenges",
+    "Text": "挑战游戏模式"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_VR",
+    "Text": "虚拟现实"
+  },
+  {
+    "Identifier": "Settings_AlphaFeature_Workshop",
+    "Text": "工坊"
+  },
+  {
+    "Identifier": "GeneralCloseButton",
+    "Text": "关闭"
+  },
+  {
+    "Identifier": "MainMenuItem_Roadmap",
+    "Text": "开发路线图"
+  },
+  {
+    "Identifier": "Settings_EnableQuindarNoise",
+    "Text": "播放 Quindar 音调（收到消息时）"
+  },
+  {
+    "Identifier": "MainMenuItem_Career",
+    "Text": "职业生涯"
+  },
+  {
+    "Identifier": "SwitchCraftButton",
+    "Text": "航天器选择"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryFlightDirector",
+    "Text": "水星飞行主管"
+  },
+  {
+    "Identifier": "Profile_SkillMercuryCapCom",
+    "Text": "水星 CAPCOM"
+  },
+  {
+    "Identifier": "Profile_SkillApolloFlightDirector",
+    "Text": "阿波罗飞行主管"
+  },
+  {
+    "Identifier": "Profile_SkillApolloCapCom",
+    "Text": "阿波罗 CAPCOM"
+  },
+  {
+    "Identifier": "Profile_InsigniaPath",
+    "Text": "自定义徽章图像路径（.png）"
+  },
+  {
+    "Identifier": "Rank_CandidateSpaced",
+    "Text": "候 选 人"
+  },
+  {
+    "Identifier": "Rank_FlightGraduateSpaced",
+    "Text": "飞 行\n毕 业 生"
+  },
+  {
+    "Identifier": "Rank_EngineerSpaced",
+    "Text": "控 制\n工 程 师"
+  },
+  {
+    "Identifier": "Rank_MissionControllerSpaced",
+    "Text": "任 务\n控 制 员"
+  },
+  {
+    "Identifier": "Rank_CapComSpaced",
+    "Text": "太 空 舱\n通 讯 员"
+  },
+  {
+    "Identifier": "Rank_FlightDirSpaced",
+    "Text": "飞 行\n主 管"
+  },
+  {
+    "Identifier": "Rank_CapComGraduateSpaced",
+    "Text": "太 空 舱 通 讯\n毕 业 生"
+  },
+  {
+    "Identifier": "Settings_VirtualRealityInput",
+    "Text": "VR 输入绑定"
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Title",
+    "Text": "默认检查单有可用更新"
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Desc",
+    "Text": "默认检查单的更新已可用，准备安装。执行此操作后，您对默认检查单所做的任何修改都将被覆盖，请在继续前做好备份。\n\n要安装这些更改，您可以按设置中的重置默认检查单按钮，或按下方的安装。\n\n注意：如果您对任何默认检查单进行了修改，此消息将会显示。建议您在设置中取消勾选自动检查检查单更改以禁用此消息，并手动使用重置默认检查单功能。"
+  },
+  {
+    "Identifier": "AutoUpdateChecklist_Install",
+    "Text": "安装"
+  },
+  {
+    "Identifier": "GameTips_Tip1",
+    "Text": "您可以使用控制台命令 sp 或 setsunphase 来修改太阳相位/位置。"
+  },
+  {
+    "Identifier": "GameTips_Tip2",
+    "Text": "如果您有反馈意见，请访问我们的官方 Discord 频道 discord.gg/reentrygame"
+  },
+  {
+    "Identifier": "GameTips_Tip3",
+    "Text": "避免将时间加速设置为 500 倍以上，以免在内部系统中累积误差。"
+  },
+  {
+    "Identifier": "GameTips_Tip4",
+    "Text": "文字转语音系统可以实时朗读任务消息和课程说明。您可以在设置中开关此功能。"
+  },
+  {
+    "Identifier": "GameTips_Tip5",
+    "Text": "欢迎每一位虚拟宇航员加入我们的 Discord 服务器（discord.gg/reentrygame）官方重返大气层社区！"
+  },
+  {
+    "Identifier": "GameTips_Tip6",
+    "Text": "重返大气层支持的每艘航天器都有飞行手册。建议您熟悉这些手册。您可以在学院部分找到它们。"
+  },
+  {
+    "Identifier": "GameTips_Tip7",
+    "Text": "我们经常招募新的试飞员（TP）！试飞员平台是 Discord，是官方重返大气层 Discord 频道（discord.gg/reentrygame）的一部分。"
+  },
+  {
+    "Identifier": "GameTips_Tip8",
+    "Text": "您可以使用检查单编辑器创建自己的检查单或修改现有检查单。您可以使用游戏内控制台的 'checklist' 命令创建和加载检查单。"
+  },
+  {
+    "Identifier": "GameTips_Tip9",
+    "Text": "避免将时间加速设置为 500 倍以上，以免在内部系统中累积误差。"
+  },
+  {
+    "Identifier": "GameTips_Tip10",
+    "Text": "文字转语音系统可以实时朗读任务消息和课程说明。您可以在设置中开关此功能。"
+  },
+  {
+    "Identifier": "GameTips_Tip11",
+    "Text": "反射探针需要大量处理能力。尝试降低其设置或将其关闭，尤其是在阿波罗任务中。"
+  },
+  {
+    "Identifier": "GameTips_Tip12",
+    "Text": "OBC 和 DSKY 的游戏内键盘按键可以在输入设置中映射。"
+  },
+  {
+    "Identifier": "GameTips_Tip13",
+    "Text": "您可以为登月舱触地时切断DPS发动机映射一个快捷键。"
+  },
+  {
+    "Identifier": "GameTips_Tip14",
+    "Text": "避免将时间加速设置为 500 倍以上，以免在内部系统中累积误差。"
+  },
+  {
+    "Identifier": "GameTips_Tip15",
+    "Text": "文字转语音系统可以实时朗读任务消息和课程说明。您可以在设置中开关此功能。"
+  },
+  {
+    "Identifier": "GameTips_Tip16",
+    "Text": "快速保存：您可以在输入映射器中为快速保存分配键盘/摇杆按钮。"
+  },
+  {
+    "Identifier": "LoadingScreen_Program",
+    "Text": "计划"
+  },
+  {
+    "Identifier": "LoadingScreen_LV",
+    "Text": "运载火箭"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto",
+    "Text": "加载至"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Orbit",
+    "Text": "轨道"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Pad",
+    "Text": "发射台"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures",
+    "Text": "随机故障"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures_No",
+    "Text": "否"
+  },
+  {
+    "Identifier": "LoadingScreen_LoadsInto_Failures_Yes",
+    "Text": "是，{0}%/周期"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Mercury",
+    "Text": "水星"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Gemini",
+    "Text": "双子座"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_Apollo",
+    "Text": "阿波罗"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_STS",
+    "Text": "航天飞机"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_GeminiLV",
+    "Text": "双子座-大力神II型"
+  },
+  {
+    "Identifier": "LoadingScreen_Program_ApolloLV",
+    "Text": "土星五号"
+  },
+  {
+    "Identifier": "LoadingScreen_STSLV",
+    "Text": "STS"
+  },
+  {
+    "Identifier": "LoadingScreen_RedstoneLV",
+    "Text": "水星-红石火箭"
+  },
+  {
+    "Identifier": "LoadingScreen_AtlasLV",
+    "Text": "水星-宇宙神火箭"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_VRCursorPitchOffset",
+    "Text": "VR鼠标光标俯仰偏移"
+  },
+  {
+    "Identifier": "RealismSettings_DisableCameraShake",
+    "Text": "禁用相机抖动"
+  },
+  {
+    "Identifier": "RealismSettings_DisableCameraShakeDesc",
+    "Text": "禁用所有驾驶舱内的相机抖动效果。"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedORDEAL",
+    "Text": "启用简化 ORDEAL"
+  },
+  {
+    "Identifier": "RealismSettings_SimplifiedORDEALDesc",
+    "Text": "指令舱和登月舱中的ORDEAL有两种模式：轨道速率（ORB RATE）和惯性（INERTIAL）。惯性模式在FDAI上显示当前IMU/GDC姿态，而轨道速率模式显示当地垂直当地水平（LVLH）。\n\n此设置在ORDEAL设为轨道速率模式时启用简化的ORDEAL逻辑。它会临时调整IMU/GDC惯性平台以匹配LVLH。当ORDEAL切回惯性模式时，调整后的IMU/GDC平台将恢复原始设置。这使得自动机动和姿态与所选ORDEAL模式对齐。部分学院课程假设此选项为开启状态。\n\n关闭此选项将使ORDEAL仅调整FDAI球体而不影响IMU/GDC朝向。所有姿态信息、自动机动和目标定位将相对于IMU，轨道速率模式仅为视觉显示。这是最真实的选项，建议熟悉IMU、REFSMMAT、P52和姿态控制的玩家关闭此选项，同时配合禁用自动顺向旋转真实度设置。"
+  },
+  {
+    "Identifier": "GameTips_Tip17",
+    "Text": "按 SHIFT+M 打开飞行文档。您可以阅读手册，并使用游戏内浏览器打开PDF、网站等。"
+  },
+  {
+    "Identifier": "GameTips_Tip18",
+    "Text": "建议先完全掌握水星计划，再开始双子座计划。然后学习双子座的交会和对接，再尝试阿波罗任务。这样您可以按照现实中技术演进的顺序学习游戏机制和技术。"
+  },
+  {
+    "Identifier": "GameTips_Tip19",
+    "Text": "《阿波罗数字参考书》（链接可在阿波罗飞行文档浏览器中按SHIFT+M找到）是规划变轨或确定LOI参数时的绝佳参考。"
+  },
+  {
+    "Identifier": "GameTips_Tip20",
+    "Text": "您可以通过替换或添加游戏AppData文件夹中LoadingImages目录下的文件来更改/添加加载屏幕图像。"
+  },
+  {
+    "Identifier": "GameTips_Tip21",
+    "Text": "驾驶舱里太暗需要额外照明？您可以随时按[F]开关手电筒，以便在黑暗区域看清东西。"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson9Full",
+    "Text": "第9B课 - 大气层再入（完整）"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson18",
+    "Text": "第18课 - 月球再入（完整）"
+  },
+  {
+    "Identifier": "RealismSettings_MissionCompleteAutoPopup",
+    "Text": "自动显示任务完成画面"
+  },
+  {
+    "Identifier": "RealismSettings_MissionCompleteAutoPopupDesc",
+    "Text": "启用后，完成任务/溅落时将自动弹出任务完成画面。如果禁用，您可以通过按ESC → 结束任务来手动打开。"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerTiltOffsetPitch",
+    "Text": "运动控制器/手部倾斜偏移 - 俯仰"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset",
+    "Text": "运动控制器/手部位置偏移"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_X",
+    "Text": "X"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_Y",
+    "Text": "Y"
+  },
+  {
+    "Identifier": "Settings_VirtualReality_HandControllerPositionOffset_Z",
+    "Text": "Z"
+  },
+  {
+    "Identifier": "MissionsMenu_FlightPlanMode",
+    "Text": "飞行计划模式"
+  },
+  {
+    "Identifier": "Settings_UDPDataRate",
+    "Text": "UDP 数据包速率（包/秒）"
+  },
+  {
+    "Identifier": "Academy_Gemini_EntryVideo",
+    "Text": "视频：离轨与再入"
+  },
+  {
+    "Identifier": "RealismSettings_DisableLensFlare",
+    "Text": "禁用镜头光晕"
+  },
+  {
+    "Identifier": "RealismSettings_DisableLensFlareDesc",
+    "Text": "禁用镜头光晕效果，将太阳渲染为一个亮斑。"
+  },
+  {
+    "Identifier": "MainMenuItem_DevMessage",
+    "Text": "开发者寄语"
+  },
+  {
+    "Identifier": "RealismSettings_StopCockpitCamOnBorder",
+    "Text": "限制相机移动至驾驶舱内"
+  },
+  {
+    "Identifier": "RealismSettings_StopCockpitCamOnBorderDesc",
+    "Text": "相机到达驾驶舱壁时停止移动，防止超出内部范围。"
+  },
+  {
+    "Identifier": "RealismSettings_StarIdentifyHelper",
+    "Text": "启用恒星识别辅助"
+  },
+  {
+    "Identifier": "RealismSettings_StarIdentifyHelperDesc",
+    "Text": "显示视觉标记帮助您识别恒星。AGC中存储的恒星将以蓝色光晕高亮显示。"
+  },
+  {
+    "Identifier": "Settings_CameraSettings",
+    "Text": "相机设置"
+  },
+  {
+    "Identifier": "Settings_CameraSettings_DefaultFoV",
+    "Text": "默认视野"
+  },
+  {
+    "Identifier": "CameraSettings_InvertExternalViewXAxis",
+    "Text": "外部视角：鼠标环顾时反转X轴"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloCustomColorTint",
+    "Text": "阿波罗：漫射光蓝色色调"
+  },
+  {
+    "Identifier": "RealismSettings_ApolloCustomColorTintDesc",
+    "Text": "阿波罗面板上的原始漫射光颜色为白色。此设置将覆盖为淡冰蓝色调。"
+  },
+  {
+    "Identifier": "Settings_TileSetStreamingPath",
+    "Text": "包含纹理数据集的文件绝对路径："
+  },
+  {
+    "Identifier": "Settings_SkipIntro",
+    "Text": "跳过开场动画"
+  },
+  {
+    "Identifier": "Settings_GeneralHeader",
+    "Text": "通用"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson19",
+    "Text": "第19课 - 舱内维护"
   }
 ]

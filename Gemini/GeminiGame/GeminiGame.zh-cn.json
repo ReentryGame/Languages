@@ -1,11 +1,11 @@
 [
   {
     "Identifier": "CommReq_ReadyToLaunch",
-    "Text": "准备发射"
+    "Text": "准备就绪，可以发射"
   },
   {
     "Identifier": "CommReq_RadioCheck",
-    "Text": "通讯检查"
+    "Text": "无线电测试"
   },
   {
     "Identifier": "CommReq_AltitudeCheck",
@@ -13,7 +13,7 @@
   },
   {
     "Identifier": "CommReq_RadiatorTemperature",
-    "Text": "辐射器温度"
+    "Text": "散热器温度"
   },
   {
     "Identifier": "CommReq_OrbitInfo",
@@ -25,31 +25,31 @@
   },
   {
     "Identifier": "CommReq_RequestTargetManeuver",
-    "Text": "请求\n目标\n燃烧"
+    "Text": "请求\n目标\n点火"
   },
   {
     "Identifier": "CommReq_RetroAtNextApogee",
-    "Text": "在下一个远地点反推"
+    "Text": "下一远地点减速点火"
   },
   {
     "Identifier": "CommReq_EVAButton",
-    "Text": "舱外行走"
+    "Text": "舱外活动"
   },
   {
     "Identifier": "CommReq_RequestRetroTime",
-    "Text": "反推检查"
+    "Text": "减速点火时间检查"
   },
   {
     "Identifier": "CommReq_OpenHatchButtonCdr",
-    "Text": "开关\n舱盖"
+    "Text": "切换\n舱门"
   },
   {
     "Identifier": "CommReq_OpenHatchButtonPilot",
-    "Text": "开关\n舱盖"
+    "Text": "切换\n舱门"
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
-    "Text": "开关 唱片盒"
+    "Text": "开关点唱机"
   },
   {
     "Identifier": "CommReq_ManualAscentData",
@@ -57,11 +57,11 @@
   },
   {
     "Identifier": "CommReq_AttitudeData",
-    "Text": "高度数据"
+    "Text": "姿态数据"
   },
   {
     "Identifier": "CommReq_ToggleDRing",
-    "Text": "开关 D-RING"
+    "Text": "开关D形环"
   },
   {
     "Identifier": "CommReq_SwitchToInternalPower",
@@ -69,15 +69,15 @@
   },
   {
     "Identifier": "CommReq_AbortCapabilityTest",
-    "Text": "停止\n& 序列器检查"
+    "Text": "中止\n与爆炸螺栓检查"
   },
   {
     "Identifier": "CommReq_RetroAtTargetCursor",
-    "Text": "在轨道光标反推"
+    "Text": "在轨道光标处减速点火"
   },
   {
     "Identifier": "ViewSelector_CommandersSeat",
-    "Text": "指令长座位"
+    "Text": "指令长座椅"
   },
   {
     "Identifier": "ViewSelector_CommanderPanel",
@@ -89,11 +89,11 @@
   },
   {
     "Identifier": "ViewSelector_CenterPedestal",
-    "Text": "中央操纵台"
+    "Text": "中央基座"
   },
   {
     "Identifier": "ViewSelector_CoPilotSeat",
-    "Text": "驾驶员座位"
+    "Text": "驾驶员座椅"
   },
   {
     "Identifier": "ViewSelector_CoPilotPanel",
@@ -101,19 +101,19 @@
   },
   {
     "Identifier": "ViewSelector_RoofPanel",
-    "Text": "顶板"
+    "Text": "顶部面板"
   },
   {
     "Identifier": "OrbitalCursor_Title",
-    "Text": "轨道光标"
+    "Text": "轨 道 游 标"
   },
   {
     "Identifier": "OrbitalCursor_Move",
-    "Text": "移动轨道标记"
+    "Text": "移动轨道指针"
   },
   {
     "Identifier": "OrbitalCursor_Time",
-    "Text": "通过时间:"
+    "Text": "飞越时间："
   },
   {
     "Identifier": "EVA_RemainingFuel",
@@ -121,386 +121,646 @@
   },
   {
     "Identifier": "EVA_Enter",
-    "Text": "出舱"
+    "Text": "进入"
   },
   {
     "Identifier": "EVA_GetBackpack",
-    "Text": "回舱"
+    "Text": "获取"
   },
   {
     "Identifier": "CommReq_AstroReadyToLaunch",
-    "Text": "{0} {1} 准备发射!"
+    "Text": "{0}{1}准备就绪，可以发射！"
   },
   {
     "Identifier": "CommReq_RadioVoiceCheck",
-    "Text": "{0}, 信号非常清晰."
+    "Text": "{0}，我们收到你的信号，声音清晰。"
   },
   {
     "Identifier": "CommReq_UpdatedRetroTime",
-    "Text": "{0}, 减速反推时间更新为 {{timeToRetro}}. 请交叉检查 Core 19 并根据情况调整."
+    "Text": "{0}，减速点火时间已更新为{{timeToRetro}}。请再次检查核心存储器19并做出必要调整。"
   },
   {
     "Identifier": "CommReq_CheckRetroTime",
-    "Text": "{0}, 减速反推时间为 {{timeToRetro}}. 根据 Core 19 进行调整."
+    "Text": "{0}，减速点火倒计时{{timeToRetro}}。使用核心存储器19进行调整。"
   },
   {
     "Identifier": "CommReq_RadiatorStatus1",
-    "Text": "辐射器输出温度良好, 进气道位于 {0}. 确认 RADIATOR 设置为 FLOW."
+    "Text": "散热器出口温度正常，入口温度为{0}。将散热器设置为流通模式。"
   },
   {
     "Identifier": "CommReq_RadiatorStatus2",
-    "Text": "辐射器输出温度正常, 进气道位于 {0}. 确认 RADIATOR 设置为 FLOW."
+    "Text": "散热器出口温度正常，入口温度为{0}。可以将散热器设置为流通模式。"
   },
   {
     "Identifier": "CommReq_RadiatorStatus3",
-    "Text": "辐射器输出温度有点高, 进气道位于 {0}. 确认 RADIATOR 设置为 BY-PASS."
+    "Text": "散热器出口温度偏高，入口温度为{0}。确保散热器设置为旁路模式。"
   },
   {
     "Identifier": "CommReq_RadiatorStatus4",
-    "Text": "辐射器输出温度较高, 进气道位于 {0}. 确认 RADIATOR 设置为 BY-PASS."
+    "Text": "散热器出口温度高，入口温度为{0}。确保散热器设置为旁路模式。"
   },
   {
     "Identifier": "CommReq_RadiatorStatus5",
-    "Text": "辐射器输出温度爆表, 进气道位于 {0}. 确认 RADIATOR 设置为 BY-PASS."
+    "Text": "散热器出口温度过高（超出量程），入口温度为{0}。确保散热器设置为旁路模式。"
   },
   {
     "Identifier": "CommReq_RadiatorStatus6",
-    "Text": "对接器分离，辐射器不可用."
+    "Text": "适配器已分离，无散热器可用。"
   },
   {
     "Identifier": "CommReq_FCStatus1",
-    "Text": "1号燃料电池温度正常."
+    "Text": "1号燃料电池温度正常。"
   },
   {
     "Identifier": "CommReq_FCStatus2",
-    "Text": "1号燃料电池温度过低, 请打开 WARMUP."
+    "Text": "1号燃料电池温度过低，设置为预热模式。"
   },
   {
     "Identifier": "CommReq_FCStatus3",
-    "Text": "2号燃料电池温度正常."
+    "Text": "2号燃料电池温度正常。"
   },
   {
     "Identifier": "CommReq_FCStatus4",
-    "Text": "2号燃料电池温度过低, 请打开 WARMUP."
+    "Text": "2号燃料电池温度过低，设置为预热模式。"
   },
   {
     "Identifier": "CommReq_FCStatus5",
-    "Text": "对接器分离，燃料电池不可用."
+    "Text": "适配器已分离，无燃料电池可用。"
   },
   {
     "Identifier": "CommReq_AltStatus1",
-    "Text": "海平面."
+    "Text": "0（海平面）"
   },
   {
     "Identifier": "CommReq_AltStatus2",
-    "Text": "低于 9 nmi 高度."
+    "Text": "小于9"
   },
   {
     "Identifier": "CommReq_AltStatus3",
-    "Text": "观测到你位于 {0} nmi 高度."
+    "Text": "我们看到你在{0}海里高度。"
   },
   {
     "Identifier": "CommReq_NoTelemetry",
-    "Text": "无法建立遥测."
+    "Text": "我们无法收到你的遥测信号。"
   },
   {
     "Identifier": "CommReq_Acknowledged",
-    "Text": "明白!"
+    "Text": "收到！"
   },
   {
     "Identifier": "CommReq_StageSep",
-    "Text": "{0} 已经分离."
+    "Text": "{0}已分离。"
   },
   {
     "Identifier": "ReqBurn_Response",
-    "Text": "{0}, 计划燃烧 {1} 德尔塔V {2}"
+    "Text": "{0}，点火计划在{1}进行，ΔV为{2}"
   },
   {
     "Identifier": "ReqBurnResponse_NotCircular",
-    "Text": "{0}, 无法计算燃烧. 目前不在圆形轨道上. 请在交会燃烧前调整为圆形轨道."
+    "Text": "{0}，无法计算点火参数。你未处于圆形轨道。请在请求交会点火前将轨道圆化。"
   },
   {
     "Identifier": "ReqBurnResponse_NotIncl",
-    "Text": "{0}, 无法计算燃烧. 目前与目标轨道面不重合, 请在交会燃烧前调整轨道."
+    "Text": "{0}，无法计算点火参数。你与目标不在同一轨道面，需要在请求交会点火前对齐轨道面。"
   },
   {
     "Identifier": "Cockpit_AbortCapabilityTest",
-    "Text": "{0}, 开始分离和发火管功能测试."
+    "Text": "{0}，开始中止与爆炸螺栓能力测试。"
   },
   {
     "Identifier": "Cockpit_SquibTestFailed",
-    "Text": "{0}, 发火管测试失败. 发火管电源总线和电池位于UMB."
+    "Text": "{0}，爆炸螺栓测试失败。检查爆炸螺栓总线电源及爆炸螺栓电池是否处于UMB模式。"
   },
   {
     "Identifier": "Cockpit_SquibTestComplete",
-    "Text": "{0}, 发火管测试完成. 分离指示灯亮起."
-  },
-  {
-    "Identifier": "Cockpit_SquibTestComplete",
-    "Text": "{0}, 发火管测试完成. 分离指示灯亮起."
+    "Text": "{0}，爆炸螺栓测试完成。确认中止指示灯亮起。"
   },
   {
     "Identifier": "Cockpit_AbortSquibTestFailed",
-    "Text": "{0}, 分离和发火管功能测试成功."
+    "Text": "{0}，中止与爆炸螺栓测试成功完成。"
   },
   {
     "Identifier": "Cockpit_AbortSquibTestComplete",
-    "Text": "{0}, 分离和发火管功能测试失败."
+    "Text": "{0}，中止与爆炸螺栓能力测试未能完成。"
   },
   {
     "Identifier": "Cockpit_AbortSquibTestInProgress",
-    "Text": "{0}, 分离和发火管功能测试正在进行."
+    "Text": "{0}，中止与爆炸螺栓能力测试已在进行中。"
   },
   {
     "Identifier": "Cockpit_InternalPower",
-    "Text": "{0}, 切换至内部电源."
+    "Text": "{0}，正在切换至内部电源。"
   },
   {
     "Identifier": "Cockpit_EVA",
-    "Text": "{0}, 现在无法执行舱外行走."
+    "Text": "{0}，当前无法执行舱外活动。"
   },
   {
     "Identifier": "Cockpit_UpdateTTRetro",
-    "Text": "{0}, 减速反推时间更新至 {{timeToRetro}}. 请交叉检查 核心程序 19 并适时调整."
+    "Text": "{0}，减速点火时间已更新为{{timeToRetro}}。请再次检查核心存储器19并做出必要调整。"
   },
   {
     "Identifier": "Cockpit_UnableToUpdateTTRetro",
-    "Text": "{0}, 无法设置减速时间. 修正计算机和DCS（数字化指令系统）运行中."
+    "Text": "{0}，无法设置减速点火时间。确认计算机正在运行且显示与控制系统（DCS）已通电。"
   },
   {
     "Identifier": "MissionObjective_None",
-    "Text": "无."
+    "Text": "无。"
   },
   {
     "Identifier": "MissionObjective_RogerToProceed",
-    "Text": "按下{0}继续进行任务."
+    "Text": "准备继续执行任务时按{0}。"
   },
   {
     "Identifier": "MissionObjective_RogerToProceedDefault",
-    "Text": "准备完成后按下ROGER（收到）继续任务."
+    "Text": "准备继续执行任务时按「收到」。"
   },
   {
     "Identifier": "MissionObjective_CompleteActivity",
-    "Text": "完成活动."
+    "Text": "完成任务。"
   },
   {
     "Identifier": "MissionObjective_UmbilicalDisconnect",
-    "Text": "等待点火升空."
+    "Text": "等待起飞。"
   },
   {
     "Identifier": "MissionObjective_Separation_StageI",
-    "Text": "等待一级火箭分离."
+    "Text": "等待第一级分离。"
   },
   {
     "Identifier": "MissionObjective_Separation_StageII",
-    "Text": "等待二级火箭分离."
+    "Text": "等待第二级分离。"
   },
   {
     "Identifier": "MissionObjective_Separation_Adapter",
-    "Text": "分离对阶段."
-  },
-  {
-    "Identifier": "MissionObjective_Separation_Retro",
-    "Text": "等待减速引擎分离"
+    "Text": "分离适配器段。"
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration",
-    "Text": "完成面板设置."
+    "Text": "完成面板配置。"
   },
   {
     "Identifier": "MissionObjective_Rendezvous_DistanceToTarget_LessThanValue1Feet",
-    "Text": "到达目标 {0}英尺附近"
+    "Text": "接近目标至{0}英尺内"
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "完成检查单序号{0}."
+    "Text": "完成ID为{0}的检查单。"
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistComplete",
-    "Text": "完成检查单."
+    "Text": "完成检查单。"
   },
   {
     "Identifier": "MissionObjective_AltitudeGreater_Value1",
-    "Text": "到达高度高于 {0} 公里."
+    "Text": "达到高于{0}公里的高度。"
   },
   {
     "Identifier": "MissionObjective_AltitudeLess_Value1",
-    "Text": "到达高度低于 {0} 公里."
+    "Text": "达到低于{0}公里的高度。"
   },
   {
     "Identifier": "MissionObjective_AltitudeGreater_Value1_ft",
-    "Text": "到达高度高于 {0} 英尺."
+    "Text": "达到高于{0}英尺的高度。"
   },
   {
     "Identifier": "MissionObjective_AltitudeLess_Value1_ft",
-    "Text": "到达高度低于 {0} 英尺."
+    "Text": "达到低于{0}英尺的高度。"
   },
   {
     "Identifier": "MissionObjective_IsApGreaterThan_Value1",
-    "Text": "调整远地点至 {0} 或以上."
+    "Text": "将远地点高度提升至{0}或以上。"
   },
   {
     "Identifier": "MissionObjective_IsPeGreaterThan_Value1",
-    "Text": "调整近地点至 {0} 或以上."
+    "Text": "将近地点高度提升至{0}或以上。"
   },
   {
     "Identifier": "MissionObjective_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
-    "Text": "调整轨道至远地点 {0} x 近地点{1}公里或以上高度."
+    "Text": "调整轨道至远地点{0}×近地点{1}公里高度或以上。"
   },
   {
     "Identifier": "MissionObjective_IsAtRadioStation_String1",
-    "Text": "进入通讯站范围 {0}."
+    "Text": "进入{0}无线电站的通信范围。"
   },
   {
     "Identifier": "MissionObjective_IsAtLongitudeOfRadioStation_String1",
-    "Text": "进入通讯站经度范围 {0}."
+    "Text": "进入{0}无线电站的经度范围。"
   },
   {
     "Identifier": "MissionObjective_Longitude_Between_Value1_Value2",
-    "Text": "到达经度 {0} 和 {1} 度之间."
+    "Text": "到达{0}度至{1}度之间的经度。"
   },
   {
     "Identifier": "MissionObjective_Latitude_Between_Value1_Value2",
-    "Text": "到达纬度 {0} 和 {1} 度之间."
+    "Text": "到达{0}度至{1}度之间的纬度。"
   },
   {
     "Identifier": "MissionObjective_State_RetroSequenceStarting",
-    "Text": "等待减速程序开始."
+    "Text": "等待减速序列开始。"
   },
   {
     "Identifier": "MissionObjective_IsInclination_Value1_ThresholdValue2",
-    "Text": "到达轨道面 {0}  +/- {1}"
+    "Text": "达到{0}度的轨道倾角，阈值为+/-{1}"
   },
   {
     "Identifier": "MissionObjective_Separation_Booster",
-    "Text": "等待推进器分离."
+    "Text": "等待助推器分离。"
   },
   {
     "Identifier": "MissionObjective_Separation_Retro",
-    "Text": "等待减速引擎分离."
+    "Text": "等待减速段分离。"
   },
   {
     "Identifier": "MissionObjective_State_Dot05GDetected",
-    "Text": "等待初始大气阻力 (0.05G)."
+    "Text": "等待初始大气阻力（0.05G）。"
   },
   {
     "Identifier": "MissionObjective_State_DrogueDeploy",
-    "Text": "等待减速伞设置."
+    "Text": "等待减速伞展开。"
   },
   {
     "Identifier": "MissionObjective_State_MainDeploy",
-    "Text": "等待主要设置."
+    "Text": "等待主伞展开。"
   },
   {
     "Identifier": "MissionObjective_State_InHiDragZone",
-    "Text": "等待进入大气层."
-  },
-  {
-    "Identifier": "MissionObjective_State_InHiDragZone",
-    "Text": "等待进入大气层."
+    "Text": "等待再入大气层开始。"
   },
   {
     "Identifier": "MissionObjective_State_OutsideHighDragZone",
-    "Text": "通过大气层."
+    "Text": "穿越大气层。"
   },
   {
     "Identifier": "MissionObjective_State_SSECO",
-    "Text": "等待SSECO（二级引擎关闭）."
+    "Text": "等待第二级发动机关机。"
   },
   {
     "Identifier": "State_InCockpit",
-    "Text": "进入座舱."
+    "Text": "进入座舱。"
   },
   {
     "Identifier": "State_RCSEnabled",
-    "Text": "开启 RCS（反应控制系统）."
+    "Text": "开启反作用控制系统（RCS）。"
   },
   {
     "Identifier": "State_InEVA",
-    "Text": "进行舱外行走."
+    "Text": "执行舱外活动。"
   },
   {
     "Identifier": "MissionObjective_CheckComputerProgramRunning_ComputerMode",
-    "Text": "运行 {0} OBC 程序."
+    "Text": "运行{0}机载计算机程序。"
   },
   {
     "Identifier": "MissionObjective_State_RetroBurning",
-    "Text": "等待减速引擎点火."
+    "Text": "等待减速发动机点火。"
   },
   {
     "Identifier": "MissionObjective_Altitude_Landing_Feet_LessThan_Value1",
-    "Text": "到达高度低于 {0} 英尺."
+    "Text": "下降至低于{0}英尺的高度。"
   },
   {
     "Identifier": "MissionObjective_State_Splashdown",
-    "Text": "接触水面."
+    "Text": "溅落。"
   },
   {
     "Identifier": "MissionObjective_Orbit_TimeToAp_Value1",
-    "Text": "距离远地点 - {0} 秒. 剩余时间: {1}"
+    "Text": "等待到达远地点 - {0}秒。剩余时间：{1}"
   },
   {
     "Identifier": "MissionObjective_Orbit_TimeToPe_Value1",
-    "Text": "距离近地点 - {0} 秒. 剩余时间: {1}"
+    "Text": "等待到达近地点 - {0}秒。剩余时间：{1}"
   },
   {
     "Identifier": "MissionObjective_Orbit_TimeToTargetBurn_Value1Seconds",
-    "Text": "交会对接燃烧倒计时 T - {0} 秒. 剩余时间: {1}"
+    "Text": "等待到达交会点火T-{0}秒。剩余时间：{1}"
   },
   {
     "Identifier": "MissionObjective_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
-    "Text": "实现高度为 {0} 公里 +/- {1}的圆形轨道"
+    "Text": "达到高度{0}公里+/-{1}的圆形轨道"
   },
   {
     "Identifier": "MissionObjective_Orbit_IsCircular_ThresholdValue1",
-    "Text": "实现圆形轨道，远地点和近地点高度差 < {0} 公里"
+    "Text": "达到远地点与近地点高度差小于{0}公里的圆形轨道"
   },
   {
     "Identifier": "MissionObjective_Orbit_IsOnTarget_ThresholdValue1",
-    "Text": "到达目标轨道 远地点 {0} x 近地点 {1} 公里高度."
+    "Text": "达到远地点{0}×近地点{1}公里高度的目标轨道。"
   },
   {
     "Identifier": "MissionObjective_Radio_SuccessRequestTargetBurn",
-    "Text": "成功请求交会对接燃烧."
+    "Text": "成功请求交会点火。"
   },
   {
     "Identifier": "MissionObjective_Radio_TimeToTargetBurn_Value1",
-    "Text": "交会对接燃烧倒计时 T - {0} 秒. 剩余时间: {1}"
+    "Text": "等待到达交会点火T-{0}秒。剩余时间：{1}"
   },
   {
     "Identifier": "MissionObjective_State_Docked",
-    "Text": "与目标对接."
+    "Text": "与目标对接。"
   },
   {
     "Identifier": "MissionObjective_State_Undocked",
-    "Text": "与目标分离."
+    "Text": "与目标分离。"
   },
   {
     "Identifier": "MissionObjective_Orbit_TimeToRetro_Value1Seconds",
-    "Text": "反推燃烧倒计时 T -{0} 秒. 剩余时间: {1}"
+    "Text": "等待到达减速点火T-{0}秒。剩余时间：{1}"
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown",
-    "Text": "指令中心, 请求暂停倒计时."
+    "Text": "任务控制中心，请求暂停倒计时。"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown",
-    "Text": "指令中心, 请求继续倒计时."
+    "Text": "任务控制中心，请恢复倒计时。"
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown2",
-    "Text": "{0}, 暂停倒计时."
+    "Text": "{0}，倒计时已暂停。"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown2",
-    "Text": "{0}, 继续倒计时."
+    "Text": "{0}，倒计时已恢复。"
   },
   {
     "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
-    "Text": "继续倒计时"
+    "Text": "恢复倒计时"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
     "Text": "暂停倒计时"
+  },
+  {
+    "Identifier": "CommReq_RequestCircPe",
+    "Text": "圆化\n近地点"
+  },
+  {
+    "Identifier": "CommReq_RequestCircAp",
+    "Text": "圆化\n远地点"
+  },
+  {
+    "Identifier": "CommReq_RequestRndz",
+    "Text": "交会"
+  },
+  {
+    "Identifier": "CommReq_ToggleTHC",
+    "Text": "切换\n平移手柄"
+  },
+  {
+    "Identifier": "CommReq_RequestBurnAndMissionTools",
+    "Text": "任务工具"
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "需要什么帮助？"
+  },
+  {
+    "Identifier": "MissionTools_Ground",
+    "Text": "地面"
+  },
+  {
+    "Identifier": "MissionTools_RequestBurns",
+    "Text": "请求点火参数"
+  },
+  {
+    "Identifier": "MissionTools_Forms",
+    "Text": "表格/记录单"
+  },
+  {
+    "Identifier": "MissionTools_DataForms",
+    "Text": "数据表格与图表"
+  },
+  {
+    "Identifier": "MissionTools_Cockpit",
+    "Text": "座舱"
+  },
+  {
+    "Identifier": "MissionTools_CockpitFunctions",
+    "Text": "座舱功能"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_Charts",
+    "Text": "图表"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_RndzPlot",
+    "Text": "交会图：双子座/阿金纳"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataForms",
+    "Text": "数据表格"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_DataFormsDesc",
+    "Text": "表格\n这些选项将打开一个包含所选表格的界面。铅笔工具可让你填写表格以记录数据。"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenCatchUpPadForm",
+    "Text": "追赶机动计算板"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_TextSheets",
+    "Text": "记录单\n各种记录单可用于记笔记、绘图和收集数据。"
+  },
+  {
+    "Identifier": "MissionTools_DataFormsPage_OpenBlankPaper",
+    "Text": "空白纸"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Title",
+    "Text": "初步咨询数据（PADs）"
+  },
+  {
+    "Identifier": "MissionTools_PADs_CircBurns",
+    "Text": "圆化点火\n这些计算板用于在远地点或近地点规划轨道圆化点火。"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircPeBurn",
+    "Text": "请求近地点圆化点火"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestCircApBurn",
+    "Text": "请求远地点圆化点火"
+  },
+  {
+    "Identifier": "MissionTools_PADs_Rendezvous",
+    "Text": "交会点火\n交会点火要求你处于圆形轨道。在圆形轨道上请求交会点火将规划一次与目标飞行器交会的点火。完成初始交会点火后，请求正确的圆化点火以完成交会。"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestRendezvous",
+    "Text": "请求交会点火"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChange",
+    "Text": "变轨面点火\n变轨面点火将在升交点或降交点（穿越赤道时，从南向北或从北向南）进行。将使用速度较小的节点来规划达到以下目标倾角所需的ΔV。\n1）输入你想要达到的倾角\n2）请求变轨面机动"
+  },
+  {
+    "Identifier": "MissionTools_PADs_PlaneChangeInc",
+    "Text": "目标倾角"
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestPlaneChange",
+    "Text": "请求变轨面点火"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "座舱设备"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleOptics",
+    "Text": "开关光学瞄准镜"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleGT3FlightPlan",
+    "Text": "开关GT-3：飞行计划"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleSandwitch",
+    "Text": "开关GT-3：咸牛肉三明治"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_DET",
+    "Text": "数字事件计时器（DET）"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ResetDET",
+    "Text": "重置事件计时器"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2",
+    "Text": "低温液氧"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2",
+    "Text": "低温液氢"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT1",
+    "Text": "氧气：第一组"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2SecT2",
+    "Text": "氧气：第二组"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropOAMS",
+    "Text": "推进剂：OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSA",
+    "Text": "推进剂：RCS A组"
+  },
+  {
+    "Identifier": "Debrief_KPI_PropRCSB",
+    "Text": "推进剂：RCS B组"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_OAMS",
+    "Text": "OAMS"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_RCS",
+    "Text": "RCS"
+  },
+  {
+    "Identifier": "Debrief_KPI_Descent",
+    "Text": "下降"
+  },
+  {
+    "Identifier": "Debrief_KPI_GLoad",
+    "Text": "过载"
+  },
+  {
+    "Identifier": "Debrief_KPI_Altitude",
+    "Text": "高度"
+  },
+  {
+    "Identifier": "Debrief_KPI_Orbit",
+    "Text": "轨道"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitAp",
+    "Text": "远地点"
+  },
+  {
+    "Identifier": "Debrief_KPI_OrbitPe",
+    "Text": "近地点"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ejected",
+    "Text": "弹射"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EI",
+    "Text": "再入界面（40万英尺高度）"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockAgena",
+    "Text": "与阿金纳对接"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockAgena",
+    "Text": "与阿金纳分离"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_AgenaPPA",
+    "Text": "阿金纳主推进装置：点火"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "主伞展开"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "减速伞展开"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAStart",
+    "Text": "舱外活动开始"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_EVAEnd",
+    "Text": "舱外活动结束"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "1号减速发动机"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "2号减速发动机"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "3号减速发动机"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo4",
+    "Text": "4号减速发动机"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanI",
+    "Text": "级分离：泰坦第一级"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingTitanII",
+    "Text": "级分离：泰坦第二级"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingAdapter",
+    "Text": "级分离：适配器"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StagingRetro",
+    "Text": "级分离：减速段"
+  },
+  {
+    "Identifier": "BurnUplinkBrief",
+    "Text": "DCS上行链路简报：点火时间为{0}，ΔV为{1}英尺/秒。"
+  },
+  {
+    "Identifier": "RetroburnPlanner_GeminiTimeSet",
+    "Text": "减速序列时间设为{0}。"
   }
 ]
