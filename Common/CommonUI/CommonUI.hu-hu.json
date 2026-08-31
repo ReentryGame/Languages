@@ -1,0 +1,386 @@
+﻿[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ROGER"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "MEGTAGAD"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "JELENLEGI CÉLKITŰZÉS"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ A PILÓTAFÜLKE ÁLLAPOTÁNAK ELŐKÉSZÍTÉSE ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] N É Z E T   V Á L A S Z T Ó"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "KÜLSŐ"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ORBITÁLIS"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "KÜLDETÉSI JEGYZETTÖMB"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENÜ"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "REPÜLÉS FOLYTATÁSA"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "HIBÁK"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "HANGANYAG"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "BEMENETI VEZÉRLŐK"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "ÁLLAPOT MENTÉSE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "KÜLDETÉSIRÁNYÍTÁS ÉLŐ"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "KONZOL"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "KÜLDETÉS SZERKESZTŐ"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "MUNKAMENET BEFEJEZÉSE"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRAFIKÁK"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "ELLENŐRZŐLISTA LÉTREHOZÁSA"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] K O M U N I K Á C I Ó"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "RÁDIÓELLENŐRZÉS"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "KÜLDETÉS"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "TÁJÉKOZTATÓ"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "TÉRKÉP"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "ELLENŐRZŐLISTÁK"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "ÁTIRAT"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "JEGYZETEK"
+  },
+  {
+    "Identifier": "MissionPad_VR",
+    "Text": "VR"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "HANGANYAG BEÁLLÍTÁSOK"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Fő"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Pilótafülke"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "Külső"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Zene"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Vegyes hanghatások"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Űrhajós\nKommunikáció"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Küldetésirányítási Kommunikáció"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "ÁLLAPOTMENTÉS"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "Ez elmenti a jelenlegi előrehaladást egy mentési állapotba.\n\nAdjon meg alább egy fájlnevet, és nyomja meg a MENTÉS gombot.\n\nMegjegyzés: Az 1.0-ás verzió hatókörébe tartozó legtöbb alapvető állapot, pályaparaméter és rendszer adatok mentésre kerülnek. A Mentési Állapotok folyamatosan fejlődni és javulni fognak, ahogy a játék a 2.0-ás verzió felé halad, és a rendszerek továbbfejlesztésre kerülnek."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "FIGYELEM: A mentés jelenleg nem lehetséges. Az Állásmentés hajtóműves manőverek vagy a küldetés kritikus fázisai alatt le van tiltva."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "MENTÉS"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "ZÁRÁS"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Mentett állapot neve:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Felülírás?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "MINDEN TÖRLÉSE"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "TÖRLÉS"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "UI Méretskála"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "A felhasználói felület méretskálázási faktora."
+  },
+  {
+    "Identifier": "Debrief_End",
+    "Text": "KÜL. VÉGE"
+  },
+  {
+    "Identifier": "Debrief_Resume",
+    "Text": "KÜL. FOLYTÁS"
+  },
+  {
+    "Identifier": "Debrief_Reload",
+    "Text": "KÜL. ÚJRATÖLTÉSE"
+  },
+  {
+    "Identifier": "MissionPad_RunChecklist",
+    "Text": "FUTTATÁS:"
+  },
+  {
+    "Identifier": "MissionPad_CloseChecklist",
+    "Text": "< VISSZA"
+  },
+  {
+    "Identifier": "MissionPad_EditChecklist",
+    "Text": "SZERKESZTÉS"
+  },
+  {
+    "Identifier": "Debrief_Title",
+    "Text": "KÜLDETÉS KIÉRTÉKELÉSE"
+  },
+  {
+    "Identifier": "Debrief_Goals",
+    "Text": "CÉLOK"
+  },
+  {
+    "Identifier": "Debrief_Accomplished",
+    "Text": "KÜLDETÉS TELJESÍTVE"
+  },
+  {
+    "Identifier": "Debrief_NotAccomplished",
+    "Text": "KÜLDETÉS NINCS BEFEJEZVE"
+  },
+  {
+    "Identifier": "Debrief_KeyMoments",
+    "Text": "BEVITELI PILLANATOK"
+  },
+  {
+    "Identifier": "LoadingPanelState",
+    "Text": "PANEL ÁLLAPOT BETÖLTÉSE"
+  },
+  {
+    "Identifier": "TimeToLaunch",
+    "Text": "Indításig T idő"
+  },
+  {
+    "Identifier": "TimeScale",
+    "Text": "Időlépték"
+  },
+  {
+    "Identifier": "Paused",
+    "Text": "SZÜNETELTETVE"
+  },
+  {
+    "Identifier": "ViewSelector_Photocamera",
+    "Text": "FÉNYKÉPEZŐGÉP"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxVel",
+    "Text": "MAX SEBESÉG"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxAlt",
+    "Text": "MAX MAGASSÁG"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxGs",
+    "Text": "MAX G-erők"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentAltitude",
+    "Text": "Felszállási Magasság"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption",
+    "Text": "Üzemanyagfogyasztás"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Splashdown",
+    "Text": "Vízre szállás"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Abort",
+    "Text": "Megszakítás"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_InsertionData",
+    "Text": "Pályára állás ({0} tengeri mérföld x {1} tengeri mérföld, {2}° hajlásszög)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ignition",
+    "Text": "Gyújtás"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun",
+    "Text": "Móka"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo1",
+    "Text": "Photograph: photo1.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo2",
+    "Text": "Photograph: photo2.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo3",
+    "Text": "Photograph: photo3.png"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleAllCockpitEq",
+    "Text": "ÖSSZES ELREJTÉSE"
+  },
+  {
+    "Identifier": "CrewMembers_TogglePADs",
+    "Text": "PILÓTAFÜLKEI PAD"
+  },
+  {
+    "Identifier": "SlowMode",
+    "Text": "LASSÚ MÓD"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Title",
+    "Text": "FÉKEZŐGYÚJTÁS TERVEZŐ"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Hours",
+    "Text": "ÓRÁK"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Minutes",
+    "Text": "PERCEK"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "MÁSODPERCEK"
+  },
+  {
+    "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
+    "Text": "BECSÜLT LESZÁLLÁSI HELYSZÍN"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Lat",
+    "Text": "SZÉLESSÉG"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Long",
+    "Text": "HOSSZÚSÁG"
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Gemini",
+    "Text": "\nKorlátozások (1.0):\n-Állapot mentése egy tervezett hajtóműindítás és annak végrehajtása között. Tervezett hajtóműindítás kérésekor hajtsa végre a hajtóműindítást a mentés előtt, ellenkező esetben a hajtóműindítást újra kell tervezni."
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Apollo",
+    "Text": "\nKorlátozások (1.0):\n-Állapot mentése a tervezett hajtóműindítás és annak végrehajtása között. Tervezett hajtóműindítás kérésekor, fejezze be a hajtóműindítást a mentés előtt, különben a hajtóműindítást újra kell tervezni.\n-Állapot mentése egy végrehajtott Föld felé irányuló gyorsítás és a Föld SOI között."
+  },
+  {
+    "Identifier": "Debrief_Failure",
+    "Text": "Meghibásodás:"
+  },
+  {
+    "Identifier": "MissionPad_DragToReposition",
+    "Text": "HÚZZA AZ ÁTHELYEZÉSHEZ"
+  },
+  {
+    "Identifier": "MissionPad_DragToRepositionVertical",
+    "Text": "\"H\nÚ\nZ\nÁ\nS\n \nÁ\nT\nH\nE\nL\nY\nE\nZ\nÉ\nS\nH\nE\nZ\""
+  },
+  {
+    "Identifier": "VR_ToggleCurrentObjective",
+    "Text": "JELENLEGI CÉLKITŰZÉS ÁTKAPCSOLÁSA"
+  },
+  {
+    "Identifier": "VR_TriggerAbort",
+    "Text": "MEGSZAKÍTÁS"
+  },
+  {
+    "Identifier": "VR_ToggleMissionPad",
+    "Text": "KÜLDETÉSI JEGYZETTÖMB KAPCSOLÁSA"
+  }
+]
