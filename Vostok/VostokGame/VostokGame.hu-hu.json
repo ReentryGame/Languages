@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Identifier": "ViewSelector_CommandersSeat",
+    "Text": "PARANCSNOKI ÜLÉS"
+  },
+  {
+    "Identifier": "ViewSelector_MainPanel",
+    "Text": "FŐ PANEL"
+  },
+  {
+    "Identifier": "ViewSelector_ControlPanel",
+    "Text": "VEZÉRLŐ PANEL"
+  },
+  {
+    "Identifier": "ViewSelector_VZOR",
+    "Text": "VZOR KIJELZŐ"
+  }
+]
