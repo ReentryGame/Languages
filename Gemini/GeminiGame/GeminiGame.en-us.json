@@ -762,5 +762,9 @@
   {
     "Identifier": "RetroburnPlanner_GeminiTimeSet",
     "Text": "Retro sequence time set to {0}."
+  },
+  {
+    "Identifier": "MissionTools_PADs_RequestTPI",
+    "Text": "REQUEST ΔVi/TPI BURN"
   }
 ]

@@ -1562,5 +1562,22 @@
   {
     "Identifier": "Academy_CSM_Lesson19",
     "Text": "LESSON 19 - HOUSEKEEPING"
+  },
+  {
+    "Identifier": "RealismSettings_AdvancedOBCMode",
+    "Text": "Gemini: Realistic Computer Mode"
+  },
+  {
+    "Identifier": "RealismSettings_AdvancedOBCMode_Desc",
+    "Text": "Enables the realistic Gemini On-Board Computer (OBC) mode, where computer modules must be loaded using realistic procedures. WARNING: Recommended for experienced Gemini crews, as this changes how OBC modules are loaded and programs are run, requiring some deviation from the standard checklists."
+  },
+  {
+    "Identifier": "Settings_LaunchPad",
+    "Text": "LAUNCH PAD TEXTURES"
+  },
+  {
+    "Identifier": "Settings_LaunchPad",
+    "Text": "LAUNCH PAD TEXTURES"
   }
+  
 ]
