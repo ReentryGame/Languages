@@ -1576,8 +1576,20 @@
     "Text": "LAUNCH PAD TEXTURES"
   },
   {
-    "Identifier": "Settings_LaunchPad",
-    "Text": "LAUNCH PAD TEXTURES"
+    "Identifier": "Settings_LaunchPad_Off",
+    "Text": "Disables detailed launch pad terrain textures. A blank surface is rendered instead."
+  },
+  {
+    "Identifier": "Settings_LaunchPad_Min",
+    "Text": "Renders the base terrain texture with a blank surface replacing high-resolution tiles."
+  },
+  {
+    "Identifier": "Settings_LaunchPad_Low",
+    "Text": "Renders the base terrain texture and streams high-resolution tiles in the immediate surrounding area."
+  },
+  {
+    "Identifier": "Settings_LaunchPad_High",
+    "Text": "Renders the base terrain texture and streams all high-resolution tiles normally."
   }
   
 ]
