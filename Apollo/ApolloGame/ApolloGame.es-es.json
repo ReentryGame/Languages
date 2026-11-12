@@ -1,19 +1,19 @@
 [
   {
     "Identifier": "CrewMember_CurrentOrbit",
-    "Text": "Orbita Actual: {0} nkm x {1} nkm"
+    "Text": "Órbita Actual: {0} nmi x {1} nmi"
   },
   {
     "Identifier": "CrewMember_CircularizationBurnRequested",
-    "Text": "Roger, {0}. Configuración de una combustion de circularización en {1} nkm."
+    "Text": "Roger, {0}. Configurando de una combustión de circularización en {1} nkm."
   },
   {
     "Identifier": "CrewMember_CircularizationBurnCancelled",
-    "Text": "Roger, {0}. Combustion de circularización cancelada."
+    "Text": "Roger, {0}. Combustión de circularización cancelada."
   },
   {
     "Identifier": "CrewMember_CircularizationBurnCompleted",
-    "Text": "Roger, {0}. Combustion de circularización completa."
+    "Text": "Roger, {0}. Combustión de circularización completa."
   },
   {
     "Identifier": "ViewSelector_SwitchSpacecraftCSM",
@@ -53,7 +53,7 @@
   },
   {
     "Identifier": "ViewSelector_LM_LeftStation",
-    "Text": "ESTACION IZQ"
+    "Text": "ESTACIÓN IZQ"
   },
   {
     "Identifier": "ViewSelector_LM_CenterPanel",
@@ -61,7 +61,7 @@
   },
   {
     "Identifier": "ViewSelector_LM_RightStation",
-    "Text": "ESTACION DER"
+    "Text": "ESTACIÓN DER"
   },
   {
     "Identifier": "ViewSelector_LM_LeftWindow",
@@ -81,27 +81,27 @@
   },
   {
     "Identifier": "ViewSelector_LM_OVHD",
-    "Text": "VENTANA OVHD"
+    "Text": "VENTANA SUPERIOR"
   },
   {
     "Identifier": "CommTools_ToggleCOAS",
-    "Text": "PALANCA\r\nCOAS"
+    "Text": "ALTERNAR\r\r\r\r\nCOAS"
   },
   {
     "Identifier": "CommTools_ToggleHatch",
-    "Text": "PALANCA ESCOTILLA"
+    "Text": "ABRIR/CERRAR ESCOTILLA"
   },
   {
     "Identifier": "CommTools_ToggleDockingTarget",
-    "Text": "PALANCA ACOPLADO OBJETIVO"
+    "Text": "ALTERNAR OBJETIVO DE ACOPLADO"
   },
   {
     "Identifier": "CommTools_ReqWeightData",
-    "Text": "PETICION DATOS DE CARGA"
+    "Text": "PETICIÓN DE DATOS DE CARGA"
   },
   {
     "Identifier": "CommTools_ToggleJukebox",
-    "Text": "PALANCA MUSICA"
+    "Text": "ALTERNAR CASETERA"
   },
   {
     "Identifier": "CommTools_ReqSwitchInternalPwr",
@@ -109,15 +109,15 @@
   },
   {
     "Identifier": "CommTools_ToggleCountdown",
-    "Text": "PARAR CUENTA ATRAS"
+    "Text": "PARAR CUENTA ATRÁS"
   },
   {
     "Identifier": "CommTools_ToggleSeats",
-    "Text": "PALANCA ASIENTOS"
+    "Text": "ALTERNAR ASIENTOS"
   },
   {
     "Identifier": "CommTools_ReqCloseHatchPad",
-    "Text": "PALANCA ESCOTILLA"
+    "Text": "ABRIR/CERRAR ESCOTILLA"
   },
   {
     "Identifier": "CommTools_ReplaceCanisterA",
@@ -129,7 +129,7 @@
   },
   {
     "Identifier": "CommTools_LM_Exit",
-    "Text": "SALIR MODULO LUNAR"
+    "Text": "SALIR DEL MÓDULO LUNAR"
   },
   {
     "Identifier": "CommTools_LM_ReplaceCanister",
@@ -137,7 +137,7 @@
   },
   {
     "Identifier": "PhysViewUITitle",
-    "Text": "VISTA ORBITA"
+    "Text": "VISTA ORBITA\rL"
   },
   {
     "Identifier": "PhysViewUIMoon",
@@ -157,7 +157,7 @@
   },
   {
     "Identifier": "ViewOutOfBounds",
-    "Text": "\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\n\r\r\r\nFUERA DE LOS LÍMITES, REGRESAR A LA CABINA.\r\r\r\n(CAMBIAR VISTA PARA RESTABLECER)"
+    "Text": "\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\nFUERA DE LOS LÍMITES, REGRESAR A LA CABINA.\r\r\r\r\r\r\r\r\n(CAMBIAR VISTA PARA RESTABLECER)"
   },
   {
     "Identifier": "BurnPlanner_Title",
@@ -165,15 +165,15 @@
   },
   {
     "Identifier": "BurnPlanner_Params_Title",
-    "Text": "PARAMETROS DE COMBUSTION"
+    "Text": "PARÁMETROS DE COMBUSTIÓN"
   },
   {
     "Identifier": "BurnPlanner_Params_IgnitionPoint_Title",
-    "Text": "Punto de Ignicion"
+    "Text": "Punto de Ignición"
   },
   {
     "Identifier": "BurnPlanner_Params_IgnitionPoint_Desc",
-    "Text": "Establezca la fase orbital de donde debe comenzar la combustion, utilizando parámetros orbitales. Se calculará el tiempo de combustion."
+    "Text": "Establezca la fase orbital de donde debe comenzar la combustión, utilizando parámetros orbitales. Se calculará el tiempo de combustión."
   },
   {
     "Identifier": "BurnPlanner_Params_dV_Title",
@@ -181,23 +181,23 @@
   },
   {
     "Identifier": "BurnPlanner_Params_dV_Desc",
-    "Text": "Establezca la combustion delta-v en pies por segundo. La trayectoria debe mostrar una estimación de la nueva órbita.."
+    "Text": "Establezca la delta-v de la combustión en pies por segundo. La trayectoria debe mostrar una estimación de la nueva órbita."
   },
   {
     "Identifier": "BurnPlanner_Params_dV_Desc",
-    "Text": "Establezca la combustion delta-v en pies por segundo. La trayectoria debe mostrar una estimación de la nueva órbita.."
+    "Text": "Establezca la delta-v de la combustión en pies por segundo. La trayectoria debe mostrar una estimación de la nueva órbita."
   },
   {
     "Identifier": "BurnPlanner_Params_Direction_Title",
-    "Text": "Direccion de combustion"
+    "Text": "Direccion de la combustión"
   },
   {
     "Identifier": "BurnPlanner_Params_Direction_Desc",
-    "Text": "Use el menú desplegable para establecer la dirección de la combustion."
+    "Text": "Use el menú desplegable para establecer la dirección de la combustión."
   },
   {
     "Identifier": "BurnPlanner_Engine_Title",
-    "Text": "SELECCION DE MOTOR"
+    "Text": "SELECCIÓN DE MOTOR"
   },
   {
     "Identifier": "BurnPlanner_Engine_Set",
@@ -205,15 +205,15 @@
   },
   {
     "Identifier": "BurnPlanner_Engine_Desc",
-    "Text": "Use el menú desplegable para seleccionar el motor deseado para usar la combustion. "
+    "Text": "Use el menú desplegable para seleccionar el motor deseado para usar en la combustión. "
   },
   {
     "Identifier": "BurnPlanner_BurnData_Title",
-    "Text": "DATOS COMBUSTION"
+    "Text": "DATOS DE COMBUSTIÓN"
   },
   {
     "Identifier": "BurnPlanner_EI_Title",
-    "Text": "ENTRADA ATMOSFERICA"
+    "Text": "ENTRADA ATMOSFÉRICA"
   },
   {
     "Identifier": "BurnPlanner_Exec",
@@ -225,19 +225,19 @@
   },
   {
     "Identifier": "BurnPlanner_ToggleLines",
-    "Text": "PALANCA PREDICTOR TRAY."
+    "Text": "ALTERNAR PREDICTOR DE TRAY."
   },
   {
     "Identifier": "BurnPlanner_Reset",
-    "Text": "RESET PLANIFICADOR"
+    "Text": "REINICIAR PLANIFICADOR"
   },
   {
     "Identifier": "TLIPlanner_Title",
-    "Text": "PLANIFICADOR COMBUSTION TLI"
+    "Text": "PLANIFICADOR DE COMBUSTIÓN TLI"
   },
   {
     "Identifier": "TLIPlanner_Title",
-    "Text": "PLANIFICADOR COMBUSTION TLI"
+    "Text": "PLANIFICADOR DE COMBUSTIÓN TLI"
   },
   {
     "Identifier": "TLIPlanner_Exec",
@@ -245,7 +245,7 @@
   },
   {
     "Identifier": "TLIPlanner_ViewFocus_Title",
-    "Text": "VER FOCUS"
+    "Text": "VISTA CENTRADA EN"
   },
   {
     "Identifier": "TLIPlanner_ViewFocus_Earth",
@@ -253,7 +253,7 @@
   },
   {
     "Identifier": "TLIPlanner_ViewFocus_BurnPoint",
-    "Text": "PUNTO COMBUSTION"
+    "Text": "PUNTO DE COMBUSTIÓN"
   },
   {
     "Identifier": "TLIPlanner_ViewFocus_Moon",
@@ -265,19 +265,19 @@
   },
   {
     "Identifier": "TLIPlanner_Params_Title",
-    "Text": "PARAMETROS COMBUSTION"
+    "Text": "PARAMETROS COMBUSTIÓN"
   },
   {
     "Identifier": "TLIPlanner_Params_Time_Title",
-    "Text": "Factor Tiempo de Vuelo"
+    "Text": "Factor de Tiempo de Vuelo"
   },
   {
     "Identifier": "TLIPlanner_Params_Time_Desc",
-    "Text": "Tiempo de transferencia expresado como fracción del tiempo de transferencia de Hohmann.\r\nRango de 0,1 a 1,5"
+    "Text": "Tiempo de transferencia expresado como fracción del tiempo de transferencia de Hohmann.\r\r\r\r\r\r\nRango de 0,1 a 1,5"
   },
   {
     "Identifier": "TLIPlanner_Params_SOI_Title",
-    "Text": "Grados de Angulo SOI"
+    "Text": "Grados de Ángulo SOI"
   },
   {
     "Identifier": "TLIPlanner_Params_SOI_Desc",
@@ -293,19 +293,19 @@
   },
   {
     "Identifier": "TLIPlanner_Params_TLIDept_Desc",
-    "Text": "Establece el ángulo de salida de la combustion TLI."
+    "Text": "Establece el ángulo de salida de la combustión TLI."
   },
   {
     "Identifier": "TLIPlanner_Data_Title",
-    "Text": "DATOS COMBUSTION"
+    "Text": "DATOS COMBUSTIÓN"
   },
   {
     "Identifier": "TLIPlanner_Data_Countdown",
-    "Text": "Tiempo hasta Combustion:"
+    "Text": "Tiempo hasta Combustión:"
   },
   {
     "Identifier": "TLIPlanner_Data_TIG",
-    "Text": "Tiempo de Ignicion"
+    "Text": "Tiempo de Ignición"
   },
   {
     "Identifier": "TLIPlanner_Data_dV",
@@ -317,7 +317,7 @@
   },
   {
     "Identifier": "TEIPlanner_Title",
-    "Text": "INJECCION TRANS-TIERRA"
+    "Text": "INJECCIÓN TRANS-TIERRA"
   },
   {
     "Identifier": "TEIPlanner_Exec",
@@ -325,7 +325,7 @@
   },
   {
     "Identifier": "TEIPlanner_BurnParams_Title",
-    "Text": "PARAMETROS COMBUSTION"
+    "Text": "PARAMETROS COMBUSTIÓN"
   },
   {
     "Identifier": "TEIPlanner_BurnParams_Ve_Title",
@@ -337,11 +337,11 @@
   },
   {
     "Identifier": "TEIPlanner_BurnData_Title",
-    "Text": "DATOS COMBUSTION"
+    "Text": "DATOS COMBUSTIÓN"
   },
   {
     "Identifier": "AdvancedCamera_Title",
-    "Text": "OPCIONES DE CAMARA"
+    "Text": "OPCIONES DE CÁMARA"
   },
   {
     "Identifier": "AdvancedCamera_Free_On",
@@ -353,11 +353,11 @@
   },
   {
     "Identifier": "AdvancedCamera_Orbit_On",
-    "Text": "ORBITA"
+    "Text": "ÓRBITA"
   },
   {
     "Identifier": "AdvancedCamera_Orbit_Off",
-    "Text": "CAMBIAR A ORBITA"
+    "Text": "CAMBIAR A ÓRBITA"
   },
   {
     "Identifier": "LRV_Handbrake",
@@ -389,7 +389,7 @@
   },
   {
     "Identifier": "RadioCommReq_LM_WeightData1",
-    "Text": "Roger, {0}. El peso del Ml es +{1} lbs y el peso del CSM es +{2} lbs."
+    "Text": "Roger, {0}. El peso del ML es +{1} lbs y el peso del CSM es +{2} lbs."
   },
   {
     "Identifier": "RadioCommReq_LM_WeightData2",
@@ -413,23 +413,23 @@
   },
   {
     "Identifier": "RadioCommReq_InternalPower",
-    "Text": "{0}, cambiando a energia interna."
+    "Text": "{0}, cambiando a energía interna."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown2",
-    "Text": "{0}, pausando cuenta atras."
+    "Text": "{0}, pausando cuenta atrás."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown2",
-    "Text": "{0}, cuenta atras continuada."
+    "Text": "{0}, cuenta atrás reanudada."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
-    "Text": "CONTINUAR CUENTA ATRAS"
+    "Text": "REANUDAR CUENTA ATRÁS"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
-    "Text": "PARAR CUENTA ATRAS"
+    "Text": "PARAR CUENTA ATRÁS"
   },
   {
     "Identifier": "RadioCommReq_CO2CanisterReplaced",
@@ -437,7 +437,7 @@
   },
   {
     "Identifier": "LunarAscent_BurnCalcData",
-    "Text": "Combustion TPI Hohmann programada a las {0} TME con un dV de {1} fps. LGC está actualizado. Ejecute P30 para configurar y P41 para ejecutar"
+    "Text": "Combustión TPI Hohmann programada a las {0} TME con un dV de {1} fps. LGC está actualizado. Ejecute P30 para configurar y P41 para ejecutar"
   },
   {
     "Identifier": "LunarAscent_CSIError",
@@ -445,7 +445,7 @@
   },
   {
     "Identifier": "LunarAscent_CSIBurnCalc",
-    "Text": "Combustion de CSI programada a las {0} TME con un dV de {1} fps. LGC está actualizado. Ejecute P30 para configurar y P41 para ejecutar."
+    "Text": "Combustión de CSI programada a las {0} TME con un dV de {1} fps. LGC está actualizado. Ejecute P30 para configurar y P41 para ejecutar."
   },
   {
     "Identifier": "LunarAscent_AscentCalc1",
@@ -453,15 +453,15 @@
   },
   {
     "Identifier": "LunarAscent_AscentCalc2",
-    "Text": "Los valores de tiempo de encendido se cargan en el LGC. Verificar con V06N33E."
+    "Text": "Los valores de tiempo de encendido se cargaron en el LGC. Verificar con V06N33E."
   },
   {
     "Identifier": "BurnPlanner_SPSDeorbitBurn",
-    "Text": "{0}, el tiempo de ignición del SPS para una combustion fuera de órbita es de {1}h {2}m {3}s, con dV de {4} fps {5}"
+    "Text": "{0}, el tiempo de ignición del SPS para una combustión fuera de órbita es de {1}h {2}m {3}s, con dV de {4} fps {5}\r. La actitud de ignición con el REFSMMAT actual es {6}."
   },
   {
     "Identifier": "BurnPlanner_SPSBurn",
-    "Text": "{0}, el tiempo de encendido del SPS es de {1}h {2}m {3}s, con dV de {4} fps{5}."
+    "Text": "{0}, el tiempo de encendido del SPS es de {1}h {2}m {3}s, con dV de {4} fps {5}.\r\r La actitud de ignición con el REFSMMAT actual es {6}.\r Usa P30, luego V49E para maniobrar a esta actitud, o alinea el IMU a la nueva REFSMMAT cargada usando P52, opción 1 con actitud 0,0,0."
   },
   {
     "Identifier": "BurnPlanner_DPSBurn",
@@ -469,7 +469,7 @@
   },
   {
     "Identifier": "BurnPlanner_BurnDirRetrograde",
-    "Text": "retrogrado"
+    "Text": "retrógrado"
   },
   {
     "Identifier": "BurnPlanner_BurnDirPrograde",
@@ -477,11 +477,11 @@
   },
   {
     "Identifier": "BurnPlanner_BurnDirRadialIn",
-    "Text": "entrada radial"
+    "Text": "radial entrante"
   },
   {
     "Identifier": "BurnPlanner_BurnDirRadialOut",
-    "Text": "salida radial"
+    "Text": "radial saliente"
   },
   {
     "Identifier": "PDI_Fail",
@@ -497,7 +497,7 @@
   },
   {
     "Identifier": "PDI_Info2",
-    "Text": "Los valores de tiempo de encendido se cargan en el LGC. Verifique con V06N33E. "
+    "Text": "Los valores de tiempo de encendido se cargaron en el LGC. Verifique con V06N33E. "
   },
   {
     "Identifier": "PDI_Info3",
@@ -509,7 +509,7 @@
   },
   {
     "Identifier": "LM_ContactLight",
-    "Text": "Luz de contacto!"
+    "Text": "¡Luz de contacto!"
   },
   {
     "Identifier": "LM_Docking",
@@ -517,15 +517,15 @@
   },
   {
     "Identifier": "Stage_Staging",
-    "Text": "Puesta en escena."
+    "Text": "Separación de etapas"
   },
   {
     "Identifier": "TLIPlanner_LunarPe",
-    "Text": "Periluna = {0:0.0} nmi alt."
+    "Text": "Periluna = {0:0.0} nmi de alt."
   },
   {
     "Identifier": "TLIPlanner_FreeReturnPe",
-    "Text": "Perigeo de retorno = {0:0.0} nmi alt"
+    "Text": "Perigeo de retorno = {0:0.0} nmi de alt."
   },
   {
     "Identifier": "TLIPlanner_TimeToLOI",
@@ -533,7 +533,7 @@
   },
   {
     "Identifier": "TLIPlanner_Warning1",
-    "Text": "Rumbo atmosférico de entrada con la Tierra en el viaje de regreso libre. Para evitarlo, eleva el perigeo por encima de la atmósfera ({0} nmi alt)"
+    "Text": "Rumbo atmosférico de entrada con la Tierra en el viaje de retorno libre. Para evitarlo, eleva el perigeo por encima de la atmósfera ({0} nmi alt)"
   },
   {
     "Identifier": "TLIPlanner_Warning2",
@@ -565,15 +565,15 @@
   },
   {
     "Identifier": "BurnPlanner_AddData_ET",
-    "Text": "Tiempo de eventos: "
+    "Text": "Temporizador de eventos: "
   },
   {
     "Identifier": "BurnPlanner_AddData_EarthOrbit",
-    "Text": "Orbita de la Tierra"
+    "Text": "Órbita de la Tierra"
   },
   {
     "Identifier": "BurnPlanner_AddData_LunarOrbit",
-    "Text": "Orbita Lunar"
+    "Text": "Órbita Lunar"
   },
   {
     "Identifier": "BurnPlanner_BurnData_TIG",
@@ -581,19 +581,19 @@
   },
   {
     "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
-    "Text": "Tiempo a Ignicion"
+    "Text": "Tiempo a Ignición"
   },
   {
     "Identifier": "BurnPlanner_BurnData_TimeToIgnition",
-    "Text": "Tiempo a Ignicion"
+    "Text": "Tiempo a Ignición"
   },
   {
     "Identifier": "BurnPlanner_BurnData_EstBurnT",
-    "Text": "Duración estimada de la combustion"
+    "Text": "Duración estimada de la combustión"
   },
   {
     "Identifier": "BurnPlanner_BurnData_OrbitData",
-    "Text": "Datos de la Orbita"
+    "Text": "Datos de la Órbita"
   },
   {
     "Identifier": "BurnPlanner_BurnData_ApLabel",
@@ -613,11 +613,11 @@
   },
   {
     "Identifier": "TEIPlanner_Warning1",
-    "Text": "TEI la combustion no llega a la luna/planeta SOI"
+    "Text": "La combustión TEI no llega a la luna/planeta SOI"
   },
   {
     "Identifier": "TEIPlanner_Calc",
-    "Text": "Periapsis: {0:0.00} nmi alt\r\r ({4} nmi)\nTiempo hasta EI={1}\r\r\nΔV={2} ft/s\r\r\nTiempo hasta combustion={3}"
+    "Text": "Perigeo: {0:0.00} nmi alt\r\r ({4} nmi)\r\r\r\r\nTiempo hasta EI={1}\r\r\r\r\r\r\nΔV={2} ft/s\r\r\r\r\r\r\nTiempo hasta combustión={3}"
   },
   {
     "Identifier": "TEIPlanner_Warning2",
@@ -661,11 +661,11 @@
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration_CM",
-    "Text": "Configuración completa del panel del módulo de comando."
+    "Text": "Completa la configuración del panel del módulo de comando."
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration_LM",
-    "Text": "Configuración completa del panel del Módulo Lunar."
+    "Text": "Completa la configuración del panel del Módulo Lunar."
   },
   {
     "Identifier": "MissionObjective_LunarContact",
@@ -685,7 +685,7 @@
   },
   {
     "Identifier": "MissionObjective_LM_DPSShutoff",
-    "Text": "Completa la combustion DPS."
+    "Text": "Completa la combustión DPS."
   },
   {
     "Identifier": "MissionObjective_LM_APSIgnite",
@@ -693,7 +693,7 @@
   },
   {
     "Identifier": "MissionObjective_LM_APSShutoff",
-    "Text": "Completa la combustion APS."
+    "Text": "Completa la combustión APS."
   },
   {
     "Identifier": "MissionObjective_SwitchedToLunarStayArea",
@@ -701,7 +701,7 @@
   },
   {
     "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet1",
-    "Text": "Desacoplar el Módulo Lunar del Módulo de Comando/Servicio."
+    "Text": "Desacopla el Módulo Lunar del Módulo de Comando/Servicio."
   },
   {
     "Identifier": "MissionObjective_LM_DistanceToCSM_LessOrEqual_Value1_Feet2",
@@ -709,23 +709,23 @@
   },
   {
     "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_True",
-    "Text": "Alcanza una velocidad superior a {0} pies/s. en el modulo lunar"
+    "Text": "Alcanza una velocidad superior a {0} pies/s. en el módulo lunar"
   },
   {
     "Identifier": "MissionObjective_LM_Velocity_Value1_GreaterOrLess_False",
-    "Text": "Alcance una velocidad inferior a {0} pies/s. en el modulo lunar"
+    "Text": "Alcanza una velocidad inferior a {0} pies/s. en el módulo lunar"
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeGreater_Value1",
-    "Text": "Alcanzar una altitud superior a {0} km"
+    "Text": "Alcanzar una altitud superior a {0} nmi"
   },
   {
     "Identifier": "MissionObjective_CM_AltitudeLess_Value1",
-    "Text": "Alcanzar una altitud inferior a {0} km en el MC"
+    "Text": "Alcanzar una altitud inferior a {0} nmi en el MC"
   },
   {
     "Identifier": "MissionObjective_LM_AltitudeLess_Value1",
-    "Text": "Alcanza una altitud inferior a {0} km en el ML"
+    "Text": "Alcanza una altitud inferior a {0} nmi en el ML"
   },
   {
     "Identifier": "MissionObjective_CM_CheckIfAGC_Program_Value1_IsRunning",
@@ -733,19 +733,19 @@
   },
   {
     "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1",
-    "Text": "Mueva la altitud del MC Ap a {0} o más."
+    "Text": "Mueva la altitud del Ap del MC a {0} o más."
   },
   {
     "Identifier": "MissionObjective_CM_IsPeGreaterThan_Value1",
-    "Text": "Mueva la altitud del MC Pe a {0} o más"
+    "Text": "Mueva la altitud del Pe del MC a {0} o más"
   },
   {
     "Identifier": "MissionObjective_CM_IsApGreaterThan_Value1_IsPeGreaterThan_Value2",
-    "Text": "Ajuste la órbita CS a {0} Ap x {1} Pe altitud (km) o mayor."
+    "Text": "Ajuste la órbita CS a {0} Ap x {1} Pe altitud (nmi) o mayor."
   },
   {
     "Identifier": "MissionObjective_CM_IsAtRadioStation_String1",
-    "Text": "Entrar en el rango de la estación de radio: "
+    "Text": "Entra en el rango de la estación de radio: "
   },
   {
     "Identifier": "MissionObjective_CM_Longitude_Between_Value1_Value2",
@@ -753,23 +753,23 @@
   },
   {
     "Identifier": "MissionObjective_CM_Latitude_Between_Value1_Value2",
-    "Text": "Alcanza una longitud entre {0} y {1} grados."
+    "Text": "Alcanza una latitud entre {0} y {1} grados."
   },
   {
     "Identifier": "MissionObjective_CM_IsInclination_Value1_ThresholdValue2",
-    "Text": "Alcanzar un plano orbital de {0} con un umbral de +/- {1}"
+    "Text": "Alcanza un plano orbital de {0} con un umbral de +/- {1}"
   },
   {
     "Identifier": "MissionObjective_CM_Separation_StageIC",
-    "Text": "Espere la separación de S-IC."
+    "Text": "Espere la separación del S-IC."
   },
   {
     "Identifier": "MissionObjective_CM_Separation_StageII",
-    "Text": "Espere la separación de S-II."
+    "Text": "Espere la separación del S-II."
   },
   {
     "Identifier": "MissionObjective_CM_Separation_StageIVB",
-    "Text": "Esperar a la separación S-IVB."
+    "Text": "Esperar a la separación del S-IVB."
   },
   {
     "Identifier": "MissionObjective_CM_Separation_StageSM",
@@ -785,11 +785,11 @@
   },
   {
     "Identifier": "MissionObjective_CM_State_DrogueDeploy",
-    "Text": "En espera de despliegue del drogue"
+    "Text": "En espera del despliegue del paracaídas piloto."
   },
   {
     "Identifier": "MissionObjective_CM_State_MainDeploy",
-    "Text": "En espera de despliegue principal"
+    "Text": "En espera del despliegue del paracaídas principal"
   },
   {
     "Identifier": "MissionObjective_CM_State_InHiDragZone",
@@ -801,11 +801,11 @@
   },
   {
     "Identifier": "MissionObjective_CM_State_SPSBurning",
-    "Text": "En espera de encendido del motor SPS."
+    "Text": "En espera del encendido del motor SPS."
   },
   {
     "Identifier": "MissionObjective_CM_State_SPSNotBurning",
-    "Text": "Completa la combustion SPS."
+    "Text": "Completa la combustión SPS."
   },
   {
     "Identifier": "MissionObjective_CM_State_AnyEngineBurning",
@@ -817,7 +817,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_Altitude_Landing_Feet_LessThan_Value1",
-    "Text": "Llegar a una altitud inferior a {0} pies."
+    "Text": "Llega a una altitud inferior a {0} pies."
   },
   {
     "Identifier": "MissionObjective_CM_State_Splashdown",
@@ -833,11 +833,11 @@
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_TimeToRetro_Value1Seconds",
-    "Text": "Esperando a alcanzar T - {0} segundos para combustion retrógrado. Tiempo restante: {1} segundos."
+    "Text": "Esperando a alcanzar T - {0} segundos para combustión retrógrada. Tiempo restante: {1} segundos."
   },
   {
     "Identifier": "MissionObjective_CM_TimeToSPSBurn_Value1Seconds",
-    "Text": "Esperando a llegar a T - {0} segundos para combustion SPS. Tiempo restante: {1} segundos."
+    "Text": "Esperando a llegar a T - {0} segundos para combustión SPS. Tiempo restante: {1} segundos."
   },
   {
     "Identifier": "MissionObjective_CM_Velocity_GreaterThan_Value1_FPS",
@@ -845,7 +845,7 @@
   },
   {
     "Identifier": "MissionObjective_CM_Velocity_LessThan_Value1_FPS",
-    "Text": "Alcance una velocidad inferior a {0} pies/s. en el Módulo de Comando"
+    "Text": "Alcanza una velocidad inferior a {0} pies/s. en el Módulo de Comando"
   },
   {
     "Identifier": "MissionObjective_TLI_AdjustPeriluneTo_Value1km_Value2ThresholdKm",
@@ -857,11 +857,11 @@
   },
   {
     "Identifier": "MissionObjective_TLI_RequestTB6",
-    "Text": "Solicitar la combustion TLI"
+    "Text": "Solicitar la combustión TLI"
   },
   {
     "Identifier": "MissionObjective_TLI_BurnComplete",
-    "Text": "Completar la combustion TLI"
+    "Text": "Completar la combustión TLI"
   },
   {
     "Identifier": "MissionObjective_CSM_OpenBurnPlanner",
@@ -869,7 +869,7 @@
   },
   {
     "Identifier": "MissionObjective_CSM_BurnRequested",
-    "Text": "Solicitar la combustion MSC"
+    "Text": "Solicitar la combustión MSC"
   },
   {
     "Identifier": "MissionObjective_TEI_OpenBurnPlanner",
@@ -877,7 +877,7 @@
   },
   {
     "Identifier": "MissionObjective_TEI_BurnRequested",
-    "Text": "Solicitar la combustion TEI"
+    "Text": "Solicitar la combustión TEI"
   },
   {
     "Identifier": "MissionObjective_LM_CheckIfLGC_Program_Value1_IsRunning",
@@ -885,15 +885,15 @@
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P12Guidance",
-    "Text": "Guía completa de LGC P12"
+    "Text": "Completa la guía de LGC P12"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P63Guidance",
-    "Text": "Guía completa de LGC P63"
+    "Text": "Completa la guía de LGC P63"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_P64Guidance",
-    "Text": "Guía completa de LGC P64"
+    "Text": "Completa la guía de LGC P64"
   },
   {
     "Identifier": "MissionObjective_LM_Sequencer_IsComplete_LunarDescent",
@@ -965,23 +965,23 @@
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
-    "Text": "Coloque el MCS en una órbita circular de {0} +/- {1} km"
+    "Text": "Coloque el MCS en una órbita circular de {0} +/- {1} nmi"
   },
   {
     "Identifier": "MissionObjective_CM_Orbit_IsCircular_ThresholdValue1",
-    "Text": "Coloque el MCS en cualquier órbita circular con un umbral de {0} km"
+    "Text": "Coloque el MCS en cualquier órbita circular con un umbral de {0} nmi"
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_IsCircular_AltitudeKmValue1_ThresholdValue2",
-    "Text": "Coloque el LM en una órbita circular de {0} +/- {1} km"
+    "Text": "Coloque el LM en una órbita circular de {0} +/- {1} nmi"
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_IsCircular_ThresholdValue1",
-    "Text": "Coloque el ML en cualquier órbita circular con un umbral de {0} km"
+    "Text": "Coloque el ML en cualquier órbita circular con un umbral de {0} nmi"
   },
   {
     "Identifier": "MissionObjective_LM_TimeToDPSBurn_Value1Seconds",
-    "Text": "Esperando a llegar a T - {0} segundos para combustion DPS. Tiempo restante: {1} segundos."
+    "Text": "Esperando a llegar a T - {0} segundos para combustión DPS. Tiempo restante: {1} segundos."
   },
   {
     "Identifier": "MissionObjective_LM_Orbit_TimeToAp_Value1",
@@ -997,15 +997,15 @@
   },
   {
     "Identifier": "RadioCommMenu_TLI",
-    "Text": "S-IVB BURN PLANNER"
+    "Text": "PLANIFICADOR DE COMBUSTIÓN DE S-IVB"
   },
   {
     "Identifier": "RadioCommMenu_BurnPlanner",
-    "Text": "BURN PLANNER"
+    "Text": "PLANIFICADOR DE MANIOBRAS"
   },
   {
     "Identifier": "RadioCommMenu_RequestPDI",
-    "Text": "REQUEST PDI"
+    "Text": "SOLICITAR PDI"
   },
   {
     "Identifier": "RadioCommMenu_Request",
@@ -1013,11 +1013,11 @@
   },
   {
     "Identifier": "RadioCommMenu_RequestTEI",
-    "Text": "REQUEST TEI"
+    "Text": "SOLICITAR TEI"
   },
   {
     "Identifier": "RadioCommMenu_RequestCSI2",
-    "Text": "REQUEST CSI-2"
+    "Text": "SOLICITAR CSI-2"
   },
   {
     "Identifier": "RadioCommMenu_CrewMembers",
@@ -1029,7 +1029,7 @@
   },
   {
     "Identifier": "RadioCommMenu_PhaseAscent",
-    "Text": "ASCENT"
+    "Text": "ASCENSO"
   },
   {
     "Identifier": "RadioCommMenu_PhaseCDH",
@@ -1054,5 +1054,693 @@
   {
     "Identifier": "RadioCommMenu_PhaseTPM",
     "Text": "TPM"
+  },
+  {
+    "Identifier": "LRV_ExitLRV",
+    "Text": "SALIR DEL VEHÍCULO"
+  },
+  {
+    "Identifier": "LunarAscent_CSI_N_BurnCalc",
+    "Text": "Combustión de TPF programada a las {0} TME con un dV de {1} fps. LGC está actualizado. Ejecute P30 para configurar y P41 para ejecutar."
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttCurr",
+    "Text": "Actitud de Ingición (actual):"
+  },
+  {
+    "Identifier": "BurnPlanner_BurnData_AttPref",
+    "Text": "Actitud de Ingición (preferred):"
+  },
+  {
+    "Identifier": "PDI_Requested",
+    "Text": "Solicitud de PDI recibida. Estamos trabajando en la trayectoria y te haremos saber cuando los datos estén completos. [Esto puede tomar hasta un minuto]"
+  },
+  {
+    "Identifier": "PDI_SiteUpdate",
+    "Text": "La PREFERRED flag se ha colocado en el sitio de aterrizaje REFSMMAT. Puedes alinearlo con él usando P52 opción 1."
+  },
+  {
+    "Identifier": "MissionObjective_AGCCheck_VerbValue1_NounValue2",
+    "Text": "Se muestra Verb {0}, Noun {1} en el AGC DSKY."
+  },
+  {
+    "Identifier": "MissionObjective_LGCCheck_VerbValue1_NounValue2",
+    "Text": "Se muestra Verb {0}, Noun {1} en el LGC DSKY."
+  },
+  {
+    "Identifier": "MissionObjective_LM_Orbit_TimeToEI_Value1",
+    "Text": "Esperando a alcanzar EI T-{0} segundos. Tiempo restante: {1} segundos."
+  },
+  {
+    "Identifier": "MissionObjective_CM_DockingAlignmentWithLM_Value1",
+    "Text": "Alinearse dentro de {0}° del cono de acoplamiento del LM. Actualmente a {1}°."
+  },
+  {
+    "Identifier": "MCC_SetTLMToAccept",
+    "Text": "Configura Uplink Telemetry en Accept (Panel 2), AGC en P00 y vuelva a intentarlo."
+  },
+  {
+    "Identifier": "MCC_REFSMMATUplinked",
+    "Text": "Transmitiendo REFSMMAT. Use P52 opción 1 para alinearlo con él cuando la luz de Uplink Acty se apague."
+  },
+  {
+    "Identifier": "RadioCommMessage_TooHighGLoads",
+    "Text": "Tus cargas de fuerzas G son muy altas."
+  },
+  {
+    "Identifier": "GameOverReason_TooHighGLoads",
+    "Text": "Daño estructural y de tripulación debido a demasiada carga de fuerzas G."
+  },
+  {
+    "Identifier": "GameOverReason_Crashed",
+    "Text": "Estrellado durante el aterrizaje."
+  },
+  {
+    "Identifier": "GameOverReason_NonCMEntry",
+    "Text": "Intentó realizar una entrada atmosférica mientras seguía acoplado. Solo el Módulo de Comando puede realizarla."
+  },
+  {
+    "Identifier": "GameOverReason_LMEntry",
+    "Text": "Intentó realizar una entrada atmosférica con el ML acoplado al Módulo de Comando."
+  },
+  {
+    "Identifier": "BurnPlanner_UplinkPreferred",
+    "Text": "(OPCIONAL) IMU: SET PREFERRED"
+  },
+  {
+    "Identifier": "BurnPlanner_CommsPreferredSet",
+    "Text": "Dirección de encendido preferida configurada; usa P52 opción 1 para orientar los giroscopios antes de solicitar el encendido. Configura ORDEAL en INRTL y presiona V37E 52E V22E +1E PRO PRO para realizarlo."
+  },
+  {
+    "Identifier": "RadioCommReq_MissionTimeSync",
+    "Text": "Los Temporizadores de Misión han sido sincronizados con el Tiempo de Misión en Tierra."
+  },
+  {
+    "Identifier": "CommTools_SyncMetTimers",
+    "Text": "SYNC MET TIMERS"
+  },
+  {
+    "Identifier": "UI_CloseHatch",
+    "Text": "CERRAR ESCOTILLA"
+  },
+  {
+    "Identifier": "UI_OpenHatch",
+    "Text": "ABRIR ESCOTILLA"
+  },
+  {
+    "Identifier": "CrewMembers_Title",
+    "Text": "TRIPULACIÓN"
+  },
+  {
+    "Identifier": "ViewSelector_HowHelp",
+    "Text": "¿Cómo te puedo ayudar?"
+  },
+  {
+    "Identifier": "ViewSelector_Crew",
+    "Text": "TRIPULACIÓN"
+  },
+  {
+    "Identifier": "ViewSelector_ManageCrew",
+    "Text": "GESTIONAR TRIPULACIÓN"
+  },
+  {
+    "Identifier": "CrewMembers_OnBoard",
+    "Text": "A BORDO"
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc",
+    "Text": "AUTO CIRCULARIZAR MCS"
+  },
+  {
+    "Identifier": "CrewMembers_CSMPower",
+    "Text": "CMP: SOLICITAR ALIMENTACIÓN DEL LMP"
+  },
+  {
+    "Identifier": "CrewMembers_LandingAid",
+    "Text": "DESIGNADOR DE PUNTO DE ATERRIZAJE"
+  },
+  {
+    "Identifier": "CrewMembers_SlewAid",
+    "Text": "ORIENTACIÓN DEL RADAR DE ENCUENTRO"
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid",
+    "Text": "ACOPLAMIENTO MCS/ML"
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr",
+    "Text": "TRIPULACIÓN ML: MANIOBRA"
+  },
+  {
+    "Identifier": "CrewMembers_Ground",
+    "Text": "TIERRA"
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT",
+    "Text": "SOLICITAR REFSMMATs"
+  },
+  {
+    "Identifier": "CrewMembers_PADs",
+    "Text": "SOLICITAR PADs Y GRÁFICOS"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Info",
+    "Text": "Esta página permite gestionar la tripulación. Si tu estado de carga es anterior a la versión 0.84, el interruptor de anulación está activado por defecto y permite mover a la tripulación incluso si el CSM/LM no está acoplado con la escotilla abierta."
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Override",
+    "Text": "Forzar Transferencia"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_Commander",
+    "Text": "Comandante"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheCSM",
+    "Text": "EN EL MCS"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InTheLM",
+    "Text": "EN EL ML"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_InEVASuit",
+    "Text": "EN TRAJE EVA"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_CMP",
+    "Text": "Piloto del Módulo de Comando"
+  },
+  {
+    "Identifier": "CrewMembers_ManageCrew_LMP",
+    "Text": "Piloto del Módulo Lunar"
+  },
+  {
+    "Identifier": "CrewMembers_LPD_Desc",
+    "Text": "Te proporcionaré información importante de descenso durante las fases finales del descenso lunar. Desde P64 hasta el contacto con la superficie, te informaré continuamente de tu altitud, velocidad de descenso, niveles de combustible del tanque seleccionado y la posición del punto de aterrizaje mediante el Designador de Punto de Aterrizaje (LPD).\r\r\n\r\r\nEl ángulo de cabeceo del LPD indica dónde se encuentra el punto de aterrizaje en las marcas verticales de la ventana, y el ángulo de guiñada del LPD indica su posición en el eje horizontal. El punto ROJO en la parte superior tiene un ángulo de cabeceo LPD de 10 grados y un ángulo de guiñada de 0 grados.\r\r\n\r\r\nLa información se actualizará cada 10 segundos."
+  },
+  {
+    "Identifier": "CrewMembers_Toggle",
+    "Text": "ALTERNAR"
+  },
+  {
+    "Identifier": "CrewMembers_RR_Desc",
+    "Text": "Esto te ayudará a orientar el RR hacia el MCS. Si el selector de modo del RR está en SLEW, el LMP te indicará cuántos grados debes girar su eje para poder ver el MCS."
+  },
+  {
+    "Identifier": "CrewMembers_DockingAid_Desc",
+    "Text": "Esta ayuda de acoplamiento te indicará la distancia al ML/MCS."
+  },
+  {
+    "Identifier": "CrewMembers_PowerLM_Desc",
+    "Text": "El CMP configurará el MCS para alimentar al ML a través del umbilical de acomplamiento."
+  },
+  {
+    "Identifier": "CrewMembers_AutoCirc_Desc",
+    "Text": "El CMP circularizará la órbita a un valor entre el Pe y Ap actuales."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_Desc",
+    "Text": "Solicita a la tripulación del ML que maniobren el ML para mirar el MCS con un ángulo relativo."
+  },
+  {
+    "Identifier": "CrewMembers_LMCrewMnvr_CsmAtt_Desc",
+    "Text": "Solicita a la tripulación del ML a alinear la actitud del ML con la del MCS."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_Desc",
+    "Text": "Estas funciones solicitarán una transmisión REFSMMAT desde tierra. Asegúrate de que Uplink Telemetry esté en Accept (panel 2). Una vez completado el enlace, usa P52 opción 1 para alinear la IMU."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Desc",
+    "Text": "PTC REFSMMAT:\r\r\r\nEsto alineará la IMU con la eclíptica y la línea Tierra-Luna en el nodo de TEI."
+  },
+  {
+    "Identifier": "CrewMembers_REFSMMAT_PTC_Request",
+    "Text": "SOLICITAR PTC REFSMMAT"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Desc",
+    "Text": "Datos de Asesoramiento Preliminar (PADs) y Formularios"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Forms",
+    "Text": "FORMULARIOS\r\r\nEstas opciones abrirán una interfaz con el formulario seleccionado. Al solicitar un PAD o datos, el orden de la información coincidirá con el formulario elegido. Una herramienta de lápiz te permitirá completar el formulario para registrar los datos."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CommandModule",
+    "Text": "MÓDULO DE COMANDO:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P52",
+    "Text": "ABRIR FORMULARIO DE REALINEACIÓN DE LA IMU (P52)"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P30",
+    "Text": "ABRIR PAD DE MANIOBRA P30"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_P37",
+    "Text": "ABRIR PAD DE DATOS DEL BLOQUE P37"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_TLI",
+    "Text": "ABRIR PAD PARA TLI"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_CSM_Entry",
+    "Text": "ABRIR PAD DE ENTRADA ATMOSFÉRICA"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM",
+    "Text": "MÓDULO LUNAR"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_P30",
+    "Text": "ABRIR PAD DE MANIOBRA P30"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_Ascent",
+    "Text": "ABRIR PAD DE ASCENSO LUNAR"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_DockedIMUCoarseAlign",
+    "Text": "ABRIR LM DOCKED IMU COARSE ALIGN"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_General",
+    "Text": "GENERAL:"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_BlankPaper",
+    "Text": "ABRIR HOJA EN BLANCO"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_IMURealign",
+    "Text": "REALINEADO DE IMU\r\r\r\r\r\nSe usa P52 para realinear la IMU. Usa esto para solicitar un realineado de IMU en el tiempo de misión actual."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RequestIMURealign",
+    "Text": "P52: REALINEADO DE IMU"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_Desc",
+    "Text": "PADs DE ENCENDIDO DE CIRCULARIZACIÓN DEL SPS DEL MCS EN ÓRBITA\r\r\r\r\r\nEstos PADs están diseñados para planificar un encendido de circularización en el apogeo (Ap) o perigeo (Pe)."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqPeBurn",
+    "Text": "MANIOBRA P30: CIRCULARIZAR EN PE"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Circulation_ReqApBurn",
+    "Text": "MANIOBRA P30: CIRCULARIZAR EN AP"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Desc",
+    "Text": "PADs DE ENCUENTRO CON SKYLAB\r\r\r\r\r\nPAD(S) requeridos para calcular encendidos de encuentro con Skylab."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_RndzSkylab_Request",
+    "Text": "MANIOBRA P30: ENCUENTRO CON SKYLAB"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Desc",
+    "Text": "PAD DE ENTRADA ATMOSFÉRICA TERRESTRE/LUNAR \r\r\r\r\r\r\nEste PAD está diseñado para devolver la nave de forma segura a la Tierra a través de la atmósfera y contiene todos los datos necesarios para preparar la entrada atmosférica."
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Entry_Request",
+    "Text": "SOLICITAR PAD\r DE ENTRADA ATMOSFÉRICA"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts",
+    "Text": "GRÁFICOS"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMSkylabRndzPlot",
+    "Text": "GRÁFICA DE ENCUENTRO: MCS / SKYLAB"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_Charts_CSMLMRndzPlot",
+    "Text": "GRÁFICA DE ENCUENTRO: MCS / ML (ÓRBITA LUNAR)"
+  },
+  {
+    "Identifier": "CrewMembers_PADs_LM_PDI",
+    "Text": "ABRIR PAD DE PDI"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T1",
+    "Text": "CRYO O2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoO2T2",
+    "Text": "CRYO O2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T1",
+    "Text": "CRYO H2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_CryoH2T2",
+    "Text": "CRYO H2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGvsIV",
+    "Text": "G's de descenso x IV"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentGs",
+    "Text": "G's\r de descenso"
+  },
+  {
+    "Identifier": "Debrief_KPI_DescentAlt",
+    "Text": "Altitud durante el descenso"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVI",
+    "Text": "PDI VI"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIVIfts",
+    "Text": "PDI VI (ft/s)"
+  },
+  {
+    "Identifier": "Debrief_KPI_PDIAlt",
+    "Text": "Altitud durante PDI (ft)"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentWT",
+    "Text": "Peso en Ascenso"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentPitch",
+    "Text": "Cabeceo de Ascenso"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentGs",
+    "Text": "G's de Ascenso"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChute",
+    "Text": "Paracaídas Principal Desplegado"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChute",
+    "Text": "Paracaídas Piloto Desplegado"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMIngress",
+    "Text": "Primer Ingreso al Módulo Lunar"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Maxq",
+    "Text": "Max-q"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsIECO",
+    "Text": "SI-C: Apagado del Motor Central"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SIC_IsOECO",
+    "Text": "SI-C: Apagado de los Motores Externos"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsIECO",
+    "Text": "S-II: Apagado del Motor Central"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_SII_IsOECO",
+    "Text": "S-II: Apagado de los Motores Externos"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Event_TowerJettison",
+    "Text": "Separación de la Torre de Escape"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_DockedWithCSM",
+    "Text": "Ascenso Lunar: Acoplado con el MCS"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscent_APSBurnComplete",
+    "Text": "Ascenso Lunar: Combustión APS completada"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarStay_WalkOnMoon",
+    "Text": "Estancia Lunar: EVA"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarLanding",
+    "Text": "Contacto con la Superficie Lunar"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryEarthSOI",
+    "Text": "Ingresado en la Esfera de Influencia de la Tierra"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TrajectoryLunarSOI",
+    "Text": "Ingresado en la Esfera de Influencia de la Luna"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLICompleted",
+    "Text": "Inyección Trans-Lunar completa"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_LunarAscentStarted",
+    "Text": "Ascenso Lunar: Combustión APS"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnPlanned",
+    "Text": "Encendido SPS planificado en TIG {0}, dV={1} ft/s"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnPlanned",
+    "Text": "Encendido DPS Planeado en TIG {0}, dV={1} ft/s"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_SPSBurnCompleted",
+    "Text": "Encendido SPS: dV={0} ft/s, Ap={1} nmi R, Pe={2} nmi R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DPSBurnCompleted",
+    "Text": "Encendido SPS: dV={0} ft/s, Ap={1} nmi R, Pe={2} nmi R, i={3}°"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TLIIgnition",
+    "Text": "Encendido de la Combustión de inyección Trans-Lunar"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_UndockedWithLM",
+    "Text": "Desacoplado del ML"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_FirstLMDocking",
+    "Text": "Acoplado con el ML: T&D completo"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DockedWithLM",
+    "Text": "Acoplado con el ML"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_PDIStarted",
+    "Text": "Inicio de Descenso Lunar Potenciado"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RollProgram",
+    "Text": "Roll Program"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIC",
+    "Text": "Separación de Etapa: S-IC"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SII",
+    "Text": "Separación de Etapa: S-II"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SIVB",
+    "Text": "Separación de Etapa: S-IVB"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Stage_SM",
+    "Text": "Separación de Etapa: SM/CM"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit",
+    "Text": "CABINA"
+  },
+  {
+    "Identifier": "CrewMembers_CockpitEq_Title",
+    "Text": "EQUIPO DE CABINA"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_CueCards",
+    "Text": "Tarjetas Guía"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_1",
+    "Text": "Alternar AC PWR"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_2",
+    "Text": "Alternar SM Eq"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_3",
+    "Text": "Alternar Datos de empuje del Saturno V"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_4",
+    "Text": "Alternar Abortos de Ascenso del CDR"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_5",
+    "Text": "Alternar Abortos de Ascenso del LMP"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_6",
+    "Text": "Alternar TLI"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_7",
+    "Text": "Alternar TLI 1 Nominal"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_8",
+    "Text": "Alternar TnD"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_9",
+    "Text": "Alternar TnD Cont"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_10",
+    "Text": "Alternar Undock Sep"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_11",
+    "Text": "Alternar SPS Burn"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_12",
+    "Text": "Alternar SPS Burn Cont"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_13",
+    "Text": "Alternar Entry"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_14",
+    "Text": "Alternar Reglas de Encendido SPS "
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_15",
+    "Text": "Alternar Límites de LOI "
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_16",
+    "Text": "Alternar Abortos EPS/ECS"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_17",
+    "Text": "Alternar Aterrizaje del MC"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_18",
+    "Text": "Alternar Aterrizaje del MC a los 10K"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_19",
+    "Text": "Alternar Configuración del DAP del MCS"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_20",
+    "Text": "Alternar CSM Insertion"
+  },
+  {
+    "Identifier": "CrewMembers_A13NoSign",
+    "Text": "Alternar Nota de NO de Apollo 13"
+  },
+  {
+    "Identifier": "CrewMembers_CueCard_LM_1",
+    "Text": "Alternar Luces de precaución del ML"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleVelcro",
+    "Text": "Alternar Velcro"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions1",
+    "Text": "{0}/{1}: Apuntar los Ópticos"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions2",
+    "Text": "{0}: Salir del Visor Óptico"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions3",
+    "Text": "{0}: Cambiar ocular de la óptica"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions4",
+    "Text": "{0}: Mark"
+  },
+  {
+    "Identifier": "VROptics_VRCursorInstructions5",
+    "Text": "{0}: Rechazar Mark"
+  },
+  {
+    "Identifier": "VROptics_MotionControllerInstructions1",
+    "Text": "Pulgar Derecho: Mover visor\r\nAlternar Comunicaciones: cambiar visor\r\nGatillo Izquierdo: Salir del visor\r\nInteracción Izquierda: Mark\r\nInteracción Derecha: Rechazar Mark"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_WindowShields",
+    "Text": "Protectores de Ventana"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_LH",
+    "Text": "Ventana LH de Encuentro (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_RNDZ_RH",
+    "Text": "Ventana RH de Encuentro (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_LH",
+    "Text": "Ventana Lateral Izquierda (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Side_RH",
+    "Text": "Ventana Lateral Derecha (CDR)"
+  },
+  {
+    "Identifier": "CrewMembers_WindowShield_Hatch",
+    "Text": "Ventana de la Escotilla"
+  },
+  {
+    "Identifier": "BurnPlanner_TimeOfSMSep",
+    "Text": "Tiempo a la separación del MC/MS: {0}"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffset",
+    "Text": "Ajuste de Órbita (0 - 5 órbitas)"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetNext",
+    "Text": "Próximo Pase"
+  },
+  {
+    "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetFuture",
+    "Text": "+{0} Órbita(s)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceA",
+    "Text": "Elemento Absorbente de CO2 A Remplazado"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceB",
+    "Text": "Elemento Absorbente de CO2 B Remplazado"
+  },
+  {
+    "Identifier": "PDI_LandingRadarNotPowered",
+    "Text": "Por favor, revisa el radar de aterrizaje; no está funcionando correctamente. ¿Está conectado? Verifica que el disyuntor PGNS: LDG RDR del Panel 11 esté cerrado."
   }
 ]

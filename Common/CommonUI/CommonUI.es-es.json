@@ -141,7 +141,7 @@
   },
   {
     "Identifier": "AudioMenu_Track_AstroComm",
-    "Text": "Comuniaciones\r\r\r\r\r\nAstronauta"
+    "Text": "Comuniaciones\r\r\r\r\r\r\r\r\r\ndel Astronauta"
   },
   {
     "Identifier": "AudioMenu_Track_MCC",
@@ -153,7 +153,7 @@
   },
   {
     "Identifier": "SaveState_Body",
-    "Text": "Hace poco que empezé a implementar las rutinas de guardado y cargado de partidas. Actualmente este sistema es muy básico y en su mayoría guardará los vectores de estado de la nave espacial, los elementos físicos, y el estado del panel de la cabina.\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\nIntentaré mantener los archivos de guardado compatibles con versiones anteriores, pero porfavor, espere cambios que puedan romper sus partidas guardadas. Este sistema aun no esta completamente terminado."
+    "Text": "Esto guardará tu progreso actual como un punto de guardado.\r\n\r\nIntroduce el nombre del archivo abajo y presiona GUARDAR.\r\n\r\nNota: La mayoría de los estados principales, parámetros orbitales y datos del sistema dentro del alcance de la versión 1.0 se guardan. Los estados de guardado seguirán evolucionando y mejorando a medida que el juego avance hacia la versión 2.0 y los sistemas se sigan desarrollando."
   },
   {
     "Identifier": "SaveState_Error",
@@ -190,5 +190,197 @@
   {
     "Identifier": "Settings_UIScaleDesc",
     "Text": "El factor de escala de la interfaz del usuario."
+  },
+  {
+    "Identifier": "MissionPad_VR",
+    "Text": "VR"
+  },
+  {
+    "Identifier": "Debrief_End",
+    "Text": "FINALIZAR MISIÓN"
+  },
+  {
+    "Identifier": "Debrief_Resume",
+    "Text": "REANUDAR MISIÓN"
+  },
+  {
+    "Identifier": "Debrief_Reload",
+    "Text": "REINICIAR MISIÓN"
+  },
+  {
+    "Identifier": "MissionPad_RunChecklist",
+    "Text": "RUN:"
+  },
+  {
+    "Identifier": "MissionPad_CloseChecklist",
+    "Text": "< VOLVER"
+  },
+  {
+    "Identifier": "MissionPad_EditChecklist",
+    "Text": "EDITAR"
+  },
+  {
+    "Identifier": "Debrief_Title",
+    "Text": "INFORME DE LA MISIÓN"
+  },
+  {
+    "Identifier": "Debrief_Goals",
+    "Text": "OBJETIVOS"
+  },
+  {
+    "Identifier": "Debrief_Accomplished",
+    "Text": "MISIÓN COMPLETADA"
+  },
+  {
+    "Identifier": "Debrief_NotAccomplished",
+    "Text": "MISIÓN NO COMPLETADA"
+  },
+  {
+    "Identifier": "Debrief_KeyMoments",
+    "Text": "MOMENTOS CLAVE"
+  },
+  {
+    "Identifier": "LoadingPanelState",
+    "Text": "CARGANDO EL ESTADO DEL PANEL"
+  },
+  {
+    "Identifier": "TimeToLaunch",
+    "Text": "Tiempo para el lanzamiento T"
+  },
+  {
+    "Identifier": "TimeScale",
+    "Text": "Escala de tiempo"
+  },
+  {
+    "Identifier": "Paused",
+    "Text": "PAUSADO"
+  },
+  {
+    "Identifier": "ViewSelector_Photocamera",
+    "Text": "CÁMARA FOTOGRÁFICA"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxVel",
+    "Text": "VELOCIDAD MÁXIMA"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxAlt",
+    "Text": "ALTITUD MÁXIMA"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxGs",
+    "Text": "FUERZAS G MÁXIMAS"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentAltitude",
+    "Text": "Altitud de Ascenso"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption",
+    "Text": "Consumo de Combustible"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Splashdown",
+    "Text": "Amerizaje"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Abort",
+    "Text": "Abort\ro"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_InsertionData",
+    "Text": "Inserción ({0} nmi x {1} nmi, {2}° inc)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ignition",
+    "Text": "Ingición"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun",
+    "Text": "Diversión"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo1",
+    "Text": "Fotografía: photo1.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo2",
+    "Text": "Fotografía: photo2.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo3",
+    "Text": "Fotografía: photo3.png"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleAllCockpitEq",
+    "Text": "OCULTAR TODO"
+  },
+  {
+    "Identifier": "CrewMembers_TogglePADs",
+    "Text": "PANEL DE CABINA"
+  },
+  {
+    "Identifier": "SlowMode",
+    "Text": "MODO LENTO"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Title",
+    "Text": "PLANIFICADOR DE RETROENCENDIDO"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Hours",
+    "Text": "HORAS"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Minutes",
+    "Text": "MINUTOS"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "SEGUNDOS"
+  },
+  {
+    "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
+    "Text": "UBICACIÓN ESTIMADA DE ATERRIZAJE"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Lat",
+    "Text": "LAT"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Long",
+    "Text": "LONG"
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Gemini",
+    "Text": "\r\nLimitaciones (1.0):\n\nNo se puede guardar el estado entre la planificación de una maniobra y su ejecución. Al solicitar una maniobra planificada, completa el encendido antes de guardar; de lo contrario, la maniobra deberá volver a planificarse."
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Apollo",
+    "Text": "\r\nLimitaciones (1.0):\n\nNo es posible guardar el estado entre una maniobra planificada y su ejecución. Si se solicita una maniobra planificada, debe completarse el encendido antes de guardar; de lo contrario, será necesario volver a planificarla.\nNo es posible guardar el estado entre un encendido de TEI ejecutado y la entrada en la SOI de la Tierra."
+  },
+  {
+    "Identifier": "Debrief_Failure",
+    "Text": "Avería:"
+  },
+  {
+    "Identifier": "MissionPad_DragToReposition",
+    "Text": "ARRASTRA PARA MOVER"
+  },
+  {
+    "Identifier": "MissionPad_DragToRepositionVertical",
+    "Text": "A\nR\nR\nA\nS\nT\nR\nA\n \nP\nA\nR\nA\n \nM\nO\nV\nE\nR"
+  },
+  {
+    "Identifier": "VR_ToggleCurrentObjective",
+    "Text": "ALTERNAR OBJETIVO ACTUAL"
+  },
+  {
+    "Identifier": "VR_TriggerAbort",
+    "Text": "ABORT\rO"
+  },
+  {
+    "Identifier": "VR_ToggleMissionPad",
+    "Text": "ALTERNAR PANEL DE MISIÓN"
   }
 ]

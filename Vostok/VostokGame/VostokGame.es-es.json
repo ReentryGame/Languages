@@ -1,18 +1,18 @@
 [
   {
     "Identifier": "ViewSelector_CommandersSeat",
-    "Text": "COMMANDERS SEAT"
+    "Text": "ASIENTO DEL COMANDANTE"
   },
   {
     "Identifier": "ViewSelector_MainPanel",
-    "Text": "MAIN PANEL"
+    "Text": "PANEL PRINCIPAL"
   },
   {
     "Identifier": "ViewSelector_ControlPanel",
-    "Text": "CONTROL PANEL"
+    "Text": "PANEL DE CONTROL"
   },
   {
     "Identifier": "ViewSelector_VZOR",
-    "Text": "VZOR SCOPE"
+    "Text": "MIRA VZOR"
   }
 ]

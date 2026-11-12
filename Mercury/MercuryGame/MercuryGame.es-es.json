@@ -1,7 +1,7 @@
 [
   {
     "Identifier": "ViewSelector_CommandersSeat",
-    "Text": "ASIENTO COMANDANTE"
+    "Text": "ASIENTO DEL COMANDANTE"
   },
   {
     "Identifier": "ViewSelector_LeftPanels",
@@ -21,11 +21,11 @@
   },
   {
     "Identifier": "CommReq_RadioCheck",
-    "Text": "COMPROBACION DE RADIO"
+    "Text": "COMPROBACIÓN DE RADIO"
   },
   {
     "Identifier": "CommReq_AltitudeCheck",
-    "Text": "COMPROBACION DE ALTITUD"
+    "Text": "COMPROBACIÓN DE ALTITUD"
   },
   {
     "Identifier": "CommReq_ClockReport",
@@ -33,11 +33,11 @@
   },
   {
     "Identifier": "CommReq_BatteryCheck",
-    "Text": "COMPROBACION DE BATERIA"
+    "Text": "COMPROBACIÓN DE BATERIA"
   },
   {
     "Identifier": "CommReq_TempCheck",
-    "Text": "COMPROBACION DE TEMPERATURA"
+    "Text": "COMPROBACIÓN DE TEMPERATURA"
   },
   {
     "Identifier": "CommReq_SetRETROtoNextAP",
@@ -57,19 +57,19 @@
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
-    "Text": "PALANCA MUSICA"
+    "Text": "ALTERNAR CASETERA"
   },
   {
     "Identifier": "CommReq_ManualAscentData",
-    "Text": "DATOS ASCENSO MANUAL"
+    "Text": "DATOS DE ASCENSO MANUAL"
   },
   {
     "Identifier": "CommReq_AttitudeInfo",
-    "Text": "DATOS ALTITUD"
+    "Text": "DATOS DE ALTITUD"
   },
   {
     "Identifier": "Radio_NegativeClockCheck",
-    "Text": "Negativo! Umbilical  sigue conectado."
+    "Text": "¡Negativo! El umbilical sigue conectado."
   },
   {
     "Identifier": "RadioCheck_HF",
@@ -93,7 +93,7 @@
   },
   {
     "Identifier": "Radio_AltCheck_WeSeeYouAt",
-    "Text": "te vemos en {0}."
+    "Text": "Te vemos en {0}."
   },
   {
     "Identifier": "Radio_AltCheck_NoTLM",
@@ -105,7 +105,7 @@
   },
   {
     "Identifier": "Radio_Staging",
-    "Text": "Confirmamos puesta en escena en {0}."
+    "Text": "Confirmamos la separación de etapas en {0}."
   },
   {
     "Identifier": "MissionObjective_None",
@@ -129,7 +129,7 @@
   },
   {
     "Identifier": "MissionObjective_Separation_Tower",
-    "Text": "En espera de Separacion de Torre."
+    "Text": "En espera de Separacion de la Torre."
   },
   {
     "Identifier": "MissionObjective_Separation_LV",
@@ -141,15 +141,15 @@
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "Lista de verificación completa con identificación {0}."
+    "Text": "Completa la lista de verificación con identificación {0}."
   },
   {
     "Identifier": "MissionObjective_AltitudeGreater_Value1",
-    "Text": "Alcanzar una altitud superior a {0} km."
+    "Text": "Alcanza una altitud superior a {0} km."
   },
   {
     "Identifier": "MissionObjective_AltitudeLess_Value1",
-    "Text": "Alcanzar una altitud inferior a {0} km."
+    "Text": "Alcanza una altitud inferior a {0} km."
   },
   {
     "Identifier": "MissionObjective_IsApGreaterThan_Value1",
@@ -201,11 +201,11 @@
   },
   {
     "Identifier": "MissionObjective_State_DrogueDeploy",
-    "Text": "En espera de despliegue de el drogue."
+    "Text": "En espera de despliegue del paracaídas piloto (drogue)."
   },
   {
     "Identifier": "MissionObjective_State_MainDeploy",
-    "Text": "En espera de despliegue principal."
+    "Text": "En espera de despliegue del paracaídas principal."
   },
   {
     "Identifier": "MissionObjective_State_InHiDragZone",
@@ -237,34 +237,238 @@
   },
   {
     "Identifier": "RadioMessage_UmbilicalDisconnect",
-    "Text": "Umbilical desconectado!"
+    "Text": "¡Umbilical desconectado!"
   },
   {
     "Identifier": "RadioMessage_SetSpacecraftToReady",
-    "Text": "{0}, no podemos ver que esté listo. Cambie el interruptor de CONTROL DE LANZAMIENTO a LISTO. cuenta regresiva completa!"
+    "Text": "{0}, no podemos ver que estés listo. Cambie el interruptor de CONTROL DE LANZAMIENTO a LISTO. ¡La cuenta regresiva está completa!"
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown",
-    "Text": "MCC, solicitando retención de cuenta atras."
+    "Text": "MCC, solicitando retención de cuenta atrás."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown",
-    "Text": "MCC, por favor reanude la cuenta atras."
+    "Text": "MCC, por favor reanude la cuenta atrás."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdown2",
-    "Text": "{0}, parando cuenta atras."
+    "Text": "{0}, parando cuenta atrás."
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdown2",
-    "Text": "{0}, cuenta atras continuada."
+    "Text": "{0}, cuenta atrás reanudada."
   },
   {
     "Identifier": "RadioCommReq_HoldCountdownButtonLabel",
-    "Text": "CONTINUAR CUENTA ATRAS"
+    "Text": "REANUDAR CUENTA ATRÁS"
   },
   {
     "Identifier": "RadioCommReq_ResumeCountdownButtonLabel",
-    "Text": "PARAR CUENTA ATRAS"
+    "Text": "PARAR CUENTA ATRÁS"
+  },
+  {
+    "Identifier": "ViewSelector_NavigationReticle",
+    "Text": "RETÍCULO DE NAVEGACIÓN"
+  },
+  {
+    "Identifier": "CommReq_CrewMembers",
+    "Text": "HERRAMIENTAS DE MISIÓN"
+  },
+  {
+    "Identifier": "Radio_TempCheckIssues",
+    "Text": "{0}, Parece que hay algunas temperaturas fuera de rango.{1}"
+  },
+  {
+    "Identifier": "MissionObjective_HoldCountdown",
+    "Text": "Presiona la burbuja de función de PARAR CUENTA ATRÁS."
+  },
+  {
+    "Identifier": "MissionObjective_ResumeCountdown",
+    "Text": "Presiona la burbuja de función de REANUDAR CUENTA ATRÁS."
+  },
+  {
+    "Identifier": "RadioMessage_StartingAbortCapability",
+    "Text": "Se ha iniciado la comprobación de capacidad de aborto. La luz de aborto debería encenderse y los amperios deberían aumentar."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityNotStarted",
+    "Text": "No se puede iniciar la comprobación de capacidad de aborto. Asegúrate de que los squibs estén armados."
+  },
+  {
+    "Identifier": "RadioMessage_AbortCapabilityComplete",
+    "Text": "Comprobación de Capacidad de Aborto completa"
+  },
+  {
+    "Identifier": "RadioMessage_SwitchToInternalPower",
+    "Text": "Se ha desconectado el vehículo de lanzamiento de la alimentación por umbilical; ahora estás en alimentación interna."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_EvapH2OLow",
+    "Text": "El nivel de agua del evaporador es bajo."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitLow",
+    "Text": "La temperatura del traje es baja."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_SuitHigh",
+    "Text": "La temperatura del traje es alta."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinLow",
+    "Text": "La temperatura de la cabina es baja."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinHigh",
+    "Text": "La temperatura de la cabina es alta."
+  },
+  {
+    "Identifier": "Radio_TempCheckIssue_CabinFanOff",
+    "Text": "El ventilador de la cabina está apagado. Enciéndelo para forzar el flujo de aire hacia el intercambiador de calor."
+  },
+  {
+    "Identifier": "MissionTools_Title",
+    "Text": "¿Cómo puedo ayudarte?"
+  },
+  {
+    "Identifier": "MissionTools_Eq",
+    "Text": "EQUIPO"
+  },
+  {
+    "Identifier": "MissionTools_OpenEqMenu",
+    "Text": "ALTERNAR EQUIPO"
+  },
+  {
+    "Identifier": "MissionTools_FormsSheets",
+    "Text": "FORMULARIOS/HOJAS"
+  },
+  {
+    "Identifier": "MissionTools_OpenDataForms",
+    "Text": "HOJAS DE DATOS"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Title",
+    "Text": "Hojas de Datos"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Desc",
+    "Text": "FORMULARIOS\nEstas opciones abrirán una interfaz que contiene el formulario seleccionado. Una herramienta de lápiz te permitirá rellenarlo para registrar los datos."
+  },
+  {
+    "Identifier": "MissionTools_DataForms_RetroSeqMA6",
+    "Text": "MA-6: TIEMPOS DE SECUENCIA RETRO"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_30MinReport",
+    "Text": "MA-6: Reporte de 30 minutos"
+  },
+  {
+    "Identifier": "MissionTools_DataForms_Sheets",
+    "Text": "HOJAS\r\r\nSe pueden usar distintas hojas para tomar notas, dibujar y recopilar datos."
+  },
+  {
+    "Identifier": "MissionTools_DataForms_BlankPaper",
+    "Text": "HOJA EN BLANCO"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_Title",
+    "Text": "Equipo de la cabina"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_MA6",
+    "Text": "Equipo de Mercury-Atlas 6\r\r\nLos equipos de MA-6 son diversos elementos necesarios durante la misión MA-6. Estos incluyen las pruebas de visión y el formulario de tiempos de la secuencia retro. Se pueden activar individualmente."
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_MA6_RetroSeq",
+    "Text": "MA-6: TIEMPOS DE SECUENCIA RETRO"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_VisionTests",
+    "Text": "MA-6: PRUEBAS DE VISTA"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_FlightPlanMA6",
+    "Text": "MA-6: PLAN DE VUELO"
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_NavRet",
+    "Text": "RETÍCULA DE NAVEGACIÓN\nLa retícula de navegación puede usarse para alinear la nave con el horizonte."
+  },
+  {
+    "Identifier": "MissionTools_CockpitEq_ToggleNavRet",
+    "Text": "RETÍCULA DE NAVEGACIÓN"
+  },
+  {
+    "Identifier": "Debrief_KPI_ManFuel",
+    "Text": "COMBUSTIBLE MANUAL"
+  },
+  {
+    "Identifier": "Debrief_KPI_AutoFuel",
+    "Text": "COMBUSTIBLE AUTO"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2T1",
+    "Text": "O2 T1"
+  },
+  {
+    "Identifier": "Debrief_KPI_O2T2",
+    "Text": "O2 T2"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_AutoFuel",
+    "Text": "Combustible Auto"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption_ManualFuel",
+    "Text": "Combustible Manual"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_StaginAtlasBooster",
+    "Text": "Separación de etapas: Propulsor Atlas "
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_AtlasLV",
+    "Text": "Separación de etapas: Vehículo de lanzamiento Atlas"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_Retros",
+    "Text": "Separación de etapas: Motores Retro"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MECO",
+    "Text": "MECO"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_TowerJett",
+    "Text": "Separación del LES"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo1",
+    "Text": "Retro No. 1"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo2",
+    "Text": "Retro No. 2"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_RetroNo3",
+    "Text": "Retro No. 3"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_MainChutes",
+    "Text": "Paracaídas Principales"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_ReserveChutes",
+    "Text": "Paracaídas de Reserva"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_DrogueChutes",
+    "Text": "Paracaídas Piloto"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Staging_RedstoneLV",
+    "Text": "Separación de etapa: Vehículo de lanzamiento Redstone"
   }
 ]
